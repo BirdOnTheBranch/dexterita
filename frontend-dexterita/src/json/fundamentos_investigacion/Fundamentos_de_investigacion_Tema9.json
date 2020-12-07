@@ -1,0 +1,401 @@
+[
+    {
+        "text": "Las preguntas de a quién, cuándo y dónde observar hacen referencia a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El procedimiento de muestreo",
+                "correct": true
+            },
+            {
+                "text": "El planteamiento del problema"
+            },
+            {
+                "text": "La operativización de las variables"
+            }
+        ]
+    },
+    {
+        "text": "Según “los objetivos” los estudios observacionales se clasifican en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Transversales-longitudinales"
+            },
+            {
+                "text": "Macroanálisis-microanálisis"
+            },
+            {
+                "text": "Exploratorios-confirmatorios",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando en una investigación observacional se tienen en cuenta varios niveles del análisis:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los sistemas de categorías deben cumplir la condición de mutua exclusividad considerando todos los niveles de análisis"
+            },
+            {
+                "text": "No es necesario que las categorías sean exhaustivas ni mutuamente excluyentes dentro de cada nivel de análisis"
+            },
+            {
+                "text": "Se pueden formar subsistemas, en los que la condición de mutua exclusividad sólo se cumpla para el mismo nivel de análisis",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes formas de observación, la objetividad del observador es mayor?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Externa o no participante",
+                "correct": true
+            },
+            {
+                "text": "En la autoobservación"
+            },
+            {
+                "text": "Por allegados o participante como observador"
+            }
+        ]
+    },
+    {
+        "text": "El análisis de los datos de la observación, en función de las medidas conductuales utilizadas puede ser:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Exploratorio vs confirmatorio"
+            },
+            {
+                "text": "Sincrónico vs diacrónico"
+            },
+            {
+                "text": "Macro-análisis vs micro-análisis",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El índice de acuerdo Kappa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es muy sencillo de interpretar, ya que sus valores van de 0 a 10"
+            },
+            {
+                "text": "Corrige la probabilidad de acuerdo entre los observadores debido al azar",
+                "correct": true
+            },
+            {
+                "text": "Indica el grado de validez de los datos recogidos por varios investigadores"
+            }
+        ]
+    },
+    {
+        "text": "En el registro activado por transiciones (RAT), el observador deberá anotar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La ocurrencia de las conductas relevantes en periodos de tiempo determinados (intervalos)"
+            },
+            {
+                "text": "Solo la duración de las conductas"
+            },
+            {
+                "text": "Todas las ocurrencias de las conductas relevantes y el orden en el que ocurren",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La frecuencia se utiliza como medida en metodología observacional para informar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la duración de la conducta"
+            },
+            {
+                "text": "Del tiempo transcurrido entre la aparición de un estímulo y la respuesta por él provocada"
+            },
+            {
+                "text": "Del número de veces que ocurre un suceso",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El método observacional se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por la no intervención del experimentador en el fenómeno de estudio",
+                "correct": true
+            },
+            {
+                "text": "Ser una investigación sin controles"
+            },
+            {
+                "text": "La restricción de las respuestas de los sujetos a través de las tareas"
+            }
+        ]
+    },
+    {
+        "text": "La realización de un muestreo intersesional, se refiere a la toma de decisiones sobre:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección de la muestra de sujetos"
+            },
+            {
+                "text": "A quién observar en cada sesión"
+            },
+            {
+                "text": "Cuándo observar, el inicio y final de las sesiones",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Al registro de conductas por muestreo de intervalos de tiempo, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "RAUT",
+                "correct": true
+            },
+            {
+                "text": "Registro ad libitum"
+            },
+            {
+                "text": "Registro activado por transiciones de conducta"
+            }
+        ]
+    },
+    {
+        "text": "El muestreo intrasesional en la metodología observacional:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Establece cómo se debe registrar el comportamiento de los individuos"
+            },
+            {
+                "text": "Especifica cuándo hay que observar a los sujetos"
+            },
+            {
+                "text": "Determina a qué sujetos observar en cada sesión",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El registro observacional consiste en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Decidir en qué momentos observar"
+            },
+            {
+                "text": "Anotar las conductas para tener constancia de su ocurrencia, sus propiedades y su orden de aparición",
+                "correct": true
+            },
+            {
+                "text": "Determinar a qué sujetos hay que observar dentro de cada sesión"
+            }
+        ]
+    },
+    {
+        "text": "Las fuentes de error en la observación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No existen, pues el método obtiene datos no reactivos"
+            },
+            {
+                "text": "Pueden deberse a la reactividad del sujeto de estudio",
+                "correct": true
+            },
+            {
+                "text": "Son imprevisibles e incontrolables"
+            }
+        ]
+    },
+    {
+        "text": "El grado de acuerdo entre observadores se utiliza en la metodología observacional para el estudio de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La fiabilidad",
+                "correct": true
+            },
+            {
+                "text": "La validez"
+            },
+            {
+                "text": "La amplitud semi-intercuartil"
+            }
+        ]
+    },
+    {
+        "text": "En un estudio observacional, el sistema de categorías:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está determinado por los análisis de datos que se utilice"
+            },
+            {
+                "text": "Debe responder a las exigencias de exhaustividad y mutua exclusividad",
+                "correct": true
+            },
+            {
+                "text": "Depende del grado de participación del observador"
+            }
+        ]
+    },
+    {
+        "text": "La observación naturalista implica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El muestreo ad-libitum"
+            },
+            {
+                "text": "No ejercer ningún tipo de modificación de la situación por parte del investigador",
+                "correct": true
+            },
+            {
+                "text": "La intervención del investigador en los estudios sobre habilidades sociales"
+            }
+        ]
+    },
+    {
+        "text": "El muestreo ad libitum en un estudio observacional:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede ser útil como una primera forma de contacto con las situaciones de trabajo",
+                "correct": true
+            },
+            {
+                "text": "Se utiliza para la obtención sistemática de datos"
+            },
+            {
+                "text": "Determina a priori los criterios de inicio y final de las conductas a observar"
+            }
+        ]
+    },
+    {
+        "text": "La capacidad del investigador para identificar y definir las conductas relevantes a registrar para responder al problema de estudio será determinante de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El grado de molecularidad-molaridad de las categorías"
+            },
+            {
+                "text": "La validez del sistema de categorías",
+                "correct": true
+            },
+            {
+                "text": "La fiabilidad interobservadores"
+            }
+        ]
+    }
+]

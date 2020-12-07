@@ -1,0 +1,2312 @@
+[
+    {
+        "text": "Según Bandura, las predicciones o estimaciones que realiza un sujeto sobre la seguridad que tiene de poder realizar una conducta o acción concreta son expectativas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "De eficacia.",
+                "correct": true
+            },
+            {
+                "text": "De resultado."
+            },
+            {
+                "text": "Generalizadas."
+            }
+        ]
+    },
+    {
+        "text": "Lewin entendía la motivación desde un punto de vista:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 25)",
+        "responses": [
+            {
+                "text": "Molecular, desintegrando cada elemento de la conducta del sujeto."
+            },
+            {
+                "text": "Molar, destacando la naturaleza activa de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Social, considerando los aspectos de relación comunicativa del sujeto."
+            }
+        ]
+    },
+    {
+        "text": "Las estrategias o recursos cognitivos que se utilizan para conseguir un determinado fin son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 11)",
+        "responses": [
+            {
+                "text": "Expectativas."
+            },
+            {
+                "text": "Planes.",
+                "correct": true
+            },
+            {
+                "text": "Metas."
+            }
+        ]
+    },
+    {
+        "text": "Entre los factores disposicionales (persona) que señala Heider, se encuentran:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 50)",
+        "responses": [
+            {
+                "text": "La capacidad y la motivación.",
+                "correct": true
+            },
+            {
+                "text": "La dificultad de la tarea y la suerte."
+            },
+            {
+                "text": "La capacidad y la dificultad de la tarea."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la motivación humana, ¿qué es lo que lleva a actuar de una forma determinada y diferente a una persona de otra en situaciones semejantes?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 4)",
+        "responses": [
+            {
+                "text": "El aspecto intrínseco del reforzador."
+            },
+            {
+                "text": "La contingencia premio-conducta motivada."
+            },
+            {
+                "text": "El componente subjetivo de la motivación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina la tensión interna que se genera cuando un sujeto intenta mantener al mismo tiempo dos pensamientos que están en conflicto?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 56)",
+        "responses": [
+            {
+                "text": "Espacio vital."
+            },
+            {
+                "text": "Sucesos mentales."
+            },
+            {
+                "text": "Disonancia cognitiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Bandura, las predicciones o estimaciones que realiza un sujeto sobre el resultado concreto que espera obtener al realizar una conducta o acción concreta, se denominan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Generalizaciones."
+            },
+            {
+                "text": "Expectativas de resultado.",
+                "correct": true
+            },
+            {
+                "text": "Expectativas de eficacia."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué estado psicológico nos referimos cuando alguien anticipa que los acontecimientos de su vida son incontrolables?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 46)",
+        "responses": [
+            {
+                "text": "A la depresión."
+            },
+            {
+                "text": "A la indefensión aprendida.",
+                "correct": true
+            },
+            {
+                "text": "Al locus de control."
+            }
+        ]
+    },
+    {
+        "text": "Las recompensas esperadas y tangibles:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 139)",
+        "responses": [
+            {
+                "text": "No afectan a la motivación intrínseca."
+            },
+            {
+                "text": "Favorecen el aprendizaje."
+            },
+            {
+                "text": "Interfieren en el proceso de aprendizaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La motivación regulada por el ambiente es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 59)",
+        "responses": [
+            {
+                "text": "Fruto del aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "Exclusiva del ser humano."
+            },
+            {
+                "text": "Consecuencia de las características del sujeto."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué relación mantiene la motivación intrínseca con el aprendizaje?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 75-93)",
+        "responses": [
+            {
+                "text": "Negativa."
+            },
+            {
+                "text": "Nula."
+            },
+            {
+                "text": "Positiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué el aspecto controlador del incentivo externo reduce la MI?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 108)",
+        "responses": [
+            {
+                "text": "Porque provoca la relación instrumental entre la ejecución y las consecuencias.",
+                "correct": true
+            },
+            {
+                "text": "Porque la retroalimentación que dispensa es de autocompetencia."
+            },
+            {
+                "text": "Porque implica los aspectos sociales."
+            }
+        ]
+    },
+    {
+        "text": "¿Con qué correlaciona positivamente la motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 75-93)",
+        "responses": [
+            {
+                "text": "Con cubrir las necesidades básicas."
+            },
+            {
+                "text": "Con la cantidad de incentivo recibido."
+            },
+            {
+                "text": "Con la percepción de competencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro del modelo de conducta propositiva de Tolman, los seres humanos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 39)",
+        "responses": [
+            {
+                "text": "Aprenden conexiones de estímulos y respuestas."
+            },
+            {
+                "text": "Construyen imágenes espaciales que van perfeccionándose con la experiencia.",
+                "correct": true
+            },
+            {
+                "text": "Aprenden exclusivamente mediante condicionamientos."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué postula el estudio de la MI?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 64)",
+        "responses": [
+            {
+                "text": "Que los seres humanos son sustancialmente activos por su propia curiosidad y competencia.",
+                "correct": true
+            },
+            {
+                "text": "Que los factores cognitivos del individuo se encuentran determinados por los agentes externos a él."
+            },
+            {
+                "text": "Que las contingencias ambientales terminan por provocar la motivación del sujeto."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo consideran la conducta motivada las distintas teorías sobre la motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 82)",
+        "responses": [
+            {
+                "text": "Como propositiva y espontánea.",
+                "correct": true
+            },
+            {
+                "text": "Dependiente de la interacción con los otros."
+            },
+            {
+                "text": "Como guiada por las contingencias externas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué representa para Lewin el espacio vital?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 29)",
+        "responses": [
+            {
+                "text": "La totalidad de situaciones, tanto internas como externas, que determinan la conducta en un momento.",
+                "correct": true
+            },
+            {
+                "text": "Los procesos mentales que determinan la conducta y que llevan a la persona a alcanzar la meta."
+            },
+            {
+                "text": "El conjunto de situaciones específicas de carácter propositivo que motivan al sujeto a la acción."
+            }
+        ]
+    },
+    {
+        "text": "Tolman y Lewin sentaron las bases de las modernas teorías cognitivas de la motivación dirigiendo su atención hacia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 9)",
+        "responses": [
+            {
+                "text": "La secuencia cognición-acción.",
+                "correct": true
+            },
+            {
+                "text": "Los éxitos y fracasos."
+            },
+            {
+                "text": "Las expectativas de resultado."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué defienden las teorías de la consistencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 53)",
+        "responses": [
+            {
+                "text": "La existencia de una tendencia natural a la armonía o la congruencia.",
+                "correct": true
+            },
+            {
+                "text": "Que los modelos básicos de comportamiento se aprenden en las situaciones de interacción del sujeto con su ambiente."
+            },
+            {
+                "text": "La existencia de expectativas y atribuciones para justificar el comportamiento."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se quiere indicar con el concepto de paradoja del incentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 81)",
+        "responses": [
+            {
+                "text": "Que los incentivos externos pueden llegar a reducir la propia motivación extrínseca."
+            },
+            {
+                "text": "Que los incentivos pueden actuar aunque ya no se dispensen."
+            },
+            {
+                "text": "Que los incentivos externos incorporados a actividades intrínsecamente motivadas, llegan a disminuir dicha motivación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde una perspectiva cognitiva, ¿de dónde partieron los primeros trabajos sobre la motivación extrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 58)",
+        "responses": [
+            {
+                "text": "De la teoría del incentivo.",
+                "correct": true
+            },
+            {
+                "text": "De los trabajos en aprendizaje humano."
+            },
+            {
+                "text": "De los trabajos sobre el papel del refuerzo en la conducta."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué idea parte la psicología cognitiva para abordar el estudio de la conducta humana? De considerar que el ser humano:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 7)",
+        "responses": [
+            {
+                "text": "Tiene una tendencia natural a la armonía."
+            },
+            {
+                "text": "Tiene la capacidad de discriminar entre lo racional y lo abstracto."
+            },
+            {
+                "text": "Es un agente activo capaz de seleccionar la información.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría defiende que la motivación depende de recompensas externas y sobre todo de recompensas internas y autogeneradas? La teoría de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 89)",
+        "responses": [
+            {
+                "text": "La sobrejustificación."
+            },
+            {
+                "text": "La evaluación cognitiva."
+            },
+            {
+                "text": "La autoeficacia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autoeficacia, lo que subyace a las expectativas de resultado implica juicios sobre:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Cuanto éxito social va a tener realizando una conducta concreta."
+            },
+            {
+                "text": "Lo bien que puede realizar una conducta concreta."
+            },
+            {
+                "text": "Si una conducta concreta tendrá un resultado concreto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste la expectativa de resultados según la teoría de la autoeficacia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 89)",
+        "responses": [
+            {
+                "text": "En una valoración de la capacidad propia para un tipo de actuación concreta."
+            },
+            {
+                "text": "En la apreciación acerca de la probabilidad de que se den las consecuencias de una actuación concreta.",
+                "correct": true
+            },
+            {
+                "text": "En crearse expectativas sobre las posibles respuestas."
+            }
+        ]
+    },
+    {
+        "text": "Desde una perspectiva más amplia, la entrevista motivacional se ha aplicado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 163)",
+        "responses": [
+            {
+                "text": "Solo a la adicción al alcohol."
+            },
+            {
+                "text": "Como una forma de intervención de los profesionales de la salud.",
+                "correct": true
+            },
+            {
+                "text": "Al campo de la depresión y determinadas psicosis con sujetos jóvenes y en edad infantil."
+            }
+        ]
+    },
+    {
+        "text": "Aquello que permite la posibilidad de cambiar o añadir nuevos elementos, que pueden ser revisados o modificados en cualquier momento, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Planes.",
+                "correct": true
+            },
+            {
+                "text": "Expectativas."
+            },
+            {
+                "text": "Metas."
+            }
+        ]
+    },
+    {
+        "text": "Conforme a la teoría de la evaluación cognitiva, cuando se realiza una conducta, ¿qué aspecto del incentivo externo suministra retroalimentación de su competencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 108)",
+        "responses": [
+            {
+                "text": "El controlador."
+            },
+            {
+                "text": "El informativo.",
+                "correct": true
+            },
+            {
+                "text": "El instrumental."
+            }
+        ]
+    },
+    {
+        "text": "¿Desde qué tipo de entrevista es propio resumir los puntos de vista del afectado?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 155)",
+        "responses": [
+            {
+                "text": "Psicoanalítica."
+            },
+            {
+                "text": "Motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Clínica tradicional."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre en una 'situación de flujo'?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 128)",
+        "responses": [
+            {
+                "text": "Que no hay coherencia entre la tarea y las habilidades del sujeto."
+            },
+            {
+                "text": "Que hay que recurrir a estimulación exterior para la realización de la tarea."
+            },
+            {
+                "text": "Que se realiza la acción sin esfuerzo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los aspectos más destacables del modelo de conducta propositiva de Tolman, ha sido su concepción de que la psicología:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 40)",
+        "responses": [
+            {
+                "text": "Es una ciencia subjetiva en la que el método introspectivo es el más efectivo."
+            },
+            {
+                "text": "Implica estudiar la conducta reduciéndola a sus componentes más elementales."
+            },
+            {
+                "text": "Es una ciencia objetiva de la conducta que debe centrarse en el estudio de las conductas molares.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo emerge el flujo en una situación de reto óptimo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 127)",
+        "responses": [
+            {
+                "text": "Al presentarse tareas con un grado de dificultad mayor que las habilidades que posee el sujeto para llevarlas a cabo."
+            },
+            {
+                "text": "Cuando uno mismo percibe congruencia entre los retos presentados y las propias competencias.",
+                "correct": true
+            },
+            {
+                "text": "Al percibir el individuo que la tarea es fácil, porque se incrementa su motivación intrínseca hacia la tarea."
+            }
+        ]
+    },
+    {
+        "text": "Además de las características personales ¿qué otros elementos afectan a la motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 125)",
+        "responses": [
+            {
+                "text": "El grado de dificultad de la tarea y el empleo de incentivos.",
+                "correct": true
+            },
+            {
+                "text": "El nivel de curiosidad y el empleo de reforzadores."
+            },
+            {
+                "text": "Las recompensas externas y las expectativas de resultados."
+            }
+        ]
+    },
+    {
+        "text": "Las metas que construye nuestro sistema cognitivo son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 17)",
+        "responses": [
+            {
+                "text": "Los fines u objetivos que persigue el sujeto.",
+                "correct": true
+            },
+            {
+                "text": "Los recursos cognitivos empleados para iniciar el proceso de solución de problemas."
+            },
+            {
+                "text": "Las estrategias cognitivas que se usan para conseguir un fin."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se entiende por una situación de reto óptimo? Aquella en la que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 125)",
+        "responses": [
+            {
+                "text": "El nivel de dificultad de la tarea obliga a la persona a esforzarse para alcanzar sus objetivos."
+            },
+            {
+                "text": "El nivel de dificultad de una tarea es semejante a las habilidades para llevarla a cabo.",
+                "correct": true
+            },
+            {
+                "text": "Se puede adquirir cualquier tipo de aprendizaje."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué relación se da entre motivación intrínseca y ansiedad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76-94)",
+        "responses": [
+            {
+                "text": "Se produce una relación directa entre MI y ansiedad."
+            },
+            {
+                "text": "Al presentarse mayor MI se producen altibajos en el nivel de ansiedad."
+            },
+            {
+                "text": "Que cuando se actúa con una MI elevada los sujetos tienen menos ansiedad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A través de qué se trabaja en la entrevista motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 150)",
+        "responses": [
+            {
+                "text": "De la autodeterminación y la autoeficacia de los sujetos.",
+                "correct": true
+            },
+            {
+                "text": "De buscar motivar al sujeto conforme su grupo de referencia."
+            },
+            {
+                "text": "De la posibilidad de motivar al paciente en lo que debe hacer."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué aspecto del incentivo externo se hace referencia cuando se dice que suministra cierta retroalimentación de su competencia al individuo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 108)",
+        "responses": [
+            {
+                "text": "A su aspecto informativo.",
+                "correct": true
+            },
+            {
+                "text": "A su aspecto controlador."
+            },
+            {
+                "text": "A su aspecto supervisor."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denominan las representaciones mentales que tenemos todas las personas en relación a todos los ámbitos de la vida?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 12)",
+        "responses": [
+            {
+                "text": "Estados ideales.",
+                "correct": true
+            },
+            {
+                "text": "Establecimiento de metas."
+            },
+            {
+                "text": "Necesidades encubiertas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo considera a los procesos mentales superiores como los determinantes de la acción?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "La teoría conductista."
+            },
+            {
+                "text": "La corriente cognitivista.",
+                "correct": true
+            },
+            {
+                "text": "El enfoque mecanicista."
+            }
+        ]
+    },
+    {
+        "text": "La causación personal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 79)",
+        "responses": [
+            {
+                "text": "Es un motivo en sí."
+            },
+            {
+                "text": "Determina la motivación primaria."
+            },
+            {
+                "text": "Es un principio guía sobre el que se construye el resto de los motivos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre cuando la conducta se mantiene solo por una recompensa exterior?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 145)",
+        "responses": [
+            {
+                "text": "Que aunque cese el premio, la conducta como ya está adquirida seguirá repitiéndose."
+            },
+            {
+                "text": "Que se incrementa su frecuencia continuamente."
+            },
+            {
+                "text": "Que al cesar el premio cesa la tarea.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué provoca el aspecto controlador del incentivo sobre la conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 108)",
+        "responses": [
+            {
+                "text": "Una relación instrumental entre la ejecución y las consecuencias y, con ello, un descenso de la motivación intrínseca.",
+                "correct": true
+            },
+            {
+                "text": "Una relación instrumental entre la ejecución y las consecuencias y, con ello, un incremento de la motivación intrínseca."
+            },
+            {
+                "text": "Cierta retroalimentación de las competencias del individuo."
+            }
+        ]
+    },
+    {
+        "text": "La estimación que realiza el sujeto sobre el resultado concreto que se obtendrá al realizar una conducta es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "La expectativa de resultado.",
+                "correct": true
+            },
+            {
+                "text": "El valor de refuerzo."
+            },
+            {
+                "text": "La expectativa de eficacia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina el proceso mediante el cual una persona busca descubrir cómo se ha producido un determinado hecho o conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 48)",
+        "responses": [
+            {
+                "text": "Disponibilidad."
+            },
+            {
+                "text": "Controlabilidad."
+            },
+            {
+                "text": "Atribución.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La recompensa afecta a la MI:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 136,137)",
+        "responses": [
+            {
+                "text": "Si no es esperada ni material."
+            },
+            {
+                "text": "Si es esperada y tangible.",
+                "correct": true
+            },
+            {
+                "text": "Uando se dispensa en un plazo muy amplio."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la causa de algo es percibida como temporal y susceptible de variar con el tiempo, hablamos de atribución:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 52)",
+        "responses": [
+            {
+                "text": "Externa."
+            },
+            {
+                "text": "Interna."
+            },
+            {
+                "text": "Inestable.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina aquella motivación que se encuentra determinada por los estímulos externos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 58)",
+        "responses": [
+            {
+                "text": "Extrínseca.",
+                "correct": true
+            },
+            {
+                "text": "Exógena."
+            },
+            {
+                "text": "Externa."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué se refiere el efecto de saliencia de la recompensa? A que cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 140)",
+        "responses": [
+            {
+                "text": "El incentivo sobrepasa sus valores iniciales, se incrementa el proceso de aprendizaje."
+            },
+            {
+                "text": "Más sobresale el incentivo, se incrementa el aprendizaje de la tarea."
+            },
+            {
+                "text": "El incentivo se recuerda con frecuencia durante la ejecución de la tarea, desciende el interés intrínseco por ella.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Lewin, predecir la conducta del sujeto es sólo factible:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 29)",
+        "responses": [
+            {
+                "text": "Mediante un análisis introspectivo."
+            },
+            {
+                "text": "Considerando las circunstancias pasadas."
+            },
+            {
+                "text": "Considerando las circunstancias presentes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué podemos conseguir si trabajamos con las personas a través de su MI?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 163)",
+        "responses": [
+            {
+                "text": "Lograr cambios más duraderos y con mayor compromiso.",
+                "correct": true
+            },
+            {
+                "text": "Alcanzar inicialmente cambios más importantes pero breves en el tiempo."
+            },
+            {
+                "text": "Establecer conductas sujetas y adaptadas al efecto del entorno constante."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se define como la estimación subjetiva que hace el sujeto sobre la probabilidad de lograr una meta mediante una conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 41)",
+        "responses": [
+            {
+                "text": "El feedback."
+            },
+            {
+                "text": "La valencia."
+            },
+            {
+                "text": "La expectativa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se entiende con el término causación personal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 79)",
+        "responses": [
+            {
+                "text": "Que se establecen causas comunes a las distintas personas para explicar el comportamiento."
+            },
+            {
+                "text": "Que las distintas personas introducen distintas causas para explicar el entorno."
+            },
+            {
+                "text": "Que las conductas se inician con la intención de introducir cambios en el ambiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Heider, las personas tienden a creer que un hecho queda explicado satisfactoriamente cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 50)",
+        "responses": [
+            {
+                "text": "Se conocen las consecuencias que éste tiene."
+            },
+            {
+                "text": "Es analizado desde una perspectiva conductual."
+            },
+            {
+                "text": "Se conoce la causa que lo produce.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la entrevista motivacional:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 155)",
+        "responses": [
+            {
+                "text": "Se dan consejos expertos."
+            },
+            {
+                "text": "Se ayuda a la reflexión.",
+                "correct": true
+            },
+            {
+                "text": "Se intenta persuadir a través del razonamiento."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la sobrejustificación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 83)",
+        "responses": [
+            {
+                "text": "La percepción que se tengan sobre las causas que provocan la conducta determina la motivación.",
+                "correct": true
+            },
+            {
+                "text": "Las personas reflexionan sobre sus acciones y se comprometen con ellas."
+            },
+            {
+                "text": "La percepción del dominio de la tarea determinará las expectativas de éxito."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué recurren las distintas teorías sobre la motivación intrínseca para dar cuenta de este tipo de comportamiento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 82)",
+        "responses": [
+            {
+                "text": "A la consideración de la conducta como programada desde el exterior."
+            },
+            {
+                "text": "Al efecto que ejerce el incentivo sobre la conducta."
+            },
+            {
+                "text": "A una u otra necesidad psicológica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué autor describió un modelo de la motivación denominado también como teoría del campo de fuerza?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 26)",
+        "responses": [
+            {
+                "text": "Lewin.",
+                "correct": true
+            },
+            {
+                "text": "Weiner."
+            },
+            {
+                "text": "Tolman."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué individuos seleccionan trabajos de dificultad moderada y con cierto nivel de creatividad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 143)",
+        "responses": [
+            {
+                "text": "Los considerados amotivados."
+            },
+            {
+                "text": "Los extrínsecamente motivados."
+            },
+            {
+                "text": "Los intrínsecamente motivados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué defiende la teoría del incentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 58)",
+        "responses": [
+            {
+                "text": "Que la respuesta del sujeto se encuentra definitivamente determinada por las necesidades que crea el reforzador."
+            },
+            {
+                "text": "Que la dirección hacia una meta es fruto de la interacción entre estados emocionales y expectativas cognitivas.",
+                "correct": true
+            },
+            {
+                "text": "Que la búsqueda de la meta depende de las consecuencias que determina."
+            }
+        ]
+    },
+    {
+        "text": "El continuo que se refiere a la fijeza o variabilidad con que se perciben las causas de los acontecimientos es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 52)",
+        "responses": [
+            {
+                "text": "La estabilidad-inestabilidad.",
+                "correct": true
+            },
+            {
+                "text": "La controlabilidad-incontrolabilidad."
+            },
+            {
+                "text": "El locus de control interno-externo."
+            }
+        ]
+    },
+    {
+        "text": "Cuando Pinillos hablaba de “una incómoda alteración de la armonía mental del sujeto, que le impulsa concretamente a una actividad orientada a reducir o eliminar su causa”, se refería a la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 54)",
+        "responses": [
+            {
+                "text": "Disonancia cognitiva.",
+                "correct": true
+            },
+            {
+                "text": "Acción razonada."
+            },
+            {
+                "text": "Tensión dinámica."
+            }
+        ]
+    },
+    {
+        "text": "Según Bandura, ¿qué expectativas son las predicciones que realiza un sujeto sobre la seguridad que tiene de poder realizar una conducta o acción concreta? Las:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "De autoeficacia.",
+                "correct": true
+            },
+            {
+                "text": "De ejecución."
+            },
+            {
+                "text": "Generalizadas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre cuando un incentivo tiene un efecto controlador?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 109)",
+        "responses": [
+            {
+                "text": "Que daña la autodeterminación y perjudica la motivación intrínseca hacia la tarea.",
+                "correct": true
+            },
+            {
+                "text": "Que el individuo se percibe como competente por lo que se incrementa su motivación intrínseca hacia otras tareas."
+            },
+            {
+                "text": "Que promueve la autodeterminación e incrementa la motivación intrínseca por la tarea."
+            }
+        ]
+    },
+    {
+        "text": "¿Con qué trabaja la entrevista motivacional en el ámbito de la psicología clínica? Con la motivación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 153)",
+        "responses": [
+            {
+                "text": "Intrínseca.",
+                "correct": true
+            },
+            {
+                "text": "De incentivo."
+            },
+            {
+                "text": "Extrínseca."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo consideran al hombre la mayoría de las interpretaciones sobre los estudios de la motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 72)",
+        "responses": [
+            {
+                "text": "Como agente causal de su propia actividad conductual.",
+                "correct": true
+            },
+            {
+                "text": "Como un ser vulnerable a la estimulación exterior."
+            },
+            {
+                "text": "Como agente pasivo ante su propia actividad conductual."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué factores cognitivos se basa la autoeficacia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "En el autocontrol y la información sobre las estrategias adecuadas."
+            },
+            {
+                "text": "En la satisfacción innata de sentirse competente y autónomo."
+            },
+            {
+                "text": "En la historia de los reforzadores, las evaluaciones previas y la información sobre las estrategias adecuadas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina a la utilidad o importancia asociada a un objeto ambiental?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 28)",
+        "responses": [
+            {
+                "text": "Valor o valencia.",
+                "correct": true
+            },
+            {
+                "text": "Intensidad motivacional."
+            },
+            {
+                "text": "Expectativa."
+            }
+        ]
+    },
+    {
+        "text": "Situándonos en la motivación intrínseca, ¿qué efecto tiene la recompensa sobre una tarea creativa?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 133)",
+        "responses": [
+            {
+                "text": "Potenciador."
+            },
+            {
+                "text": "Destructivo.",
+                "correct": true
+            },
+            {
+                "text": "Favorecedor."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo defiende que los sujetos construyen representaciones en forma de mapas cognitivos de su entorno? El modelo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 39)",
+        "responses": [
+            {
+                "text": "Del campo de fuerza."
+            },
+            {
+                "text": "De aprendizaje cognoscitivo."
+            },
+            {
+                "text": "De conducta propositiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En cuanto al carácter material de las recompensas, si son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 138)",
+        "responses": [
+            {
+                "text": "No tangibles, facilitan la ME."
+            },
+            {
+                "text": "Tangibles, elevan la MI."
+            },
+            {
+                "text": "Verbales informativas favorecen la MI.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Con qué se corresponde el componente subjetivo de la motivación humana?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 3)",
+        "responses": [
+            {
+                "text": "Con sus necesidades básicas."
+            },
+            {
+                "text": "Con la apetencia por alguna meta o reforzador.",
+                "correct": true
+            },
+            {
+                "text": "Con su necesidad de imitar modelos."
+            }
+        ]
+    },
+    {
+        "text": "En relación a la motivación intrínseca, ¿qué teoría defiende que los premios introducen autopercepciones de instrumentalizar provocando un descenso de la MI?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 85)",
+        "responses": [
+            {
+                "text": "Teoría de la autodeterminación."
+            },
+            {
+                "text": "Teoría de la evaluación cognitiva."
+            },
+            {
+                "text": "Teoría de la sobrejustificación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué relación mantienen el aspecto controlador y el informativo del incentivo con respecto a la MI?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 109)",
+        "responses": [
+            {
+                "text": "Una relación inversa.",
+                "correct": true
+            },
+            {
+                "text": "Una relación directa."
+            },
+            {
+                "text": "Ninguna, dado que es importante controlar esos factores en la ME, pero no en la MI."
+            }
+        ]
+    },
+    {
+        "text": "Los factores extrínsecos percibidos como informativos sobre la propia competencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 147)",
+        "responses": [
+            {
+                "text": "Facilitan la MI.",
+                "correct": true
+            },
+            {
+                "text": "Dan lugar al control de la conducta por parte de agentes externos."
+            },
+            {
+                "text": "Facilitan la ME."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué sucede cuando se recuerda con frecuencia el premio durante la ejecución de una tarea?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 140)",
+        "responses": [
+            {
+                "text": "Que el sujeto se despista de la tarea inicial y empieza a emitir respuestas afines."
+            },
+            {
+                "text": "Que desciende el interés intrínseco por la tarea.",
+                "correct": true
+            },
+            {
+                "text": "Que se incrementa per se el valor intrínseco de la tarea."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el primer paso que hay que dar en la MI de una persona que desea cambiar sus hábitos de conducta en la entrevista motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 158)",
+        "responses": [
+            {
+                "text": "Plantearle sus propias ambivalencias ante el problema.",
+                "correct": true
+            },
+            {
+                "text": "Trabajar las resistencias que presenta al cambio potenciando sus capacidades para lograrlo."
+            },
+            {
+                "text": "Lograr que el sujeto considere que es capaz de conseguirlo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre cuando se trabaja con un nivel elevado de motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76-94)",
+        "responses": [
+            {
+                "text": "Que aparecen conductas neuróticas."
+            },
+            {
+                "text": "Que se tiene menos ansiedad.",
+                "correct": true
+            },
+            {
+                "text": "Que hay que emplear mayor esfuerzo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo influye la actividad cognitiva en la motivación humana?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 2)",
+        "responses": [
+            {
+                "text": "Dirigiendo la conducta hacia determinadas metas.",
+                "correct": true
+            },
+            {
+                "text": "Provocando una interacción con las emociones."
+            },
+            {
+                "text": "Dirigiendo las respuestas para que se cubran las necesidades básicas."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la MI, ¿qué condición es necesaria para que se produzca una experiencia de flujo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 131)",
+        "responses": [
+            {
+                "text": "Que la retroalimentación por la ejecución se posponga gradualmente."
+            },
+            {
+                "text": "Que se produzca la unión efectiva entre la acción y el pensamiento.",
+                "correct": true
+            },
+            {
+                "text": "Que el sujeto sea recompensado alternativamente."
+            }
+        ]
+    },
+    {
+        "text": "Cuando el resultado de algo es atribuible a las condiciones ambientales ajenas al propio sujeto hablamos de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 52)",
+        "responses": [
+            {
+                "text": "Correspondencia."
+            },
+            {
+                "text": "Atribución externa.",
+                "correct": true
+            },
+            {
+                "text": "Consistencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué pretende la entrevista motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 147)",
+        "responses": [
+            {
+                "text": "Conseguir que el paciente se enfrente a sus motivaciones inconscientes."
+            },
+            {
+                "text": "Potenciar la motivación para que sea el propio paciente el que desee modificar sus patrones de conducta.",
+                "correct": true
+            },
+            {
+                "text": "Lograr motivar al paciente que presenta una adicción para que responda a los estímulos discriminativos que le facilitan la adaptación."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una persona atribuye sus éxitos y fracasos a factores ajenos él, hablamos de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 52)",
+        "responses": [
+            {
+                "text": "Locus de control externo.",
+                "correct": true
+            },
+            {
+                "text": "Inconsistencia cognitiva."
+            },
+            {
+                "text": "Expectativa de incontrolabilidad."
+            }
+        ]
+    },
+    {
+        "text": "¿A través de qué se trabaja fundamentalmente en la entrevista motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 150)",
+        "responses": [
+            {
+                "text": "De la autodeterminación y la autoeficacia del sujeto.",
+                "correct": true
+            },
+            {
+                "text": "De insistir al paciente en lo que debe hacer."
+            },
+            {
+                "text": "De la realización de las conductas deseadas por parte de un modelo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué son los mapas cognitivos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 39)",
+        "responses": [
+            {
+                "text": "La consecuencia de un objetivo intelectual que facilita la consecución de otro objetivo futuro más importante."
+            },
+            {
+                "text": "Ideas estructuradas y organizadas que un sujeto tiene sobre un campo de conocimiento sobre el que va a trabajar."
+            },
+            {
+                "text": "Representaciones mentales cuya utilidad fundamental es actuar de puente entre los estímulos que se nos presentan en el ambiente y las respuestas que emitimos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué autor considera que la única forma de explicar la conducta es verla como resultado de la interacción de todas las fuerzas que obran sobre el individuo en el mismo momento en el que ocurre la conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 29)",
+        "responses": [
+            {
+                "text": "Rotter."
+            },
+            {
+                "text": "Lewin.",
+                "correct": true
+            },
+            {
+                "text": "Atkinson."
+            }
+        ]
+    },
+    {
+        "text": "¿En que se basa la motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 67)",
+        "responses": [
+            {
+                "text": "En el aprendizaje."
+            },
+            {
+                "text": "En ciertas necesidades psicológicas.",
+                "correct": true
+            },
+            {
+                "text": "En los estímulos internos."
+            }
+        ]
+    },
+    {
+        "text": "?Qué describe el término “tensión” para Lewin?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "La activación psicofisiológica ante una tarea."
+            },
+            {
+                "text": "La motivación interna del sujeto.",
+                "correct": true
+            },
+            {
+                "text": "La motivación extrínseca del sujeto."
+            }
+        ]
+    },
+    {
+        "text": "La motivación intrínseca se manifiesta por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 65)",
+        "responses": [
+            {
+                "text": "Una búsqueda de incentivos externos que hace que se mantengan la conducta."
+            },
+            {
+                "text": "La presencia de ciertos estímulos ambientales que determinan la respuesta."
+            },
+            {
+                "text": "Una tendencia hacia el aprendizaje y a la creatividad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son, según Tolman, las características propias de la conducta molar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 40)",
+        "responses": [
+            {
+                "text": "Presenta un patrón concreto de respuestas y es aleatoria."
+            },
+            {
+                "text": "Es eficaz, selectiva y no propositiva."
+            },
+            {
+                "text": "Es intencional, presenta un patrón concreto de respuestas y es selectiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De qué depende el nivel de motivación que nos lleva a realizar un comportamiento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76-94)",
+        "responses": [
+            {
+                "text": "Del grado de dominio de la tarea."
+            },
+            {
+                "text": "De las condiciones ambientales e innatas."
+            },
+            {
+                "text": "Del momento y de la actividad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la motivación, la orientación que ha intentado explicar la conducta basándose en los procesos mentales internos no observables, ha sido la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Conductual."
+            },
+            {
+                "text": "Fenomenológica."
+            },
+            {
+                "text": "Cognitiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las recompensas verbales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 138)",
+        "responses": [
+            {
+                "text": "Si son informativas favorecen la MI.",
+                "correct": true
+            },
+            {
+                "text": "Si incrementan la percepción de autoeficacia, favorece la ME."
+            },
+            {
+                "text": "Si son esperadas favorecen la MI."
+            }
+        ]
+    },
+    {
+        "text": "El término “tensión” ha sido utilizado por Lewin para describir:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "El nivel de ansiedad del sujeto."
+            },
+            {
+                "text": "Las barreras que surgen al intentar conseguir una meta."
+            },
+            {
+                "text": "La motivación interna del sujeto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina a la cantidad de apetitividad o aversividad que despierta un determinado estímulo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 28)",
+        "responses": [
+            {
+                "text": "Valencia.",
+                "correct": true
+            },
+            {
+                "text": "Expectativa."
+            },
+            {
+                "text": "Intensidad motivacional."
+            }
+        ]
+    },
+    {
+        "text": "En la entrevista motivacional, cuando se trabaja la MI de una persona que desea cambiar sus hábitos de conducta, ¿qué se debe hacer en segundo lugar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 158)",
+        "responses": [
+            {
+                "text": "Elevar su percepción de autoeficacia."
+            },
+            {
+                "text": "Plantearle sus propias ambivalencias ante el problema."
+            },
+            {
+                "text": "Trabajar las resistencias que presenta al cambio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de relación se da entre la tentación de consumir sustancias y la percepción de autoeficacia según la entrevista motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 157)",
+        "responses": [
+            {
+                "text": "Continua."
+            },
+            {
+                "text": "Directa."
+            },
+            {
+                "text": "Inversa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El costo oculto de la recompensa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 86)",
+        "responses": [
+            {
+                "text": "Logra que se lleve a cabo una acción sin esfuerzo."
+            },
+            {
+                "text": "Se corresponde con la paradoja del incentivo.",
+                "correct": true
+            },
+            {
+                "text": "Indica lo que supone el reforzador para el sujeto."
+            }
+        ]
+    },
+    {
+        "text": "Compare la entrevista clínica tradicional con la entrevista motivacional, en esta última:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 155)",
+        "responses": [
+            {
+                "text": "Se repite los consejos."
+            },
+            {
+                "text": "Su aplicación es progresiva.",
+                "correct": true
+            },
+            {
+                "text": "Su aplicación es rápida."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la evaluación cognitiva, ¿cuál es uno de los procesos por el que los estímulos externos influyen en la variabilidad de la motivación intrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 106)",
+        "responses": [
+            {
+                "text": "La valoración de la capacidad de uno mismo para dirigir la conducta de los demás."
+            },
+            {
+                "text": "El cambio en el origen de la causa de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "El valor motivacional que posea el reforzador para el sujeto."
+            }
+        ]
+    },
+    {
+        "text": "La orientación cognitiva de la motivación, intento explicar la conducta basándose en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Los aspectos fisiológicos que sustentan muchas de nuestras conductas."
+            },
+            {
+                "text": "Factores de aprendizaje."
+            },
+            {
+                "text": "Las formas de representar mentalmente las situaciones.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando la conducta se emite en ausencia de una contingencia externa aparente, se recurre para su explicación a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 61)",
+        "responses": [
+            {
+                "text": "La motivación intrínseca.",
+                "correct": true
+            },
+            {
+                "text": "La motivación interoceptiva."
+            },
+            {
+                "text": "La motivación externa."
+            }
+        ]
+    },
+    {
+        "text": "Si los sujetos participan en una actividad voluntaria sobre la que tienen control:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 146)",
+        "responses": [
+            {
+                "text": "Su motivación extrínseca será alta."
+            },
+            {
+                "text": "Su motivación intrínseca será elevada.",
+                "correct": true
+            },
+            {
+                "text": "El empleo de incentivos incrementará su motivación intrínseca."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del estudio de la motivación intrínseca, ¿qué condición es necesaria para que se produzca una situación de flujo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 131)",
+        "responses": [
+            {
+                "text": "Que la retroalimentación por la ejecución se proporcione inmediatamente.",
+                "correct": true
+            },
+            {
+                "text": "Que la tarea posea un alto grado de dificultad."
+            },
+            {
+                "text": "Que la retroalimentación por la tarea se dispense paulatinamente."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué concepto hace referencia la estimación que hace el sujeto sobre la probabilidad de lograr una meta concreta mediante la realización de una conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 41)",
+        "responses": [
+            {
+                "text": "A la fuerza."
+            },
+            {
+                "text": "Al valor."
+            },
+            {
+                "text": "A la expectativa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A qué teoría debemos atribuir la idea de que “la conducta de logro de una persona, estaría en función de lo acontecido en el pasado, pero fundamentalmente de a qué atribuye el éxito o el fracaso de lo ocurrido”? A la teoría:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 51)",
+        "responses": [
+            {
+                "text": "De la motivación de logro de McClelland."
+            },
+            {
+                "text": "Del aprendizaje cognoscitivo de Rotter."
+            },
+            {
+                "text": "De la atribución de Weiner.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo afecta un ambiente en el que se enfatiza en los resultados?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 114)",
+        "responses": [
+            {
+                "text": "Potencia la autoestima."
+            },
+            {
+                "text": "Predispone a mostrar menor interés.",
+                "correct": true
+            },
+            {
+                "text": "Incrementa la motivación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el objetivo de la motivación humana al considerarla como una disposición para actuar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 3)",
+        "responses": [
+            {
+                "text": "La repetición de la conducta."
+            },
+            {
+                "text": "Activar la conducta."
+            },
+            {
+                "text": "Llevar a localizar la meta o el objetivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La utilidad o importancia asociada a un objeto ambiental, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 28)",
+        "responses": [
+            {
+                "text": "Expectativa."
+            },
+            {
+                "text": "Intensidad motivacional."
+            },
+            {
+                "text": "Valencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre las teorías que defienden la existencia de una tendencia natural a la armonía o la congruencia se encuentra:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 54)",
+        "responses": [
+            {
+                "text": "La teoría de la inferencia correspondiente."
+            },
+            {
+                "text": "El modelo TOTE."
+            },
+            {
+                "text": "La teoría de la disonancia cognitiva.",
+                "correct": true
+            }
+        ]
+    }
+]

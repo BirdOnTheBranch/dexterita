@@ -1,0 +1,682 @@
+[
+    {
+        "text": "Pedro tiene 66 años, está casado y sus ingresos anuales son de 40000 €, ¿a qué factores se puede atribuir su alto nivel de bienestar subjetivo?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Nivel de ingresos y género masculino."
+            },
+            {
+                "text": "Edad y estado civil.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la emoción de James-Lange asume el concepto de activación general inespecífica:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "El desarrollo de la capacidad de autorreconocimiento discurre paralela a la aparición de las emociones:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Autoconscientes.",
+                "correct": true
+            },
+            {
+                "text": "Primarias."
+            }
+        ]
+    },
+    {
+        "text": "La consistencia metodológica de los estudios sobre expresión y reconocimiento facial de emociones, requiere que los juicios de reconocimiento sean realizados por individuos con experiencia previa en la tarea:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Todas las situaciones a las que se les asigna el mismo patrón de valoración evocan la misma emoción:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el proceso de la ansiedad, ¿qué función cumple la preocupación?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Neutraliza las reacciones fisiológicas."
+            },
+            {
+                "text": "Anticipa las consecuencias que tendrían determinadas líneas de afrontamiento sobre acontecimientos futuros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Bowlby (1973) la ausencia de algo que proporciona seguridad y confianza puede desencadenar la emoción de miedo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Indique una de las estrategias de investigación utilizada por Gordon H. Bower para el estudio de la relación entre el estado afectivo y los procesos cognitivos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Inducción hipnótica de estados emocionales.",
+                "correct": true
+            },
+            {
+                "text": "Procedimiento del enmascaramiento hacia atrás."
+            }
+        ]
+    },
+    {
+        "text": "En los estudios realizados en torno a la hipótesis de feedback facial, la estrategia de inhibición/exageración de la apariencia facial consiste en instruir a los participantes, sin que sean conscientes de ello, para que simulen expresiones faciales emocionales concretas:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La evitación cognitiva, como forma de afrontamiento en la ansiedad, consiste en:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Redirigir la atención fuera de las condiciones amenazantes.",
+                "correct": true
+            },
+            {
+                "text": "Evitar la utilización de recursos atencionales."
+            }
+        ]
+    },
+    {
+        "text": "El humor eufórico propio de los pacientes maníacos, con relativa frecuencia se convierte en:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Irritabilidad, hostilidad y agresividad.",
+                "correct": true
+            },
+            {
+                "text": "Miedo, ansiedad y asco."
+            }
+        ]
+    },
+    {
+        "text": "Cada una de las emociones primarias se corresponde con una función adaptativa pero todas comparten las condiciones desencadenantes:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde las teorías que abordan la interpretación cognitiva y el arousal fisiológico, la cualidad emocional depende de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La valoración de los elementos provenientes del contexto."
+            },
+            {
+                "text": "La valoración del estado de activación y del contexto en que tiene lugar la activación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con el modelo de Schwarz y Clore, utilizamos el estado afectivo como un heurístico o atajo cognitivo que:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Permite recordar emociones pasadas"
+            },
+            {
+                "text": "Permite simplificar el proceso de razonamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La emoción cuya duración viene determinada por el tiempo que tarda en aparecer la emoción posterior es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La sorpresa.",
+                "correct": true
+            },
+            {
+                "text": "El miedo."
+            }
+        ]
+    },
+    {
+        "text": "En relación con el asco, la teoría que estudia el aprendizaje demorado en la aversión al sabor es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La teoría de la interferencia concurrente.",
+                "correct": true
+            },
+            {
+                "text": "La teoría del contagio."
+            }
+        ]
+    },
+    {
+        "text": "Los resultados del trabajo de Larsen, Kasimatis y Frey (1992) sobre feedback facial donde los sujetos intentaban mantener separados o unidos dos tees (soportes de las pelotas de golf), mientras visualizaban y evaluaban fotografías generadoras de tristeza, mostraron que los sujetos proporcionaron evaluaciones superiores de tristeza cuando intentaban unir los tees:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "El estudio dimensional de las emociones tiene su fundamentación en:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La existencia de importantes diferencias individuales en las emociones que las personas adultas llegan a desarrollar.",
+                "correct": true
+            },
+            {
+                "text": "La existencia de características únicas y distintivas para cada categoría emocional."
+            }
+        ]
+    },
+    {
+        "text": "El estilo de procesamiento emocional de acceso directo utiliza:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La estrategia más sencilla y que consiste en recuperar valoraciones y reacciones ya existentes previamente en el sistema de análisis.",
+                "correct": true
+            },
+            {
+                "text": "Estrategias que tienen como objetivo primordial el lograr metas específicas de forma autorregulada."
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis de la primacía afectiva defiende que:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se puede procesar la información emocional de manera no consciente para el individuo.",
+                "correct": true
+            },
+            {
+                "text": "Se puede procesar la información emocional de manera consciente para el individuo."
+            }
+        ]
+    },
+    {
+        "text": "Arne Öhman mediante el paradigma del condicionamiento aversivo pavloviano estudia en la emoción los procesos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Controlados."
+            },
+            {
+                "text": "Automáticos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un efecto subjetivo de la emoción de miedo es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Repulsión y ofensa."
+            },
+            {
+                "text": "Sensación de pérdida de control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de Bower, los nodos afectivos se vinculan a una serie de acontecimientos que han estado relacionados con la emergencia de esas mismas emociones en el pasado:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Cuál de las siguientes emociones implica una evaluación especifica de fracaso:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La vergüenza."
+            },
+            {
+                "text": "La culpa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las emociones intensas, tanto positivas como negativas, empeoran la memoria para los detalles principales y mejoran la memoria de los detalles secundarios:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes funciones corresponde a la sorpresa?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Limpiar el sistema nervioso de la actividad que pudiera interferir con el ajuste a un cambio imprevisto producido en nuestro medio ambiente.",
+                "correct": true
+            },
+            {
+                "text": "Preparar al organismo para que ejecute eficazmente un rechazo de condiciones ambientales potencialmente dañinas."
+            }
+        ]
+    },
+    {
+        "text": "Según Tangney (1999), el orgullo beta se refiere al:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Orgullo relativo a la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Orgullo relativo al self."
+            }
+        ]
+    },
+    {
+        "text": "El sentimiento:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Es lo que en términos coloquiales denominamos estado de ánimo."
+            },
+            {
+                "text": "Es la experiencia subjetiva de la emoción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El óxido nitroso (N2O) actúa como desencadenante de la emoción de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Hilarante.",
+                "correct": true
+            },
+            {
+                "text": "Miedo."
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de chequeos secuenciales para la diferenciación de emociones, ¿qué componente emocional se relaciona con la función de preparar al organismo para inducir tendencias de aproximación o evitación?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Subsistema de soporte.",
+                "correct": true
+            },
+            {
+                "text": "Subsistema de procesamiento de la información."
+            }
+        ]
+    },
+    {
+        "text": "Se ha asociado la hostilidad con una mayor propensión a padecer cefaleas vasculares (migrañas):",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Tener una tolerancia alta a la percepción de la activación fisiológica es una característica de las personas:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Represoras."
+            },
+            {
+                "text": "Sensibilizadoras.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el procesamiento sustancial, las personas utilizan sus recursos cognitivos para procesar los aspectos relevantes de la tarea a enfrentar y elaborar la respuesta adecuada:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la ansiedad, según la teoría del procesamiento eficaz, la movilización de recursos compensatorios cognitivos facilita:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El procesamiento de la información amenazante del entorno."
+            },
+            {
+                "text": "Que el procesamiento de la información concurrente neutra no se deteriore.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El componente básico del amor que al principio se desarrolla más lentamente es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La intimidad."
+            },
+            {
+                "text": "El compromiso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las implicaciones de la corteza prefrontal en la emoción es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La modulación y regulación de la respuesta emocional.",
+                "correct": true
+            },
+            {
+                "text": "La inhibición de la respuesta a estímulos aversivos."
+            }
+        ]
+    },
+    {
+        "text": "¿Puede un paciente afectado de parálisis facial por lesión en el córtex motor esbozar una sonrisa falsa o fingida?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Sí."
+            },
+            {
+                "text": "No.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La tristeza tiene efectos contrapuestos y desconcertantes con relación a la interacción social:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Son características propias del procesamiento cognitivo de la ira (Scherer, 1993):",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Baja sorpresividad, alta familiaridad y predictibilidad abierta."
+            },
+            {
+                "text": "Alta sorpresividad, baja familiaridad y baja predictibilidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las emociones autoconscientes:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Siempre tienen como antecedente algún tipo de juicio de la persona sobre las acciones de otras personas."
+            },
+            {
+                "text": "Siempre tienen como antecedente algún tipo de juicio de la persona sobre sus propias acciones.",
+                "correct": true
+            }
+        ]
+    }
+]

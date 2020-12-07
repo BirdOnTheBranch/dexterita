@@ -1,0 +1,682 @@
+[
+    {
+        "text": "¿Qué función cumple la amígdala en el condicionamiento del miedo en humanos?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El conocimiento explícito a cerca de las contingencias del condicionamiento."
+            },
+            {
+                "text": "Interviene en los procesos de aprendizaje emocional implícito.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El amor romántico se caracteriza por una combinación de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Intimidad y pasión, sin compromiso.",
+                "correct": true
+            },
+            {
+                "text": "Intimidad, pasión y compromiso."
+            }
+        ]
+    },
+    {
+        "text": "La consistencia metodológica de los estudios sobre expresión y reconocimiento facial de emociones, requiere que existan indicios situacionales o contextuales que puedan ayudar en el reconocimiento:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con la felicidad, el seguimiento de metas de aproximación implica un progreso lento y pobre hacia la meta pero un mayor sentimiento de satisfacción:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Kalat y Rozin (1971), el proceso denominado seguridad aprendida es utilizado por los animales para evitar los alimentos nocivos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "A nivel de la actividad fisiológica, en el sistema nervioso somático, el asco produce:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Aumento de la reactividad gastrointestinal.",
+                "correct": true
+            },
+            {
+                "text": "Aumento muy considerable de la temperatura periférica."
+            }
+        ]
+    },
+    {
+        "text": "En el procesamiento cognitivo de la ansiedad, los sesgos de interpretación actúan en:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Las estrategias de afrontamiento que se van a utilizar."
+            },
+            {
+                "text": "El proceso de valoración de la situación estimular.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La infusión del afecto es un proceso por el cual:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La información afectiva se incorpora a los procesos cognitivos.",
+                "correct": true
+            },
+            {
+                "text": "La información afectiva se procesa independientemente de los procesos cognitivos."
+            }
+        ]
+    },
+    {
+        "text": "Se conocen como emociones autoconscientes, las que implican:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Algún tipo de evaluación relativas al propio yo.",
+                "correct": true
+            },
+            {
+                "text": "Autoevaluaciones necesariamente explicitas y conscientes."
+            }
+        ]
+    },
+    {
+        "text": "Según Tangney (1999), el orgullo alfa se refiere al:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Orgullo relativo a la conducta."
+            },
+            {
+                "text": "Orgullo relativo al self.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El antecedente que pone en marcha el proceso emocional es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La percepción de un cambio en las condiciones estimulares tanto externas como internas al organismo.",
+                "correct": true
+            },
+            {
+                "text": "La ocurrencia de acontecimientos especialmente significativos."
+            }
+        ]
+    },
+    {
+        "text": "La risa puede ser considerada por sí sola como un criterio inequívoco de humor:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La experiencia de flujo (Csikszentmihalyi, 1990) es un tipo de experiencia subjetiva asociada a la emoción de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Felicidad."
+            },
+            {
+                "text": "Alegría.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las personas con un estado de ánimo positivo recuerdan más experiencias de índole positiva que aquellas imbuidas de un ánimo negativo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "La función de la emoción de alegría es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La exploración."
+            },
+            {
+                "text": "La afiliación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los estudios de la valoración emocional por parte de Lazarus, la atribución causal, el potencial de afrontamiento y las expectativas futuras, serían dimensiones de valoración:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Secundaria.",
+                "correct": true
+            },
+            {
+                "text": "Primaria."
+            }
+        ]
+    },
+    {
+        "text": "El procesamiento cognitivo de la felicidad se caracteriza por:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Sorpresividad baja, familiaridad abierta y predictibilidad media.",
+                "correct": true
+            },
+            {
+                "text": "Sorpresividad baja, familiaridad alta y predictibilidad alta."
+            }
+        ]
+    },
+    {
+        "text": "Los resultados del trabajo de Larsen, Kasimatis y Frey (1992) sobre feedback facial donde los sujetos intentaban mantener separados o unidos dos tees (soportes de las pelotas de golf), mientras visualizaban y evaluaban fotografías generadoras de tristeza, mostraron que los sujetos proporcionaron evaluaciones superiores de tristeza cuando intentaban separar los tees:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la ansiedad, para llevar a cabo el fenómeno de priorización de la información, el sistema cognitivo acentúa la accesibilidad a las representaciones relevantes en la memoria:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué propuesta teórica sobre la emoción atribuye un carácter indiferenciado a la activación fisiológica?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La teoría de james-lange."
+            },
+            {
+                "text": "La teoría de la evaluación-discrepancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En adultos, el llanto es un indicador fiable del grado de aflicción (tristeza) experimentado por la persona:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la respuesta de ansiedad, la hipervigilancia, se debe a la acción de la amígdala sobre:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Los núcleos del tronco cerebral.",
+                "correct": true
+            },
+            {
+                "text": "El hipotálamo lateral."
+            }
+        ]
+    },
+    {
+        "text": "En la toma de decisiones, el afecto positivo nos hace más osados cuando el riesgo es alto:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los criterios utilizados por el organismo en la detección intrínseca de agrado parecen ser más innatos que adquiridos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los trabajos sobre condicionamiento del miedo en ratas, las lesiones en la amígdala bloquean la respuesta del animal tanto al EC (tono) como al contexto en que se produce el condicionamiento:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El estado afectivo positivo favorece un estilo de procesamiento superficial:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "El paradigma de transferencia de excitación, desarrollado por Dolf Zillmann, se basa en el hecho de que el arousal fisiológico de una situación generadora de activación, no se produce mientras que está la situación, sino que aparece únicamente cuando termina la situación generadora, al cabo de varios minutos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Tangney (1999) el foco de la atención en la culpa es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La conducta.",
+                "correct": true
+            },
+            {
+                "text": "El fracaso en el logro de metas."
+            }
+        ]
+    },
+    {
+        "text": "Atendiendo a los estilos de afrontamiento de la ansiedad, las personas sensibilizadoras se caracterizan porque:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Mantienen un alto estado de hipervigilancia.",
+                "correct": true
+            },
+            {
+                "text": "No toleran la percepción de la activación fisiológica."
+            }
+        ]
+    },
+    {
+        "text": "La ley de la menor carga y el mayor beneficio formula que cuando una situación puede ser vista desde distintas alternativas, existe una tendencia a verla desde aquella postura que minimice la carga emocional negativa y/o que maximice una ganancia emocional:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la hostilidad es correcto afirmar que:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Implica las variables cognitivas de cinismo, desconfianza y denigración.",
+                "correct": true
+            },
+            {
+                "text": "Sus desencadenantes son las situaciones frustrantes y/o aversivas."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste la evitación cognitiva como forma de afrontamiento en la ansiedad?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Orientar la atención hacia las amenazas del entorno."
+            },
+            {
+                "text": "Redirigir la atención fuera de las condiciones amenazantes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Es correcto afirmar que la ira:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Siempre implica un sentimiento de hostilidad."
+            },
+            {
+                "text": "No necesariamente aboca al resentimiento o la agresividad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La vergüenza se produce cuando:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Cuando se da una evaluación negativa muy específica del yo."
+            },
+            {
+                "text": "Cuando se da una evaluación negativa del yo de carácter global.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La emoción producida por un peligro presente e inminente, y que se encuentra muy ligada al estímulo que lo genera, es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Miedo.",
+                "correct": true
+            },
+            {
+                "text": "Sorpresa."
+            }
+        ]
+    },
+    {
+        "text": "Desde la orientación cognitiva, el proceso de evaluación de los estímulos como antecedente fundamental de las emociones implica necesariamente percepción de conciencia:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las emociones autoconscientes son:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Emociones patológicas."
+            },
+            {
+                "text": "Emociones sociomorales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La sonrisa de Duchenne es la sonrisa enmascaradora:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "Una función de la emoción de sorpresa es limpiar el sistema nervioso de la actividad que pudiera interferir con el ajuste a un cambio imprevisto producido en nuestro medio ambiente:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "La ira es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Una emoción clave en la restauración del acceso a objetivos o metas relevantes para la persona.",
+                "correct": true
+            },
+            {
+                "text": "Una conducta afectiva que tiene por objeto infligir daño a otra persona."
+            }
+        ]
+    }
+]

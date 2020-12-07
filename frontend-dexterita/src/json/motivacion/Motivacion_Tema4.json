@@ -1,0 +1,2186 @@
+[
+    {
+        "text": "Centrándonos en el motivo de hambre, ¿cuál es la principal misión de la hormona denominada leptina?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 37)",
+        "responses": [
+            {
+                "text": "Aumentar de manera progresiva el apetito."
+            },
+            {
+                "text": "Adaptar el cuerpo a los estados de hambre.",
+                "correct": true
+            },
+            {
+                "text": "Ser responsable de las señales de hambre del organismo."
+            }
+        ]
+    },
+    {
+        "text": "El efecto organizador de las hormonas sexuales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "Se produce durante el periodo prenatal.",
+                "correct": true
+            },
+            {
+                "text": "Es de carácter reversible."
+            },
+            {
+                "text": "Tiene una duración temporal."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo ocurre la sed primaria o biológica?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "Cuando la calidad del líquido ingerido es pobre en nutrientes."
+            },
+            {
+                "text": "Cuando disminuye el volumen o concentración de los fluidos corporales.",
+                "correct": true
+            },
+            {
+                "text": "Cuando no existe la posibilidad de ingerir líquidos."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los efectos encontrados cuando se lleva a cabo la privación selectiva de sueño en la fase IV es la aparición:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "Del fenómeno de rebote.",
+                "correct": true
+            },
+            {
+                "text": "De entorpecimiento en la adaptación a estímulos que causan ansiedad."
+            },
+            {
+                "text": "De dificultades en la retención de lo aprendido con anterioridad a dicha privación."
+            }
+        ]
+    },
+    {
+        "text": "El sistema mediante el que actúan los mecanismos autorreguladores homeostáticos cuando existe una desviación en los niveles de los parámetros fisiológicos, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Autocorrección fisiológica."
+            },
+            {
+                "text": "Feedback negativo.",
+                "correct": true
+            },
+            {
+                "text": "Retroalimentación inducida."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué característica principal presenta la fase II de sueño lento? La aparición de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "El fenómeno de rebote."
+            },
+            {
+                "text": "Movimientos oculares rápidos."
+            },
+            {
+                "text": "'complejos K' y 'husos de sueño'.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De qué fase de sueño es característico el iniciarse con la aparición de ondas rápidas e irregulares de baja amplitud?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "De la fase I.",
+                "correct": true
+            },
+            {
+                "text": "De la fase MOR."
+            },
+            {
+                "text": "De la fase II."
+            }
+        ]
+    },
+    {
+        "text": "El efecto organizador de las hormonas sexuales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "Se produce a lo largo de la vida."
+            },
+            {
+                "text": "Ejerce su influencia sobre el desarrollo de las estructuras responsables de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Hace referencia al papel ejercido por las hormonas sexuales sobre el cerebro para suscitar la actividad sexual."
+            }
+        ]
+    },
+    {
+        "text": "El fenómeno de saciedad sensorial específica relativo a la ingesta de líquidos, pone de manifiesto que los animales beben más cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 80)",
+        "responses": [
+            {
+                "text": "Tienen a su alcance distintos líquidos para ingerir.",
+                "correct": true
+            },
+            {
+                "text": "Tienen posibilidad de beber un solo líquido."
+            },
+            {
+                "text": "El agua suministrada no tiene azúcar."
+            }
+        ]
+    },
+    {
+        "text": "La privación selectiva de sueño se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "Requerir más de un experimentador para su medición."
+            },
+            {
+                "text": "La aparición del llamado fenómeno de rebote.",
+                "correct": true
+            },
+            {
+                "text": "Obligar al sujeto a realizar continuamente tareas para evitar que se duerma."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos factores son relevantes en relación al sueño?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 83)",
+        "responses": [
+            {
+                "text": "Los ritmos biológicos y los ritmos impuestos por las demandas ambientales."
+            },
+            {
+                "text": "El ciclo sueño-vigilia y los periodos de luz-oscuridad."
+            },
+            {
+                "text": "Los ritmos circadianos y el tiempo transcurrido sin dormir.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A qué hace referencia la hipovolemia? A la reducción del volumen:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 72)",
+        "responses": [
+            {
+                "text": "Intersticial."
+            },
+            {
+                "text": "Intravascular.",
+                "correct": true
+            },
+            {
+                "text": "Intracelular."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se lleva a cabo la privación selectiva de sueño en la fase IV, puede producirse:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "Recuerdos emocionalmente importantes."
+            },
+            {
+                "text": "Cansancio, fatiga y depresión.",
+                "correct": true
+            },
+            {
+                "text": "Acceso lento a esta fase en la recuperación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuántas fases constituyen el ciclo del sueño?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 85)",
+        "responses": [
+            {
+                "text": "Cinco.",
+                "correct": true
+            },
+            {
+                "text": "Dos."
+            },
+            {
+                "text": "Cuatro."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué cuatro criterios diferenciadores de los motivos primarios presentó Madsen?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 9)",
+        "responses": [
+            {
+                "text": "Orgánico, de supervivencia, psicofisiológico y comparativo-psicológico."
+            },
+            {
+                "text": "Psicofisiológico, comparativo-psicológico, orgánico y de señal."
+            },
+            {
+                "text": "Comparativo-psicológico, de señal, de supervivencia y fisiológico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La sed volémica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 72)",
+        "responses": [
+            {
+                "text": "Ocurre cuando aumenta la concentración del líquido intersticial."
+            },
+            {
+                "text": "Implica un apetito de sal.",
+                "correct": true
+            },
+            {
+                "text": "Aparece cuando se reduce el volumen intracelular."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de sed tiene lugar cuando disminuye el volumen intravascular y hay pérdida tanto de agua como de sodio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 72)",
+        "responses": [
+            {
+                "text": "La sed ligada a la pérdida de líquido cefalorraquídeo."
+            },
+            {
+                "text": "La sed volémica.",
+                "correct": true
+            },
+            {
+                "text": "La sed osmótica."
+            }
+        ]
+    },
+    {
+        "text": "Todos los motivos....:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Provocan un condicionamiento instrumental."
+            },
+            {
+                "text": "Responden apautas fijas de acción."
+            },
+            {
+                "text": "Son siempre desencadenados por algún tipo de estímulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación al motivo de sed, se ha puesto de manifiesto que cuando el organismo está deshidratado, el nivel de secreción de la vasopresina es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76)",
+        "responses": [
+            {
+                "text": "Alto.",
+                "correct": true
+            },
+            {
+                "text": "Nulo."
+            },
+            {
+                "text": "Bajo."
+            }
+        ]
+    },
+    {
+        "text": "Desde el punto de vista cognitivo, uno de los efectos encontrados tras la privación total de sueño ha sido:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "La aparición de ardor y sequedad de ojos."
+            },
+            {
+                "text": "La disminución del tiempo de reacción en la ejecución de tareas diversas."
+            },
+            {
+                "text": "La aparición de déficit en tareas psicomotoras.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La característica de los alimentos que viene determinada por su olor, aspecto, sabor, textura, temperatura, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 49)",
+        "responses": [
+            {
+                "text": "Palatabilidad de los alimentos.",
+                "correct": true
+            },
+            {
+                "text": "Aversión condicionada al sabor."
+            },
+            {
+                "text": "Preferencia condicionada."
+            }
+        ]
+    },
+    {
+        "text": "Los experimentos realizados sobre las relaciones sueño-recuerdo, han mostrado que en situaciones de alto contenido emocional, el sueño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 96-97)",
+        "responses": [
+            {
+                "text": "Influye en el recuerdo al actuar como señalizador de la activación cerebral."
+            },
+            {
+                "text": "Afecta únicamente al recuerdo de imágenes en blanco y negro."
+            },
+            {
+                "text": "Refuerza sobre todo los recuerdos de elementos asociados a emociones negativas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué criterio se ha utilizado frecuentemente en la determinación de las fases del sueño?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 87)",
+        "responses": [
+            {
+                "text": "El electroencefalográfico.",
+                "correct": true
+            },
+            {
+                "text": "El estadístico."
+            },
+            {
+                "text": "El conductual."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué hace referencia el fenómeno de la palatabilidad de los alimentos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 49)",
+        "responses": [
+            {
+                "text": "A la necesidad de ingerir nutrientes diversos en la alimentación."
+            },
+            {
+                "text": "Al papel cultural desempeñado por la comida en nuestra sociedad."
+            },
+            {
+                "text": "Al valor hedónico de los alimentos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los efectos específicos encontrados tras cinco días de privación total de sueño es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "La aparición de una fatiga extrema."
+            },
+            {
+                "text": "La aparente recuperación de la fatiga.",
+                "correct": true
+            },
+            {
+                "text": "La aparición inicial de ardor y sequedad de ojos."
+            }
+        ]
+    },
+    {
+        "text": "Los experimentos sobre sueño y recuerdo efectuados por Hu y su equipo han puesto de manifiesto que el sueño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 96)",
+        "responses": [
+            {
+                "text": "Sólo favorece el recuerdo de imágenes con contenido emocional.",
+                "correct": true
+            },
+            {
+                "text": "Nunca favorece el recuerdo."
+            },
+            {
+                "text": "Favorece el recuerdo de imágenes con contenido neutro."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué papel juegan los factores sociales y culturales en relación a la motivación sexual?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 123)",
+        "responses": [
+            {
+                "text": "Determinan que conductas sexuales son apropiadas y como realizarlas, y cuáles no.",
+                "correct": true
+            },
+            {
+                "text": "Controlan las variaciones que se producen en la conducta consumatoria sexual."
+            },
+            {
+                "text": "Son los responsables de la existencia de preferencias condicionadas de lugar."
+            }
+        ]
+    },
+    {
+        "text": "En relación a la conducta de comer, se ha puesto de manifiesto que la lesión del hipotálamo ventromedial provoca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "Alteración de la palatabilidad de los alimentos.",
+                "correct": true
+            },
+            {
+                "text": "Conductas anoréxicas."
+            },
+            {
+                "text": "Inapetencia."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué fase del sueño tiene lugar el sonambulismo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "En la fase IV.",
+                "correct": true
+            },
+            {
+                "text": "En la fase II."
+            },
+            {
+                "text": "En la fase III."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio del motivo de hambre, ¿cómo se denomina al fenómeno consistente en comer menos cuando hay un solo alimento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 52)",
+        "responses": [
+            {
+                "text": "Saciedad sensorial específica.",
+                "correct": true
+            },
+            {
+                "text": "Aversión condicionada al sabor."
+            },
+            {
+                "text": "Preferencia condicionada al alimento."
+            }
+        ]
+    },
+    {
+        "text": "En relación al motivo de hambre se ha puesto de manifiesto, experimentalmente, que cuando se lesiona el hipotálamo lateral:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "Aparece la afagia.",
+                "correct": true
+            },
+            {
+                "text": "Se altera la palatabilidad de los alimentos."
+            },
+            {
+                "text": "Se produce una ingesta excesiva de comida."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios experimentales sobre el motivo de hambre, han puesto de manifiesto que el hipotálamo lateral:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 34)",
+        "responses": [
+            {
+                "text": "Ayuda a regular el peso corporal en el punto de ajuste.",
+                "correct": true
+            },
+            {
+                "text": "Da lugar a una ingesta excesiva de comida cuando se lesiona."
+            },
+            {
+                "text": "Deprime la sensación de hambre al actuar en interacción con el páncreas."
+            }
+        ]
+    },
+    {
+        "text": "El efecto activador de las hormonas sexuales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "Se refiere al papel que dichas hormonas tienen exclusivamente durante el periodo prenatal."
+            },
+            {
+                "text": "Hace referencia al papel que dichas hormonas tienen sobre el organismo maduro de forma reversible y temporal.",
+                "correct": true
+            },
+            {
+                "text": "Tiene que ver con la influencia que sobre el desarrollo del organismo tienen esas hormonas de manera irreversible y fija."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio del sueño se ha encontrado que la existencia de sincronización en el EEG es característica de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "El sueño paradójico."
+            },
+            {
+                "text": "Las ensoñaciones emocionales."
+            },
+            {
+                "text": "El sueño lento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué motivo primario no existen a corto plazo mecanismos homeostáticos que regulen su actividad? En el motivo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14-15)",
+        "responses": [
+            {
+                "text": "Sexo.",
+                "correct": true
+            },
+            {
+                "text": "Sed."
+            },
+            {
+                "text": "Sueño."
+            }
+        ]
+    },
+    {
+        "text": "Una de las características propias del sueño lento es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "La aparición de movimientos oculares rápidos."
+            },
+            {
+                "text": "La intervención del sistema nervioso simpático."
+            },
+            {
+                "text": "La existencia de sincronización en el EEG.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué conductas relativas a los cuatro motivos primarios comparten las características de persistencia y espontaneidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Las conductas de comer, beber, dormir y sexual.",
+                "correct": true
+            },
+            {
+                "text": "Sólo las conductas de ingesta de comida y bebida."
+            },
+            {
+                "text": "Las conductas de beber, comer y dormir, pero no la sexual."
+            }
+        ]
+    },
+    {
+        "text": "La necesidad de tomar distintos nutrientes en la alimentación tiene que ver con la función de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 52)",
+        "responses": [
+            {
+                "text": "La palatabilidad de los alimentos."
+            },
+            {
+                "text": "La saciedad sensorial específica.",
+                "correct": true
+            },
+            {
+                "text": "Las preferencias condicionadas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones se ha efectuado con respecto al sueño MOR?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90-91)",
+        "responses": [
+            {
+                "text": "Que los contenidos de los sueños encajan en el sistema de creencias habituales de la persona."
+            },
+            {
+                "text": "Que su frecuencia varía durante el ciclo evolutivo.",
+                "correct": true
+            },
+            {
+                "text": "Que hay control voluntario sobre el contenido de los sueños."
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué está influida, además del aprendizaje, la ingesta de alimentos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "Por factores socioeconómicos y por aspectos culturales."
+            },
+            {
+                "text": "Por las características de la comida y por el fenómeno de la saciedad sensorial inespecífica."
+            },
+            {
+                "text": "Por las características de la comida y por factores sociales y culturales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los motivos primarios se caracterizan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 10)",
+        "responses": [
+            {
+                "text": "Porque sus aspectos culturales son los que determinan la base orgánica."
+            },
+            {
+                "text": "Por ser específicos de cada cultura."
+            },
+            {
+                "text": "Porque su expresión puede variar de modo diferencial de unas culturas a otras.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En base a sus criterios, para Madsen también es un motivo primario el motivo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 9)",
+        "responses": [
+            {
+                "text": "Oxígeno.",
+                "correct": true
+            },
+            {
+                "text": "Apego."
+            },
+            {
+                "text": "Agresión."
+            }
+        ]
+    },
+    {
+        "text": "La motivación sexual:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 107)",
+        "responses": [
+            {
+                "text": "Es vital para la supervivencia de la especie.",
+                "correct": true
+            },
+            {
+                "text": "Requiere controleshomeostáticos que regulen a corto plazo su actividad."
+            },
+            {
+                "text": "Es necesaria para la supervivencia del individuo."
+            }
+        ]
+    },
+    {
+        "text": "Las conductas que acompañan a los motivos de hambre, sed, sueño y sexo, se caracterizan por ser conductas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Iniciadas siempre con la presencia de estímulos discriminativos."
+            },
+            {
+                "text": "Propositivas.",
+                "correct": true
+            },
+            {
+                "text": "Reflejas."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios sobre la conducta de beber han puesto de manifiesto que la ingesta espontánea de líquidos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 79)",
+        "responses": [
+            {
+                "text": "Está ocasionada por un desequilibrio hídrico."
+            },
+            {
+                "text": "Está mediatizada por factores biológicos."
+            },
+            {
+                "text": "Se produce en ausencia de déficits.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Investigaciones recientes sobre el fenómeno de la 'saciedad sensorial específica', han señalado que el consumo de un único alimento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 52)",
+        "responses": [
+            {
+                "text": "No afecta a la conducta de ingesta."
+            },
+            {
+                "text": "Reduce su valor motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Incrementa la palatabilidad de los alimentos."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio del motivo de hambre, se ha puesto de manifiesto que en la información sobre qué alimentos no se deben ingerir tiene un papel relevante:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 46)",
+        "responses": [
+            {
+                "text": "La qué alimentos no se deben ingerir tiene un papel relevante palatabilidad de los alimentos."
+            },
+            {
+                "text": "El aprendizaje temprano.",
+                "correct": true
+            },
+            {
+                "text": "La saciedad sensorial específica."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones caracteriza la sed volémica?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 72)",
+        "responses": [
+            {
+                "text": "Tiene lugar cuando la concentración del líquido intersticial aumenta."
+            },
+            {
+                "text": "Conlleva únicamente pérdida de agua."
+            },
+            {
+                "text": "Ocurre cuando disminuye el volumen intravascular.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios sobre las fases del sueño han puesto de manifiesto que en la fase I:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "El tono muscular existente en las personas es el mismo que cuando están en vigilia."
+            },
+            {
+                "text": "Se dan con frecuencia cambios posturales y algunas alteraciones como el sonambulismo."
+            },
+            {
+                "text": "Las personas son capaces de responder a un estímulo con respuestas verbales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los criterios diferenciadores de los motivos primarios es el comparativo-psicológico, que se refiere a que dichos motivos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "Tienen siempre una base orgánica."
+            },
+            {
+                "text": "Vienen fijados por señales innatas."
+            },
+            {
+                "text": "Determinan actos universales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué fase del sueño tiene lugar la aparición de los denominados 'complejos K'?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "En la fase II de sueño lento.",
+                "correct": true
+            },
+            {
+                "text": "En la fase IV de sueño lento."
+            },
+            {
+                "text": "En la fase de sueño MOR."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios experimentales llevados a cabo sobre el hambre y la saciedad en relación al hipotálamo ventromedial (HVM), han puesto de manifiesto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "La conducta de comer está controlada directamente por el HVM sin interacción con el páncreas."
+            },
+            {
+                "text": "Las lesiones en el HVM alteran la palatabilidad de los alimentos.",
+                "correct": true
+            },
+            {
+                "text": "Entre las alteraciones producidas por lesiones en el HVM se encuentra la afagia."
+            }
+        ]
+    },
+    {
+        "text": "Centrándonos en el motivo de hambre, ¿cómo se denomina la hormona secretada por el tejido adiposo que modula el gasto energético e interviene como responsable de la sensación de saciedad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 37)",
+        "responses": [
+            {
+                "text": "Grelina."
+            },
+            {
+                "text": "Leptina.",
+                "correct": true
+            },
+            {
+                "text": "Peptina."
+            }
+        ]
+    },
+    {
+        "text": "A la fuerza interna impulsora que activa al organismo y que dirige sus acciones hacia una meta, se le denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 3)",
+        "responses": [
+            {
+                "text": "Incentivo."
+            },
+            {
+                "text": "Motivo.",
+                "correct": true
+            },
+            {
+                "text": "Instinto."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los principales descubrimientos en relación a la conducta de comer fue que el hipotálamo lateral:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 34)",
+        "responses": [
+            {
+                "text": "Induce hambre.",
+                "correct": true
+            },
+            {
+                "text": "No interviene en la regulación del peso corporal en el punto de ajuste."
+            },
+            {
+                "text": "Deprime la sensación de hambre."
+            }
+        ]
+    },
+    {
+        "text": "El sueño paradójico se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "La existencia de actividad parasimpática."
+            },
+            {
+                "text": "La aparición periódica de 'husos de sueño'."
+            },
+            {
+                "text": "La presencia de movimientos oculares rápidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las conductas de ingesta de comida y bebida, la conducta de dormir y la conducta sexual, se caracterizan todas por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Necesitar siempre la presencia de estímulos discriminativos para iniciarse."
+            },
+            {
+                "text": "Ser regulatorias."
+            },
+            {
+                "text": "Estar orientadas a conseguir objetivos concretos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina la sed que tiene lugar cuando aumenta la concentración del líquido intersticial? Sed:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 73)",
+        "responses": [
+            {
+                "text": "Osmótica.",
+                "correct": true
+            },
+            {
+                "text": "Volumétrica."
+            },
+            {
+                "text": "Volémica."
+            }
+        ]
+    },
+    {
+        "text": "Según Madsen, ¿qué criterio diferenciador de los motivos primarios se refiere a que determinan actos universales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "El fisiológico."
+            },
+            {
+                "text": "El de señal."
+            },
+            {
+                "text": "El comparativo-psicológico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La fase III de sueño....:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "Se caracteriza principalmente por la aparición de los denominados 'husos de sueño' y complejos K."
+            },
+            {
+                "text": "Conlleva la capacidad de responder a un estímulo con respuestas verbales y lentos movimientos oculares."
+            },
+            {
+                "text": "Es una fase esencial para que la persona descanse objetiva y subjetivamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A qué hace referencia el criterio comparativo-psicológico propuesto por Madsen en relación a la diferenciación de los motivos primarios? A que dichos motivos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "Son relevantes para la formación de la personalidad."
+            },
+            {
+                "text": "Vienen fijados por señales innatas."
+            },
+            {
+                "text": "Determinan actos universales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El sueño paradójico presenta diversas características entre las que destaca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "El aumento de tono muscular."
+            },
+            {
+                "text": "El surgimiento de sincronización de señales en el EEG."
+            },
+            {
+                "text": "La aparición de movimientos oculares rápidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las preferencias por los sabores dulces y salados son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 38)",
+        "responses": [
+            {
+                "text": "Condicionadas a estímulos concretos."
+            },
+            {
+                "text": "Genéticas.",
+                "correct": true
+            },
+            {
+                "text": "Adquiridas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es una de las características propias del sueño paradójico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "El descenso del tono muscular.",
+                "correct": true
+            },
+            {
+                "text": "La presencia de ensoñaciones racionales."
+            },
+            {
+                "text": "La existencia de sincronización en el EEG."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué motivo primario se caracteriza por jugar un papel relevante en la restauración fisiológica y la reestructuración psíquica?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 82)",
+        "responses": [
+            {
+                "text": "El sueño.",
+                "correct": true
+            },
+            {
+                "text": "La sed."
+            },
+            {
+                "text": "El hambre."
+            }
+        ]
+    },
+    {
+        "text": "En relación al motivo de hambre se ha señalado que las preferencias aprendidas tienen que ver con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 39)",
+        "responses": [
+            {
+                "text": "Las consecuencias que se siguen tras la comida.",
+                "correct": true
+            },
+            {
+                "text": "El valor nutricional que proporcionan los alimentos."
+            },
+            {
+                "text": "La protección que proporcionan los sabores dulce y salado."
+            }
+        ]
+    },
+    {
+        "text": "Atendiendo a la conducta de beber, ¿qué función tiene el punto de ajuste?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 66)",
+        "responses": [
+            {
+                "text": "Prolongar la actuación de la vasopresina y la aldosterona."
+            },
+            {
+                "text": "Favorecer la hipervolemia y la hipotonía."
+            },
+            {
+                "text": "Evitar la hipovolemia y la deshidratación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En base a los criterios diferenciadores de los motivos primarios señalados por Madsen, dichos motivos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "No determinan actos universales."
+            },
+            {
+                "text": "No conllevan relevancia para conservar la vida."
+            },
+            {
+                "text": "Tienen una base orgánica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características propias del sueño paradójico es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "La aparición de desincronización en el EEG.",
+                "correct": true
+            },
+            {
+                "text": "La inexistencia de actividad simpática."
+            },
+            {
+                "text": "El aumento del tono muscular."
+            }
+        ]
+    },
+    {
+        "text": "Si nos atenemos exclusivamente al punto de vista cognitivo, ¿cuál es uno de los efectos encontrados tras la privación total de sueño? La disminución en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "La velocidad de realización de las operaciones relativas a tareas matemáticas.",
+                "correct": true
+            },
+            {
+                "text": "El número de errores en la realización de tareas psicomotoras."
+            },
+            {
+                "text": "El tiempo de reacción en la ejecución de las diversas tareas."
+            }
+        ]
+    },
+    {
+        "text": "La conducta de comer:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 20)",
+        "responses": [
+            {
+                "text": "Es una conducta regulada exclusivamente por el hipotálamo."
+            },
+            {
+                "text": "Se supone controlada por señales de hambre y señales de saciedad.",
+                "correct": true
+            },
+            {
+                "text": "Solo se inicia cuando existe necesidad orgánica de alimento."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué característica común presentan las conductas de ingesta de comida y bebida, la de dormir y la sexual?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Ser regulatorias."
+            },
+            {
+                "text": "Estar moduladas por un único factor."
+            },
+            {
+                "text": "No ser reflejas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación al motivo de hambre, se ha observado experimentalmente que cuando se lesionaba el hipotálamo lateral:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "Tenía lugar la alteración de la palatabilidad de los alimentos."
+            },
+            {
+                "text": "Los animales dejaban de comer.",
+                "correct": true
+            },
+            {
+                "text": "Se producía obesidad en los animales."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio del hambre, ¿con qué tiene que ver la palatabilidad de los alimentos? Con su valor:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 49)",
+        "responses": [
+            {
+                "text": "Nocivo."
+            },
+            {
+                "text": "Nutritivo."
+            },
+            {
+                "text": "Hedónico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde el punto de vista cognitivo, ¿cuál es uno de los efectos encontrados debido a la privación total de sueño? El aumento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "En la velocidad de realización de las operaciones relativas a tareas matemáticas."
+            },
+            {
+                "text": "Del tiempo de duración de lo que se conoce como fenómeno de rebote."
+            },
+            {
+                "text": "Del tiempo de reacción en la realización de las diversas tareas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las investigaciones realizadas sobre el motivo de hambre han puesto de manifiesto que las lesiones en el hipotálamo lateral ocasionan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "Hiperfagia."
+            },
+            {
+                "text": "La supresión de la conducta de comer.",
+                "correct": true
+            },
+            {
+                "text": "Alteración de la palatabilidad de los alimentos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina el proceso mediante el cual el organismo se autorregula de modo que consiga el equilibrio del medio interno?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Arousal."
+            },
+            {
+                "text": "Homeostasis.",
+                "correct": true
+            },
+            {
+                "text": "Motivación."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué papel desempeña el hipotálamo lateral en el control de la ingesta de comida y la saciedad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 34)",
+        "responses": [
+            {
+                "text": "Induce hambre.",
+                "correct": true
+            },
+            {
+                "text": "No ejerce ningún papel."
+            },
+            {
+                "text": "Deprime la sensación de hambre."
+            }
+        ]
+    },
+    {
+        "text": "Las conductas de ingesta de comida y bebida, la conducta de dormir y la conducta sexual, se caracterizan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Por no estar moduladas por múltiple factores."
+            },
+            {
+                "text": "Por no estar orientadas a conseguir objetivos concretos."
+            },
+            {
+                "text": "Porque los estímulos externos juegan un papel relevante en su desencadenamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación a la conducta sexual en el ser humano, se ha encontrado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 116)",
+        "responses": [
+            {
+                "text": "Que tumores localizados en el hipotálamo suelen modificar su desarrollo y mantenimiento.",
+                "correct": true
+            },
+            {
+                "text": "Que, fisiológicamente, la conducta consumatoria no depende de la médula espinal."
+            },
+            {
+                "text": "Que los lóbulos temporales no participan en la regulación de la actividad sexual."
+            }
+        ]
+    },
+    {
+        "text": "El descenso del tono muscular y la aparición de desincronización en el EEG, son algunas de las características propias del sueño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "Paradójico.",
+                "correct": true
+            },
+            {
+                "text": "De ondas lentas."
+            },
+            {
+                "text": "NMOR."
+            }
+        ]
+    },
+    {
+        "text": "A largo plazo, ¿en qué está basado el carácter autorregulatorio del motivo de hambre?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 19)",
+        "responses": [
+            {
+                "text": "En la búsqueda de señales fisiológicas innatas y en los factores que afectan negativamente al apetito."
+            },
+            {
+                "text": "En la regulación del peso corporal y en la existencia de puntos de ajuste.",
+                "correct": true
+            },
+            {
+                "text": "En la ingesta específica de comida y en la saciedad producida de carácter anticipatorio."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo tiene lugar la sed primaria o biológica? Cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "El volumen o concentración de los fluidos corporales disminuye.",
+                "correct": true
+            },
+            {
+                "text": "Se inicia el proceso digestivo."
+            },
+            {
+                "text": "No tiene nutrientes el líquido ingerido."
+            }
+        ]
+    },
+    {
+        "text": "En investigación básica, ¿qué se requiere experimentalmente para que se produzca aversión al sabor a una sustancia sápida?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 97)",
+        "responses": [
+            {
+                "text": "Que el intervalo temporal entre los estímulos empleados sea muy corto."
+            },
+            {
+                "text": "Que inicialmente se muestre aversión a dicha sustancia sápida."
+            },
+            {
+                "text": "Que su presentación se aparee con eventos que ocasionan malestar corporal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de los siguientes motivos primarios no existen a corto plazo mecanismos homeostáticos que regulen su actividad? En el motivo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14-15)",
+        "responses": [
+            {
+                "text": "Sexo.",
+                "correct": true
+            },
+            {
+                "text": "Hambre."
+            },
+            {
+                "text": "Sueño."
+            }
+        ]
+    },
+    {
+        "text": "En relación al estudio del equilibrio hídrico se ha señalado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 66)",
+        "responses": [
+            {
+                "text": "Que el nivel de aldosterona regula el intercambio de fluidos cefalorraquídeos."
+            },
+            {
+                "text": "Que el sodio no puede pasar con facilidad entre el líquido intravascular y el intersticial."
+            },
+            {
+                "text": "Que el agua pasa a las células cuando el líquido extracelular es hipotónico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La sed osmótica tiene lugar cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 73)",
+        "responses": [
+            {
+                "text": "La concentración del líquido intersticial aumenta.",
+                "correct": true
+            },
+            {
+                "text": "Disminuye el volumen intravascular."
+            },
+            {
+                "text": "Se produce una pérdida de sodio."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos clases de señales controlan la conducta de comer? Señales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 20)",
+        "responses": [
+            {
+                "text": "De hambre y saciedad.",
+                "correct": true
+            },
+            {
+                "text": "Glucostáticas y lipostáticas."
+            },
+            {
+                "text": "Derivadas de la palatabilidad de los alimentos y de la aversión al sabor."
+            }
+        ]
+    },
+    {
+        "text": "Fundamentalmente, ¿dentro de qué modelo se ha efectuado la explicación de los motivos de hambre, sed, sueño y sexo? Dentro del modelo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 7)",
+        "responses": [
+            {
+                "text": "Hermenéutico."
+            },
+            {
+                "text": "Homeostático.",
+                "correct": true
+            },
+            {
+                "text": "Conductual."
+            }
+        ]
+    },
+    {
+        "text": "El mecanismo de regulación fisiológica mediante el cual se ha efectuado la explicación de los distintos motivos primarios en los diversos estudios, ha sido:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "La homeostasis.",
+                "correct": true
+            },
+            {
+                "text": "La conductancia."
+            },
+            {
+                "text": "El biofeedback."
+            }
+        ]
+    },
+    {
+        "text": "Fisiológicamente, ¿cuál de las siguientes características es propia del sueño lento o NMOR?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "La intervención del sistema nervioso simpático."
+            },
+            {
+                "text": "La existencia de actividad ligada a la rama parasimpática del SNA.",
+                "correct": true
+            },
+            {
+                "text": "La activación de la amígdala y las estructuras del sistema límbico relacionadas con ella."
+            }
+        ]
+    },
+    {
+        "text": "El motivo de sexo es vital para la supervivencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 107)",
+        "responses": [
+            {
+                "text": "De la especie.",
+                "correct": true
+            },
+            {
+                "text": "Del individuo."
+            },
+            {
+                "text": "Tanto del individuo como de la especie."
+            }
+        ]
+    },
+    {
+        "text": "En relación a la conducta de comer, ¿con qué tienen que ver las preferencias aprendidas? Con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 39)",
+        "responses": [
+            {
+                "text": "Las consecuencias que se siguen tras la comida.",
+                "correct": true
+            },
+            {
+                "text": "El valor hedónico de los alimentos."
+            },
+            {
+                "text": "La adquisición de aversión a una sustancia sápida."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué efecto de las hormonas sexuales se caracteriza por producirse durante el periodo prenatal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "El reproductor."
+            },
+            {
+                "text": "El organizador.",
+                "correct": true
+            },
+            {
+                "text": "El activador."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina el criterio diferenciador de los motivos primarios que hace referencia a que dichos motivos tienen siempre una base orgánica?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "Comparativo-psicológico."
+            },
+            {
+                "text": "Fisiológico.",
+                "correct": true
+            },
+            {
+                "text": "De supervivencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina la hipótesis que plantea que la señal para el hambre es la disminución de la glucosa en sangre?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 28)",
+        "responses": [
+            {
+                "text": "Hipótesis glucostática.",
+                "correct": true
+            },
+            {
+                "text": "Hipótesis lipostática."
+            },
+            {
+                "text": "Hipótesis insulínica."
+            }
+        ]
+    },
+    {
+        "text": "De los diferentes efectos de las hormonas sexuales sobre la conducta humana, ¿cuáles juegan un papel relevante desde el punto de vista de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "Los efectos colaterales."
+            },
+            {
+                "text": "Los efectos organizadores."
+            },
+            {
+                "text": "Los efectos activadores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un aspecto conductual común de los motivos primarios de hambre, sed, sueño y sexo es que todos ellos son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 16)",
+        "responses": [
+            {
+                "text": "Regulatorios."
+            },
+            {
+                "text": "Respondientes."
+            },
+            {
+                "text": "Persistentes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina la hipótesis que busca explicar la regulación a corto plazo de la alimentación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 26-28)",
+        "responses": [
+            {
+                "text": "Glucostática.",
+                "correct": true
+            },
+            {
+                "text": "Lipostática."
+            },
+            {
+                "text": "Volémica."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué nombre recibe el efecto que las hormonas sexuales tienen sobre la conducta, y que hace referencia al papel que dichas hormonas ejercen sobre el organismo maduro de forma reversible y temporal? Efecto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "Regulador."
+            },
+            {
+                "text": "Activador.",
+                "correct": true
+            },
+            {
+                "text": "Organizador."
+            }
+        ]
+    },
+    {
+        "text": "Junto con el parámetro electroencefalográfico, ¿qué otros suelen utilizarse para determinar experimentalmente la fase de sueño en la que se encuentra un sujeto?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 86)",
+        "responses": [
+            {
+                "text": "El electrooculograma, la respiración y el tono muscular.",
+                "correct": true
+            },
+            {
+                "text": "El tono muscular, el electrocardiograma y la respuesta de conductancia."
+            },
+            {
+                "text": "La respiración, la respuesta de conductancia y el tono muscular."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los campos de estudio e investigación más importantes en el marco de la psicología de la motivación es el constituido por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 1)",
+        "responses": [
+            {
+                "text": "Los motivos primarios.",
+                "correct": true
+            },
+            {
+                "text": "Los antecedentes filosóficos de la motivación."
+            },
+            {
+                "text": "Los procesos introspectivos."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio del motivo de sed se ha demostrado que las características de los líquidos influyen en su ingesta y que, en este sentido, la variable más importante es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 80)",
+        "responses": [
+            {
+                "text": "El aspecto."
+            },
+            {
+                "text": "El olor."
+            },
+            {
+                "text": "El sabor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos tipos de efectos principales ejercen las hormonas sexuales sobre la conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 114)",
+        "responses": [
+            {
+                "text": "Activador y organizador.",
+                "correct": true
+            },
+            {
+                "text": "Inhibidor y centralizador."
+            },
+            {
+                "text": "De impulso e incentivo."
+            }
+        ]
+    }
+]

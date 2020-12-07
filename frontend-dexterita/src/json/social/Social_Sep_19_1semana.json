@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Cuál es el postulado básico del modelo de probabilidad de elaboración de Petty y Cacciopo?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 274)",
+        "responses": [
+            {
+                "text": "Se procesan claves de la persuasión por medio de esquemas o reglas de decisión que las personas han aprendido por experiencias previas y por observación."
+            },
+            {
+                "text": "Los mensajes pueden llegar a persuadir a través de dos rutas de pensamiento: central o periférica.",
+                "correct": true
+            },
+            {
+                "text": "El cambio de actitudes depende del número de automensajes generados y del balance entre los pensamientos a favor y en contra de la posición defendida por el mensaje."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios realizados sobre sesgos perceptivos en testigos muestran que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 68 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "La memoria no se ve afectada por el razonamiento retrospectivo."
+            },
+            {
+                "text": "La memoria es una fuente de datos fidedigna de nuestras percepciones."
+            },
+            {
+                "text": "Reconstruimos los recuerdos en el momento de la recuperación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones define más acertadamente a la Psicología Social como disciplina?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 4-5)",
+        "responses": [
+            {
+                "text": "Se centra prioritariamente en el análisis del contexto social."
+            },
+            {
+                "text": "Se ocupa de los procesos que tienen que ver con la capacidad y necesidad que tiene el ser humano de relacionarse con los demás.",
+                "correct": true
+            },
+            {
+                "text": "Aplica el sentido común de forma rigurosa para describir los fenómenos sociales de la vida cotidiana."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría tiene como supuesto básico y principal que, a la hora de construir nuestro autoconcepto, nos evaluamos en una serie de características y atributos tomando como referencia las características de los demás?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 182)",
+        "responses": [
+            {
+                "text": "La teoría de la autoafirmación."
+            },
+            {
+                "text": "La teoría de la comparación social.",
+                "correct": true
+            },
+            {
+                "text": "La teoría del “yo espejo”."
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que implica sentirse a gusto con el mundo es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Confianza.",
+                "correct": true
+            },
+            {
+                "text": "Potenciación personal."
+            },
+            {
+                "text": "Pertenencia."
+            }
+        ]
+    },
+    {
+        "text": "El efecto “mejor que la media” se asocia a la motivación de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 189)",
+        "responses": [
+            {
+                "text": "Autoverificación."
+            },
+            {
+                "text": "Autoensalzamiento.",
+                "correct": true
+            },
+            {
+                "text": "Autoexpansión."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denominan las estructuras cognitivas abstractas que son representaciones mentales de personas o contextos sociales que tienen algo en común?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Ejemplar."
+            },
+            {
+                "text": "Esquema social.",
+                "correct": true
+            },
+            {
+                "text": "Inferencia heurística."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes culturas se penalizará más una falta de respeto de los niños a los mayores de su familia?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 62)",
+        "responses": [
+            {
+                "text": "En culturas de alto contacto en comparación con culturas de bajo contacto."
+            },
+            {
+                "text": "En culturas con alta distancia jerárquica en comparación con culturas de baja distancia jerárquica.",
+                "correct": true
+            },
+            {
+                "text": "En culturas individualistas en comparación con culturas colectivistas."
+            }
+        ]
+    },
+    {
+        "text": "Cuando las actitudes sirven para obtener refuerzos o evitar castigos, cumplen una función:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 212-213)",
+        "responses": [
+            {
+                "text": "Instrumental.",
+                "correct": true
+            },
+            {
+                "text": "Defensiva del yo."
+            },
+            {
+                "text": "Expresiva de valores."
+            }
+        ]
+    },
+    {
+        "text": "Las investigaciones de Gerbner y colaboradores sobre los efectos ideológicos de la televisión emplean una doble estrategia formada por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 107-108, Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "El análisis del sistema y el análisis del mensaje."
+            },
+            {
+                "text": "El análisis del cultivo y la aculturación."
+            },
+            {
+                "text": "El análisis sobre el sistema reflejado en el contenido del mensaje y el análisis del cultivo o aculturación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los “yoes posibles” contemplados por las teorías de la autodiscrepancia y de las metas regulatorias es FALSA?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 175)",
+        "responses": [
+            {
+                "text": "Permiten evaluar e interpretar la visión del yo en el presente."
+            },
+            {
+                "text": "Son esquemas muy personales, por lo que el factor social (es decir, los otros) no tiene importancia en su desarrollo.",
+                "correct": true
+            },
+            {
+                "text": "Afectan a la motivación y sirven de incentivo para actuar."
+            }
+        ]
+    },
+    {
+        "text": "Los resultados del estudio de López-Sáez y cols. (1997) muestran que el efecto tercera persona es mayor cuando la comparación de sí mismo se realiza:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 103, Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Con el joven que vota al partido al que yo nunca votaría.",
+                "correct": true
+            },
+            {
+                "text": "Con el joven de mi mismo partido."
+            },
+            {
+                "text": "Con el joven medio."
+            }
+        ]
+    },
+    {
+        "text": "Las tácticas de influencia basadas en el principio de validación social funcionan porque:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 261-262)",
+        "responses": [
+            {
+                "text": "Actúan a través del componente afectivo de las actitudes."
+            },
+            {
+                "text": "Tendemos a pensar que nuestro comportamiento será más correcto si se parece al de los demás.",
+                "correct": true
+            },
+            {
+                "text": "Apelan a nuestra necesidad de reafirmar nuestra identidad personal y de sentirnos valorados por los demás."
+            }
+        ]
+    },
+    {
+        "text": "Los aspectos que tienen que ver con los roles que mantenemos en las relaciones interpersonales diádicas forman parte de la identidad:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 178)",
+        "responses": [
+            {
+                "text": "Interdependiente."
+            },
+            {
+                "text": "Relacional.",
+                "correct": true
+            },
+            {
+                "text": "Colectiva."
+            }
+        ]
+    },
+    {
+        "text": "Una persona tiene miedo a montar en avión porque cada cierto tiempo escucha en las noticias que ha habido algún accidente mortal de aviación en algún lugar del mundo. En cambio, no le da ningún miedo llevar una vida sedentaria y una alimentación alta en grasas animales que, según los médicos, aumenta las probabilidades de que sufra del corazón. ¿Cuál de los siguientes heurísticos es más probable que esté en la base de esta aparente irracionalidad?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 88-91)",
+        "responses": [
+            {
+                "text": "El de representatividad."
+            },
+            {
+                "text": "El de accesibilidad.",
+                "correct": true
+            },
+            {
+                "text": "El de anclaje y ajuste."
+            }
+        ]
+    },
+    {
+        "text": "Las personas y también las culturas difieren en cuanto al grado de ambigüedad que pueden tolerar. María sólo se siente segura cuándo sabe exactamente lo que hay que hacer. ¿En qué tipo de cultura será más probable que María se sienta cómoda?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 63)",
+        "responses": [
+            {
+                "text": "En una cultura con baja tolerancia a la incertidumbre.",
+                "correct": true
+            },
+            {
+                "text": "En una cultura permisiva en la que cada individuo debe decidir cuál es la conducta correcta en cada situación."
+            },
+            {
+                "text": "En una cultura que imponga muy pocas normas, pero donde todo el mundo las cumpla."
+            }
+        ]
+    },
+    {
+        "text": "El delegado de alumnos de una universidad hace una petición muy sencilla a sus compañeros: firmar una solicitud dirigida al rector para que ponga un servicio de préstamo de bicicletas a disposición de los alumnos. Tres días después, los representantes de alumnos convocan a los firmantes a una manifestación portando pancartas dirigidas al rector con esa petición: “Implantación de un sistema de préstamo de bicicletas YA”. ¿Qué táctica de influencia se está empleando?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 256-257)",
+        "responses": [
+            {
+                "text": "Esto no es todo."
+            },
+            {
+                "text": "Bola baja."
+            },
+            {
+                "text": "Pie en la puerta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El congraciamiento es una estrategia de manejo de la impresión:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 129)",
+        "responses": [
+            {
+                "text": "Que se pone en marcha cuando una persona ensalza al perceptor para alterar a su favor el resultado del proceso perceptivo.",
+                "correct": true
+            },
+            {
+                "text": "Que consiste en alegar incapacidad por alguna causa externa para paliar los efectos negativos de algunos comportamientos propios y congraciarnos con el otro."
+            },
+            {
+                "text": "Que consiste en ensalzarse a uno mismo para presentarse ante el perceptor bajo una luz favorable."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos individuales que estudia la Psicología Social se caracterizan por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "No tener un referente social."
+            },
+            {
+                "text": "Tener lugar en el interior del individuo aunque su origen es social.",
+                "correct": true
+            },
+            {
+                "text": "Ser sencillos y simples."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos de combinación lineal sobre la formación de impresiones, la asignación diferencial de peso a los rasgos de una persona:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 124-125)",
+        "responses": [
+            {
+                "text": "Es una idea introducida por el modelo de la media ponderada que supone que no todos los rasgos tienen la misma importancia en todos los contextos.",
+                "correct": true
+            },
+            {
+                "text": "Es una aportación del modelo suma que propone que determinados rasgos, por su importancia, influyen en el significado de los demás rasgos y organizan la imagen completa que nos formamos de la otra persona."
+            },
+            {
+                "text": "Fue propuesta por el modelo promedio y es una idea similar a los rasgos centrales del enfoque de Asch."
+            }
+        ]
+    },
+    {
+        "text": "Heider fue el primer autor que estudió el proceso atributivo desde la Psicología Social. Según él:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 132-133)",
+        "responses": [
+            {
+                "text": "Las personas tienden a explicar las causas del comportamiento en función de factores externos ignorando las causas personales."
+            },
+            {
+                "text": "Las personas actúan como “psicólogos ingenuos” que construyen teorías de sentido común sobre las causas del comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "El grado de responsabilidad que se atribuye al actor depende principalmente de su capacidad."
+            }
+        ]
+    },
+    {
+        "text": "Que la intensidad de las actitudes sea mayor o menor depende de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 206-207)",
+        "responses": [
+            {
+                "text": "Su valencia positiva o negativa."
+            },
+            {
+                "text": "La escala tipo Likert que se emplee."
+            },
+            {
+                "text": "La importancia de esa actitud para la persona.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La saliencia estimular se ha relacionado con el proceso denominado:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "Inconsciencia."
+            },
+            {
+                "text": "Atención selectiva.",
+                "correct": true
+            },
+            {
+                "text": "Recuerdo independiente del estado de ánimo."
+            }
+        ]
+    },
+    {
+        "text": "Según la Teoría de las inferencias correspondientes, para que un efecto sirva como base para realizar una inferencia correspondiente debemos inferir que el actor:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 135)",
+        "responses": [
+            {
+                "text": "No era consciente de las posibles consecuencias de su acción."
+            },
+            {
+                "text": "Ha actuado libre e intencionadamente.",
+                "correct": true
+            },
+            {
+                "text": "Atribuye su propia conducta a causas internas."
+            }
+        ]
+    },
+    {
+        "text": "Las diferencias psicológicas entre culturas se deben a:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "La existencia de diferentes mecanismos psicológicos básicos para cada cultura."
+            },
+            {
+                "text": "Las adaptaciones de los mecanismos psicológicos básicos a las demandas del contexto físico y social.",
+                "correct": true
+            },
+            {
+                "text": "La distinta herencia genética de cada cultura."
+            }
+        ]
+    },
+    {
+        "text": "El sesgo de positividad:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "Está relacionado con el motivo social básico de confianza y con el heurístico de disponibilidad o accesibilidad.",
+                "correct": true
+            },
+            {
+                "text": "Está relacionado con el heurístico de representatividad."
+            },
+            {
+                "text": "Consiste en prestar más atención a la información positiva que a la negativa en relación con uno mismo, pero no en lo que se refiere a los demás."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la disonancia cognitiva:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 227)",
+        "responses": [
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de ser lógicos."
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de reducir el malestar psicológico.",
+                "correct": true
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de tener control sobre nuestras conductas."
+            }
+        ]
+    },
+    {
+        "text": "La premisa de que no es la realidad objetiva sino la realidad construida lo que influye en la forma de pensar, sentir y comportarse de las personas implica que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "Es muy difícil llegar a una visión compartida de la realidad puesto que cada persona la interpreta a su manera."
+            },
+            {
+                "text": "Sólo es posible estudiar el comportamiento social de las personas utilizando métodos subjetivos."
+            },
+            {
+                "text": "La realidad nos afectará de una forma u otra según cómo la interpretemos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La tendencia a creer que otras personas comparten las propias creencias y opiniones se denomina:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 60 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Efecto “Primus inter-pares”."
+            },
+            {
+                "text": "Falsa singularidad."
+            },
+            {
+                "text": "Falso consenso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La norma social subjetiva:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 224)",
+        "responses": [
+            {
+                "text": "Es un antecedente de la actitud."
+            },
+            {
+                "text": "Es el producto de dos factores: actitud por importancia."
+            },
+            {
+                "text": "Es uno de los predictores de la intención de conducta.",
+                "correct": true
+            }
+        ]
+    }
+]

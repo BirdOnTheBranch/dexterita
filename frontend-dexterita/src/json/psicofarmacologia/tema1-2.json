@@ -1,0 +1,717 @@
+[
+  {
+    "text": "El litio debe ser prescrito con cuidado, en la medida en que, a diferencia, por ejemplo, del valproato, está relacionado con conductas suicidas.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 372: Los anticonvulsivantes que incluyen valproato han sido relacionados con conducta suicida, mientras que el litio parece reducir el suicidio en pacientes bipolares",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Todos los fármacos capaces de tratar los síntomas positivos de la esquizofrenia, son antagonistas de los receptores D2 dopaminérgicos.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 165: También los hay que son agonistas parciales aunque, dependiendo de su potencia dentro del espectro antagonista absoluto-agonista total, pudieran activar la ocurrencia de estos síntomas positivos",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "De acuerdo con la Teoría Dopaminérgica de la Esquizofrenia, los síntomas positivos en esta enfermedad serían debidos a una hipoactividad dopaminérgica en la vía mesolímbica.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 90 y Figs. 4-11, 4-12 y 4-13: De acuerdo con esta teoría, los síntomas positivos se explican por una hiperactividad dopaminérgica en la vía mesolímbica, y no por una hipoactividad",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "El umbral de efecto terapéutico de los neurolépticos, se sitúa en valores en torno al 80% de ocupación del receptor D2. Al alcanzar este umbral de ocupación en los receptores D2 de la vía neural implicada de los síntomas positivos de la esquizofrenia, también se afecta, en igual porcentaje, la ocupación de estos mismos receptores en otras vías no involucradas directamente en estos síntomas, pero que tienen importancia de cara al mantenimiento y control de otras conductas y funciones en nuestro organismo. La consecuencia de todo ello es, no sólo un efecto antipsicótico, sino la aparición de una serie de efectos indeseados, tales como, por ejemplo, trastornos extrapiramidales o hiperprolactinemia.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 132-136 y Fig. 5-4",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "De acuerdo con la Teoría Dopaminérgica de la Esquizofrenia, los síntomas negativos, afectivos y cognitivos en esta enfermedad serían debidos a una hipoactividad dopaminérgica en la vía mesocortical (del área tegmental ventral al córtex prefrontal).",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 92 y Fig. 4-14; 4-15 y 4-16",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "El transportador de dopamina DAT es, en sí mismo, un receptor, no así el transportador vesicular VMAT2.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 86: Tanto el transportador DAT como el VMAT2 son receptores",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "La carbamacepina, que actúa sobre la fase maníaca del trastorno bipolar se caracteriza por tener un efecto sedante pudiendo causar toxicidad fetal y provocando efectos en el tubo neural.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 375 y 376",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Existen receptores glutamatérgicos presinápticos, pero estos no actúan como autorreceptores.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 101, Fig. 4-23: Los receptores de glutamato metabotrópicos del Grupo II y III –consultar Tabla 4-7- se localizan presinápticamente, donde actúan como autorreceptores para bloquear la liberación de glutamato",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Los ASD son antipsicóticos atípicos que combinan el antagonismo dopaminérgico D2 con el agonismo del receptor serotoninérgico 5HT2A.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 141 y Fig. 5-12: Los antipsicóticos atípicos ASD combinan el antagonismo dopaminérgico D2 con el antagonismo del receptor serotoninérgico 5HT2A",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Muchos autores mantienen que cuando un antidepresivo provoca manía o hipomanía es porque la persona padece un trastorno del espectro bipolar, en este caso la variante Bipolar III.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 247 y Fig. 6-16",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "La hipótesis de la hipofunción de los receptores NMDA, que intenta explicar las bases biológicas de la esquizofrenia, es incompatible y contraria a la hipótesis dopaminérgica, surgida para el mismo fin.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 107-114: La hipótesis de la hipofunción de NMDA no sólo no es contraria a la hipótesis dopaminérgica, sino que la explica",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Todos los antipsicóticos atípicos son agonistas parciales D2.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs.  167-169 y Fig. 5-35: Existen antipsicóticos atípicos que, en el espectro antagonismo- agonismo puro de los recetores D2, se sitúan prácticamente en el antagonismo puro, junto con los antipsicóticos típicos. Otros, sin embargo (como por ejemplo el aripiprazol), se alejan de ese punto, aproximándose algo al agonismo total dentro del espectro",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "La inhibición del transportador de tirosina en los terminales de las neuronas dopaminérgicas, disminuiría la presencia de dopamina en dicho terminal, pues la tirosina es precursor de la dopamina",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 86",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "El principal objetivo que se pretende cuando se trata con antidepresivos a una persona aquejada de depresión, es conseguir una respuesta al antidepresivo.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 285: El objetivo principal es la remisión y su mantenimiento",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "En el tratamiento de la depresión, independientemente de si se trata de una depresión bipolar o unipolar, hay que empezar a tratar al paciente con un antidepresivo.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 383: El tratamiento de la depresión bipolar, comienza con una prudente determinación de cuándo los síntomas depresivos son debidos a una depresión bipolar y cuando a una unipolar: Si es bipolar, se podría optar por el uso de lamotrigina o un antipsicótico atípico, o la combinación de ambos, mientras se evita el empleo de antidepresivos",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "No parece que los pacientes con estados mixtos de depresión y manía sean especialmente vulnerables al suicidio cuando son tratados con antidepresivos como monoterapia",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 249: Los antidepresivos suelen estar contraindicados como terapia de primera línea o monoterapia en cualquier paciente que presente una depresión bipolar. Los pacientes con estados mixtos de depresión y manía son especialmente vulnerables a la inducción de activación agitación, etc., y a la conducta suicida, cuando son tratados con antidepresivos, especialmente si estos no van acompañados de un estabilizador del humor o un antipsicótico",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "La ocupación del receptor alfa 2 noradrenérgico presináptico en las neuronas noradrenérgicas, activa la liberación de noradrenalina",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 259 y Fig. 6-28: La ocupación del receptor alfa 2 noradrenérgico presináptico, que actúa como autorreceptor, bloquea la liberación de noradrenalina",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Parece que, de los combos para tratar el trastorno bipolar, aquellos que incluyen la combinación entre lamotrigina y ácido valproico son los que, de acuerdo con la práctica, mejor funcionan y no requieren de ningún tipo de precaución.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "ág. 383 y Fig. 8-12: De las combinaciones que no están bien estudiadas en ensayos controlados, pero que tienen cierta evidencia basada en la práctica, aquellas que incluyen la lamotrigina y el valproato [lamotrigina+valproato o lamotrigina+valproato+litio] son aquellas que deben tomarse con precaución, por las interacciones que se presentan entre estos dos fármacos: elevación de los niveles de lamotrigina y la aparición de rash cutáneo. Una estrategia para intentar evitar estos efectos podría ser disminuir la dosis de lamotrigina a la mitad",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Se denomina 'poop-out' o agotamiento, a la respuesta que presentan algunos pacientes que reaccionan con rapidez, pero de forma no mantenida, a los antidepresivos. A este trastorno se le denomina bipolar 0,5.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 243 y Fig. 6-11: A este trastorno se le denomina bipolar 0,25, no 0,5, que es el esquizoafectivo o esquizobipolar, caracterizado por síntomas positivos de psicosis con episodios maniacos, hipomaniacos y depresivos. Págs. 243-247 Figs. 6-12 y 6-13B",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Tras un tratamiento con antidepresivos, hablamos de recurrencia cuando hay una vuelta de la aparición de la sintomatología depresiva después de que se haya alcanzado la recuperación",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 286 y Fig. 7-3",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "En cuanto al control en la liberación de serotonina (5HT) por parte de la noradrenalina, los receptores alfa 1 noradrenérgicos presentes en las neuronas serotoninérgicas actúan como aceleradores en la liberación de 5HT, los alfa 2 como freno",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 262 y Figs. 6-30A a 6-30C",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "La lamotrigina está probada como estabilizador del humor únicamente para la prevención de la depresión",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 376: La lamotrigina está probada como estabilizador del humor para la prevención de recurrencias, tanto de la manía como de la depresión",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Una posible hipótesis que se baraja con respecto a la actuación antimaniaca del ácido valproico es que disminuiría el exceso de neurotransmisión mediante la disminución del flujo de iones a través de los canales de sodio sensibles a voltaje.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 374",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Los antipsicóticos atípicos tienen acciones antipsicóticas equivalentes a las de los convencionales o típicos, pero menor incidencia de síntomas extrapiramidales.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 141",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Los antipsicóticos convencionales o típicos comparten la principal propiedad farmacológica de ser agonistas del receptor dopaminérgico D2.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 132: son antagonistas D2, no agonistas",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Los receptores de dopamina D2 son todos presinápticos, y actúan como autorreceptores.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 88 y Figs. 4-7, 4-8, 4-9 y 4-10: Si bien los receptores D2, existentes en el terminal presináptico actúan como autorreceptores, controlando la liberación de dopamina, y también existen en el área somatodendrítica, actuando también como autorreceptores con las mismas funciones que los presinápticos, existe un porcentaje considerable de ellos en la membrana postsináptica",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Todos los antipsicóticos atípicos están probados para la esquizofrenia y la mayoría para la manía pero solo uno para la depresión bipolar (quetiapina), con otro que cuenta con múltiples ensayos clínicos positivos en depresión bipolar (lurasidona).",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 381",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "La dopamina es destruida, dentro del terminal presináptico, por la enzima MAO A y MAO B; en el espacio extracelular, por la COMT",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 86",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Los antipsicóticos típicos o convencionales, son también denominados neurolépticos, en referencia a la así llamada neurolepsis que provocan, consistente en enlentencimiento psicomotor, aplanamiento afectivo e indiferencia.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 131",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "La dopamina es un precursor de la noradrenalina en las neuronas noradrenérgicas.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 257 y Fig. 6-25",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Las benzodiacepinas son anticonvulsivantes, ansiolíticos, sedantes e hipnóticos, pudiéndose administrar tanto por vía oral como intramuscular.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 381",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "El litio tiene una eficacia probada para episodios depresivos y quizá, en menor medida, para episodios maniacos.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 372: La efectividad del litio está probada para episodios maniacos y en la prevención de recurrencias y quizá, en menor medida, para episodios depresivos",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Sólo un porcentaje cercano al 33% de los pacientes tratados con antidepresivo alcanza la remisión de la sintomatología. En el resto acaecen síntomas residuales. Entre ellos, los más comunes son: humor deprimido, ideación suicida y retraso psicomotor.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 287 y Fig. 7-5: Los síntomas que persisten más comúnmente después de un tratamiento con antidepresivos son: insomnio, fatiga y falta de concentración e interés",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Los antidepresivos inhibidores de la recaptación de serotonina y noradrenalina (SNRI o IRSN), como la desvenlafaxina, no sólo aumentan la serotonina y la noradrenalina en todo el cerebro, sino que también aumentan la dopamina en el córtex prefrontal",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 305 y Fig. 7-34",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "En relación al espectro antagonismo-agonismo total de los receptores D2, un agonismo parcial algo más alejado del antagonismo puro podría mejorar los síntomas negativos de la esquizofrenia, pero también podría activar los positivos.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 168-169 y Fig. 5-35",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "El tratamiento con neurolépticos mejora tanto los síntomas positivos como los negativos en enfermos esquizofrénicos.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 133: La ocupación de los receptores D2 en vía mesolímbica mejora la sintomatología positiva en pacientes esquizofrénicos, pero empeora la negativa, sustentada por una previa disminución de dopamina en la vía mesocortical",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "La inhibición de la MAO B es de una importante estrategia antidepresiva.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 327: La inhibición de la enzima MAO B no es útil como estrategia antidepresiva, ya que no tiene efectos directos sobre la metabolización ni de la serotonina ni de la noradrenalina",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "El transportador presináptico específico para la dopamina (DAT), se encuentra en alta densidad en los terminales axónicos de todas las neuronas dopaminérgicas.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 86: Los DAT en el córtex prefrontal, por ejemplo, son relativamente escasos. Así, la dopamina, en esta estructura, debe ser inactivada por otros mecanismos, como puede ser su captación por el transportador de norepinefrina (NET). La dopamina, al ser captada por el NET –actuando así éste como un falso sustrato- ingresa en la neurona noradrenérgica y contribuye, como precursor, a la síntesis de noradrenalina en estas neuronas noradrenérgicas",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Sólo los receptores alfa 2 noradrenérgicos, puede actuar como postsinápticos y como autorreceptores.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 258 y Figs. 6-27 a 6-29",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Tras el inicio de un tratamiento con un ISRS (inhibidor selectivo de la recaptación de la serotonina), el primer aumento de serotonina (5HT) se produce en el terminal axónico.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 294 y Fig. 7-14: En el área somatodendrítica es donde primero aumenta la 5HT",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Con respecto al litio, algunos de los efectos secundarios observados son: aumento de la función cognitiva, descoordinación y sedación.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 372: Los efectos adversos del litio son bien conocidos e incluyen síntomas gastrointestinales, como dispepsia, nauseas, vómitos y diarrea, así como aumento de peso, caída de cabello, acné, temblor, sedación, reducción de la función cognitiva y descoordinación",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "La hipótesis de la hipofunción de los receptores NMDA para explicar la esquizofrenia, se fundamenta en las observaciones en las que se ve que la administración de fenciclidina (PCP) produce un estado psicótico semejante, en cuanto síntomas positivos y negativos, al mostrado por pacientes esquizofrénicos.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 107",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Para que el receptor glutamatérgico NMDA funcione, además del glutamato, necesita un cotransmisor, que puede ser la glicina o la D- serina (serina).",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 96 y Fig. 4-20; 4-21",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Se sugiere que los ácidos grasos omega-3, al igual que el valproato, tienen la función de inhibir la proteína fosfoquinasa C (PKC).",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 381 y Fig. 8-7",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "La ocupación del receptor alfa 2 noradrenérgico somatodendríticos en las neuronas noradrenérgicas, corta el impulso neuronal y, por tanto, detiene la liberación de noradrenalina.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 259 y Fig. 6-29",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso"}
+    ]
+  },
+  {
+    "text": "De todos los receptores dopaminérgicos conocidos, el D2 es el más estudiado, sobre el que más se han investigado, pues es el sustrato de acción de los antipsicóticos y de los antiparkinsonianos.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 87 y Fig. 4-7",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Las proyecciones serotoninérgicas ascendentes pueden regular el humor, la ansiedad y el sueño, entre otras funciones.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Fig. 6-33",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Parece que la fluoxetina sería un tratamiento antidepresivo adecuado para pacientes con sintomatología depresiva, en la que predominara la hipersomnia, afecto positivo reducido, retraso psicomotor, apatía y fatiga",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 297",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "La discinesia tardía o disquinesia tardía, es un trastornos extrapiramidal secundario (SEP) no deseado, que aparece tras la administración prolongada de neurolépticos, debida a cambios, siempre irreversibles, en los receptores D2 de la vía dopaminérgica nigroestriada o nigroestriatal.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 134-135: La disquinesia tardía puede revertir si se retira el fármaco a tiempo, lo que produce un reajuste, en cuanto a número y sensibilidad, de los receptores D2 en la vía nigroestriatal",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "Los antipsicóticos convencionales con propiedades anticolinérgicas potentes, tienen una mayor tendencia a producir síndromes extrapiramidales (SEP)",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 137-139: Los antipsicóticos convencionales con propiedades anticolinérgicas potentes, tienen una menor tendencia a producir síndromes extrapiramidales que los neurolépticos con propiedades anticolinérgicas débiles",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "La noradrenalina (NE) es degradada por la MAO B, y no por la MAO A, dentro del terminal presináptico",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 257 y 258, y Fig. 6-26: La NE es degradada tanto por la MAO A como por la B. Estas enzimas pueden estar presente tanto dentro del botón terminal, en las mitocondrias, como en el espacio interneuronal",
+    "responses": [
+      { "text": "Verdadero" },
+      { "text": "Falso", "correct": true }
+    ]
+  },
+  {
+    "text": "En casos de trastorno Bipolar IV, suele ser conveniente vigilar la necesidad de un tratamiento distinto a la monoterapia con antidepresivos, bien si el paciente no responde a dicha terapia o presenta ciclación rápida, hipomanía o estados mixtos en respuesta al antidepresivo. Dichos pacientes suelen responder mejor a los estabilizadores de humor",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 248 y Fig. 6-18",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Tras un tratamiento con antidepresivos, hablamos de recaída cuando hay una vuelta de la aparición de la sintomatología depresiva antes de que se haya alcanzado la recuperación.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 286 y Fig. 7-3",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Págs. 257 y 258, y Fig. 6-26: La NE es degradada tanto por la MAO A como por la B. Estas enzimas pueden estar presente tanto dentro del botón terminal, en las mitocondrias, como en el espacio interneuronal",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Pág. 286 y Fig. 7-3",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  },
+  {
+    "text": "Los antipsicóticos atípicos tienen también propiedades antidepresivas y antimaniacas",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "Págs. 169-171",
+    "responses": [
+      { "text": "Verdadero", "correct": true },
+      { "text": "Falso" }
+    ]
+  }
+]

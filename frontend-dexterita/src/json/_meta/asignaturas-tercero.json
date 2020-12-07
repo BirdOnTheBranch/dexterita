@@ -1,0 +1,21 @@
+[
+  {
+    "id":"pgroup-19-feb-1week",
+    "name":"Psicología de los Grupos",
+    "course":"Tercero",
+    "course_dg":"3",
+    "subject":"psicologia_de_grupos",
+    "year": 19,
+    "month": "february",
+    "rating": 19,
+    "questions": 27,
+    "plusScore": 0.33,
+    "minusScore":  0.17,
+    "minutes": 90,
+    "color":"#5a8285",
+    "slogan":"Febrero 2019",
+    "verified": true,
+    "logo":"#logo13",
+    "keywords":["grupos","tercero","emulation"]
+  }
+]

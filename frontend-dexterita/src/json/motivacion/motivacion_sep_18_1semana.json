@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Cuál ha sido la principal crítica realizada a la teoría de la reducción del impulso?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La función activadora e inespecífica que atribuía a los impulsos.",
+                "correct": true
+            },
+            {
+                "text": "El valor organizador y orientativo que definía a su concepción del impulso."
+            },
+            {
+                "text": "La especificidad de la respuesta ante un estímulo."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Técnicas psicofisiológicas para la medición de la motivación: la respuesta de conductancia de la piel. Conforme al planteamiento expuesto en esta práctica, conteste a las siguientes preguntas: Se pone de manifiesto que no existe una relación inversa entre los parámetros de....",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Latencia y amplitud."
+            },
+            {
+                "text": "Duración y latencia."
+            },
+            {
+                "text": "Amplitud y duración.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Centrándonos en el motivo de hambre, ¿cuál es la principal misión de la hormona denominada leptina?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Adaptar el cuerpo a los estados de hambre.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar de manera progresiva el apetito."
+            },
+            {
+                "text": "Ser responsable de las señales de hambre del organismo."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Cuál de los siguientes procesos psicológicos básicos pertenece al grupo de los procesos cognitivos?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La motivación."
+            },
+            {
+                "text": "La emoción."
+            },
+            {
+                "text": "El aprendizaje.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué medida del sistema nervioso central se ha utilizado para medir la activación?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El electromiograma."
+            },
+            {
+                "text": "La actividad electrodermal."
+            },
+            {
+                "text": "El electroencefalograma.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Técnicas psicofisiológicas para la medición de la motivación: la respuesta de conductancia de la piel. Conforme al planteamiento expuesto en esta práctica, conteste a las siguientes preguntas: Se alude a los valores basales, que son los valores relativos a una situación de...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Activación."
+            },
+            {
+                "text": "No estimulación.",
+                "correct": true
+            },
+            {
+                "text": "Relajación."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según Bandura, ¿qué expectativas son las predicciones que realiza un sujeto sobre la seguridad que tiene de poder realizar una conducta o acción concreta? Las ...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Generalizadas."
+            },
+            {
+                "text": "De autoeficacia.",
+                "correct": true
+            },
+            {
+                "text": "De ejecución."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Centrándonos en la teoría de la motivación de logro de Atkinson, ¿qué tipo de tareas suelen elegir las personas que se mueven fundamentalmente con el objeto de evitar el fracaso? Tareas ...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "De dificultad intermedia."
+            },
+            {
+                "text": "Siempre sencillas."
+            },
+            {
+                "text": "O muy difíciles o muy fáciles.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según Cannon, ¿qué función principal tenía la activación en los estados motivacionales de un organismo?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Homeostática de la motivación."
+            },
+            {
+                "text": "Motivacional energética.",
+                "correct": true
+            },
+            {
+                "text": "Direccional de la motivación."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué individuos seleccionan trabajos de dificultad moderada y con cierto nivel de creatividad?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los considerados amotivados."
+            },
+            {
+                "text": "Los extrínsecamente motivados."
+            },
+            {
+                "text": "Los intrínsecamente motivados.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Fisiológicamente, ¿cuál de las siguientes características es propia del sueño lento o NMOR?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La activación de la amígdala y las estructuras del sistema límbico relacionadas con ella."
+            },
+            {
+                "text": "La intervención del sistema nervioso simpático."
+            },
+            {
+                "text": "La existencia de actividad ligada a la rama parasimpática del SNA.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Quién señaló que algunos motivos se aprenden a través de la observación y que son la base de gran parte de la conducta humana motivada?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Cannon."
+            },
+            {
+                "text": "Maslow."
+            },
+            {
+                "text": "Bandura.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Según qué modelo o teoría las ideas son los elementos cognitivos que originan y facilitan la acción?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La teoría de la disonancia cognitiva de Festinger."
+            },
+            {
+                "text": "La teoría ideomotriz de la acción de William James.",
+                "correct": true
+            },
+            {
+                "text": "El modelo de conducta propositiva de Tolman."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué dos factores son relevantes en relación al sueño?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El ciclo sueño-vigilia y los periodos de luz-oscuridad."
+            },
+            {
+                "text": "Los ritmos circadianos y el tiempo transcurrido sin dormir.",
+                "correct": true
+            },
+            {
+                "text": "Los ritmos biológicos y los ritmos impuestos por las demandas ambientales."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿En qué modelo o teoría se establecen cuatro tipos de metas que surgen de la combinación de dos dimensiones, cada una de ellas con dos niveles: la valencia y la finalidad de objetivos?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "En la Teoría ERC de Alderfer."
+            },
+            {
+                "text": "En la Teoría del establecimiento de metas de Locke."
+            },
+            {
+                "text": "En el Modelo de Elliot.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Técnicas psicofisiológicas para la medición de la motivación: la respuesta de conductancia de la piel. Conforme al planteamiento expuesto en esta práctica, conteste a las siguientes preguntas: Se afirma que la relación entre la sudoración y la conductancia eléctrica de la piel es...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Inversa."
+            },
+            {
+                "text": "Curvilínea."
+            },
+            {
+                "text": "Directa.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué teoría defiende que la principal fuente de motivación es la intención de invertir un esfuerzo para conseguir un objetivo?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "De la motivación de logro de Atkinson."
+            },
+            {
+                "text": "Del establecimiento de metas de Locke.",
+                "correct": true
+            },
+            {
+                "text": "De los dos factores de Herzberg."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Dentro de qué campo han sido desarrolladas las técnicas basadas en la medición de la conducta instrumental, manifiesta u observable?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Psicología del aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "Psicología evolutiva."
+            },
+            {
+                "text": "Psicofisiología."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Cuando se investiga cómo y porqué las estructuras cerebrales desencadenan la motivación, ¿a qué nivel de análisis nos estamos refiriendo? Al nivel...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Fisiológico.",
+                "correct": true
+            },
+            {
+                "text": "Experimental."
+            },
+            {
+                "text": "Individual."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "En el ámbito del comportamiento del consumidor, ¿entre qué dos clases de motivos se ha distinguido tradicionalmente? Entre motivos...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Emocionales y de personalidad."
+            },
+            {
+                "text": "Funcionales y psicológicos.",
+                "correct": true
+            },
+            {
+                "text": "Objetivos y racionales."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "A las motivaciones centrales que desde que nacemos están funcionalmente relacionadas con la subsistencia del individuo y de la especie, las llamamos...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Motivaciones intrínsecas."
+            },
+            {
+                "text": "Conductas instintivas."
+            },
+            {
+                "text": "Motivos primarios.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Cómo se denomina el proceso mediante el cual el organismo se autorregula de modo que consiga el equilibrio del medio interno?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Motivación."
+            },
+            {
+                "text": "Homeostasis.",
+                "correct": true
+            },
+            {
+                "text": "Arousal."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué teoría o modelo tiene como objetivo comprender y predecir la intención de una conducta mediante un índice de probabilidad?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La teoría de la acción razonada.",
+                "correct": true
+            },
+            {
+                "text": "El modelo TOTE."
+            },
+            {
+                "text": "La teoría de la disonancia cognitiva."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué medidas se han utilizado con frecuencia para estudiar cuáles son los motivos concretos que conducen al consumo de sustancias adictivas?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las acciones de libre elección."
+            },
+            {
+                "text": "Los autoinformes.",
+                "correct": true
+            },
+            {
+                "text": "La respuesta de conductancia de la piel."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Piense en el binomio motivación-aprendizaje, ¿en qué inciden prioritariamente las investigaciones actuales que se centran en los aspectos motivadores de la conducta aprendida?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "En la naturaleza de las representaciones cognitivas subyacentes que se establecen cuando tienen lugar las relaciones asociativas.",
+                "correct": true
+            },
+            {
+                "text": "En la investigación con humanos a los que se les ha privado de estimulación apetitiva."
+            },
+            {
+                "text": "En la representación mental elaborada por un sujeto que ha observado a un modelo sin que sea preciso que realice la conducta ninguno de los dos."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Cómo se denomina al periodo de tiempo en el que se establece la impronta?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Periodo vulnerable."
+            },
+            {
+                "text": "Intervalo neonato."
+            },
+            {
+                "text": "Periodo crítico.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué disciplina se preocupa por conocer qué cambios fisiológicos, sin intervención sobre el Sistema Nervioso, se producen ante determinadas situaciones estimulares?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La psicología fisiológica."
+            },
+            {
+                "text": "La neurociencia."
+            },
+            {
+                "text": "La psicofisiología.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Desde qué tipo de entrevista es propio resumir los puntos de vista del afectado?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Psicoanalítica."
+            },
+            {
+                "text": "Clínica tradicional."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Técnicas psicofisiológicas para la medición de la motivación: la respuesta de conductancia de la piel. Conforme al planteamiento expuesto en esta práctica, conteste a las siguientes preguntas: La respuesta de conductancia eléctrica de la piel es una actividad...:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Basal."
+            },
+            {
+                "text": "Tónica."
+            },
+            {
+                "text": "Fásica.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué ocurre cuando se han empleado demoras distintas del premio durante la adquisición de una conducta?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Que la demora del premio provoca una mayor resistencia a la extinción de dicha conducta.",
+                "correct": true
+            },
+            {
+                "text": "Que la conducta deja de emitirse en el momento en el que no se dispensa el premio."
+            },
+            {
+                "text": "Que la demora del premio provoca que la respuesta se emita más rápidamente."
+            }
+        ],
+        "feedback": ""
+    }
+]

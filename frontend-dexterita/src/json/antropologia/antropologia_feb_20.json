@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Entre los cazadores-recolectores, la división del trabajo se basa en",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Edad" },
+      { "text": "Género" },
+      { "text": "Edad y género", "correct": true },
+      { "text": "Edad, género y linaje" }
+    ]
+  },
+  {
+    "text": "Según B. Miller, lo más frecuente en sacerdotes y sacerdotisas es que lleguen a este rol mediante:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Acceso por oposición" },
+      { "text": "Elección por voto secreto" },
+      { "text": "Conscripción obligatoria" },
+      { "text": "Sucesión hereditaria", "correct": true }
+    ]
+  },
+  {
+    "text": "La definición de la UNESCO para la tradición oral, lenguas, artes escénicas, rituales y acontecimientos festivos, conocimiento y prácticas sobre la naturaleza y el universo, es:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Patrimonio cultural material" },
+      { "text": "Patrimonio cultural intangible", "correct": true },
+      { "text": "Patrimonio cultural invisible" },
+      { "text": "Patrimonio cultural heredado" }
+    ]
+  },
+  {
+    "text": "Según Huizinga, todo juego es una actividad que",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Carece de reglas" },
+      { "text": "Tiene reglas, ocasionalmente" },
+      { "text": "Tiene reglas", "correct": true },
+      { "text": "Algunos juegos tienen reglas, otros carecen de ellas" }
+    ]
+  },
+  {
+    "text": "Una familia lingüística es",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Un sistema de parentesco asociado a un idioma determinado" },
+      { "text": "Un conjunto de lenguas que descienden de una lengua madre", "correct": true },
+      { "text": "El idioma propio de un determinado linaje" },
+      { "text": "La lengua descendiente de un pidgin" }
+    ]
+  },
+  {
+    "text": "Las ciudades más antiguas del mundo aparecieron en",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El Mediterráneo europeo" },
+      { "text": "Mesopotamia", "correct": true },
+      { "text": "Mesoamérica" },
+      { "text": "Sri Lanka" }
+    ]
+  },
+  {
+    "text": "En la explicación sobre tabúes alimentarios, las posiciones del materialismo cultural y de la antropología simbólica son:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Básicamente la misma" },
+      { "text": "Completamente antagónicas" },
+      { "text": "Distintas, aunque están de acuerdo en que la comida va más allá de sus aspectos exclusivamente nutricionales", "correct": true },
+      { "text": "Los materialistas culturales niegan la existencia de tabúes alimentarios, desde un enfoque emic" }
+    ]
+  },
+  {
+    "text": "Los llamados berdaches, xanith, hijra, kathoey, son distintos ejemplos de la existencia de un mismo fenómeno. Este es",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Canibalismo ritual" },
+      { "text": "Un tercer género", "correct": true },
+      { "text": "Poliandria" },
+      { "text": "Jefaturas de clan" }
+    ]
+  },
+  {
+    "text": "El incremento de la obesidad en muchos países puede considerarse",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Una enfermedad del desarrollo", "correct": true },
+      { "text": "Una enfermedad etiológica" },
+      { "text": "Un caso de etnopatología cultural" },
+      { "text": "Un caso de efecto placebo" }
+    ]
+  },
+  {
+    "text": "Las formas principales de descendencia unilineal son",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Alianza y filiación" },
+      { "text": "Cruzada y paralela" },
+      { "text": "Bilineal y bilateral" },
+      { "text": "Patrilineal y matrilineal", "correct": true }
+    ]
+  }
+]

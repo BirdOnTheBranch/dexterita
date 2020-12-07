@@ -1,0 +1,422 @@
+[
+    {
+        "text": "Ebbinghaus utilizó:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El método del ahorro",
+                "correct": true
+            },
+            {
+                "text": "El método de la reproducción repetida"
+            },
+            {
+                "text": "El modelo de filtro."
+            }
+        ]
+    },
+    {
+        "text": "El método de ahorros consiste en:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Narraciones que los sujetos debían recordar después de distintos periodos."
+            },
+            {
+                "text": "Lista de trigramas  de letras sin sentido.",
+                "correct": true
+            },
+            {
+                "text": "Presentación de objetos y recordarlo después de un proceso distractorio que consiste en ir restando tres desde el 99 al 0."
+            }
+        ]
+    },
+    {
+        "text": "Ebbinghaus:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es de tradición empirista",
+                "correct": true
+            },
+            {
+                "text": "Es de tradición neoconductista."
+            },
+            {
+                "text": "Es de tradición constructivista."
+            }
+        ]
+    },
+    {
+        "text": "El modelo empirista de Ebbinghaus se basaba en tres supuestos (señala el erróneo)",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La existencia de un procesamiento 'arriba-abajo'",
+                "correct": true
+            },
+            {
+                "text": "Las representaciones de la memoria tenían la forma de imágenes."
+            },
+            {
+                "text": "Cuando dos elemento se producen juntos, se asocian en la memoria."
+            }
+        ]
+    },
+    {
+        "text": "En cuanto a Ebbinghaus (señale la incorrecta)",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mostró que funciones mentales superiores podían estudiarse en el laboratorio en condiciones simplificadas y controladas."
+            },
+            {
+                "text": "Un legado importante fue la curva del olvido que muestra el deterioro que se produce en la memoria con el tiempo transcurrido desde el momento del aprendizaje."
+            },
+            {
+                "text": "El proceso de recuerdo se basa en una actitud afectiva que sirve para enmarcar el tema, sin la cual no existiría el recuerdo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Barlett:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estudió el funcionamiento de la memoria en ambientes naturales",
+                "correct": true
+            },
+            {
+                "text": "Sus experimentos carecían de validez ecológica."
+            },
+            {
+                "text": "Uno de sus legados más importantes fue la curva del olvido."
+            }
+        ]
+    },
+    {
+        "text": "Bartlett clasificó los resultados obtenido en las siguientes categorías:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Omisiones, racionalizaciones, transformaciones del contenido y tema dominante.",
+                "correct": true
+            },
+            {
+                "text": "Omisiones, internalizaciones, transformaciones del contenido y tema dominante."
+            },
+            {
+                "text": "Omisiones, subjeciones, transformaciones del contenido y tema dominante."
+            }
+        ]
+    },
+    {
+        "text": "Bartlett propuso:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un procesamiento de abajo-arriba."
+            },
+            {
+                "text": "Un procesamiento de arriba-abajo.",
+                "correct": true
+            },
+            {
+                "text": "Un procesamiento mixto guiado por el significado."
+            }
+        ]
+    },
+    {
+        "text": "William James:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Fue el primero en proponer la condición dual de la memoria.",
+                "correct": true
+            },
+            {
+                "text": "Propuso la existencia de un procesamiento 'arriba-abajo'"
+            },
+            {
+                "text": "Su legado más importante fue la curva del olvido."
+            }
+        ]
+    },
+    {
+        "text": "El modelo de filtro o modelo de selección temprana fue de:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atkinson y Shiffin"
+            },
+            {
+                "text": "Broadbent",
+                "correct": true
+            },
+            {
+                "text": "Craik y Lockhart"
+            }
+        ]
+    },
+    {
+        "text": "El modelo de filtro de Broadbent indica que:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los mensajes irrelevantes son filtrados antes de que se procese el significado del estímulo.",
+                "correct": true
+            },
+            {
+                "text": "Existen tres almacenes de memoria diferentes: sensoriales,corto plazo y largo plazo."
+            },
+            {
+                "text": "Se entiende la memoria como un continuo que va desde la codificación superficial a la profunda."
+            }
+        ]
+    },
+    {
+        "text": "El modelo multialmacen indica que:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los mensajes irrelevantes son filtrados antes de que se procese el significado del estímulo."
+            },
+            {
+                "text": "Existen tres almacenes de memoria diferentes: sensoriales,corto plazo y largo plazo.",
+                "correct": true
+            },
+            {
+                "text": "Se entiende la memoria como un continuo que va desde la codificación superficial a la profunda."
+            }
+        ]
+    },
+    {
+        "text": "Craik y Lockhart estudiaron distintos niveles de procesamiento de la información e indicaron que el nivel de profundidad al que se procesa un estímulo viene determinado por:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una serie de variables como las conexiones con memorias preexistentes, el tiempo invertido en procesar el estímulo, el esfuerzo cognitivo realizado y la modalidad de la entrada sensorial.",
+                "correct": true
+            },
+            {
+                "text": "Una serie de variables como las conexiones con memorias inexistentes, el tiempo invertido en procesar el estímulo, el esfuerzo cognitivo realizado y la modalidad de la entrada sensorial."
+            },
+            {
+                "text": "Una serie de variables como las conexiones con memorias preexistentes, el tiempo invertido en procesar el estímulo, el esfuerzo cognitivo realizado y la modalidad de la salida sensorial."
+            }
+        ]
+    },
+    {
+        "text": " La psicología cognitiva defiende principalmente:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que la mente humana funciona como un programa de ordenador en el que cualquier información compleja puede descomponerse y especificarse a un nivel más simple.",
+                "correct": true
+            },
+            {
+                "text": "Las relaciones existentes entre los procesos mentales y el cerebro humano."
+            },
+            {
+                "text": "El control experimental para que variables extrañas no influyan en los resultados."
+            }
+        ]
+    },
+    {
+        "text": " La neurociencia cognitiva estudia:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que la mente humana funciona como un programa de ordenador en el que cualquier información compleja puede descomponerse y especificarse a un nivel más simple."
+            },
+            {
+                "text": "Las relaciones existentes entre los procesos mentales y el cerebro humano.",
+                "correct": true
+            },
+            {
+                "text": "El control experimental para que variables extrañas no influyan en los resultados."
+            }
+        ]
+    },
+    {
+        "text": "La memoria a largo plazo:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está compuesta por una memoria declarativa que es voluntaria consciente y explicita y que se divide en memoria episódica y semántica.",
+                "correct": true
+            },
+            {
+                "text": "Está compuesta por una memoria declarativa que es involuntaria,consciente y explicita y que se divide en memoria episódica y semántica."
+            },
+            {
+                "text": "Está compuesta por una memoria declarativa que es voluntaria consciente y explicita. Se divide en memoria implícita  y destrezas motoras."
+            }
+        ]
+    },
+    {
+        "text": "La memoria a largo plazo:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está compuesta por una memoria  no declarativa que es involuntaria, inconsciente e implícita y que se divide en memoria episódica y semántica."
+            },
+            {
+                "text": "Está compuesta por una memoria  no declarativa que es voluntaria, inconsciente e implícita.Incluye memoria implícita, destrezas motoras y condicionamiento"
+            },
+            {
+                "text": "Está compuesta por una memoria  no declarativa que es involuntaria, inconsciente e implícita.Incluye memoria implícita, destrezas motoras y condicionamiento",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La MLP puede evaluarse con pruebas de:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Recuerdo libre,recuerdo señalado y priming."
+            },
+            {
+                "text": "Recuerdo libre,recuerdo señalado y reconocimiento.",
+                "correct": true
+            },
+            {
+                "text": "Recuerdo libre,recuerdo señalado y pruebas de olvido."
+            }
+        ]
+    },
+    {
+        "text": "El olvido se puede producir por (señale el erróneo):",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Interferencia creada por otros materiales que aprendimos antes o después"
+            },
+            {
+                "text": "Al encontrar la clave con que la almacenamos",
+                "correct": true
+            },
+            {
+                "text": "La información ha decaído por falta de uso"
+            }
+        ]
+    },
+    {
+        "text": "La técnica que más se utiliza por la neurociencia cognitiva es:",
+        "fecha": {
+            "mes": "tema1",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La resonancia magnética funcional",
+                "correct": true
+            },
+            {
+                "text": "El TAC"
+            },
+            {
+                "text": "La tomografía por emisión de positrones (o TEP)"
+            }
+        ]
+    }
+]

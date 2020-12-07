@@ -1,0 +1,485 @@
+[
+    {
+        "text": "En un informe científico, el apartado llamado 'método' debe contener:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una descripción general del tema: historia, curso y estado actual del problema que se aborda"
+            },
+            {
+                "text": "Toda la información necesaria para que la investigación pueda ser replicada por otro científico",
+                "correct": true
+            },
+            {
+                "text": "Un breve resumen de las investigaciones llevadas a cabo por el autor del informe"
+            }
+        ]
+    },
+    {
+        "text": "En el apartado llamado 'discusión' de un informe científico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se pone la bibliografía sobre el tema que no se ha mencionado en la introducción"
+            },
+            {
+                "text": "El investigador comenta los resultados obtenidos en su trabajo en función de las hipótesis planteadas y de los resultados de otras investigaciones mencionadas en la introducción",
+                "correct": true
+            },
+            {
+                "text": "Se comenta sólo los resultados favorables a las hipótesis experimentales"
+            }
+        ]
+    },
+    {
+        "text": "En el apartado participantes dentro del método:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se describe el procedimiento con el que los sujetos participan en el experimento"
+            },
+            {
+                "text": "Se relacionan todos los instrumentos con los que los sujetos realizan el experimento"
+            },
+            {
+                "text": "Se especifica el número de sujetos y las características más representativas de los mismos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un artículo de una revista especializada si queremos encontrar la hipótesis de la que parte el trabajo la buscaremos en el apartado de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se incluyen todos los resultados de la investigación y se comenta la importancia que tienen para la comunidad científica"
+            },
+            {
+                "text": "Se describen los resultados de la investigación sin comentarlos",
+                "correct": true
+            },
+            {
+                "text": "Las dos pueden ser correctas dependiendo de si se cumplen o no las hipótesis"
+            }
+        ]
+    },
+    {
+        "text": "Las palabras clave en un informe de investigación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sirven para la realización de búsqueda bibliográficas",
+                "correct": true
+            },
+            {
+                "text": "Deben aparecer en el título"
+            },
+            {
+                "text": "Tienen que ser alrededor de 150"
+            }
+        ]
+    },
+    {
+        "text": "En un informe científico, el apartado llamado 'introducción' debe contener:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La línea de ubicación del estudio, la relación entre la investigación y los estudios previos relacionados",
+                "correct": true
+            },
+            {
+                "text": "Un breve resumen de todas las investigaciones llevadas a cabo por el autor del informe, aunque no sean relevantes para el tema"
+            },
+            {
+                "text": "Toda la información necesaria para que la investigación pueda ser replicada por otro científico"
+            }
+        ]
+    },
+    {
+        "text": "'et al.' es una forma de citar autores cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una cita aparece por segunda vez y contiene más de dos autores",
+                "correct": true
+            },
+            {
+                "text": "No se conoce la referencia de ninguno de los autores que han trabajado sobre el tema"
+            },
+            {
+                "text": "Se conoce el primer autor pero se desconocen los restantes"
+            }
+        ]
+    },
+    {
+        "text": "La organización formal de un documento científico implica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una descripción general del tema en la introducción",
+                "correct": true
+            },
+            {
+                "text": "Los resultados"
+            },
+            {
+                "text": "El ser ameno y agradable de leer"
+            }
+        ]
+    },
+    {
+        "text": "En el apartado método de un informe científico, se incluye:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La discusión general"
+            },
+            {
+                "text": "Las palabras clave"
+            },
+            {
+                "text": "El procedimiento llevado a cabo en el estudio y el diseño utilizado",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro del apartado 'método' de un informe de investigación se incluye:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los estudios más importantes relacionados con el tema"
+            },
+            {
+                "text": "Las palabras clave"
+            },
+            {
+                "text": "El número de sujetos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los catálogos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo se encuentran en 'Series y Monografías'"
+            },
+            {
+                "text": "Son fuentes documentales primarias"
+            },
+            {
+                "text": "Se encuentran entre las fuentes documentales secundarias",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la normativa actual de la APA, en un informe de investigación en el apartado de resultados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se reflejan sólo los que son estadísticamente significativos"
+            },
+            {
+                "text": "Conviene señalar la aplicabilidad de éstos a campos concretos"
+            },
+            {
+                "text": "El título de una tabla deberá colocarse en la parte superior de la misma",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un artículo es una fuente documental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Terciaria"
+            },
+            {
+                "text": "Secundaria"
+            },
+            {
+                "text": "Primaria",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la publicación de una investigación, las hipótesis deben aparecer en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En el diseño"
+            },
+            {
+                "text": "En la introducción",
+                "correct": true
+            },
+            {
+                "text": "En el método"
+            }
+        ]
+    },
+    {
+        "text": "El apartado del método debe describir:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Instrumentos, participantes y discusión"
+            },
+            {
+                "text": "Participantes, instrumentos y procedimientos",
+                "correct": true
+            },
+            {
+                "text": "Participantes, resultados y análisis de datos"
+            }
+        ]
+    },
+    {
+        "text": "Las palabras clave en un informe de investigación las encontraremos al final de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El resumen",
+                "correct": true
+            },
+            {
+                "text": "El título"
+            },
+            {
+                "text": "La introducción"
+            }
+        ]
+    },
+    {
+        "text": "En un informe científico, en el apartado de resultados se indican los resultados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que corroboran las hipótesis"
+            },
+            {
+                "text": "De otros trabajos de investigación mencionados en la introducción"
+            },
+            {
+                "text": "De los análisis a que fueron sometidos los datos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un informe de investigación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los resultados de la investigación se presentan en tablas esquemáticas y gráficos",
+                "correct": true
+            },
+            {
+                "text": "En el apartado 'referencias bibliográficas' se hace referencia a todo lo publicado sobre el tema"
+            },
+            {
+                "text": "En el apartado 'método' se incluyen todos los sujetos que forman la población"
+            }
+        ]
+    },
+    {
+        "text": "En la introducción de un documento científico se debe incluir:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El planteamiento del problema",
+                "correct": true
+            },
+            {
+                "text": "Las referencias bibliográficas completas más relevantes para el trabajo"
+            },
+            {
+                "text": "Los resultados más relevantes del trabajo"
+            }
+        ]
+    },
+    {
+        "text": "Si se tiene que realizar un resumen de una investigación siguiendo las normas de la APA, el apartado referido a los participante se incluiría en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La introducción"
+            },
+            {
+                "text": "El método",
+                "correct": true
+            },
+            {
+                "text": "Los análisis de datos"
+            }
+        ]
+    },
+    {
+        "text": "Las comunicaciones realizadas en los congresos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si es un formato póster no tiene que seguir la organización formal de un documento científico"
+            },
+            {
+                "text": "No deben incluir los apartados referidos a métodos y resultados"
+            },
+            {
+                "text": "Se consideran informes de estudios científicos y deben seguir el mismo tratamiento formal",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la organización formal de un documento científico, el apartado método, incluye:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo la descripción de la muestra y el diseño"
+            },
+            {
+                "text": "La descripción del procedimiento seguido en la investigación",
+                "correct": true
+            },
+            {
+                "text": "Una introducción a la investigación"
+            }
+        ]
+    },
+    {
+        "text": "Cuál de estas referencias bibliográficas de un artículo de revista científica es correcta según las normas de la APA:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "11",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "M. Rivero, 1993: La influencia del estilo materno en la adquisición del lenguaje"
+            },
+            {
+                "text": "Magda Rivero: La influencia del estilo materno en la adquisición del lenguaje. Anuario de Psicología, 1993, 57, 45-64"
+            },
+            {
+                "text": "Rivero, M. (1993). La influencia del estilo materno en la adquisición del lenguaje. Anuario de Psicología, 57, 45-64",
+                "correct": true
+            }
+        ]
+    }
+]

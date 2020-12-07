@@ -1,0 +1,723 @@
+[
+    {
+        "text": "¿Qué características estructurales de las neuronas se ha comprobado que pueden cambiar como consecuencia de los procesos de aprendizaje, constituyendo claros ejemplos de la plasticidad neural del SN?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La amplitud y disposición del árbol dendrítico.",
+                "correct": true
+            },
+            {
+                "text": "El número de ramificaciones terminales del axón."
+            },
+            {
+                "text": "La disposición y el grosor de los microtúbulos."
+            },
+            {
+                "text": "Las tres anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "Para calcular la heredabilidad que explica el éxito de la cría selectiva ha de tenerse en cuenta:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La varianza debida al efecto por dominancia."
+            },
+            {
+                "text": "La heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La varianza genética aditiva.",
+                "correct": true
+            },
+            {
+                "text": "La varianza atribuible a la epistasia."
+            }
+        ]
+    },
+    {
+        "text": "Sabemos que durante el período de despolarización de la neurona en el potencial de acción se abren canales iónicos dependientes de voltaje. ¿a qué ion corresponde el canal dependiente de voltaje que se abre en segundo lugar?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Potasio.",
+                "correct": true
+            },
+            {
+                "text": "Calcio."
+            },
+            {
+                "text": "Sodio."
+            },
+            {
+                "text": "Cloro."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que el color de las flores de una planta está determinado por dos genes A y B con diferentes alelos y cuyos valores aditivos son A1=3, A2=2, A3=O, BI=O, 32=2, siendo el color blanco aquel para el que la suma total de valores genotípicos es O y de 10 para el color rojo intenso. Si cruzamos una planta de flores blancas con Otra de flores de color rojo intenso y después, dos de Sus descendientes entre sí, podremos concluir que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El fenotipo con mayor representación en la generación F2 será aquel que presente una suma de valores genotípicos de 5.",
+                "correct": true
+            },
+            {
+                "text": "Dado que desconocemos el genotipo de la Fl, no podemos calcular los valores genotípicos de la generación F2."
+            },
+            {
+                "text": "Solo una planta de cada cien tendrá flores de color rojo intenso."
+            },
+            {
+                "text": "No habrá ninguna planta con flores de color blanco."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que el potencial de acción se desplace desde el cono axónico hacia el terminal axónico y no al revés (desplazamiento anterógrado y no retrógrado), cabe atribuirlo a:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inactivación de los canales de sodio.",
+                "correct": true
+            },
+            {
+                "text": "La acción de la bomba de sodio/potasio."
+            },
+            {
+                "text": "La activación de los canales de sodio."
+            },
+            {
+                "text": "La secuencia de apertura de canales dependientes de voltaje que se inicia con los de sodio y sigue con la de potasio."
+            }
+        ]
+    },
+    {
+        "text": "La recombinación génica:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el intercambio de genes entre cromosomas homólogos.",
+                "correct": true
+            },
+            {
+                "text": "No se da en la meiosis."
+            },
+            {
+                "text": "No es un proceso biológico relevante."
+            },
+            {
+                "text": "No tiene nada que ver con el fenómeno de entrecruzamiento."
+            }
+        ]
+    },
+    {
+        "text": "Tras realizar dos estudios para conocer la heredabilidad de un rasgo, uno con gemelos dicigóticos y otro con padres e hijos, en los que se obtuvo una correlación de 0.4 en ambos casos, podemos concluir que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El 80% de la variabilidad en el rasgo se debe a alelos aditivos.",
+                "correct": true
+            },
+            {
+                "text": "La heredabilidad es de 0.4 en el primer caso y de 0.8 en el segundo."
+            },
+            {
+                "text": "Con cualquiera de los estudios hemos averiguado la heredabilidad en sentido amplio."
+            },
+            {
+                "text": "No hay influencia del ambiente."
+            }
+        ]
+    },
+    {
+        "text": "Cuando por efecto de la selección natural en una población va disminuyendo la frecuencia de los individuos que presentan una característica situada en uno de los extremos de la distribución fenotípica, el tipo de selección que ha estado actuando es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dependiente de la frecuencia."
+            },
+            {
+                "text": "Estabilizadora."
+            },
+            {
+                "text": "Direccional.",
+                "correct": true
+            },
+            {
+                "text": "Disruptiva."
+            }
+        ]
+    },
+    {
+        "text": "En el contexto del Dilema del Prisionero:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La estrategia evolutivamente estable es 'no confesar'."
+            },
+            {
+                "text": "Se asume que los participantes que se enfrentan a este dilema son egoístas y racionales.",
+                "correct": true
+            },
+            {
+                "text": "La solución que favorecería al promedio de la población que se enfrenta a este dilema es 'confesar'."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Suponga que un rasgo psicológico dado estuviera regulado por un solo gen con dos alelos (PI y P2) en una población, que el alelo P2 fuera dominante y que el promedio de los descendientes de las parejas donde uno de los progenitores tuviera el genotipo PIPI fuera de 0,18, mientras que el de los progenitores en los que ninguno de Sus miembros tuviera ese rasgo fuera de 1,5. ¿Cuál será el valor del coeficiente de selección en las parejas en las que ese rasgo no está presente?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "12%."
+            },
+            {
+                "text": "83%."
+            },
+            {
+                "text": "88%.",
+                "correct": true
+            },
+            {
+                "text": "27%."
+            }
+        ]
+    },
+    {
+        "text": "La complementariedad de bases en el genoma establece que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La adenina se une a la timina.",
+                "correct": true
+            },
+            {
+                "text": "La timina se une a la citosina."
+            },
+            {
+                "text": "El uracilo se une a la citosina."
+            },
+            {
+                "text": "La adenina se une a la guanina."
+            }
+        ]
+    },
+    {
+        "text": "En IOS años 80 se inició un estudio longitudinal que duró 15 años sobre envejecimiento y enfermedad de Alzheimer (EA) conocido como el «estudio de las monjas». Participaron 678 religiosas entre 75 y 103 años a las que se realizaron valoraciones anuales de su estado cognitivo. Tras su muerte, se analizaron sus cerebros y se comprobó que existía un número significativo de casos que, a pesar de tener daños cerebrales compatibles con un estado avanzado de la EA, en vida apenas habían mostrado alteraciones cognitivas e incluso algunos casos mostraban una función cognitiva intacta. Se analizaron diferentes variables en relación a la educación y a las capacidades intelectuales de las participantes, observándose que en las religiosas de mayor nivel de formación y actividad intelectual existían importantes discrepancias entre los hallazgos clínicos V los neuropatológicos, algo que hizo pensar en la posibilidad de que determinados factores pudiesen compensar los cambios patológicos que se producen en el cerebro en la EA, cobrando interés el concepto de reserva cognitiva. ¿Qué tipo de contrastación empírica fue utilizada en este estudio?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Contrastación observacional.",
+                "correct": true
+            },
+            {
+                "text": "Contrastación experimental."
+            },
+            {
+                "text": "Intervención somática."
+            },
+            {
+                "text": "Intervención conductual."
+            }
+        ]
+    },
+    {
+        "text": "Sabemos que forma/n parte de la circulación anterior del encéfalo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La arteria basilar."
+            },
+            {
+                "text": "Las arterias vertebrales."
+            },
+            {
+                "text": "La arteria carótida interna.",
+                "correct": true
+            },
+            {
+                "text": "Las arterias cerebrales posteriores."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la conducta sexual de la rata, como la de muchos otros mamíferos, sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Depende enteramente de Su sexo genético."
+            },
+            {
+                "text": "Las hormonas gonadales tienen un efecto activacional durante periodos críticos en la fase temprana del desarrollo."
+            },
+            {
+                "text": "La testosterona ejerce un efecto organizacional en determinadas áreas cerebrales.",
+                "correct": true
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes elementos NO forma parte de la sinapsis propiamente dicha?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las vesículas sinápticas."
+            },
+            {
+                "text": "Los receptores postsinápticos."
+            },
+            {
+                "text": "El cono axónico.",
+                "correct": true
+            },
+            {
+                "text": "Los neurotrasmisores."
+            }
+        ]
+    },
+    {
+        "text": "Una mutación puntual que da lugar en la proteína al mismo aminoácido original se denomina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De marco."
+            },
+            {
+                "text": "Polimorfismo de un solo nucleótido (SNP)."
+            },
+            {
+                "text": "Silenciosa.",
+                "correct": true
+            },
+            {
+                "text": "De pérdida de función."
+            }
+        ]
+    },
+    {
+        "text": "De un rasgo cuantitativo sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se denomina también discreto."
+            },
+            {
+                "text": "Se expresa o no en el fenotipo pero no presenta valores intermedios."
+            },
+            {
+                "text": "Sus distintos fenotipos se explican por diferentes valores genotípicos.",
+                "correct": true
+            },
+            {
+                "text": "Es casi siempre monogénico."
+            }
+        ]
+    },
+    {
+        "text": "Entendemos por altruismo reproductivo cualquier conducta:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que promueva la abstinencia sexual en aras a la supervivencia de la especie."
+            },
+            {
+                "text": "Encaminada a compartir propios gametos con el máximo número de congéneres."
+            },
+            {
+                "text": "Que ponga al servicio de la población el mayor número de descendientes directos."
+            },
+            {
+                "text": "Que favorezca la reproducción de un congénere en detrimento de la propia reproducción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Todos los rasgos de la personalidad tienen herencia poligénica, pero suponga que la Franqueza fuera un rasgo regulado por un solo gen con dos alelos, Fl y F2, siendo Fl el dominante. Suponga también que tras un estudio hecho a gran escala en 2015 en una población española se determinó que 2,4 millones de personas tenían el genotipo homocigótico dominante, 3 millones el heterocigoto y 0,6 millones el homocigótico recesivo. Si esa población fuera de 6 millones de personas, ¿cuál será la frecuencia del alelo recesivo?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,35.",
+                "correct": true
+            },
+            {
+                "text": "0,1."
+            },
+            {
+                "text": "0,55."
+            },
+            {
+                "text": "0,65."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos mentales:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son producto de la actividad neural."
+            },
+            {
+                "text": "Son resultado de los procesos evolutivos del cerebro."
+            },
+            {
+                "text": "Hacen posible la conducta y son del interés de la psicobiología."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué afirmación es incorrecta en relación con las pautas de acción fija?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son estereotipadas."
+            },
+            {
+                "text": "Son desencadenadas por cualquier estímulo.",
+                "correct": true
+            },
+            {
+                "text": "Son exhibidas por todos los miembros de la especie."
+            },
+            {
+                "text": "Son autorreguladas."
+            }
+        ]
+    },
+    {
+        "text": "En el síndrome de Down:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Siempre hay una trisomía 21."
+            },
+            {
+                "text": "Puede darse porque se triplica el material genético del cromosoma 21.",
+                "correct": true
+            },
+            {
+                "text": "Siempre hay alteraciones en el número de cromosomas."
+            },
+            {
+                "text": "Se debe a una monosomía 21."
+            }
+        ]
+    },
+    {
+        "text": "El bloqueo farmacológico de la bomba de sodio/potasio, por ejemplo con ouabaína, provoca a la larga:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hiperpolarización."
+            },
+            {
+                "text": "Inactivación de los canales de sodio dependientes de voltaje."
+            },
+            {
+                "text": "Supresión del potencial de reposo.",
+                "correct": true
+            },
+            {
+                "text": "Salida de aniones proteicos al exterior de la neurona."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué opción identifica correctamente la superficie del tronco del encéfalo que aparece representada en la Figura, la división más rostral de este componente del encéfalo y las estructuras que señalan los números indicados?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb17_2semana_1.jpg",
+        "responses": [
+            {
+                "text": "Ventral. bulbo raquídeo. 5 V 6: tubérculos cuadrigéminos. 10: pirámides."
+            },
+            {
+                "text": "Dorsal. mesencéfalo. 4: nervio troclear (IV). 6: colículo superior. 10: columnas dorsales.",
+                "correct": true
+            },
+            {
+                "text": "Ventral. mesencéfalo. 1: decusación piramidal. 5: calículo inferior. 8: oliva."
+            },
+            {
+                "text": "Dorsal. puente. 2: IV ventrículo. 3: pedúnculos cerebrales. 7: glándula pineal."
+            }
+        ]
+    },
+    {
+        "text": "Un potencial postsináptico excitatorio se producirá cuando el neurotrasmisor se una al receptor postsináptico haciendo que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se abran directa o indirectamente canales que permiten la entrada de iones negativos en la neurona postsináptica."
+            },
+            {
+                "text": "La neurona postsináptica se hiperpolarice."
+            },
+            {
+                "text": "Se abran los canales que permiten la salida de iones potasio del interior celular."
+            },
+            {
+                "text": "Directa o indirectamente se abran canales que permiten la entrada de iones positivos en la neurona postsináptica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los microtúbulos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se ocupan del transporte de sustancias entre el soma y los botones terminales del axón.",
+                "correct": true
+            },
+            {
+                "text": "Están directamente implicados en el intercambio de sustancias entre el interior y el exterior celular."
+            },
+            {
+                "text": "Son las proteínas tubulares del retículo endoplasmático."
+            },
+            {
+                "text": "Son los componentes más abundantes en el citoesqueleto neuronal."
+            }
+        ]
+    },
+    {
+        "text": "Un gen puede estar involucrado en varios rasgos fenotípicos, lo que se conoce como:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Recombinación."
+            },
+            {
+                "text": "Epistasia."
+            },
+            {
+                "text": "Pleiotropismo.",
+                "correct": true
+            },
+            {
+                "text": "Dominancia incompleta."
+            }
+        ]
+    },
+    {
+        "text": "Los astrocitos son un tipo de células gliales fundamentales para el funcionamiento del SN porque:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intervienen de modo activo en el procesamiento y transmisión de la información.",
+                "correct": true
+            },
+            {
+                "text": "Son elementos claves para la defensa inmunitaria del SNP."
+            },
+            {
+                "text": "Participan en el mantenimiento del líquido cefalorraquídeo."
+            },
+            {
+                "text": "Sus prolongaciones forman la vaina de mielina que envuelve los axones de las neuronas del SNC."
+            }
+        ]
+    },
+    {
+        "text": "La competencia espermática es poco probable que se dé en:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La poliginia.",
+                "correct": true
+            },
+            {
+                "text": "La poliandria."
+            },
+            {
+                "text": "La poliginandria."
+            },
+            {
+                "text": "Cualquiera de las opciones anteriores."
+            }
+        ]
+    },
+    {
+        "text": "Los homeogenes que dirigen la formación del sistema nervioso central en prácticamente todos los animales son ejemplo de genes:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2017",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Parálogos."
+            },
+            {
+                "text": "Heterocigóticos."
+            },
+            {
+                "text": "Ortólogos.",
+                "correct": true
+            },
+            {
+                "text": "Homocigóticos."
+            }
+        ]
+    }
+]

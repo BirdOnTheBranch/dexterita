@@ -1,0 +1,722 @@
+[
+    {
+        "text": "Si los estímulos sensoriales que afectan al lado izquierdo del cuerpo se transmiten al hemisferio cerebral izquierdo, decimos que dicha información se ha transmitido:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Contralateralmente."
+            },
+            {
+                "text": "Ipsilateralmente.",
+                "correct": true
+            },
+            {
+                "text": "Horizontalmente."
+            },
+            {
+                "text": "Sagitalmente."
+            }
+        ]
+    },
+    {
+        "text": "Sobre la conducta podemos decir que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se puede analizar en términos de fenotipo."
+            },
+            {
+                "text": "No tiene base genética."
+            },
+            {
+                "text": "En ningún caso puede relacionarse con genes mendelianos."
+            },
+            {
+                "text": "Es difícil, pero no imposible, definirla en términos de rasgo fenotípico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los ciervos compiten con sus semejantes por el acceso a las hembras. Analizando las pinturas prehistóricas se ha observado que el tamaño de los ciervos macho no ha variado significativamente a lo largo de los años. Esta circunstancia puede entenderse como un caso de selección:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Direccional."
+            },
+            {
+                "text": "Estabilizadora.",
+                "correct": true
+            },
+            {
+                "text": "Dependiente de frecuencia."
+            },
+            {
+                "text": "Disruptiva."
+            }
+        ]
+    },
+    {
+        "text": "Las leyes de la transmisión genética descritas por Mendel se aplican a los rasgos fenotípicos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Discretos o cualitativos."
+            },
+            {
+                "text": "Continuos."
+            },
+            {
+                "text": "Cuantitativos."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones que ocasionan el que quede alterada la secuencia de lectura de tripletes, como ocurre cuando se inserta o se elimina un nucleótido de la cadena de ADN, reciben el nombre de mutaciones:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Letales."
+            },
+            {
+                "text": "Recesivas."
+            },
+            {
+                "text": "Germinales."
+            },
+            {
+                "text": "De marco (frameshift mutation).",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde un punto de vista sociobiológico, cuando el amamantamiento ya no es necesario para la supervivencia de una cría, lo más lógico para esa cría es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Llorar, por aquello de que «el que no llora no mama»."
+            },
+            {
+                "text": "Matar al hermano."
+            },
+            {
+                "text": "Impedir que la madre amamante a otro hermano menor."
+            },
+            {
+                "text": "No impedir que el hermano menor mame.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "A los receptores nicotínicos se une:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La acetilcolina.",
+                "correct": true
+            },
+            {
+                "text": "Los endocannabinoides."
+            },
+            {
+                "text": "La dopamina."
+            },
+            {
+                "text": "El GABA."
+            }
+        ]
+    },
+    {
+        "text": "Los cuerpos celulares de las neuronas que envían información sensorial a la médula espinal se ubican:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En los nervios craneales."
+            },
+            {
+                "text": "En los ganglios de la raíz ventral."
+            },
+            {
+                "text": "Fuera de los agujeros intervertebrales."
+            },
+            {
+                "text": "En los ganglios raquídeos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Revisando el devenir histórico de la Psicología científica, sabemos que la Psicobiología:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Introdujo el organismo (O) en el paradigma explicativo del comportamiento."
+            },
+            {
+                "text": "Estableció un nuevo marco explicativo integrando los conocimientos de la Psicología científica y diversas disciplinas del campo de la Biología.",
+                "correct": true
+            },
+            {
+                "text": "Introdujo el paradigma E-R en la Psicología científica."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "La Neuroetología:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Surge como síntesis de la Etología y de las Neurociencias."
+            },
+            {
+                "text": "Trata de averiguar cuáles son y cómo funcionan los circuitos neurales que subyacen a las pautas de acción fija."
+            },
+            {
+                "text": "Estudia el efecto que sobre la conducta y el SN ejercen los estímulos desencadenadores innatos."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con las bombas iónicas sodio/potasio sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por cada tres iones de sodio que introducen en la célula sacan dos iones potasio al exterior."
+            },
+            {
+                "text": "Su actividad representa el principal mecanismo para restablecer las diferencias de concentración iónica del potencial de reposo.",
+                "correct": true
+            },
+            {
+                "text": "Su actividad implica un mínimo consumo energético (A T P)."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Si la correlación obtenida entre gemelos dicigóticos en un determinado rasgo conductual es de 0.30 ¿cuál podría ser el valor aproximado de la heredabilidad de dicho rasgo?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.60.",
+                "correct": true
+            },
+            {
+                "text": "0.90."
+            },
+            {
+                "text": "0.30."
+            },
+            {
+                "text": "0.15."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que un exceso en la expresión del gen SOX9 determine la aparición de un fenotipo masculino independientemente de la presencia o no del cromosoma Y en el genoma, es una prueba de que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Este gen SOX9 se halla en el cromosoma Y."
+            },
+            {
+                "text": "La determinación del sexo fenotípico es el resultado del grado de actividad de determinados genes.",
+                "correct": true
+            },
+            {
+                "text": "Este gen está inactivado en las hembras."
+            },
+            {
+                "text": "La presencia del cromosoma Y en el genoma es una prueba definitiva de masculinidad."
+            }
+        ]
+    },
+    {
+        "text": "Las membranas de las células endoteliales encefálicas cuentan con mecanismos que devuelven al torrente sanguíneo sustancias extrañas que han atravesado la barrera hematoencefálica, las cuales son de naturaleza:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Liposoluble.",
+                "correct": true
+            },
+            {
+                "text": "Hidrosoluble."
+            },
+            {
+                "text": "Proteica."
+            },
+            {
+                "text": "Enzimática."
+            }
+        ]
+    },
+    {
+        "text": "En una investigación realizada por Hargrave et al. (2016, Behavioral Neuroscience, 130, 1, 123—135) expusieron a ratas macho a una dieta rica en grasas y azúcar-dextrosa (que denominaron dieta occidental), y en relación a su ganancia de peso hicieron dos grupos: 1. ratas con obesidad inducida por la dieta y 2. ratas resistentes a las propiedades obesogénicas de la dieta occidental. Un grupo control recibió una dieta equilibrada para animales de laboratorio. Pasados determinados periodos de tiempo, analizaron el nivel de permeabilidad de la barrera hematoencefálica en el hipocampo, entre otras regiones del encéfalo. Sus resultados indicaron que sólo en el grupo con obesidad inducida se observaba un aumento de la permeabilidad de la barrera hematoencefálica en el hipocampo. Las variables de esta investigación son:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "VD: permeabilidad de la barrera hematoencefálica."
+            },
+            {
+                "text": "VI: dieta suministrada y VD: permeabilidad de la barrera hematoencefálica.",
+                "correct": true
+            },
+            {
+                "text": "VI: permeabilidad de la barrera hematoencefálica."
+            },
+            {
+                "text": "VI: dieta suministrada."
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones puntuales en los intrones (que al igual que las que se producen en los exones dan lugar a polimorfismos de un solo nucleótido):",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ocasionan por lo general un cambio de lectura en la secuencia de tripletes."
+            },
+            {
+                "text": "Son menos frecuentes que las que se dan en los exones."
+            },
+            {
+                "text": "Tienen menos efectos sobre el fenotipo que las que tienen lugar en los exones.",
+                "correct": true
+            },
+            {
+                "text": "Suelen ser dominantes."
+            }
+        ]
+    },
+    {
+        "text": "El acueducto cerebral conecta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los ventrículos laterales entre sí."
+            },
+            {
+                "text": "El cuarto ventrículo con el espacio subaracnoideo."
+            },
+            {
+                "text": "Los ventrículos laterales con el tercer ventrículo."
+            },
+            {
+                "text": "El cuarto ventrículo con el tercer ventrículo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los últimos datos de los estudios de genética de la inteligencia ponen de manifiesto que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A medida que aumenta la edad, crece la influencia del ambiente."
+            },
+            {
+                "text": "A medida que aumenta la edad, disminuye el valor de la heredabilidad."
+            },
+            {
+                "text": "Los factores ambientales que explican la variabilidad que no explica la variabilidad genética, son peculiares para cada individuo, es decir, no comunes para quienes viven en un mismo entorno.",
+                "correct": true
+            },
+            {
+                "text": "La influencia del ambiente compartido sobre el Cl es muy alta."
+            }
+        ]
+    },
+    {
+        "text": "En relación con las adicciones a sustancias psicoactivas sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La serotonina media en los efectos negativos o inductores de malestar."
+            },
+            {
+                "text": "La dopamina media en los efectos agradables.",
+                "correct": true
+            },
+            {
+                "text": "La noradrenalina media en los efectos reforzadores."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Cuando el sistema de apareamiento es la poliandria:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los machos compiten por el acceso a las hembras."
+            },
+            {
+                "text": "En aves, las hembras llegan a cometer infanticidio en nidadas de otras hembras empolladas por un macho y nunca habrá seguridad absoluta de que el macho que se ocupa de una puesta sea el progenitor.",
+                "correct": true
+            },
+            {
+                "text": "Nunca habrá seguridad absoluta de que el macho que se ocupa de una puesta sea el progenitor."
+            },
+            {
+                "text": "En aves, las hembras llegan a cometer infanticidio en nidadas de otras hembras empolladas por un macho."
+            }
+        ]
+    },
+    {
+        "text": "La heredabilidad:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede calcularse a partir de las correlaciones fenotípicas entre individuos cuyo parentesco genético es conocido."
+            },
+            {
+                "text": "Puede calcularse evaluando el efecto de la cría selectiva entre dos generaciones."
+            },
+            {
+                "text": "Es la proporción de variabilidad observada en un rasgo fenotípico atribuible a diferencias genéticas."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con el potencial de acción sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La actividad de los astrocitos contribuye a que el potencial de membrana recupere su estado de reposo."
+            },
+            {
+                "text": "El que los canales de potasio dependientes de voltaje permanezcan abiertos favorece la recuperación del estado de reposo."
+            },
+            {
+                "text": "La actividad de los astrocitos contribuye a que el potencial de membrana recupere su estado de reposo y el que los canales de potasio dependientes de voltaje permanezcan abiertos favorece la recuperación del estado de reposo.",
+                "correct": true
+            },
+            {
+                "text": "Durante la hiperpolarización final la neurona no puede generar un nuevo impulso nervioso."
+            }
+        ]
+    },
+    {
+        "text": "Desde el punto de vista de la Sociobiología, las conductas sociales:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son rasgos fenotípicos con base genética que afectan de modo exclusivo a la aptitud directa."
+            },
+            {
+                "text": "Pueden estudiarse aplicando las leyes de la genética de poblaciones.",
+                "correct": true
+            },
+            {
+                "text": "No están sujetas a la selección natural."
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Un padre y su hijo están de visita en el Museo de Ciencias Naturales. Al niño de repente le llaman mucho la atención unos fósiles expuestos en una de las vitrinas de la sala y le pregunta a su padre: 'Papá, ¿qué son esos animales de piedra y por qué son tan raros?'. El padre, conmovido por la inocencia de su hijo responde: 'Hijo mío, eso que ves ahí son los intentos de la naturaleza para alcanzar la perfección que tienen los animales de hoy en día. Imagina que todos los animales que existen hoy representan lo mejor a lo que se puede llegar, pero antes la naturaleza se ha tenido que equivocar, ha tenido que ensayar, esos ensayos son esos animales de piedra que ves ahí'. En base a sus conocimientos de la historia de la Teoría de la Evolución diría que la respuesta del padre se enmarca en una aproximación:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Neodarwinista."
+            },
+            {
+                "text": "Lamarckista.",
+                "correct": true
+            },
+            {
+                "text": "Linneista."
+            },
+            {
+                "text": "Darwinista."
+            }
+        ]
+    },
+    {
+        "text": "Algunos organismos han desarrollado, como mecanismo de defensa o para capturar presas, toxinas que afectan específicamente a los canales iónicos. Así, la alfa-toxina del escorpión Leirus quinquestriatus hace más lenta la inactivación de los canales de Na<sup>+</sup> dependientes de voltaje. ¿Qué consecuencia tendrá?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se producirá el potencial de acción."
+            },
+            {
+                "text": "Se prolongará mucho la duración del periodo refractario absoluto."
+            },
+            {
+                "text": "Se prolongará durante mucho tiempo la fase ascendente del potencial de acción.",
+                "correct": true
+            },
+            {
+                "text": "Se producirá una hiperpolarización."
+            }
+        ]
+    },
+    {
+        "text": "Unos investigadores en genética de poblaciones advirtieron que la variante heterocigota de un determinado gen dialélico tenía una frecuencia relativa menor que la frecuencia relativa del alelo recesivo de ese gen. Esta situación es compatible con una situación de desequilibrio, lo que quiere decir que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La frecuencia del genotipo heterocigoto equivale al doble del producto de la frecuencia de los dos alelos."
+            },
+            {
+                "text": "Aunque haya desequilibrio, las frecuencias genotípicas y alélicas sí cumplen la ley del Equilibrio de Hardy-Weinberg."
+            },
+            {
+                "text": "Los individuos heterocigotos están sujetos a procesos de selección.",
+                "correct": true
+            },
+            {
+                "text": "Las frecuencias genotípicas y alélicas de una generación serán necesariamente las mismas que las de la generación anterior."
+            }
+        ]
+    },
+    {
+        "text": "Decimos que una pauta de acción fija es autoinhibida porque:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una vez iniciada la secuencia de reflejos llega a su fin, independientemente de las circunstancias."
+            },
+            {
+                "text": "El hecho de que se despliegue una vez hace que sea más difícil provocarla una segunda vez.",
+                "correct": true
+            },
+            {
+                "text": "Es provocada por un estímulo desencadenador innato."
+            },
+            {
+                "text": "Es independiente de la experiencia."
+            }
+        ]
+    },
+    {
+        "text": "Algunos homeogenes, como Hox 1, dirigen la formación del SNC prácticamente en todos los animales. A estos genes se les llama:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dominantes."
+            },
+            {
+                "text": "Ortólogos.",
+                "correct": true
+            },
+            {
+                "text": "Pleiotrópicos."
+            },
+            {
+                "text": "Parálogos."
+            }
+        ]
+    },
+    {
+        "text": "Una variante de un gen es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un fenotipo."
+            },
+            {
+                "text": "Un pedigrí."
+            },
+            {
+                "text": "Un genotipo."
+            },
+            {
+                "text": "Un alelo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la cara ventral del mesencéfalo, las estructuras más evidentes son:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los colículos inferiores."
+            },
+            {
+                "text": "Las pirámides."
+            },
+            {
+                "text": "Los pedúnculos cerebrales.",
+                "correct": true
+            },
+            {
+                "text": "Los colículos superiores."
+            }
+        ]
+    }
+]

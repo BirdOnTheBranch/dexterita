@@ -1,0 +1,485 @@
+[
+  {
+    "text": "¿A qué nos referimos cuando hablamos de “blanco de la influencia” ?",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la página 181, 'individuo' o 'blanco de la influencia', constituye el sujeto de estudio en los procesos de influencia, que no es otro que el individuo sobre el que actúa la fuente de influencia",
+    "responses": [
+      { "text": "A la respuesta de una fuente de influencia" },
+      { "text": "Al individuo objeto de influencia", "correct": true },
+      { "text": "A la propia fuente de influencia" }
+    ]
+  },
+  {
+    "text": "Uno de los supuestos del Método de Observación de Bales consiste en que cada individuo puede ser analizado en función del impacto que ejerce sobre los problemas de tarea, sociales y/o emocionales. ¿De qué supuesto se trata?:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Pg. 377. Lo que se describe en la pregunta es lo que Bales plantea como supuesto adicional. No existe supuesto instrumental",
+    "responses": [
+      { "text": "Del supuesto fundamental" },
+      { "text": "Del supuesto adicional", "correct": true },
+      { "text": "Del supuesto instrumental" }
+    ]
+  },
+  {
+    "text": "¿Cuáles son los mecanismos causales de la formación de los grupos propuestos desde el enfoque evolucionista?",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la página 88, para los evolucionistas habría dos mecanismos causales de la formación de los grupos, la eficacia biológica inclusiva, es decir, la ventaja reproductiva que la pertenencia grupal supone para los individuos y el apego. La identidad social y la cohesión serían procesos que se producen una vez que el grupo se ha formado.",
+    "responses": [
+      { "text": "La eficacia biológica inclusiva y el apego", "correct": true },
+      { "text": "La identidad social y el apego" },
+      { "text": "La cohesión y el apego" }
+    ]
+  },
+  {
+    "text": "Señale cuál de las siguientes características es propia de los Grupos de Discusión:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "(pp. 343-344): Los grupos de discusión tienen como característica ser una conversación cuidadosamente planeada (a correcta), no espontánea (b incorrecta), ni en un ambiente no permisivo y directivo (c incorrecta)",
+    "responses": [
+      { "text": "Es una conversación cuidadosamente planeada", "correct": true },
+      { "text": "Es una conversación espontánea para obtener la mayor cantidad de información posible" },
+      { "text": "Se realiza en un ambiente no permisivo y directivo" }
+    ]
+  },
+  {
+    "text": "Cuando se estudia cómo el tamaño del grupo, o las características demográficas de sus integrantes pueden influir en los procesos de elección y de toma de decisión grupal, estamos analizando la composición del grupo como: ",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como consta en la página 118, Cuando se estudia cómo tamaño del grupo, o las características demográficas de los integrantes del grupo o sus rasgos de personalidad o sus opiniones pueden influir en los procesos de elección y de toma de decisión grupal, se analiza la composición de grupo como causa",
+    "responses": [
+      { "text": "Consecuencia" },
+      { "text": "Contexto" },
+      { "text": "Causa", "correct": true }
+    ]
+  },
+  {
+    "text": "Según Levine, las minorías suele ser numéricamente más pequeñas y tener:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Además de ser numéricamente más pequeñas que las mayorías, las minorías se muestran menos propensas a abogar por el punto de vista dominante de la sociedad en general (es decir, el Zeitgeist) y poseen un menor estatus y poder relativo en el grupo (p. 182).",
+    "responses": [
+      { "text": "Más propensión a adoptar el punto de vista dominante" },
+      { "text": "Un mayor estatus en sociedades igualitarias" },
+      { "text": "Menos propensas a abogar por el punto de vista dominante de la sociedad en general", "correct": true }
+    ]
+  },
+  {
+    "text": "Los modelos multidimensionales de la cohesión, comparados con los unidimensionales:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la p. 99 los modelos multidimensionales de la cohesión tienen una mayor capacidad predictiva que los modelos unidimensionales. Además permiten analizar la relación entre los diferentes tipos de cohesión y diversos procesos y resultados grupales",
+    "responses": [
+      { "text": "Tienen una mayor capacidad predictiva", "correct": true },
+      { "text": "Tienen una menor capacidad predictiva" },
+      { "text": "No permiten examinar la relación entre los distintos tipos de cohesión y diversos procesos y resultados grupales" }
+    ]
+  },
+  {
+    "text": "El estudio de Moscovici y Zavalloni (1969) sobre polarización grupal concluyó que:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como consta en la página 248, la polarización era mayor cuando el grupo debía comprometerse con una determinada posición y cuanto más diferencia había entre las opiniones iniciales de los individuos y del grupo. Además la polarización se producía en dilemas de elección, tendencia al riesgo y en ítems actitudinales",
+    "responses": [
+      { "text": "El efecto de polarización era menor cuando el grupo debía comprometerse con una determinada posición" },
+      { "text": "El efecto de polarización era mayor cuanto más diferencia había entre las opiniones iniciales de los individuos y del grupo", "correct": true },
+      { "text": "La polarización no se producía ante ítems actitudinales" }
+    ]
+  },
+  {
+    "text": "¿Cómo se denomina la técnica de investigación cualitativa que, mediante la discusión en grupo de seis a diez personas, tratan de generar ideas para la discusión de un problema?",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "En la página 345 del manual se explica en qué consiste cada una de estas técnicas, y la definida en el enunciado es la descripción referente a los Grupos Nominales",
+    "responses": [
+      { "text": "Brainstorming" },
+      { "text": "Técnica Delphi." },
+      { "text": "Grupos Nominales", "correct": true }
+    ]
+  },
+  {
+    "text": "Al hablar del papel de la autoestima en la discriminación intergrupal, se debe considerar la autoestima como:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Para poder evaluar el papel de la autoestima en la discriminación intergrupal, es preciso tener en cuenta algunas matizaciones que no se han considerado suficientemente en parte de esa investigación: se trata de la autoestima vinculada a la identidad social, y no de autoestima personal o individual (p. 292-293)",
+    "responses": [
+      { "text": "Un rasgo de personalidad" },
+      { "text": "Una variable de carácter individual o personal" },
+      { "text": "Una variable vinculada con la identidad social", "correct": true }
+    ]
+  },
+  {
+    "text": "El principio de los lazos relacionales postula que",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como consta en la página 32 (Cuadro 19) El principio de los lazos relacionales postula que se produce una valoración de las diferencias entre los miembros, teniéndose en cuenta tanto la singularidad de los individuos como la pertenencia común. Las respuestas a y b se refieren a los principios de agencia personal y sinergia de la identidad, respectivamente",
+    "responses": [
+      { "text": "Las personas fusionadas con el grupo creen en los efectos de su comportamiento para el grupo en su conjunto" },
+      { "text": "La identidad personal y social funcionan al unísono de forma que al activar una de ellas se producen indistintamente los mismos efectos" },
+      { "text": "Se produce una valoración de las diferencias entre los miembros, teniéndose en cuenta tanto la singularidad de los individuos como la pertenencia común", "correct": true }
+    ]
+  },
+  {
+    "text": "El interés de la Psicología Social en el estudio del liderazgo está basado",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la p. 153, el interés de la Psicología Social en el estudio del liderazgo se basa tanto en razones teóricas (comprender mejor una serie de procesos individuales y grupales) como prácticas (si se conoce mejor el liderazgo se podrá formar y seleccionar mejores líderes)",
+    "responses": [
+      { "text": "Principalmente en razones teóricas" },
+      { "text": "Principalmente en razones prácticas" },
+      { "text": "Tanto en razones teóricas como en razones prácticas", "correct": true }
+    ]
+  },
+  {
+    "text": " Señale cuál de los siguientes motivos justifica que la observación participante se haya utilizado menos en el estudio de la Psicología de Grupos que en disciplinas como la Sociología o la Antropología",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": " (p. 376). La observación no es una metodología compleja y los datos son fáciles de registrar (a y c incorrectas), aunque eso no implica que haya que estar entrenado y que es adecuado establecer unos protocolos de observación. Pero uno de los motivos por los que en general los científicos son reacios a utilizarla es por la creencia (errónea) de que la calidad de los datos no es la más adecuada",
+    "responses": [
+      {
+        "text": "Los datos son muy difíciles de registrar"
+      },
+      {
+        "text": "Algunos científicos piensan que la calidad de los datos obtenidos no es la más adecuada",
+        "correct": true
+      },
+      {
+        "text": "Requiere de una metodología muy compleja"
+      }
+    ]
+  },
+  {
+    "text": "En relación con los efectos de la diversidad en los grupos, el metaanálisis de Bowers et al. (2000) concluye que",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como se menciona en la página 122, el metaanálisis de Bowers et al., mostró que los equipos heterogéneos logran un mejor desempeño que los homogéneos en tareas complejas, mientras que los homogéneos rinden moderadamente mejor que los heterogéneos en tareas cuya ejecución no genera incertidumbre (a incorrecta). Finalmente, también hallaron que formar equipos homogéneos o heterogéneos basados en cualquiera de los atributos estudiados (género, nivel de habilidad o rasgos de personalidad) no incrementaba el rendimiento del equipo (c incorrecta)",
+    "responses": [
+      {
+        "text": "Los equipos homogéneos rinden moderadamente mejor que los heterogéneos en tareas cuya ejecución genera incertidumbre"
+      },
+      {
+        "text": "Los equipos heterogéneos logran un mejor desempeño que los homogéneos en tareas complejas",
+        "correct": true
+      },
+      {
+        "text": "Los equipos heterogéneos en cuanto al género rinden mejor que los homogéneos en tareas que requieren un ejecución más compleja"
+      }
+    ]
+  },
+  {
+    "text": "La teoría cuyo foco de atención se centra en la relación diádica líder-subordinado es",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la p. 163, en la LMX el foco de atención se centra en la relación diádica líder-subordinado y en la calidad de dicha relación",
+    "responses": [
+      {
+        "text": "La teoría implícita del liderazgo"
+      },
+      {
+        "text": "El enfoque del liderazgo transformacional"
+      },
+      {
+        "text": "La teoría del intercambio líder-miembros (LMX)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Si resolvemos una identidad social inadecuada alterando los términos de comparación intergrupal estamos utilizando una estrategia de:",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "La creatividad social implica alterar o redefinir los términos de la situación comparativa y puede consistir en compararse a través de una nueva dimensión, cambiar el exogrupo de comparación o los valores asociados a ciertos atributos (p. 290)",
+    "responses": [
+      {
+        "text": "Competición Social"
+      },
+      {
+        "text": "Creatividad Social",
+        "correct": true
+      },
+      {
+        "text": "Movilidad Individual"
+      }
+    ]
+  },
+  {
+    "text": "Señale cuál de las siguientes respuestas es la correcta",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Pg. 382. Es el SYMLOG lo que se elaboró posteriormente al método de observación de Bales para solventar sus limitaciones. Y es también el SYMLOG el que puede codificar los actos de comunicación y su contenido",
+    "responses": [
+      {
+        "text": "El SYMLOG fue elaborado por Bales como una alternativa a las limitaciones del Método de Observación de Bales",
+        "correct": true
+      },
+      {
+        "text": "El Método de Observación de Bales fue elaborado por Bales como una alternativa a las limitaciones del SYMLOG"
+      },
+      {
+        "text": "El Método de Observación de Bales puede codificar tanto los actos de la comunicación como su contenido"
+      }
+    ]
+  },
+  {
+    "text": "El proceso de validación social forma parte de la explicación de la polarización grupal desde",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como consta en la página 256, el proceso de validación forma parte de la explicación de la polarización grupal desde la expresión repetida de la actitud",
+    "responses": [
+      {
+        "text": "La Teoría de la Autocategorización"
+      },
+      {
+        "text": "La Teoría de la Argumentación Persuasiva"
+      },
+      {
+        "text": "La Teoría de la Expresión repetida de la actitud",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "La ocultación del estigma",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la p. 319 la ocultación del estigma puede ser positiva a corto plazo porque permite evitar el prejuicio y el rechazo. Sin embargo, a largo plazo, el ocultar aspectos importantes de la identidad como la orientación sexual o el tener la infección por VIH es muy negativo para la persona y sus relaciones sociales",
+    "responses": [
+      {
+        "text": "Es negativa a corto plazo"
+      },
+      {
+        "text": "Es positiva a largo plazo"
+      },
+      {
+        "text": "Es positiva a corto plazo",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "En la escala multidimensional de discriminación percibida, el ítem “Aunque a veces no existe un rechazo expreso, la gente trata de forma diferente a las personas …” se encuadra dentro de la subescala de",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como puede verse en el cuadro 3 de la p. 323 el ítem del enunciado entra dentro de la subescala de discriminación grupal sutil",
+    "responses": [
+      {
+        "text": "Discriminación grupal manifiesta"
+      },
+      {
+        "text": "Discriminación grupal sutil",
+        "correct": true
+      },
+      {
+        "text": "Discriminación individual sutil"
+      }
+    ]
+  },
+  {
+    "text": "Según Moreland (2010), las diadas no pueden considerarse grupos porque",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como se menciona en la página 36, las diadas no pueden considerarse grupo, porque éstas son efímeras. Además, las diadas son más simples que los grupos, y algunos fenómenos de grupo no se dan en las diadas",
+    "responses": [
+      {
+        "text": "Algunos fenómenos de los grupos no se dan en las diadas",
+        "correct": true
+      },
+      {
+        "text": "Los grupos son más simples que las diadas"
+      },
+      {
+        "text": "Los grupos son efímeros, es decir, se forman y se disuelven más rápidamente que las diadas"
+      }
+    ]
+  },
+  {
+    "text": "Según el Modelo General de los Efectos de la Composición del Grupo (Moreland et al., 1996), el grado de integración social es alto cuando se trata de efectos de composición",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como se menciona en la página 126, el grado de integración social es alto cuando se trata de efectos de composición interactivos. Por el contrario, cuando se trata de efectos de composición aditivos, el grado de integración social suele ser bajo. No se han realizado estudios sobre los efectos de composición mixtos (combinación de reglas interactivas y aditivas)",
+    "responses": [
+      {
+        "text": "Interactivos",
+        "correct": true
+      },
+      {
+        "text": "Aditivos"
+      },
+      {
+        "text": "Mixtos"
+      }
+    ]
+  },
+  {
+    "text": "Según Janis, uno los factores de la situación que contribuye al Pensamiento Grupal tiene que ver con",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como se menciona en la página 263, uno los factores de la situación que contribuyen al Pensamiento Grupal tienen que ver con El estado cognitivoemocional de los miembros en ese momento. Las respuestas a y c (ambas correctas) se refieren a las características del grupo",
+    "responses": [
+      {
+        "text": "La homogeneidad de los miembros del grupo en cuanto actitudes u origen social"
+      },
+      {
+        "text": "El estado cognitivo-emocional de los miembros del grupo en ese momento",
+        "correct": true
+      },
+      {
+        "text": "El aislamiento de los miembros del grupo respecto a influencias del exterior"
+      }
+    ]
+  },
+  {
+    "text": " La frase 'las cosas deben seguir haciéndose como se han hecho siempre, es la tradición' ¿Con qué paradigma de influencia podemos relacionarla, según la clasificación de Moscovici?",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Tal y como se puede fácilmente deducir del texto (p. 182) esta frase se puede relacionar con el modelo funcionalista de influencia",
+    "responses": [
+      {
+        "text": "Con el modelo funcionalista",
+        "correct": true
+      },
+      {
+        "text": "Con el modelo genético"
+      },
+      {
+        "text": "Con la orientación a la dominancia social"
+      }
+    ]
+  },
+  {
+    "text": "En el marco de la Teoría de la Identidad Social, la frase 'cualquier persona perteneciente a un grupo desfavorecido puede subir varios peldaños en la pirámide social mediante el trabajo duro y el esfuerzo individual' podríamos relacionarla con la estrategia de",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Este tipo de creencia es más probable encontrarla ante una situación social inadecuada y cuando la estrategia que se toma es la movilidad individual, frente a estrategias de carácter colectivo como la creatividad o la competición social (p. 290)",
+    "responses": [
+      {
+        "text": "Creatividad social"
+      },
+      {
+        "text": "Movilidad individual",
+        "correct": true
+      },
+      {
+        "text": "Competición social"
+      }
+    ]
+  },
+  {
+    "text": "El ostracismo produce efectos",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la p. 89 el ostracismo ejerce efectos negativos en las necesidades básicas de la persona que lo sufre. No obstante investigaciones recientes (Goodacre y Zadro, 2010) han encontrado que las personas que lo ejercen experimentan efectos positivos en forma de satisfacción de ciertas necesidades, como, por ejemplo, las de control o autoestima",
+    "responses": [
+      {
+        "text": "Positivos en algunas necesidades básicas de la persona que lo sufre"
+      },
+      {
+        "text": "Positivos en algunas necesidades básicas de la persona que lo ejerce",
+        "correct": true
+      },
+      {
+        "text": "Negativos en las necesidades básicas, tanto en la persona que lo sufre como en la que lo ejerce"
+      }
+    ]
+  },
+  {
+    "text": "¿Cuál de los siguientes enfoques del liderazgo tiene en cuenta que, en el rendimiento del líder, es importante también la influencia de la situación?",
+    "fecha": {
+      "mes": "Febrero",
+      "year": "2019",
+      "modelo": "1"
+    },
+    "feedback": "Como se indica en la p. 160, las teorías o modelos de la contingencia parte de la idea de que el rendimiento en un grupo u organización depende, no solo de las características del líder sino también de diversas variables situacionales",
+    "responses": [
+      {
+        "text": "Las teorías de la contingencia",
+        "correct": true
+      },
+      {
+        "text": "El enfoque del rasgo"
+      },
+      {
+        "text": "El enfoque del liderazgo transformacional"
+      }
+    ]
+  }
+]

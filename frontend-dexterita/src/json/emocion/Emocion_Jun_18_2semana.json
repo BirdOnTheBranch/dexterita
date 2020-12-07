@@ -1,0 +1,682 @@
+[
+    {
+        "text": "Una de las funciones de la tristeza es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Actuar como factor regulador de la interacción social (izard, 1989)."
+            },
+            {
+                "text": "Favorecer la introspección y el análisis constructivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué función cumple la amígdala en la memoria emocional?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Almacena el contenido de las experiencias emocionales (memoria declarativa)."
+            },
+            {
+                "text": "Establece asociaciones entre estímulos dotadas de contenido afectivo (memoria implícita).",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estados afectivos favorecen estilos de procesamiento inespecíficos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La teoría de James-Lange representa el marco de referencia de una importante línea de investigación de la emoción:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La que postula cambios fisiológicos inespecíficos asociados a la emoción."
+            },
+            {
+                "text": "La que postula la existencia de patrones específicos de respuesta asociados a cada emoción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los constructos afectivos que integran el modelo factorial de jovialidad estado-rasgo (Ruch, 1997) es la:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Seriedad.",
+                "correct": true
+            },
+            {
+                "text": "Amabilidad."
+            }
+        ]
+    },
+    {
+        "text": "La persona puede ejercer control voluntario sobre la emisión de la sonrisa tipo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Duchenne."
+            },
+            {
+                "text": "Enmascaradora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un objetivo de los estudios transculturales sobre expresión y reconocimiento facial de emociones, es comprobar si los componentes de la expresión facial son equivalentes en individuos pertenecientes a diferentes etnias:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El término “hubris” designa:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Una especie de orgullo exagerado.",
+                "correct": true
+            },
+            {
+                "text": "La emoción que surge como consecuencia de una evaluación negativa del yo de carácter global."
+            }
+        ]
+    },
+    {
+        "text": "El afrontamiento se refiere a:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Los cambios comportamentales que producen las emociones y que hacen que las personas se preparen para la acción.",
+                "correct": true
+            },
+            {
+                "text": "Los cambios en la percepción de las acciones."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la activación, ¿a qué se refiere el concepto de fraccionamiento direccional?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Ciertas situaciones tienden a elicitar el mismo patrón de reactividad psicofisiológica."
+            },
+            {
+                "text": "Los indicadores de activación somática y conductual pueden estar disociados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Tangney (1999) en las denominadas “emociones autoconscientes”, la autoevaluación subyacente a dichas emociones no tiene por qué ser explícita ni consciente:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "El rango de estímulos que son capaces de elicitar respuestas de asco no está influido por el aprendizaje idiosincrásico:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con el procesamiento cognitivo de la ansiedad, la memoria preferencial es un elemento clave en el sesgo interpretativo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué función cumple la preocupación en la ansiedad?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Neutraliza las reacciones fisiológicas."
+            },
+            {
+                "text": "Interviene en el afrontamiento como elemento motivador de las acciones a tomar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se produce una valoración positiva o negativa del propio yo en relación con una serie de criterios acerca de lo que constituye una actuación adecuada en diversos ámbitos, se denominan:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Emociones autoléticas."
+            },
+            {
+                "text": "Emociones autoconscientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La información con carga emocional se recuerda peor que la que carece de carga emocional:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de investigación en emociones de Arne Öhman es destacable que:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Trabaja con el paradigma del condicionamiento instrumental skinneriano."
+            },
+            {
+                "text": "Diferencia entre mecanismos automáticos y controlados vinculados a la emoción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las emociones secundarias suelen aparecer a partir de los 6 meses de edad:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La emoción de sorpresa prepara al individuo para afrontar de forma efectiva los acontecimientos repentinos e inesperados y sus consecuencias:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Identifique uno de los aspectos fundamentales a los que hace referencia el concepto de alostasis:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La predicción del nivel de activación necesario basándose en la anticipación de las demandas del organismo.",
+                "correct": true
+            },
+            {
+                "text": "El mantenimiento de los parámetros de activación del organismo en un nivel óptimo."
+            }
+        ]
+    },
+    {
+        "text": "El estudio dimensional de las emociones tiene su base en:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La existencia de características únicas y distintivas para cada categoría emocional."
+            },
+            {
+                "text": "La existencia de importantes diferencias individuales en las emociones que las personas adultas llegan a desarrollar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La relevancia motivacional es una valoración que alude a:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Si la situación es consistente o no con los deseos y las metas de las personas."
+            },
+            {
+                "text": "Los compromisos personales y al grado en que la situación es relevante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un estado de intenso anhelo por la unión con otro es propio del amor:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Apasionado.",
+                "correct": true
+            },
+            {
+                "text": "Perfecto."
+            }
+        ]
+    },
+    {
+        "text": "Una función de la hostilidad es evitar situaciones de enfrentamiento:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Desde una perspectiva hedónica se considera que la felicidad se deriva de la consecución de placer y del logro de metas y objetivos relevantes para la persona:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde los planteamientos bifactoriales en el estudio de la emoción se considera que, además del arousal fisiológico, se requieren también procesos cognitivos que interpreten y rotulen verbalmente lo que está aconteciendo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La infusión del afecto es el proceso por el cual:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La información cargada afectivamente llega a incorporarse a los procesos cognitivos.",
+                "correct": true
+            },
+            {
+                "text": "La información cargada afectivamente provoca reacciones emocionales en los observadores."
+            }
+        ]
+    },
+    {
+        "text": "Atendiendo a los estilos de afrontamiento de la ansiedad, las personas bajas en ansiedad se caracterizan por:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tener alta tolerancia a la percepción de la activación fisiológica.",
+                "correct": true
+            },
+            {
+                "text": "Mantener un alto estado de hipervigilancia."
+            }
+        ]
+    },
+    {
+        "text": "Las emociones intensas, tanto positivas como negativas, mejoran la memoria para los detalles más secundarios de un acontecimiento:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "Una característica de personalidad facilitadora de hilarante es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La extroversión.",
+                "correct": true
+            },
+            {
+                "text": "El optimismo."
+            }
+        ]
+    },
+    {
+        "text": "Según algunos autores, la dominancia de sorpresas positivas en algunos estudios, podría ser atribuida en parte a la memoria selectiva para los sucesos positivos:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "El patrón de conducta Tipo A está relacionado con las manifestaciones patológicas de la emoción de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Ira.",
+                "correct": true
+            },
+            {
+                "text": "Tristeza."
+            }
+        ]
+    },
+    {
+        "text": "El embarrassment parece ser la más rudimentaria de las emociones autoconscientes de carácter positivo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la clasificación de Gray (1979, 1987) de los estímulos que producen miedo, aquellos estímulos que los animales y el hombre aprenden que son peligrosos, se encuadran en la categoría de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Estímulos atemorizantes condicionados.",
+                "correct": true
+            },
+            {
+                "text": "Peligros evolutivos especiales."
+            }
+        ]
+    },
+    {
+        "text": "En relación con las formas de afrontamiento propias de la ansiedad, una persona puede caracterizarse por tener una alta vigilancia y una alta evitación cognitiva:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo de chequeos secuenciales para la diferenciación de emociones, no contempla los procesos de evaluación no conscientes:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la activación fisiológica de la ansiedad, las eferencias de la amígdala al hipotálamo lateral originan:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Hipervigilancia."
+            },
+            {
+                "text": "Síntomas derivados de la activación del sistema simpático.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las emociones de tono hedónico negativo son las emociones que se experimentan cuando se bloquea una meta, se produce una amenaza o sucede una pérdida:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "La ira patológica (de carácter poco adaptado y violento):",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es un indicador fiable de la gravedad del cuadro psicopatológico."
+            },
+            {
+                "text": "Aparece a menudo como un rasgo asociado a alteraciones de la estructura básica de la persona.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La mayoría de los teóricos del appraisal (valoración), coinciden en que el proceso de valoración informa si el objeto o situación en que nos encontramos nos afecta personalmente y cómo lo hace:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id":"desarrI-20-jun-2p-1week",
+    "name":"P. del Desarrollo I",
+    "course":"Segundo",
+    "course_dg":"2",
+    "subject":"desarrollo-I",
+    "year": 20,
+    "month": "june",
+    "rating": 20,
+    "questions": 25,
+    "plusScore": 0.45,
+    "minusScore": 0.2,
+    "minutes": 30,
+    "color":"#b7b583",
+    "slogan":"Junio 2020",
+    "verified": true,
+    "logo":"#logo11",
+    "keywords":["business-focused","product optimization","emulation"]
+  }
+]

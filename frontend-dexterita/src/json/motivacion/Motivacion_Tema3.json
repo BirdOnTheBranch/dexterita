@@ -1,0 +1,2459 @@
+[
+    {
+        "text": "Durante el predominio de la psicología cognitiva, ¿en qué términos fue principalmente considerada la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. afín 16)",
+        "responses": [
+            {
+                "text": "Como función energizante."
+            },
+            {
+                "text": "Como aspecto direccional.",
+                "correct": true
+            },
+            {
+                "text": "Como cantidad o intensidad de energía."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significado tiene una relación lineal monotónica entre la activación y las respuestas fisiológicas y motoras?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 62)",
+        "responses": [
+            {
+                "text": "Que a mayor motivación, mejor rendimiento.",
+                "correct": true
+            },
+            {
+                "text": "Que se produce una única relación entre motivación y rendimiento."
+            },
+            {
+                "text": "Que existe una relación uniforme aunque superficial entre motivación y rendimiento."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos grandes grupos de determinantes intervienen fundamentalmente en la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 88)",
+        "responses": [
+            {
+                "text": "Cognitivos y conductuales."
+            },
+            {
+                "text": "Fisiológicos y conductuales."
+            },
+            {
+                "text": "Internos y externos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Deckers, dentro del proceso motivacional, ¿qué se debe analizar de las propiedades físicas del objetivo que indujeron a la conducta motivada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 136)",
+        "responses": [
+            {
+                "text": "Su anticipación y su reiteración."
+            },
+            {
+                "text": "Su duración, su frecuencia y su intensidad."
+            },
+            {
+                "text": "Su cantidad, su calidad o su valor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué estado de activación se relaciona con situaciones de amenaza, dolor o ansiedad? El estado de activación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 57)",
+        "responses": [
+            {
+                "text": "Energética."
+            },
+            {
+                "text": "Tensa.",
+                "correct": true
+            },
+            {
+                "text": "Nerviosa."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los principales determinantes que influyen sobre los motivos primarios?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 113)",
+        "responses": [
+            {
+                "text": "El aprendizaje y la interacción social."
+            },
+            {
+                "text": "El aprendizaje, la interacción social, el crecimiento potencial y los procesos cognitivos."
+            },
+            {
+                "text": "La herencia, la homeostasis y el hedonismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Deckers, ¿qué relación existe entre la intensidad de la actividad y el nivel de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 134)",
+        "responses": [
+            {
+                "text": "No existe relación alguna."
+            },
+            {
+                "text": "Una relación inversa."
+            },
+            {
+                "text": "Una relación directa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Lacey señaló que la activación puede manifestarse en tres niveles de actividad: electrocortical, fisiológica y...:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 20)",
+        "responses": [
+            {
+                "text": "Cerebral."
+            },
+            {
+                "text": "Bioquímica."
+            },
+            {
+                "text": "Motora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, ¿qué primer paso es imprescindible dentro del momento de la toma de decisiones y elección del objetivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 154)",
+        "responses": [
+            {
+                "text": "La evaluación y valoración del objetivo."
+            },
+            {
+                "text": "La ocurrencia o aparición del estímulo.",
+                "correct": true
+            },
+            {
+                "text": "La percepción del estímulo."
+            }
+        ]
+    },
+    {
+        "text": "Cannon sostenía que el control de la función motivacional energética se realizaba a través de la acción combinada de las ramas simpática y parasimpática del SNA, pero ¿qué principal función tenía la rama simpática?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 26)",
+        "responses": [
+            {
+                "text": "La movilización de la energía.",
+                "correct": true
+            },
+            {
+                "text": "La conservación de esa energía."
+            },
+            {
+                "text": "La reducción de la activación fisiológica."
+            }
+        ]
+    },
+    {
+        "text": "Para Ferguson, la variabilidad de la motivación se hace evidente por el tipo o calidad de la motivación y por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 8)",
+        "responses": [
+            {
+                "text": "El aspecto direccional de la motivación."
+            },
+            {
+                "text": "El aspecto cualitativo de la motivación."
+            },
+            {
+                "text": "La intensidad en la movilización de la energía.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué es importante el determinante externo de la interacción social?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 111)",
+        "responses": [
+            {
+                "text": "Porque explica las conductas autodestructivas."
+            },
+            {
+                "text": "Porque la interacción entre personas tiene realmente un efecto motivador.",
+                "correct": true
+            },
+            {
+                "text": "Porque permite alcanzar el pleno potencial fisico, psicológico y emocional."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué característica de la activación se denomina también fuerza o vigor de la conducta motivada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 34)",
+        "responses": [
+            {
+                "text": "La persistencia."
+            },
+            {
+                "text": "La conducta manifiesta."
+            },
+            {
+                "text": "La intensidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Lacey, ¿qué tres niveles de actividad se pueden manifestar en un organismo? Actividad fisiológica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 20)",
+        "responses": [
+            {
+                "text": "Electrocortical y motora.",
+                "correct": true
+            },
+            {
+                "text": "Conductual y cognitiva."
+            },
+            {
+                "text": "Individual y social."
+            }
+        ]
+    },
+    {
+        "text": "En general, según los resultados de las investigaciones, ¿qué tipo de relación existe entre la activación y la reactividad fisiológica y motora? Cuando aumenta la activación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 59-60)",
+        "responses": [
+            {
+                "text": "Sólo aumenta la actividad motora pero no la reactividad fisiológica."
+            },
+            {
+                "text": "Sólo aumenta la reactividad fisiológica pero no la actividad motora."
+            },
+            {
+                "text": "Aumenta la reactividad fisiológica y la motora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Petri y Govern, ¿cuál es la primera y principal característica de la activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 28)",
+        "responses": [
+            {
+                "text": "Que provoca la conducta manifiesta."
+            },
+            {
+                "text": "Que inicia la conducta motivada.",
+                "correct": true
+            },
+            {
+                "text": "Que produce cambios y/o respuestas en el sistema nervioso."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de medidas se utilizan para cuantificar el estado y/o el rasgo de activación en los seres humanos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 52)",
+        "responses": [
+            {
+                "text": "De autoinforme.",
+                "correct": true
+            },
+            {
+                "text": "Conductuales."
+            },
+            {
+                "text": "Fisiológicas."
+            }
+        ]
+    },
+    {
+        "text": "Deckers estableció tres momentos del proceso motivacional: la elección del motivo, la ejecución de las conductas instrumentales, y:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 125)",
+        "responses": [
+            {
+                "text": "La satisfacción o no del motivo elegido.",
+                "correct": true
+            },
+            {
+                "text": "El control del resultado."
+            },
+            {
+                "text": "La retroalimentación del rendimiento."
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, ¿qué factores comprende el segundo momento en el proceso de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 169)",
+        "responses": [
+            {
+                "text": "La verificación de la congruencia, la atribución de causas y la generalización.",
+                "correct": true
+            },
+            {
+                "text": "La intención, la activación y la dirección."
+            },
+            {
+                "text": "La evaluación y valoración, la decisión y elección del objetivo, y la realización de la conducta motivada."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los principales determinantes que influyen sobre los motivos secundarios?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 114)",
+        "responses": [
+            {
+                "text": "La herencia, la homeostasis y el hedonismo."
+            },
+            {
+                "text": "El hedonismo, la interacción social y el crecimiento personal."
+            },
+            {
+                "text": "El aprendizaje, la interacción social, el crecimiento potencial y los procesos cognitivos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el primer momento en el proceso motivacional que describe Palmero?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 153)",
+        "responses": [
+            {
+                "text": "La toma de decisiones y la elección del objetivo.",
+                "correct": true
+            },
+            {
+                "text": "La ocurrencia o aparición del estímulo."
+            },
+            {
+                "text": "El control del resultado."
+            }
+        ]
+    },
+    {
+        "text": "¿Quién señaló que algunos motivos se aprenden a través de la observación y que son la base de gran parte de la conducta humana motivada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. afín 106)",
+        "responses": [
+            {
+                "text": "Maslow."
+            },
+            {
+                "text": "Cannon."
+            },
+            {
+                "text": "Bandura.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los determinantes externos de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 104)",
+        "responses": [
+            {
+                "text": "El aprendizaje, el hedonismo y la interacción social.",
+                "correct": true
+            },
+            {
+                "text": "La herencia, la homeostasis, el crecimiento potencial y los procesos cognitivos."
+            },
+            {
+                "text": "Los estímulos y las respuestas ambientales."
+            }
+        ]
+    },
+    {
+        "text": "¿La conducta activada es siempre una conducta manifiesta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 30)",
+        "responses": [
+            {
+                "text": "Sí, siempre las conductas activadas son conductas manifiestas."
+            },
+            {
+                "text": "No, puesto que puede haber conductas activadas que no sean manifiestas.",
+                "correct": true
+            },
+            {
+                "text": "Nunca una conducta activada es una conducta manifiesta."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué aspecto de la motivación hace referencia el término de activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 11)",
+        "responses": [
+            {
+                "text": "Al cualitativo o de calidad de la motivación."
+            },
+            {
+                "text": "Al energético o de intensidad de la motivación.",
+                "correct": true
+            },
+            {
+                "text": "Al direccional de la motivación."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué término utilizó Lacey para describir las disociaciones entre medidas fisiológicas y conductuales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 50)",
+        "responses": [
+            {
+                "text": "Respuesta psicofisiológica disociada."
+            },
+            {
+                "text": "Respuesta estereotipada."
+            },
+            {
+                "text": "Fraccionamiento direccional de respuestas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, ¿cómo llamamos al estímulo externo que da comienzo al proceso motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 156)",
+        "responses": [
+            {
+                "text": "Necesidad."
+            },
+            {
+                "text": "Objetivo."
+            },
+            {
+                "text": "Deseo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Cannon, ¿qué rama del SNA tenía como principal función la movilización de energía?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 26)",
+        "responses": [
+            {
+                "text": "Tanto la rama simpática como la parasimpática."
+            },
+            {
+                "text": "La rama simpática.",
+                "correct": true
+            },
+            {
+                "text": "La rama parasimpática."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo es más difícil que la dirección produzca la predicción de la conducta motivada? Cuando el sujeto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 81)",
+        "responses": [
+            {
+                "text": "Tiene varias posibilidades de elección.",
+                "correct": true
+            },
+            {
+                "text": "Emite una respuesta más intensa."
+            },
+            {
+                "text": "Presenta una única alternativa de respuesta."
+            }
+        ]
+    },
+    {
+        "text": "¿Dé cuántas fases está formado el proceso motivacional para Reeve?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 116)",
+        "responses": [
+            {
+                "text": "Seis."
+            },
+            {
+                "text": "Cuatro.",
+                "correct": true
+            },
+            {
+                "text": "Tres."
+            }
+        ]
+    },
+    {
+        "text": "Según Cannon, ¿qué función principal tenía la activación en los estados motivacionales de un organismo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 23)",
+        "responses": [
+            {
+                "text": "Direccional de la motivación."
+            },
+            {
+                "text": "Homeostática de la motivación."
+            },
+            {
+                "text": "Motivacional energética.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Es posible explicar la conducta motivada sólo mediante la activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 75)",
+        "responses": [
+            {
+                "text": "Sí, porque la activación es el aspecto energizante del comportamiento."
+            },
+            {
+                "text": "Sí, porque la activación es el componente principal y más importante del proceso motivacional."
+            },
+            {
+                "text": "No, porque también es necesario que el individuo pueda seleccionar los objetivos hacia dónde dirigir sus conductas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En general, se puede decir que dentro de la activación, las escalas de rasgos y las escalas de estado pueden llegar a ser:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 52)",
+        "responses": [
+            {
+                "text": "Contradictorias."
+            },
+            {
+                "text": "Excluyentes."
+            },
+            {
+                "text": "Complementarias.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La característica o propiedad que da energía a la motivación es la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 18)",
+        "responses": [
+            {
+                "text": "Dirección."
+            },
+            {
+                "text": "Intención."
+            },
+            {
+                "text": "Activación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Cannon, ¿qué rama del sistema nervioso autónomo tenía como principal función la conservación de la energía?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 26)",
+        "responses": [
+            {
+                "text": "La rama simpática."
+            },
+            {
+                "text": "La rama parasimpática.",
+                "correct": true
+            },
+            {
+                "text": "Tanto la rama simpática como la parasimpática."
+            }
+        ]
+    },
+    {
+        "text": "Para Fernández-Abascal, ¿qué concepto abarca tanto a los objetivos determinados genéticamente como a las metas y objetivos típicos del comportamiento humano?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 82)",
+        "responses": [
+            {
+                "text": "La direccionalidad de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "La conducta motivada."
+            },
+            {
+                "text": "La activación de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "Para Fernández-Abascal, el proceso motivacional se autorregula a través de un sistema de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 142)",
+        "responses": [
+            {
+                "text": "Balance conductual."
+            },
+            {
+                "text": "Retroalimentación.",
+                "correct": true
+            },
+            {
+                "text": "Ajuste retroactivo."
+            }
+        ]
+    },
+    {
+        "text": "Para Ferguson, la motivación es un proceso interno que energiza y dirige las tendencias de acción de los individuos, pero además es un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 6)",
+        "responses": [
+            {
+                "text": "Retrospectivo."
+            },
+            {
+                "text": "Dinámico.",
+                "correct": true
+            },
+            {
+                "text": "Condicionado."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ley indicaba que el nivel de motivación tiene un punto óptimo entre los valores intermedios de activación, de forma que un nivel excesivamente alto o excesivamente bajo empeora el rendimiento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 68)",
+        "responses": [
+            {
+                "text": "La ley de Yerkes-Dodson.",
+                "correct": true
+            },
+            {
+                "text": "La ley de Thayer."
+            },
+            {
+                "text": "La ley de Müller."
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué la dirección es considerada como un índice claro del estado motivacional que tiene el individuo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 80)",
+        "responses": [
+            {
+                "text": "Porque adquiere la función de predecir la conducta motivada.",
+                "correct": true
+            },
+            {
+                "text": "Porque eleva la activación energética."
+            },
+            {
+                "text": "Porque produce una mayor actividad motora."
+            }
+        ]
+    },
+    {
+        "text": "El denominador común en todas las consideraciones sobre el proceso motivacional es que éste es un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 121)",
+        "responses": [
+            {
+                "text": "Fisiológico."
+            },
+            {
+                "text": "Social."
+            },
+            {
+                "text": "Dinámico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el principal determinante externo de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 105)",
+        "responses": [
+            {
+                "text": "El aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "La interacción social."
+            },
+            {
+                "text": "El hedonismo."
+            }
+        ]
+    },
+    {
+        "text": "Según los estudios fisiológicos, cuando la activación es inducida por métodos como la privación de alimentos se ha encontrado que la tasa cardiaca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 44)",
+        "responses": [
+            {
+                "text": "Disminuye."
+            },
+            {
+                "text": "Aumenta.",
+                "correct": true
+            },
+            {
+                "text": "Se estabiliza."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque intenta explicar el determinante de la herencia proponiendo que la energía se acumula en el organismo y da origen a un estado motivado?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 93)",
+        "responses": [
+            {
+                "text": "El enfoque instintivo.",
+                "correct": true
+            },
+            {
+                "text": "El enfoque fisiológico."
+            },
+            {
+                "text": "El enfoque ambientalista."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué se refiere el aspecto direccional de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 14)",
+        "responses": [
+            {
+                "text": "Al aspecto energizante del comportamiento."
+            },
+            {
+                "text": "Al aspecto cuantitativo que presenta la activación."
+            },
+            {
+                "text": "Al aspecto cualitativo de las acciones y tendencias.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Palmero, ¿cuándo empieza a actuar la dirección en el proceso motivacional? En el mismo instante en el que se produce:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 167)",
+        "responses": [
+            {
+                "text": "La ocurrencia o aparición del estímulo."
+            },
+            {
+                "text": "La percepción del estímulo."
+            },
+            {
+                "text": "Los procesos de evaluación y valoración.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En psicología, a la característica energizante de la motivación se conoce como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 18)",
+        "responses": [
+            {
+                "text": "Motivo."
+            },
+            {
+                "text": "Dirección."
+            },
+            {
+                "text": "Activación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, las dos variables de la dirección que intervienen en la consecución de los objetivos son: el grado de atracción y:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 84)",
+        "responses": [
+            {
+                "text": "La expectativa de consecución.",
+                "correct": true
+            },
+            {
+                "text": "La insistencia en el comportamiento motivado."
+            },
+            {
+                "text": "La intensidad o vigor de la conducta motivada."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué concepto utilizó Cannon (1929) para identificar los cambios y/o respuestas fisiológicas del sistema nervioso autónomo del organismo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 22)",
+        "responses": [
+            {
+                "text": "Movilización de energía."
+            },
+            {
+                "text": "Tensión dinamogénica."
+            },
+            {
+                "text": "Activación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Existe una correlación positiva entre el nivel de intensidad de la conducta y el nivel de motivación, así, a mayor intensidad de la conducta, se producirá:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 35)",
+        "responses": [
+            {
+                "text": "Una mayor activación.",
+                "correct": true
+            },
+            {
+                "text": "Igual activación."
+            },
+            {
+                "text": "Una menor activación."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué término indica una disociación fisiológica/conductual en función de la activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 50)",
+        "responses": [
+            {
+                "text": "La activación monotónica."
+            },
+            {
+                "text": "La respuesta estereotipada."
+            },
+            {
+                "text": "El fraccionamiento direccional de respuestas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Ferguson, ¿qué puede implicar que la motivación sea un proceso dinámico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 7)",
+        "responses": [
+            {
+                "text": "Que es un proceso externo sujeto a la estimulación medioambiental."
+            },
+            {
+                "text": "Un cambio o variabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Que es un proceso adaptativo relacionado con la persistencia."
+            }
+        ]
+    },
+    {
+        "text": "Para Deckers, ¿en qué momento concreto finaliza la secuencia motivacional? : Con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 135)",
+        "responses": [
+            {
+                "text": "La realización de la conducta consumatoria.",
+                "correct": true
+            },
+            {
+                "text": "El control del resultado."
+            },
+            {
+                "text": "La retroalimentación del rendimiento."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué determinante externo de la motivación está basado en la tendencia generalizada que tienen los organismos a aproximarse a lo que produce placer y a evitar lo que produce dolor?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 109)",
+        "responses": [
+            {
+                "text": "El subconsciente."
+            },
+            {
+                "text": "El hedonismo.",
+                "correct": true
+            },
+            {
+                "text": "El inconsciente."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de las variables de la dirección, ¿a qué hace referencia la expectativa de la consecución del objetivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 85)",
+        "responses": [
+            {
+                "text": "Al esfuerzo que realiza el sujeto para alcanzar la conducta motivada."
+            },
+            {
+                "text": "Al número de respuestas que realiza el sujeto motivado."
+            },
+            {
+                "text": "Al análisis de la proximidad subjetiva del objetivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a la segunda característica de la activación que presentaron Petri y Govern, ¿con qué está relacionada la persistencia o insistencia en el comportamiento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 31)",
+        "responses": [
+            {
+                "text": "Con la iniciación de la conducta motivada."
+            },
+            {
+                "text": "Con la finalización de la conducta motivada."
+            },
+            {
+                "text": "Con el mantenimiento de la conducta motivada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué término utilizaron los Lacey para describir que cada individuo tiene patrones fisiológicos estables y respuestas conductuales únicas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 51)",
+        "responses": [
+            {
+                "text": "Fraccionamiento direccional de respuestas."
+            },
+            {
+                "text": "Respuesta estereotipada.",
+                "correct": true
+            },
+            {
+                "text": "Respuestas psicofisiológicas disociadas."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los determinantes externos de la motivación, ¿qué conductas no explican satisfactoriamente el hedonismo? Las:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. afín 109)",
+        "responses": [
+            {
+                "text": "Desagradables."
+            },
+            {
+                "text": "Placenteras."
+            },
+            {
+                "text": "Autodestructivas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué determinante interno de la motivación hace referencia a la existencia de un nivel óptimo de activación en varios estados del organismo y que está relacionado con el mantenimiento del equilibrio fisiológico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 96)",
+        "responses": [
+            {
+                "text": "La homeostasis.",
+                "correct": true
+            },
+            {
+                "text": "La herencia."
+            },
+            {
+                "text": "El crecimiento personal."
+            }
+        ]
+    },
+    {
+        "text": "¿Con qué ley coincidía la teoría de la activación de Hebb?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 69)",
+        "responses": [
+            {
+                "text": "Con la ley de Müller."
+            },
+            {
+                "text": "Con la ley de Beck."
+            },
+            {
+                "text": "Con la ley de Yerkes-Dodson.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Cannon, ¿qué rama del sistema nervioso autónomo es dominante en los estados vegetativos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 26)",
+        "responses": [
+            {
+                "text": "Ambas ramas."
+            },
+            {
+                "text": "La parasimpática.",
+                "correct": true
+            },
+            {
+                "text": "La simpática."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué variable de la motivación es una de las responsables del inicio, mantenimiento, intensidad y finalización de la conducta motivada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 19)",
+        "responses": [
+            {
+                "text": "La pulsión."
+            },
+            {
+                "text": "La activación.",
+                "correct": true
+            },
+            {
+                "text": "La dirección."
+            }
+        ]
+    },
+    {
+        "text": "En general, ¿qué ocurre con la actividad motora cuando aumenta la activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 60)",
+        "responses": [
+            {
+                "text": "Unas veces aumenta y otras disminuye."
+            },
+            {
+                "text": "Disminuye."
+            },
+            {
+                "text": "Aumenta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de registros se utilizan en los estudios contemporáneos para medir la actividad cerebral? Los:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 48)",
+        "responses": [
+            {
+                "text": "Electroencefalográficos.",
+                "correct": true
+            },
+            {
+                "text": "De las respuestas de conductancia."
+            },
+            {
+                "text": "Electromiográficos."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué sistema describe Fernández-Abascal en el proceso motivacional y que actúa sobre el entorno a medida que el individuo va obteniendo información sobre el progreso de su ejecución?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 142)",
+        "responses": [
+            {
+                "text": "Sistema de reconocimiento."
+            },
+            {
+                "text": "Sistema de retroalimentación.",
+                "correct": true
+            },
+            {
+                "text": "Sistema cognitivo."
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a la relación entre la activación y la ejecución en función de la dificultad de la tarea, ¿qué defendieron Yerkes y Dodson?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 70)",
+        "responses": [
+            {
+                "text": "Que el nivel óptimo de activación está inversamente relacionado con la dificultad de la tarea.",
+                "correct": true
+            },
+            {
+                "text": "Que no se puede adoptar ninguna postura definitiva sobre la relación entre la activación y la ejecución en función de la dificultad de la tarea."
+            },
+            {
+                "text": "Que el nivel óptimo de activación está directamente relacionado con la dificultad de la tarea."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del determinante interno de la herencia, ¿qué propone el enfoque fisiológico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 94)",
+        "responses": [
+            {
+                "text": "Que las conductas preprogramadas son las responsables de la motivación."
+            },
+            {
+                "text": "Que la energía se acumula en el organismo y da origen a un estado motivado."
+            },
+            {
+                "text": "Que los circuitos cerebrales vigilan el estado del cuerpo y activan las conductas cuando detectan algún cambio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Al estímulo interno que da comienzo al proceso motivacional, Palmero lo llama:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 157)",
+        "responses": [
+            {
+                "text": "Señal."
+            },
+            {
+                "text": "Necesidad.",
+                "correct": true
+            },
+            {
+                "text": "Deseo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo denominó Deckers a la cantidad de tiempo que una persona dedica a conseguir satisfacer un motivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 130)",
+        "responses": [
+            {
+                "text": "Duración.",
+                "correct": true
+            },
+            {
+                "text": "Reiteración."
+            },
+            {
+                "text": "Frecuencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué importante función adquiere la dirección con respecto a la conducta motivada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 80)",
+        "responses": [
+            {
+                "text": "Predecir la conducta motivada.",
+                "correct": true
+            },
+            {
+                "text": "Dar fuerza o vigor a la conducta motivada."
+            },
+            {
+                "text": "Iniciar la conducta motivada."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del hedonismo, ¿cuáles son los dos potentes determinantes de la conducta que producen motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 108)",
+        "responses": [
+            {
+                "text": "El aprendizaje y la interacción social."
+            },
+            {
+                "text": "Los procesos cognitivos y la homeostasis."
+            },
+            {
+                "text": "El placer y el dolor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, ¿cuándo se inicia la activación en el proceso de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 165)",
+        "responses": [
+            {
+                "text": "En la fase de conducta activa."
+            },
+            {
+                "text": "En el momento en que el organismo detecta una necesidad.",
+                "correct": true
+            },
+            {
+                "text": "En la fase de ejecución de las conductas instrumentales."
+            }
+        ]
+    },
+    {
+        "text": "En general, los resultados de las investigaciones sobre la relación entre activación y rendimiento sugieren que cuando aumenta la activación también lo hace la reactividad fisiológica y la actividad:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 60)",
+        "responses": [
+            {
+                "text": "Cognitiva."
+            },
+            {
+                "text": "Psicológica."
+            },
+            {
+                "text": "Motora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a la dirección, ¿cuándo es más fácil que ésta produzca la predicción de la conducta motivada? Cuando el sujeto tiene:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. afín 81)",
+        "responses": [
+            {
+                "text": "Sólo una alternativa de respuesta.",
+                "correct": true
+            },
+            {
+                "text": "Muchas alternativas de respuesta."
+            },
+            {
+                "text": "Dos alternativas de respuesta."
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, ¿cómo puede ser el estímulo para que comience el proceso motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 155)",
+        "responses": [
+            {
+                "text": "Elicitante o discriminativo."
+            },
+            {
+                "text": "Visual o auditivo."
+            },
+            {
+                "text": "Externo o interno.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los tres principales componentes motivacionales para comprender el funcionamiento del proceso motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 175)",
+        "responses": [
+            {
+                "text": "Los estímulos, las respuestas y el organismo."
+            },
+            {
+                "text": "La evaluación, la decisión y la elección del objetivo."
+            },
+            {
+                "text": "Los componentes biológicos, aprendidos y cognitivos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la mejor manera de entender la motivación humana?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 175)",
+        "responses": [
+            {
+                "text": "Comprender todas las situaciones cognitivas en dónde se produce la motivación."
+            },
+            {
+                "text": "Analizar los distintos sistemas que la componen.",
+                "correct": true
+            },
+            {
+                "text": "Estudiar los componentes biológicos y aprendidos de la motivación humana."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos momentos diferencia Palmero en el proceso de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 153)",
+        "responses": [
+            {
+                "text": "La fase de activación y la fase de dirección."
+            },
+            {
+                "text": "La toma de decisiones y elección del objetivo, y el control del resultado.",
+                "correct": true
+            },
+            {
+                "text": "La fase de intención y la fase de dirección."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la principal función del proceso motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 122)",
+        "responses": [
+            {
+                "text": "Aumentar la probabilidad de adaptación del organismo a su entorno.",
+                "correct": true
+            },
+            {
+                "text": "Favorecer el proceso de integración social de los seres humanos."
+            },
+            {
+                "text": "Ayudar a aprender con mayor facilidad todo tipo de conductas."
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, ¿cómo llamamos al estímulo interno que da comienzo al proceso motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 157)",
+        "responses": [
+            {
+                "text": "Necesidad.",
+                "correct": true
+            },
+            {
+                "text": "Deseo."
+            },
+            {
+                "text": "Objetivo."
+            }
+        ]
+    },
+    {
+        "text": "La propiedad que da energía a la motivación es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 18)",
+        "responses": [
+            {
+                "text": "La activación.",
+                "correct": true
+            },
+            {
+                "text": "La dirección."
+            },
+            {
+                "text": "La intención."
+            }
+        ]
+    },
+    {
+        "text": "De forma genérica, ¿qué término se utiliza normalmente para indicar el aspecto energético, cuantitativo o de intensidad de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 11-12)",
+        "responses": [
+            {
+                "text": "Persistencia."
+            },
+            {
+                "text": "Activación.",
+                "correct": true
+            },
+            {
+                "text": "Rendimiento."
+            }
+        ]
+    },
+    {
+        "text": "Según Fernández-Abascal, ¿cómo actúan los determinantes externos de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 146)",
+        "responses": [
+            {
+                "text": "Como inhibidores de los determinantes internos."
+            },
+            {
+                "text": "Ejercen de tracción del comportamiento."
+            },
+            {
+                "text": "Ejercen de propulsión del comportamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué determinante interno de la motivación hace referencia a los procesos que proceden de la información que recibimos y de la forma en que la procesamos? Los procesos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 102)",
+        "responses": [
+            {
+                "text": "De crecimiento potencial."
+            },
+            {
+                "text": "De aprendizaje."
+            },
+            {
+                "text": "Cognitivos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La motivación, según Ferguson, además de un proceso interno es un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 7)",
+        "responses": [
+            {
+                "text": "Dinámico que puede implicar un cambio o variabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Estático y fijo que no implica ninguna variabilidad."
+            },
+            {
+                "text": "Que no implica ningún estado dinámico ni estático."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el denominador común en todas las teorías y consideraciones sobre el proceso motivacional? Que es un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 121)",
+        "responses": [
+            {
+                "text": "Social."
+            },
+            {
+                "text": "Aprendido."
+            },
+            {
+                "text": "Dinámico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son las fases del proceso motivacional para Reeve?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 116)",
+        "responses": [
+            {
+                "text": "Fase de anticipación, fase de conducta activa y fase de rendimiento."
+            },
+            {
+                "text": "Fase de anticipación, fase de activación y dirección y fase de resultado."
+            },
+            {
+                "text": "Fase de anticipación, fase de activación y dirección, fase de conducta activa y de retroalimentación del rendimiento y fase de resultado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo actúan las dos ramas del sistema nervioso autónomo, según Cannon?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 27)",
+        "responses": [
+            {
+                "text": "Se inhiben las dos a la vez."
+            },
+            {
+                "text": "Cuando se activa una la otra se inhibe.",
+                "correct": true
+            },
+            {
+                "text": "Se activan las dos a la vez."
+            }
+        ]
+    },
+    {
+        "text": "Según Cannon, ¿qué rama del sistema nervioso autónomo tenía como principal función la movilización de energía? La rama:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 26)",
+        "responses": [
+            {
+                "text": "Parasimpática."
+            },
+            {
+                "text": "Periférica."
+            },
+            {
+                "text": "Simpática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué técnica del sistema nervioso central se ha utilizado para medir la activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 48)",
+        "responses": [
+            {
+                "text": "El electroencefalograma.",
+                "correct": true
+            },
+            {
+                "text": "La actividad electrodermal."
+            },
+            {
+                "text": "El electromiograma."
+            }
+        ]
+    },
+    {
+        "text": "Para Petri y Govern, además de las características de la activación, ¿qué otro factor puede intervenir en la conducta motivada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 36)",
+        "responses": [
+            {
+                "text": "La atención."
+            },
+            {
+                "text": "El aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "La percepción."
+            }
+        ]
+    },
+    {
+        "text": "De las características de la activación, ¿cuál es la tercera según Petri y Govern?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 34)",
+        "responses": [
+            {
+                "text": "La conducta manifiesta."
+            },
+            {
+                "text": "La persistencia en el comportamiento."
+            },
+            {
+                "text": "La intensidad de la conducta motivada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué aspectos de la conducta instrumental reflejan el nivel de motivación que puede llegar a alcanzar un individuo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 129)",
+        "responses": [
+            {
+                "text": "Duración, frecuencia e intensidad.",
+                "correct": true
+            },
+            {
+                "text": "Coherencia y finalidad."
+            },
+            {
+                "text": "Persistencia y eficacia."
+            }
+        ]
+    },
+    {
+        "text": "Estudiando cómo la activación se pueden manifestar en un organismo, ¿qué tres diferentes niveles de actividad encontró Lacey (1967)?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 20)",
+        "responses": [
+            {
+                "text": "Biológica, conductual y cognitiva."
+            },
+            {
+                "text": "Filosófica, individual y social."
+            },
+            {
+                "text": "Fisiológica, electrocortical y motora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos enfoques intentan explicar de distinta manera el determinante de la herencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 93-94)",
+        "responses": [
+            {
+                "text": "El conductista y el cognitivo."
+            },
+            {
+                "text": "El ideográfico y el nomotético."
+            },
+            {
+                "text": "El instintivo y el fisiológico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el principal determinante interno de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 91)",
+        "responses": [
+            {
+                "text": "La homeostasis."
+            },
+            {
+                "text": "Los procesos cognitivos."
+            },
+            {
+                "text": "La herencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué es importante la dirección con respecto a la conducta motivada? Porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 80)",
+        "responses": [
+            {
+                "text": "Produce una mayor actividad motora."
+            },
+            {
+                "text": "Elevala activación energética de la conducta motivada."
+            },
+            {
+                "text": "Tiene la función de predecir la conducta motivada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo llama Palmero al estímulo externo que da comienzo al proceso motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 156)",
+        "responses": [
+            {
+                "text": "Objetivo."
+            },
+            {
+                "text": "Deseo.",
+                "correct": true
+            },
+            {
+                "text": "Necesidad."
+            }
+        ]
+    },
+    {
+        "text": "Según el proceso motivacional de Deckers, ¿con qué tipo de procesos el individuo podrá decidir en futuras ocasiones si va a realizar las mismas conductas instrumentales o tiene que efectuar alguna modificación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 137)",
+        "responses": [
+            {
+                "text": "Con los de atribución causal.",
+                "correct": true
+            },
+            {
+                "text": "Con los motivacionales."
+            },
+            {
+                "text": "Con los emocionales diferidos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los determinantes externos de la motivación es el más aceptado por la mayoría de los investigadores?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 107)",
+        "responses": [
+            {
+                "text": "La interacción social."
+            },
+            {
+                "text": "El aprendizaje."
+            },
+            {
+                "text": "El hedonismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Petri y Govern, una característica de la activación es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 31)",
+        "responses": [
+            {
+                "text": "Un aumento en la producción de respuestas en el sistema nervioso central."
+            },
+            {
+                "text": "Su persistencia o insistencia en el comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "El fraccionamiento direccionalde respuestas."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los determinantes internos de la motivación, ¿cuál hace referencia a aquellos procesos que proceden de la información que recibimos y de la forma en que la procesamos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 102)",
+        "responses": [
+            {
+                "text": "Los procesos cognitivos.",
+                "correct": true
+            },
+            {
+                "text": "Los procesos de aprendizaje."
+            },
+            {
+                "text": "Los procesos de crecimiento potencial."
+            }
+        ]
+    },
+    {
+        "text": "Según el proceso motivacional planteado por Palmero, ¿cómo puede ser el proceso de percepción del estímulo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 160-161)",
+        "responses": [
+            {
+                "text": "Positivo o negativo."
+            },
+            {
+                "text": "Consciente y no consciente.",
+                "correct": true
+            },
+            {
+                "text": "Real o imaginario."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué medida del sistema nervioso central se ha utilizado para medir la activación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 48)",
+        "responses": [
+            {
+                "text": "La actividad electrodermal."
+            },
+            {
+                "text": "El electroencefalograma.",
+                "correct": true
+            },
+            {
+                "text": "El electromiograma."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de las variables que intervienen en la consecución de los objetivos, una es la expectativa de la consecución del objetivo, ¿cuál es la otra variable?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 84)",
+        "responses": [
+            {
+                "text": "La interacción social."
+            },
+            {
+                "text": "Su grado de atracción.",
+                "correct": true
+            },
+            {
+                "text": "Los procesos cognitivos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo llama Deckers a las actividades que realiza un individuo para satisfacer un motivo y conseguir el objetivo elegido?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 128)",
+        "responses": [
+            {
+                "text": "Actividades funcionales."
+            },
+            {
+                "text": "Conductas instrumentales.",
+                "correct": true
+            },
+            {
+                "text": "Eventos motivacionales."
+            }
+        ]
+    },
+    {
+        "text": "Durante el predominio del conductismo, la motivación fue considerada como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. afín 17)",
+        "responses": [
+            {
+                "text": "Forma selectiva en que la energía es gastada y/o experimentada."
+            },
+            {
+                "text": "Función energizante de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Aspecto direccional de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "Según Palmero, en el proceso de motivación hay dos momentos: el primero, es la toma de decisiones y la elección del objetivo, ¿cuál es el segundo momento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 153)",
+        "responses": [
+            {
+                "text": "La fase de retroalimentación del rendimiento."
+            },
+            {
+                "text": "La ocurrencia o aparición del estímulo."
+            },
+            {
+                "text": "El control del resultado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En general, ¿qué tipo de relación existe entre la activación y la reactividad fisiológica y motora?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 61)",
+        "responses": [
+            {
+                "text": "Escalonada y variable."
+            },
+            {
+                "text": "Curvilínea monotónica."
+            },
+            {
+                "text": "Lineal monotónica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Deckers, ¿qué configura la implicación del individuo en la consecución del objetivo elegido?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 129)",
+        "responses": [
+            {
+                "text": "La combinación de la duración, frecuencia e intensidad de la conducta instrumental.",
+                "correct": true
+            },
+            {
+                "text": "El determinante motivacional de la intención."
+            },
+            {
+                "text": "El número de veces que consigue el objetivo elegido."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo comienza realmente el proceso motivacional para Fernández-Abascal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 139)",
+        "responses": [
+            {
+                "text": "Con la elección de un motivo entre todos los que compiten para conseguir su satisfacción."
+            },
+            {
+                "text": "Con la fase de anticipación en la que el individuo tiene algunas expectativas de la emergencia y/o satisfacción de un motivo."
+            },
+            {
+                "text": "Cuando los determinantes motivacionales provocan las condiciones necesarias para que el individuo adquiera la intención de iniciar una conducta específica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Deckers, ¿qué relación se establece entre la frecuencia de la conducta instrumental para conseguir el objetivo y la motivación de un individuo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 132)",
+        "responses": [
+            {
+                "text": "A mayor frecuencia mayor motivación.",
+                "correct": true
+            },
+            {
+                "text": "A menor frecuencia mayor motivación."
+            },
+            {
+                "text": "A mayor frecuencia menor motivación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la postura más extendida entre los investigadores con respecto a la fuente de energía responsable de activar el comportamiento de los individuos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 3)",
+        "responses": [
+            {
+                "text": "Que existe una única fuente de energía que actúa a modo general en todos los individuos y en todas las situaciones."
+            },
+            {
+                "text": "Que la fuerza impulsora es específica en cada caso y que cada conducta tiene su propia fuente de energía.",
+                "correct": true
+            },
+            {
+                "text": "Que no existe una fuerza o fuente de energía responsable de activar el comportamiento de los individuos."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los estudios sobre la activación, Thayer determinó que estaban implicados dos estados de activación diferentes, distinguiendo entre una activación energética y una activación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 53)",
+        "responses": [
+            {
+                "text": "Fisiológica."
+            },
+            {
+                "text": "Cognitiva."
+            },
+            {
+                "text": "Tensa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de activación se relaciona con los sentimientos positivos, en los cuales los sujetos se sienten vigorosos y animados? La activación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 55)",
+        "responses": [
+            {
+                "text": "Tensa."
+            },
+            {
+                "text": "Positiva."
+            },
+            {
+                "text": "Energética.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la clasificación de los estados de activación de Thayer, ¿a qué estado de activación correspondería cuando se ve a una persona atractiva caminando por la calle?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 55)",
+        "responses": [
+            {
+                "text": "Activación tensa."
+            },
+            {
+                "text": "Activación energética.",
+                "correct": true
+            },
+            {
+                "text": "Activación eufórica."
+            }
+        ]
+    },
+    {
+        "text": "Según Cannon, ¿qué rama del sistema nervioso autónomo es la responsable de los cambios fisiológicos presentes en las emociones y en los estados motivacionales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 26)",
+        "responses": [
+            {
+                "text": "La simpática.",
+                "correct": true
+            },
+            {
+                "text": "La parasimpática."
+            },
+            {
+                "text": "Tanto la simpática como la parasimpática."
+            }
+        ]
+    }
+]

@@ -1,0 +1,502 @@
+[
+    {
+        "text": "La Psicología Fisiológica:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tiene como objeto el estudio de los mecanismos cerebrales que gobiernan la conducta en cualquier momento del ciclo vital del organismo.",
+                "correct": true
+            },
+            {
+                "text": "Es un mero nexo de unión entre la fisiología y la psicología."
+            },
+            {
+                "text": "En su origen no se concibió en el marco de las ciencias naturales."
+            }
+        ]
+    },
+    {
+        "text": "El sueño de los cetáceos (las ballenas y los delfines) se caracteriza por mostrar en un solo hemisferio que se va alternando:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Alternancia entre sueño NREM y REM."
+            },
+            {
+                "text": "Sueño NREM.",
+                "correct": true
+            },
+            {
+                "text": "Sueño REM."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué efecto tiene administrar a un grupo de ratas un agonista farmacológico de los receptores Al de adenosina?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Permanecen en vigilia 12 horas seguidas."
+            },
+            {
+                "text": "Se adormecen."
+            },
+            {
+                "text": "Se duermen profundamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la función de la vía retino hipotalámica?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Transmitir al núcleo supraquiasmático (NSQ) información de la luz solar para sincronizar el reloj circadiano.",
+                "correct": true
+            },
+            {
+                "text": "Activar el núcleo supraquiasmático (NSQ) por la noche en los animales nocturnos y por el día en los diurnos."
+            },
+            {
+                "text": "Integrar en el núcleo supraquiasmático (NSQ) la información homeostática con la circadiana para controlar el ciclo de sueño-vigilia."
+            }
+        ]
+    },
+    {
+        "text": "Los contenidos de los sueños son, según William Domhoff y su modelo neurocognitivo de los sueños:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La representación desfigurada, para evitar la ansiedad, de la realización de algún deseo."
+            },
+            {
+                "text": "La síntesis de sentido que la corteza cerebral construye con las señales procedentes de la actividad de las neuronas del tronco del encéfalo."
+            },
+            {
+                "text": "Generalmente, una continuación de los asuntos que ocupan la vigilia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El tratamiento para inducir la pubertad en las personas con síndrome de Turner consiste en la administración de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Andrógenos."
+            },
+            {
+                "text": "Estrógenos.",
+                "correct": true
+            },
+            {
+                "text": "Hormona estimulante del folículo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué núcleo del hipotálamo controla la lordosis en la rata hembra durante la condición neuroendocrina de estro?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El ventromedial (VMH).",
+                "correct": true
+            },
+            {
+                "text": "El lateral (HL)."
+            },
+            {
+                "text": "El ventrolateral preóptico (VLPO)."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué hormona asociada con el orgasmo masculino podría ser la causante del período refractario posteyaculación (PRPE)?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La testosterona."
+            },
+            {
+                "text": "El estradiol."
+            },
+            {
+                "text": "La prolactina.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios familiares con personas transexuales:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "No pueden descartar que elementos del ambiente pudieran actuar en la formación de la identidad de género."
+            },
+            {
+                "text": "Sugieren que los genes pudieran jugar una función en la identidad de género."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La hormona secretada por el páncreas durante la fase de ayuno y cuya acción permite la transformación de glucógeno a glucosa es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El glucagón.",
+                "correct": true
+            },
+            {
+                "text": "La insulina."
+            },
+            {
+                "text": "La leptina."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la ingesta, la liberación de colecistoquinina (CCK):",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Responde especialmente al contenido de hidratos de carbono de los nutrientes ingeridos."
+            },
+            {
+                "text": "Afecta sobre todo a la cantidad y la duración de las comidas, pero no a su frecuencia.",
+                "correct": true
+            },
+            {
+                "text": "Se produce principalmente en la fase de ayuno, en ausencia de nutrientes."
+            }
+        ]
+    },
+    {
+        "text": "La proteína relacionada con agouti (PRAG) y el neuropéptido Y (NPY) tienen sobre la ingesta un efecto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Orexígeno.",
+                "correct": true
+            },
+            {
+                "text": "Anorexígeno."
+            },
+            {
+                "text": "Anorexígeno y orexígeno, respectivamente."
+            }
+        ]
+    },
+    {
+        "text": "Parece que, sea tanto por exceso como por defecto, el alejamiento de los parámetros considerados normales en el peso de los niños al nacer podría determinar una mayor susceptibilidad a padecer:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Anorexia nerviosa, pero no obesidad, durante la etapa adulta."
+            },
+            {
+                "text": "Obesidad, pero no anorexia nerviosa, durante la etapa adulta."
+            },
+            {
+                "text": "Trastornos alimentarios, tanto anorexia nerviosa como obesidad, durante la etapa adulta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Darwin postuló que la expresión de las emociones:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es innata y universal.",
+                "correct": true
+            },
+            {
+                "text": "Es innata pero no es universal."
+            },
+            {
+                "text": "Es aprendida."
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis del marcador somático, formulada por Damasio y sus colaboradores (2013), propone que los sentimientos son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Experiencias mentales de los estados corporales."
+            },
+            {
+                "text": "En primera instancia, un fenómeno corporal."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según LeDoux, la información sensorial que advierte de un peligro inminente:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "No alcanza la corteza sensorial."
+            },
+            {
+                "text": "Llega hasta la amígdala a través de dos vías, una a la que denominó lenta y otra a la que llamó rápida.",
+                "correct": true
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "La capacidad de las personas para reconocer las expresiones faciales de asco resulta interferida por las lesiones en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La corteza de la ínsula y los núcleos basales",
+                "correct": true
+            },
+            {
+                "text": "El núcleo ventromedial del hipotálamo (HVM)."
+            },
+            {
+                "text": "El núcleo supraquiasmático (NSQ) y el cerebelo."
+            }
+        ]
+    },
+    {
+        "text": "El volumen craneal de los fósiles del Horno heilderbergensis encontrados en el yacimiento de Atapuerca podría indicar que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Estos homínidos ya poseían pensamiento simbólico, que resulta indispensable para la aparición del lenguaje.",
+                "correct": true
+            },
+            {
+                "text": "Sus capacidades comunicativas eran iguales a las del Horno habilis."
+            },
+            {
+                "text": "No podrían haber tenido la capacidad para el lenguaje, al no tener otros cambios anatómicos necesarios en el aparato fonador."
+            }
+        ]
+    },
+    {
+        "text": "En la afasia transcortical motora, según el modelo de Lichtheim (1885) se produce una desconexión entre:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El centro del pensamiento y el área de Wernicke."
+            },
+            {
+                "text": "El centro del pensamiento y el área de Broca.",
+                "correct": true
+            },
+            {
+                "text": "El centro del pensamiento y el giro angular izquierdo."
+            }
+        ]
+    },
+    {
+        "text": "La corriente ventral en el modelo de Hickok y Poeppel (2007):",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tiene un papel destacado en la unión de los sonidos del habla con el sistema motor, permitiendo reproducir los sonidos con el tracto vocal."
+            },
+            {
+                "text": "Está implicada en el reconocimiento auditivo requerido para la comprensión del lenguaje.",
+                "correct": true
+            },
+            {
+                "text": "Actúa a través de mapas fonológicos que están representados bilateralmente."
+            }
+        ]
+    },
+    {
+        "text": "En los idiomas regulares o trasparentes:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La enseñanza de la lectura se hace preferentemente por el método fonético.",
+                "correct": true
+            },
+            {
+                "text": "Habitualmente se utiliza el mismo método de enseñanza de lectura que en los idiomas irregulares."
+            },
+            {
+                "text": "No se pueden leer pseudopalabras ya que estas no tienen significado."
+            }
+        ]
+    },
+    {
+        "text": "El primer científico que propuso que la fuerza de las conexiones sinápticas era la base del aprendizaje fue:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Hebb."
+            },
+            {
+                "text": "Ramón y Cajal.",
+                "correct": true
+            },
+            {
+                "text": "Lashley."
+            }
+        ]
+    },
+    {
+        "text": "Durante el desencadenamiento de la potenciación a largo plazo (PLP):",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El glutamato liberado desde la neurona presináptica se une a dos subtipos del receptor ionotrópico de glutamato; el AMPA y NMDA."
+            },
+            {
+                "text": "Los receptores de NMDA contribuyen poco a la respuesta postsináptica mientras el canal al que está asociado este receptor se encuentre bloqueado por el catión mg2+."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con el óxido nítrico:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es liberado mediante la exocitosis de las vesículas sinápticas tras la despolarización de la membrana neuronal."
+            },
+            {
+                "text": "Lleva el mensaje retrógradamente desde las espinas dendríticas hacia los botones terminales de los axones.",
+                "correct": true
+            },
+            {
+                "text": "Su acción biológica es llevada a cabo a través de la unión a receptores específicos de membrana."
+            }
+        ]
+    },
+    {
+        "text": "En lo referente a la reconsolidación de la memoria:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Requiere que la huella de memoria se vuelva lábil para permitir que ésta se actualice.",
+                "correct": true
+            },
+            {
+                "text": "No conlleva cambios moleculares y/o celulares en las sinapsis."
+            },
+            {
+                "text": "Es un proceso independiente del hipocampo y del córtex cerebral incluso para aquellas memorias dependientes de esta estructura."
+            }
+        ]
+    }
+]

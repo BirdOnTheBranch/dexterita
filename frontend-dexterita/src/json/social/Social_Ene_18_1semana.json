@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Señale la afirmación verdadera respecto al sexo y el género:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El sexo hace referencia a categorías demográficas y el género a aspectos psicológicos y sociales.",
+                "correct": true
+            },
+            {
+                "text": "Se trata de dos términos sinónimos que se pueden utilizar indistintamente para referirse al mismo concepto."
+            },
+            {
+                "text": "El género es una categorización basada en la biología y el sexo se aplica a aspectos culturales de las diferencias hombre / mujer."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autodiscrepancia, ¿qué tipo de autoesquema son las creencias sobre cómo deberíamos ser o sobre cómo nuestros referentes piensan que deberíamos ser?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El yo responsable.",
+                "correct": true
+            },
+            {
+                "text": "El yo ideal."
+            },
+            {
+                "text": "El yo real."
+            }
+        ]
+    },
+    {
+        "text": "En un experimento de Cialdini y cols. (1978) se pedía a sus participantes que se apuntaran a la realización de un curso. En una condición experimental se les decía que el curso tenía lugar a una hora muy temprana de la mañana, y a otro grupo se le invitaba a que se apuntara a participar en el curso y solo después de que estuvieran inscritos Ies comunicaban que su hora de comienzo era las 7 de la mañana. Este experimento es un ejemplo de táctica de influencia basada en el principio de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Reciprocidad."
+            },
+            {
+                "text": "Escasez."
+            },
+            {
+                "text": "Compromiso y coherencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La necesidad de creer que lo que hacemos sirve para algo, se corresponde con:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El motivo social universal denominado por Fiske 'Control'.",
+                "correct": true
+            },
+            {
+                "text": "La dimensión cultural universal denominada por Hofstede “Masculinidad-feminidad”."
+            },
+            {
+                "text": "Una evidencia a favor de la hipótesis de la inteligencia maquiavélica."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes cuestiones encaja mejor en el ámbito de interés de la Psicología Social?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La relación entre la inversión en educación y la tasa de desempleo en una determinada sociedad."
+            },
+            {
+                "text": "La relación entre la capacidad intelectual y el éxito escolar o laboral."
+            },
+            {
+                "text": "El efecto del ambiente familiar en la motivación de los niños para asistir a la escuela.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes términos recoge el conjunto de creencias y pensamientos de un individuo sobre su persona, características y cualidades, así como las representaciones mentales de sí mismo vinculadas a sus relaciones sociales?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Autopresentación."
+            },
+            {
+                "text": "Autoconcepto.",
+                "correct": true
+            },
+            {
+                "text": "Autoestima."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de Psicología Social se encuentra que existe una correlación significativa de -0.52 entre la identificación grupal y la depresión. ¿Cómo interpretaría los resultados?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al ser una correlación tan baja no podríamos concluir que exista una relación entre las variables."
+            },
+            {
+                "text": "Las personas que tienen fuertes vínculos con un grupo tienen menos probabilidades de desarrollar problemas de depresión.",
+                "correct": true
+            },
+            {
+                "text": "El hecho de identificarse con un grupo causa un descenso de la depresión."
+            }
+        ]
+    },
+    {
+        "text": "El análisis de las tácticas de venta a domicilio (por ejemplo, los tupperwares) pone de manifiesto que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los diferentes principios de influencia se utilizan de forma simultánea.",
+                "correct": true
+            },
+            {
+                "text": "La gente se muestra muy dispuesta a participar en este tipo de ventas."
+            },
+            {
+                "text": "El principio de simpatía es el que mayor influjo ejerce en este tipo de ventas dado que normalmente los compradores suelen ser conocidos."
+            }
+        ]
+    },
+    {
+        "text": "El efecto del incentivo sobre la disonancia, que se estudió en los experimentos de Festinger y Carlsmith sobre el paradigma de la complacencia inducida, mostró que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los sujetos que recibieron la máxima recompensa (20 dólares) mostraron mejor actitud hacia la tarea inducida que los que habían recibido una compensación mínima (1 dólar)."
+            },
+            {
+                "text": "Los sujetos que demostraron mejores actitudes hacia la tarea inducida fueron los que habían recibido refuerzos mínimos (1 dólar), no los que recibieron mayores refuerzos (20 dólares).",
+                "correct": true
+            },
+            {
+                "text": "La complacencia de los participantes no se asoció con la cantidad de dinero que recibieron por realizar la conducta contraactitudinal."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes hipótesis plantea que la inteligencia humana evolucionó para explotar los recursos del medio y después se aplicó a resolver problemas sociales?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La hipótesis de la inteligencia múltiple."
+            },
+            {
+                "text": "La hipótesis de la inteligencia social."
+            },
+            {
+                "text": "La hipótesis de la inteligencia ecológica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El objetivo de Eaeg y Wood al reanalizar los datos de Buss y cols. sobre diferencias de sexo en elección de pareja era comprobar su propia predicción de que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Buss y sus colegas habían falseado los datos."
+            },
+            {
+                "text": "No existen diferencias entre hombres y mujeres en los atributos más valorados en una pareja."
+            },
+            {
+                "text": "Existen diferencias, pero son debidas a que hombres y mujeres desempeñan roles distintos en la sociedad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si una persona dice que forma parte de un grupo porque le hace sentir bien y le permite tener una autoestima positiva, podemos decir que la pertenencia a ese grupo le facilita la obtención de una meta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Utilitaria."
+            },
+            {
+                "text": "De conocimiento."
+            },
+            {
+                "text": "De identidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el enfoque evolucionista, las diferencias psicológicas entre hombres y mujeres:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se relacionan sobre todo con el ámbito de la reproducción.",
+                "correct": true
+            },
+            {
+                "text": "Se deben a que ambos han sufrido presiones selectivas distintas en todos los ámbitos desde tiempos ancestrales."
+            },
+            {
+                "text": "Se deben a que ambos poseen una constitución física distinta."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de covariación y de los esquemas causales de Kelley, ¿qué atribución haremos del comportamiento de Mario si vemos que se muestra brusco con otra persona a la que todos los demás tratan amablemente y si sabemos que Mario se muestra brusco con todo el mundo y en cualquier situación?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una atribución el estímulo."
+            },
+            {
+                "text": "Una atribución a la persona.",
+                "correct": true
+            },
+            {
+                "text": "Una atribución a las circunstancias."
+            }
+        ]
+    },
+    {
+        "text": "En muchos anuncios de teletienda nos dicen que si compramos determinado producto, además, a modo de obsequio, nos regalan algo. ¿Este tipo de técnica comercial, en qué principio de influencia se basaría?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Escasez."
+            },
+            {
+                "text": "Reciprocidad.",
+                "correct": true
+            },
+            {
+                "text": "Compromiso y coherencia."
+            }
+        ]
+    },
+    {
+        "text": "El error último de atribución:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consiste en reproducir las pautas favorecedoras del yo en las explicaciones de los logros del propio grupo.",
+                "correct": true
+            },
+            {
+                "text": "Es la tendencia a atribuir la responsabilidad de los éxitos de nuestro grupo a nuestra participación y el fracaso a otros miembros del equipo."
+            },
+            {
+                "text": "Es un sesgo autoprotector que sólo afecta a la forma en que nos vemos a nosotros mismos."
+            }
+        ]
+    },
+    {
+        "text": "La supresión de pensamientos se considera un proceso:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Preconsciente."
+            },
+            {
+                "text": "Dependiente de las metas.",
+                "correct": true
+            },
+            {
+                "text": "Automático."
+            }
+        ]
+    },
+    {
+        "text": "La Teoría de la acción razonada considera que el principal factor psicológico que hay que predecir es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La intención de conducta.",
+                "correct": true
+            },
+            {
+                "text": "Las consecuencias de la conducta."
+            },
+            {
+                "text": "La conducta."
+            }
+        ]
+    },
+    {
+        "text": "Según el análisis ingenuo de la conducta de Heider, una atribución a la dificultad de la tarea, sería una atribución:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Controlable."
+            },
+            {
+                "text": "Externa.",
+                "correct": true
+            },
+            {
+                "text": "Interna."
+            }
+        ]
+    },
+    {
+        "text": "Señale el heurístico que explica el efecto de falso consenso del siguiente modo: “es el error que se produce cuando iniciamos una estimación o juicio de la conducta de los demás como si fuéramos nosotros mismos y nuestras circunstancias y, posteriormente, no ajustamos la estimación inicial teniendo en cuenta otra información relevante ajena a nosotros”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Heurístico de disponibilidad."
+            },
+            {
+                "text": "Heurístico de representatividad."
+            },
+            {
+                "text": "Heurístico de anclaje y ajuste.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Tras ganar la liga, los seguidores del equipo de fútbol ganador se reúnen en una determinada plaza de la ciudad, llevando las banderas y cantando el himno del equipo. Estas conductas son un ejemplo de la función de las actitudes:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Defensiva del yo."
+            },
+            {
+                "text": "Instrumental."
+            },
+            {
+                "text": "Expresiva de valores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de Kip Williams, ¿cuándo será más probable que una persona que es víctima de ostracismo por parte de un grupo reaccione de forma antisocial?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuando ve en peligro su necesidad de pertenencia."
+            },
+            {
+                "text": "Cuando percibe que está siendo amenazada su autoestima."
+            },
+            {
+                "text": "Cuando el rechazo le hace experimentar una sensación de invisibilidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la percepción de personas, según el origen de la información y la dirección que sigue el procesamiento para interpretarla, el procesamiento de la información arriba-abajo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se refiere a las características del estímulo."
+            },
+            {
+                "text": "Alude al conocimiento previo y las expectativas que genera el estímulo.",
+                "correct": true
+            },
+            {
+                "text": "Es el único procesamiento de la información del que normalmente somos conscientes."
+            }
+        ]
+    },
+    {
+        "text": "Seleccione la afirmación que es FALSA:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La diversidad de formas en que se manifiestan los mecanismos psicológicos básicos de lugar a la diversidad cultural."
+            },
+            {
+                "text": "Los mecanismos psicológicos básicos no son sensibles a las demandas del contexto físico y social.",
+                "correct": true
+            },
+            {
+                "text": "El concepto de cultura presupone la existencia de mecanismos psicológicos básicos que son universales en la especie humana."
+            }
+        ]
+    },
+    {
+        "text": "La perspectiva que mantiene que la Cognición social y la Cognición no social son diferentes sostiene que la diferencia fundamental entre estas dos corrientes es la siguiente:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las estructuras y procesos implicados son claramente diferentes."
+            },
+            {
+                "text": "Abordan objetos de estudio diferentes.",
+                "correct": true
+            },
+            {
+                "text": "En la Cognición social es preciso simplificar la realidad por su extraordinaria complejidad. En la Cognición no-social, no."
+            }
+        ]
+    },
+    {
+        "text": "Las actitudes:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se infieren del comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Pueden no tener un carácter evaluativo."
+            },
+            {
+                "text": "Son directamente observables."
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis de la interdependencia de las infidelidades:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las personas, en general, creen que la infidelidad sexual conlleva necesariamente una infidelidad emocional."
+            },
+            {
+                "text": "Las personas, en general, creen que la infidelidad emocional conlleva necesariamente una infidelidad sexual."
+            },
+            {
+                "text": "Las creencias sobre qué tipo de infidelidad implicará más probablemente la existencia del otro tipo son distintas en hombres y en mujeres.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Considere estas tres afirmaciones referidas al autoconocimiento y elija la alternativa correcta: Afirmación 1: “Los aspectos importantes para el yo suelen estar bien estructurados y organizados en la memoria”. Afirmación 2: “La información que afecta sensiblemente al yo normalmente se elabora más que otro tipo de información”. Afirmación 3: “No todas las facetas del yo son igualmente relevantes”.",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las afirmaciones 1 y 3 son ciertas, la 2 es falsa."
+            },
+            {
+                "text": "Las afirmaciones 1 y 2 son ciertas, la 3 es falsa."
+            },
+            {
+                "text": "Las tres afirmaciones son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Imagine un contexto social y político marcado por el llamado proceso soberanista catalán (el “procés”), referido a los acontecimientos políticos que han venido sucediendo en los últimos meses/años en relación con la independencia de Cataluña. En este contexto, una persona de Madrid queda a cenar con un amigo de Barcelona. La conversación empieza a girar en torno al “procés” y en un momento determinado el madrileño Ie espeta al catalán: “vuestro problema es la unilateralidad”. y el catalán responde: “y el vuestro el inmovilismo”. Si utilizamos la teoría de la identidad social como marco de análisis de esta conversación, ¿cuál de las siguientes afirmaciones sería correcta ?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dado que se trata de una conversación privada entre dos amigos, la teoría de la identidad social no es aplicable a esta situación."
+            },
+            {
+                "text": "Las identidades personales han producido un proceso de rivalidad."
+            },
+            {
+                "text": "El contexto social ha activado las identidades sociales de los dos amigos, produciéndose un proceso de despersonalización.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una campaña para unas elecciones presenta a un candidato como un experto economista, con muchos años de experiencia en la empresa privada. Desde el punto de vista de la persuasión, ¿en qué se basaría esta campaña?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atractivo de la fuente."
+            },
+            {
+                "text": "Principio de simpatía."
+            },
+            {
+                "text": "Credibilidad de la fuente.",
+                "correct": true
+            }
+        ]
+    }
+]

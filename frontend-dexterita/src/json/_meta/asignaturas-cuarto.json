@@ -1,0 +1,21 @@
+[
+  {
+    "id":"antro-20-jun-1week",
+    "name":"Antropología",
+    "course":"Cuarto",
+    "course_dg":"4",
+    "subject":"antropologia",
+    "year": 20,
+    "month": "february",
+    "rating": 20,
+    "questions": 10,
+    "plusScore": 1,
+    "minusScore": 0,
+    "minutes": 45,
+    "color":"#5a8285",
+    "slogan":"Febrero 2020",
+    "verified": true,
+    "logo":"#logo14",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  }
+]

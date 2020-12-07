@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Teniendo en cuenta los resultados de investigaciones previas sobre las explicaciones de las causas de la pobreza, ¿cuál de las siguientes hipótesis sería correcta?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 49 Cuaderno)",
+        "responses": [
+            {
+                "text": "En comparación con las personas pobres, las personas ricas tenderán a hacer más atribuciones externas de la pobreza que internas."
+            },
+            {
+                "text": "Comparadas con la personas de los países desarrollados, los habitantes de países en vías de desarrollo harán más atribuciones externas de la pobreza.",
+                "correct": true
+            },
+            {
+                "text": "Comparados con las personas de ideología de derechas, las personas con ideología de izquierdas harán más atribuciones internas de la pobreza."
+            }
+        ]
+    },
+    {
+        "text": "Señale uno de los resultados encontrados en el análisis del contenido de la programación televisiva, del estudio sobre indicadores culturales de Gerbner y sus colaboradores:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 108 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Las personas mayores de 65 años estaban más representadas de lo que les correspondería por su tasa en la población."
+            },
+            {
+                "text": "La presencia de las mujeres sobrepasaba a la de los hombres en una proporción de tres a uno."
+            },
+            {
+                "text": "Se cultivaba el mito de la clase media como modelo del perfecto estadounidense.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la investigación de Barrón y Martínez-Íñigo (1999) sobre las atribuciones en una muestra de casados y divorciados se encontró:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 43 Cuaderno)",
+        "responses": [
+            {
+                "text": "Que las personas divorciadas atribuían los aspectos positivos de la relación a factores externos al otro miembro de la pareja.",
+                "correct": true
+            },
+            {
+                "text": "Una relación positiva entre la atribución de sucesos positivos a la pareja y satisfacción en la muestra de personas divorciadas."
+            },
+            {
+                "text": "Que las personas divorciadas atribuían a factores internos a su pareja tanto los aspectos negativos, como los aspectos positivos de la relación."
+            }
+        ]
+    },
+    {
+        "text": "Por definición, la atención selectiva es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 77-78)",
+        "responses": [
+            {
+                "text": "Uno de los tipos de estructura de conocimiento que utilizamos para procesar información compleja."
+            },
+            {
+                "text": "Una de las formas de reducir la información que hay que procesar.",
+                "correct": true
+            },
+            {
+                "text": "Una de las formas de organizar la información que tenemos que procesar."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué situaciones el efecto tercera persona es menos intenso e incluso puede llegar a invertirse?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 100-101 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Si la fuente se percibe negativamente."
+            },
+            {
+                "text": "Si el contenido del mensaje es socialmente deseable.",
+                "correct": true
+            },
+            {
+                "text": "Cuando la distancia social al “otro” con el que se establece la comparación es muy alta."
+            }
+        ]
+    },
+    {
+        "text": "En el área del cambio de actitudes mediante mensajes persuasivos, el modelo del aprendizaje del mensaje se caracteriza por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 272)",
+        "responses": [
+            {
+                "text": "Dar una gran importancia a los procesos cognitivos que tienen lugar en la mente del receptor."
+            },
+            {
+                "text": "Considerar al receptor como un ser pasivo.",
+                "correct": true
+            },
+            {
+                "text": "Centrarse en la importancia de la motivación del receptor para recibir y aceptar el mensaje."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría propone que aumentando la autoestima en cualquier faceta del yo se puede restaurar la imagen de uno mismo como persona valiosa?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 184)",
+        "responses": [
+            {
+                "text": "La teoría de la autoafirmación.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la autopercepción."
+            },
+            {
+                "text": "La teoría de la identidad social."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se conoce con el nombre de diferencial semántico?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "El componente cognitivo de una actitud."
+            },
+            {
+                "text": "Una escala bipolar de medida definida por dos características opuestas.",
+                "correct": true
+            },
+            {
+                "text": "Un tipo particular de ambivalencia actitudinal."
+            }
+        ]
+    },
+    {
+        "text": "Schmitt y sus colaboradores (2003), en su estudio experimental sobre la influencia de las atribuciones sobre sexismo en las emociones y en el estado psicológico de mujeres que habían sido evaluadas negativamente en una selección de personal, encontraron que bajaba la autoestima colectiva privada y empeoraba el estado de ánimo si esa evaluación negativa se atribuía:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 46 Cuaderno)",
+        "responses": [
+            {
+                "text": "Al sexismo generalizado.",
+                "correct": true
+            },
+            {
+                "text": "A que el evaluador es muy exigente con todas las personas."
+            },
+            {
+                "text": "Al sexismo de una persona concreta."
+            }
+        ]
+    },
+    {
+        "text": "Señale la respuesta verdadera:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 118-120)",
+        "responses": [
+            {
+                "text": "Percibimos de forma selectiva, sin procesar toda la información que llega a nuestros sentidos.",
+                "correct": true
+            },
+            {
+                "text": "La expresión no verbal de emociones se desarrolla posteriormente al lenguaje."
+            },
+            {
+                "text": "La conducta no verbal es espontánea e incontrolable."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es, según el modelo de Fiske, el motivo social fundamental, aquel en torno al cual se organizan los otros motivos sociales?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Potenciación personal."
+            },
+            {
+                "text": "Pertenencia.",
+                "correct": true
+            },
+            {
+                "text": "Comprensión."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones define la característica esencial de la Psicología Social?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 5)",
+        "responses": [
+            {
+                "text": "Estudia la influencia de los otros en la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Se centra prioritariamente en el estudio de procesos sociales."
+            },
+            {
+                "text": "Su objetivo es analizar la interacción entre rasgos biológicos y cultura."
+            }
+        ]
+    },
+    {
+        "text": "El procesamiento cognitivo controlado se caracteriza por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 101)",
+        "responses": [
+            {
+                "text": "Basarse fundamentalmente en heurísticos."
+            },
+            {
+                "text": "Ser más consciente, más intencionado y consumir más recursos cognitivos que el procesamiento automático.",
+                "correct": true
+            },
+            {
+                "text": "No ser compatible con el procesamiento automático."
+            }
+        ]
+    },
+    {
+        "text": "El efecto de congruencia con el estado de ánimo se refiere al hecho de que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 102-103)",
+        "responses": [
+            {
+                "text": "Seremos más vulnerables a las tácticas de influencia cuando nuestro estado de ánimo sea negativo."
+            },
+            {
+                "text": "Nuestro estado de ánimo influye en la forma en que percibimos, interpretamos y recordamos la información.",
+                "correct": true
+            },
+            {
+                "text": "Estaremos más dispuestos a elaborar cognitivamente un mensaje persuasivo cuando nos encontremos en un estado afectivo positivo."
+            }
+        ]
+    },
+    {
+        "text": "Señale cuál de las siguientes afirmaciones sobre la cultura es FALSA:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 50-51)",
+        "responses": [
+            {
+                "text": "La cultura explica por qué todos los seres humanos tienen una serie de mecanismos y procesos psicológicos comunes.",
+                "correct": true
+            },
+            {
+                "text": "La cultura surge de la adaptación a ambientes físicos y sociales concretos."
+            },
+            {
+                "text": "La cultura influye en las respuestas de un grupo humano a su ambiente durante generaciones."
+            }
+        ]
+    },
+    {
+        "text": "Las investigaciones correlacionales se caracterizan por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 28-29)",
+        "responses": [
+            {
+                "text": "Manipular variables independientes."
+            },
+            {
+                "text": "Comprobar la asociación existente entre variables.",
+                "correct": true
+            },
+            {
+                "text": "Manipular la variable dependiente."
+            }
+        ]
+    },
+    {
+        "text": "Cuando las personas, por falta de tiempo o de interés, elaboran juicios en función de sus metas, sacrificando la exactitud a cambio de la eficiencia, estamos ante un modelo de funcionamiento que ilustra al:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 87)",
+        "responses": [
+            {
+                "text": "Estratega motivado.",
+                "correct": true
+            },
+            {
+                "text": "Indigente cognitivo."
+            },
+            {
+                "text": "Científico ingenuo."
+            }
+        ]
+    },
+    {
+        "text": "La creencia “soy una persona muy miedosa” es un ejemplo de la dimensión del autoconcepto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 168)",
+        "responses": [
+            {
+                "text": "Emocional.",
+                "correct": true
+            },
+            {
+                "text": "Implícita."
+            },
+            {
+                "text": "Social."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dimensión cultural capta el modo en que las personas de distintas culturas se enfrentan al miedo a lo desconocido?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 53)",
+        "responses": [
+            {
+                "text": "La orientación temporal."
+            },
+            {
+                "text": "El individualismo-colectivismo."
+            },
+            {
+                "text": "La evitación de la incertidumbre.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el proceso atributivo, la relevancia hedónica hace referencia a:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Las consecuencias positivas que tiene la acción para el observador y para la persona que realiza la conducta."
+            },
+            {
+                "text": "Las consecuencias positivas o negativas que tiene la acción para el observador.",
+                "correct": true
+            },
+            {
+                "text": "Las consecuencias positivas o negativas que tiene la acción para la persona que realiza la conducta."
+            }
+        ]
+    },
+    {
+        "text": "La táctica de influencia llamada “de la bola baja” funciona mejor cuando:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 257-258)",
+        "responses": [
+            {
+                "text": "No se da a la persona la oportunidad de buscar justificaciones para mantener su decisión inicial."
+            },
+            {
+                "text": "La persona se compromete la primera vez libremente y de forma pública.",
+                "correct": true
+            },
+            {
+                "text": "El agente de influencia que da la información falsa o incompleta en el primer momento no es el mismo que el que da la información adecuada al final."
+            }
+        ]
+    },
+    {
+        "text": "Señale la respuesta correcta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 170)",
+        "responses": [
+            {
+                "text": "Se denomina “yo activo” a la representación sobre uno mismo de la que se tiene consciencia en un momento determinado.",
+                "correct": true
+            },
+            {
+                "text": "En la construcción del yo no se emplean esquemas."
+            },
+            {
+                "text": "Autoconcepto y autoestima son dos términos que se refieren al mismo concepto en Psicología."
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis sobre la inteligencia social, en el desarrollo del cerebro humano, ha sido probada analizando, en diferentes especies animales:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "La similitud de su conducta con la humana."
+            },
+            {
+                "text": "El tamaño relativo del neocórtex.",
+                "correct": true
+            },
+            {
+                "text": "La capacidad para defenderse de otras especies."
+            }
+        ]
+    },
+    {
+        "text": "En una campaña dirigida a reducir el abandono de perros aparecía el eslogan “Él nunca lo haría”. ¿En qué principio se basa la táctica empleada en este anuncio?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 259)",
+        "responses": [
+            {
+                "text": "Validación social."
+            },
+            {
+                "text": "Reciprocidad.",
+                "correct": true
+            },
+            {
+                "text": "Autoridad."
+            }
+        ]
+    },
+    {
+        "text": "Muchas personas suelen leer siempre el mismo periódico, escuchar las noticias y los debates del mismo canal de TV y rechazar de entrada cualquier mensaje procedente de una fuente contraria a sus actitudes, esgrimiendo argumentos desfavorables. ¿Cuál de las siguientes motivaciones explica mejor estos comportamientos en conjunto?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 281-282)",
+        "responses": [
+            {
+                "text": "La necesidad de valía personal."
+            },
+            {
+                "text": "La necesidad de cognición."
+            },
+            {
+                "text": "La necesidad de consistencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una persona piensa de sí misma que es poco trabajadora. además, cree que aquellas personas a las que considera sus referentes opinan que debería ser más trabajador. Siente vergüenza por ello. ¿Qué teoría de las desarrolladas en el temario explica mejor la vergüenza que experimenta esta persona?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "La teoría de la autodiscrepancia.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la categorización del yo."
+            },
+            {
+                "text": "La teoría de las metas regulatorias."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de los siguientes casos es menos acuciante la necesidad de hacer una atribución causal?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 131-132)",
+        "responses": [
+            {
+                "text": "Sucesos inesperados."
+            },
+            {
+                "text": "Acontecimientos negativos."
+            },
+            {
+                "text": "Sucesos cotidianos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones sobre la teoría de la disonancia cognitiva es verdadera:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 227-228)",
+        "responses": [
+            {
+                "text": "Cuando cambiamos actitudes como resultado de la disonancia lo hacemos por una necesidad de ser lógicos."
+            },
+            {
+                "text": "La disonancia no es un factor motivacional sino cognitivo."
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de reducir el malestar psicológico producido por la disonancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La valencia de una actitud es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 206)",
+        "responses": [
+            {
+                "text": "El grado de accesibilidad de la evaluación."
+            },
+            {
+                "text": "El carácter positivo o negativo de la evaluación.",
+                "correct": true
+            },
+            {
+                "text": "El grado de extremosidad de la evaluación."
+            }
+        ]
+    },
+    {
+        "text": "La tendencia a infravalorar la influencia del contexto o la situación en la conducta de las personas se conoce con el nombre de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 143-145)",
+        "responses": [
+            {
+                "text": "Sesgo de correspondencia.",
+                "correct": true
+            },
+            {
+                "text": "Efecto de falso consenso."
+            },
+            {
+                "text": "Atribución defensiva."
+            }
+        ]
+    }
+]

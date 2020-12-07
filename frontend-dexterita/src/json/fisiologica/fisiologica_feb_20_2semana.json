@@ -1,0 +1,502 @@
+[
+    {
+        "text": "Las técnicas que se utilizan en la experimentación:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Se pueden considerar como meros instrumentos para la consecución de resultados."
+            },
+            {
+                "text": "No influyen en que la pregunta planteada en la hipótesis tenga una respuesta clara y precisa."
+            },
+            {
+                "text": "Se pueden considerar como una parte fundamental de la planificación, desarrollo y conclusiones que acompañan a un estudio científico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La síntesis y degradación de la proteína BMAL1 (uno de los componentes del reloj molecular) dentro de las células del núcleo supraquiasmático (NSQ) varía de forma cíclica en períodos de aproximadamente:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "12 horas."
+            },
+            {
+                "text": "24 horas.",
+                "correct": true
+            },
+            {
+                "text": "48 horas."
+            }
+        ]
+    },
+    {
+        "text": "Las neuronas del núcleo ventrolateral del área preóptica (VLPO) en ratas disparan con tasas elevadas cuando los animales están:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "En vigilia durante un tiempo más largo del habitual y, por lo tanto, tienen sueño."
+            },
+            {
+                "text": "En vigilia tras haber dormido normalmente."
+            },
+            {
+                "text": "Dormidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una región cortical en la que se observa un decremento de actividad durante la fase REM que podría explicar la falta de atención ejecutiva durante los sueños es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La corteza prefrontal medial."
+            },
+            {
+                "text": "La dorsolateral de la corteza prefrontal.",
+                "correct": true
+            },
+            {
+                "text": "La corteza visual de asociación."
+            }
+        ]
+    },
+    {
+        "text": "Las benzodiacepinas se emplean para combatir el insomnio porque:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Decrementan los microdespertares.",
+                "correct": true
+            },
+            {
+                "text": "Incrementan el tiempo en la fase de sueño profundo."
+            },
+            {
+                "text": "Sincronizan el sueño con el ciclo circadiano."
+            }
+        ]
+    },
+    {
+        "text": "Antes de la diferenciación de la gónada, los conductos mesonéfricos de Wolf están presentes en los embriones:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "XX."
+            },
+            {
+                "text": "XY."
+            },
+            {
+                "text": "En ambos tipos de embriones.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las niñas con síndrome de hiperplasia adrenal congénita (HAC) presentan al nacer:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Cierto grado de masculinización en los genitales.",
+                "correct": true
+            },
+            {
+                "text": "Ginecomastia."
+            },
+            {
+                "text": "Cariotipo XY."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste la función del dimorfismo sexual en las estructuras del sistema vomeronasal según sugieren los estudios sobre inhibición/desinhibición de la lordosis?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "En estimular la ovulación en la hembra y la espermatogénesis en el macho."
+            },
+            {
+                "text": "En diferenciar la ontogenia de la lordosis entre el macho y la hembra."
+            },
+            {
+                "text": "En inhibir la lordosis en el macho y desinhibirla cíclicamente en la hembra.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Existen modelos animales para el estudio de los mecanismos psicobiológicos en la orientación sexual?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Sí, pero son escasos. Un ejemplo es la oveja.",
+                "correct": true
+            },
+            {
+                "text": "Existen modelos en peces, roedores e invertebrados."
+            },
+            {
+                "text": "No. es imposible estudiar la orientación sexual en animales no humanos."
+            }
+        ]
+    },
+    {
+        "text": "Las neuronas son capaces de utilizar la glucosa:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Solo en presencia de insulina."
+            },
+            {
+                "text": "Solo en presencia de glucagón."
+            },
+            {
+                "text": "Sin la participación de la insulina o el glucagón.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con la colecistoquinina (CCK):",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Su efecto de saciedad ha sido demostrado en las ratas y en la mayoría de mamíferos, incluidos el mono Rhesus y los seres humanos.",
+                "correct": true
+            },
+            {
+                "text": "Es un péptido orexígeno, es decir, estimula el inicio de la ingesta."
+            },
+            {
+                "text": "Su liberación es estimulada por la presencia de alimentos en el estómago y responde especialmente a su contenido de hidratos de carbono."
+            }
+        ]
+    },
+    {
+        "text": "Los trabajos de Bouret y Simerly en el año 2004 demostraron que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La presencia de colecistoquinina (CCK), pero no de leptina, era fundamental durante los primeros días de vida para el establecimiento de las conexiones hipotalámicas que regulan la ingesta."
+            },
+            {
+                "text": "La leptina durante los primeros días de vida actuaría como un factor trófico necesario para el establecimiento de las conexiones hipotalámicas que controlan la ingesta.",
+                "correct": true
+            },
+            {
+                "text": "La presencia de neuropéptido Y (NPY), pero no de leptina, era fundamental durante los primeros días de vida para el establecimiento de las conexiones hipotalámicas que regulan la ingesta."
+            }
+        ]
+    },
+    {
+        "text": "Las principales características de lo que se ha denominado fenotipo ahorrador son:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La existencia de un metabolismo muy eficaz."
+            },
+            {
+                "text": "La capacidad de aprovechar todos los nutrientes y a la vez llenar todo lo posible los almacenes a corto y largo plazo."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de Cannon-Bard:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Las emociones se pueden experimentar aunque no se sientan cambios fisiológicos.",
+                "correct": true
+            },
+            {
+                "text": "Las emociones no se pueden experimentar si no se sienten cambios fisiológicos."
+            },
+            {
+                "text": "Hay una correlación fiable entre la experiencia de una emoción y el estado fisiológico del cuerpo."
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis de la retroalimentación facial de las emociones.",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La percepción del estado corporal no influye en la sensación emocional."
+            },
+            {
+                "text": "La percepción del estado corporal influye en la sensación emocional.",
+                "correct": true
+            },
+            {
+                "text": "La sensación emocional influye sobre la percepción del estado corporal."
+            }
+        ]
+    },
+    {
+        "text": "Según Damasio, los marcadores somáticos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Proporcionan información valiosa para responder a una situación de demanda externa.",
+                "correct": true
+            },
+            {
+                "text": "No tienen ninguna influencia sobre la respuesta a una situación de demanda interna."
+            },
+            {
+                "text": "Influyen sobre la respuesta a una situación solo si la demanda produce una respuesta fisiológica de miedo."
+            }
+        ]
+    },
+    {
+        "text": "¿El estrés interfiere en los procesos cognitivos?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Sí, ya que interfiere en la actividad de la corteza prefrontal (cp).",
+                "correct": true
+            },
+            {
+                "text": "Sí, aunque no se conocen los mecanismos."
+            },
+            {
+                "text": "Solo en los procesos asociativos complejos."
+            }
+        ]
+    },
+    {
+        "text": "Según Hopkins y cols. (2007) la asimetría cerebral relacionada con el grado de dominancia de la mano derecha es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La Cisura de Silvio."
+            },
+            {
+                "text": "La asimetría frontooccipital.",
+                "correct": true
+            },
+            {
+                "text": "El área de Brodmann 44."
+            }
+        ]
+    },
+    {
+        "text": "Las personas afectadas por afasia de Wernicke:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tienen síntomas que son principalmente receptivos.",
+                "correct": true
+            },
+            {
+                "text": "Utilizan un lenguaje muy trabajoso pero que conserva el sentido."
+            },
+            {
+                "text": "No muestran dificultades especiales con respecto a la comprensión del lenguaje."
+            }
+        ]
+    },
+    {
+        "text": "La ruta ventral en el modelo de lenguaje de doble ruta de Hickok y Poeppel (2007):",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tiene un importante papel en la unión de los sonidos del habla con el sistema motor."
+            },
+            {
+                "text": "Se encuentra ya desarrollada en los recién nacidos.",
+                "correct": true
+            },
+            {
+                "text": "Está fuertemente lateralizada en el hemisferio izquierdo."
+            }
+        ]
+    },
+    {
+        "text": "Según los datos aportados por los estudios de neuroimagen con respecto a las bases neurales de la lectura se ha propuesto que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Ni el área de Broca ni la de Wernicke son relevantes para la lectura porque son estructuras del lenguaje oral."
+            },
+            {
+                "text": "El área occipitotemporal es muy relevante para la lectura porque contiene el área de forma visual de las palabras (AFVP).",
+                "correct": true
+            },
+            {
+                "text": "El procesamiento visual inicial de la información está lateralizado en el hemisferio izquierdo."
+            }
+        ]
+    },
+    {
+        "text": "El flujo de Ca2+ activa varias vías de señalización celular que implican a distintas proteínas kinasas y fosfatasas. Una de las kinasas activadas por la entrada de Ca2+ a través del receptor de NMDA es la:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Ca2+/calmodulina proteína kinasa II (CaMKII).",
+                "correct": true
+            },
+            {
+                "text": "Calmodulina (CaM)."
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "El oxido nítrico (NO) o monóxido de nitrógeno es capaz de llevar el mensaje, de forma inusual, retrógradamente, desde las espinas dendríticas hacia los botones terminales de los axones como consecuencia de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Ser un gas que permea (difunde) a través de las membranas plasmáticas.",
+                "correct": true
+            },
+            {
+                "text": "Que es liberado en vesículas sinápticas desde las espinas dendríticas, de ahí, su movimiento retrogrado."
+            },
+            {
+                "text": "Su pequeño tamaño, es decir, inferior al de cationes como el Ca2+ o el Na+."
+            }
+        ]
+    },
+    {
+        "text": "¿cuál de estas afirmaciones, en relación con la consolidación/reconsolidación de la memoria, es correcta?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La consolidación se inicia después de la adquisición de nueva información, mientras que la reconsolidación se inicia después de la reactivación de una memoria ya existente.",
+                "correct": true
+            },
+            {
+                "text": "La consolidación y la reconsolidación de la memoria no comparten los mecanismos moleculares y celulares que sustentan estos procesos y difieren de los observados durante la plasticidad neural."
+            },
+            {
+                "text": "El tratamiento farmacológico con agentes amnésicos, como los inhibidores de la síntesis de proteínas o los choques electroconvulsivos, justo después de la reactivación de una memoria, conduce a una más rápida y eficaz reconsolidación de la memoria."
+            }
+        ]
+    },
+    {
+        "text": "En relación con el factor neurotrófico derivado de cerebro (BDNF), podríamos indicar que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Está involucrado en la síntesis de micro ARNs asociados a los procesos apoptóticos."
+            },
+            {
+                "text": "Está asociado con cambios estructurales en las sinapsis, incluyendo cambios en el número de espinas dendríticas, así como de su volumen.",
+                "correct": true
+            },
+            {
+                "text": "Contribuye a la potenciación a largo plazo (PLP), concretamente a la PLP temprana, a través de la síntesis 'de novo' de proteínas."
+            }
+        ]
+    }
+]

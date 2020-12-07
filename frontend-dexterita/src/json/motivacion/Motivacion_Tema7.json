@@ -1,0 +1,1451 @@
+[
+    {
+        "text": "La ejecución de la conducta motivada aumenta conforme:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 24)",
+        "responses": [
+            {
+                "text": "Desciende la magnitud del estímulo reforzante."
+            },
+            {
+                "text": "Se observa la conducta del modelo."
+            },
+            {
+                "text": "Se incrementa la magnitud del estímulo reforzante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación a las propiedades de incentivo de la recompensa, se puede afirmar que la conducta se encuentra menos afectada por los cambios en el nivel de motivación cuando se realizan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 75)",
+        "responses": [
+            {
+                "text": "Pocos entrenamientos."
+            },
+            {
+                "text": "Entrenamientos prolongados.",
+                "correct": true
+            },
+            {
+                "text": "Entrenamientos breves."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué hace referencia el concepto de imitación generalizada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 98)",
+        "responses": [
+            {
+                "text": "A que se produce una mediación cognitiva que ejerce una influencia antecedente más que consecuente."
+            },
+            {
+                "text": "A la contigüidad espacio- temporal entre la situación observada y la posibilidad de emitir la respuesta."
+            },
+            {
+                "text": "A cuando se da la conducta imitativa sin un refuerzo contingente según el modelo operante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se conoce como autoincentivo en el aprendizaje observacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 116)",
+        "responses": [
+            {
+                "text": "El incentivo que se dispensa el propio sujeto cuando ejecuta la conducta observada."
+            },
+            {
+                "text": "El incremento del nivel motivacional del sujeto cuando observa una conducta."
+            },
+            {
+                "text": "Las expectativas que desarrolla el sujeto sobre las posibilidades de reforzamiento asociadas a la realización de la conducta previamente observada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué obtenemos si trabajamos con las personas a través de su MI?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 163)",
+        "responses": [
+            {
+                "text": "Conductas sujetas siempre a la estimulación exterior."
+            },
+            {
+                "text": "Cambios más duraderos y con mayor compromiso.",
+                "correct": true
+            },
+            {
+                "text": "Inicialmente cambios más importantes pero breves en el tiempo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se puede afirmar en relación a la expectativa de la recompensa?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 136)",
+        "responses": [
+            {
+                "text": "Que si se conoce previamente dificulta la ME."
+            },
+            {
+                "text": "Que si es esperada afecta a la MI.",
+                "correct": true
+            },
+            {
+                "text": "Que perjudica tanto la MI como la ME."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué es fruto la motivación humana regulada por el ambiente?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 11)",
+        "responses": [
+            {
+                "text": "Del componente subjetivo."
+            },
+            {
+                "text": "Del foco atencional."
+            },
+            {
+                "text": "Del aprendizaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los incentivos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Preceden a la ejecución.",
+                "correct": true
+            },
+            {
+                "text": "Se dispensan simultáneamente a la ejecución."
+            },
+            {
+                "text": "Surgen posteriormente a la ejecución."
+            }
+        ]
+    },
+    {
+        "text": "El incentivo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Afecta a la probabilidad de que se repita la respuesta.",
+                "correct": true
+            },
+            {
+                "text": "Causa la conducta."
+            },
+            {
+                "text": "Depende de factores externos."
+            }
+        ]
+    },
+    {
+        "text": "Una de las variables que determina los procesos de retención en el aprendizaje observacional es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 112)",
+        "responses": [
+            {
+                "text": "La percepción del grado de dificultad de la tarea."
+            },
+            {
+                "text": "El repaso encubierto.",
+                "correct": true
+            },
+            {
+                "text": "La complejidad del estímulo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo actúa el incentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Antes de la ejecución.",
+                "correct": true
+            },
+            {
+                "text": "Al finalizar la ejecución."
+            },
+            {
+                "text": "Después de la ejecución."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la ejecución de la conducta motivada no siempre es contingente con las expectativas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 19)",
+        "responses": [
+            {
+                "text": "Una detección de causalidad."
+            },
+            {
+                "text": "Un que se habían creado al respecto, nos encontramos entrenamiento de escape."
+            },
+            {
+                "text": "Un programa de refuerzo parcial.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se entiende por descuento de la demora?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 41)",
+        "responses": [
+            {
+                "text": "Que la demora del premio incrementa su valor de incentivo."
+            },
+            {
+                "text": "Que conforme desciende la demora del premio aparecen los estímulos marca."
+            },
+            {
+                "text": "Que la demora del premio produce que se reduzca su valor de incentivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las principales diferencias entre incentivo y reforzador son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 18)",
+        "responses": [
+            {
+                "text": "Los sujetos sobre los que se aplican y sus efectos a largo plazo."
+            },
+            {
+                "text": "Sus momentos de aparición y cómo motivan el comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Sus características intrínsecas."
+            }
+        ]
+    },
+    {
+        "text": "En relación a la contingencia incentivo-conducta motivada, ¿en qué tipo de programas se producen pausas después de recibir los premios?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 162)",
+        "responses": [
+            {
+                "text": "En los continuos."
+            },
+            {
+                "text": "En los de intervalo.",
+                "correct": true
+            },
+            {
+                "text": "En los de razón."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué depende entre otros aspectos el margen de vulnerabilidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 45)",
+        "responses": [
+            {
+                "text": "De la detección de causalidad."
+            },
+            {
+                "text": "Del autocontrol y la impulsividad del sujeto.",
+                "correct": true
+            },
+            {
+                "text": "De los estímulos marca."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué se basa la motivación de incentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 9)",
+        "responses": [
+            {
+                "text": "En el condicionamiento observacional de las consecuencias de la conducta del otro."
+            },
+            {
+                "text": "En el condicionamiento de segundo orden."
+            },
+            {
+                "text": "En las expectativas o en la anticipación de las propiedades hedónicas de los reforzadores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría social cognitiva de Bandura, ¿qué procesos se encuentran más implicados en la ejecución de la conducta modelada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 106)",
+        "responses": [
+            {
+                "text": "Los de retención."
+            },
+            {
+                "text": "Los de motivación.",
+                "correct": true
+            },
+            {
+                "text": "Los atencionales."
+            }
+        ]
+    },
+    {
+        "text": "La función de acrecentamiento del estímulo para la teoría social cognitiva corresponde a los procesos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "De retención."
+            },
+            {
+                "text": "Atencionales."
+            },
+            {
+                "text": "Motivacionales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la teoría social cognitiva, el reforzador influye en el AO ejerciendo una influencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 104)",
+        "responses": [
+            {
+                "text": "Aconsecuente más que antecedente."
+            },
+            {
+                "text": "Antecedente más que consecuente.",
+                "correct": true
+            },
+            {
+                "text": "Inmediata a la respuesta consecuente."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué es consecuencia la motivación regulada por el ambiente?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 11)",
+        "responses": [
+            {
+                "text": "De las necesidades del organismo."
+            },
+            {
+                "text": "Del aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "De la adaptación ecológica."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se entiende por margen de vulnerabilidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 44)",
+        "responses": [
+            {
+                "text": "El momento en que se está más motivado para emitir la respuesta."
+            },
+            {
+                "text": "El intervalo en que se es más vulnerable a los cambios en la magnitud del incentivo."
+            },
+            {
+                "text": "El margen de tiempo en el que se cambia el criterio de decisión y se pasa a preferir el reforzador más inmediato.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde una perspectiva cognitiva, ¿de dónde partieron los primeros trabajos sobre la motivación extrínseca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 2)",
+        "responses": [
+            {
+                "text": "De los trabajos en aprendizaje humano."
+            },
+            {
+                "text": "De la teoría del incentivo.",
+                "correct": true
+            },
+            {
+                "text": "De los trabajos sobre el papel del refuerzo en la conducta."
+            }
+        ]
+    },
+    {
+        "text": "El incentivo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "No afecta a la probabilidad de que se repita la respuesta."
+            },
+            {
+                "text": "Causa la conducta."
+            },
+            {
+                "text": "Precede a la ejecución.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En cuanto a las consecuencias motivacionales provocadas por la demora del premio, ¿cómo actúan los estímulos marca? Como reforzadores:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 39)",
+        "responses": [
+            {
+                "text": "Vicarios."
+            },
+            {
+                "text": "Secundarios.",
+                "correct": true
+            },
+            {
+                "text": "Primarios."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de las distintas funciones que realizan los procesos motivacionales en el aprendizaje observacional, ¿a cuál hace referencia la representación simbólica de las consecuencias previsibles? A la función:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 116)",
+        "responses": [
+            {
+                "text": "De acrecentamiento del estímulo."
+            },
+            {
+                "text": "Motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Informativa."
+            }
+        ]
+    },
+    {
+        "text": "Durante la adquisición de una conducta, ¿qué provocan las variaciones en la cantidad de incentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 25)",
+        "responses": [
+            {
+                "text": "Cambios exagerados en el nivel de motivación del sujeto y, por tanto, en su ejecución.",
+                "correct": true
+            },
+            {
+                "text": "Que no llegue a adquirirse la conducta."
+            },
+            {
+                "text": "Modificaciones exageradas de los niveles de aprendizaje de los sujetos."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste el autoincentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 116)",
+        "responses": [
+            {
+                "text": "En que el sujeto se crea sus propios incentivos en función de su historia previa."
+            },
+            {
+                "text": "En las expectativas que se desarrollan sobre las posibilidades del reforzamiento asociadas a la realización de la conducta observada.",
+                "correct": true
+            },
+            {
+                "text": "En que el sujeto llega a establecerse a sí mismo un programa de incentivos por su conducta."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué aporta la hipótesis de la privación de la respuesta? Que también puede actuar como reforzador:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 79)",
+        "responses": [
+            {
+                "text": "Cualquier actividad cuya probabilidad de ocurrencia sea mayor que la de la conducta exigida."
+            },
+            {
+                "text": "Cualquier actividad realizada por un modelo y que tenga consecuencias negativas para él."
+            },
+            {
+                "text": "Aquella conducta del sujeto que ocurre con menor frecuencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo afectan los programas de castigo intermitente sobre la conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 60)",
+        "responses": [
+            {
+                "text": "Se incrementa exponencialmente."
+            },
+            {
+                "text": "Persiste durante más ensayos.",
+                "correct": true
+            },
+            {
+                "text": "Se reduce drásticamente."
+            }
+        ]
+    },
+    {
+        "text": "Se ha demostrado que el valor de incentivo de un reforzador demorado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 43)",
+        "responses": [
+            {
+                "text": "Desciende en una proporción creciente por unidad de tiempo conforme disminuye la demora."
+            },
+            {
+                "text": "Aumenta en una proporción creciente por unidad de tiempo conforme disminuye la demora.",
+                "correct": true
+            },
+            {
+                "text": "Se mantiene constante durante todo el periodo de tiempo de la demora."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la motivación del sujeto por ejecutar una conducta desciende dado que ya no está incentivado para realizarla, se produce:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 67)",
+        "responses": [
+            {
+                "text": "Escape."
+            },
+            {
+                "text": "Extinción.",
+                "correct": true
+            },
+            {
+                "text": "Evitación."
+            }
+        ]
+    },
+    {
+        "text": "En relación a la contingencia incentivo-conducta motivada, ¿en qué tipo de programas se emite mayor número de respuestas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 22)",
+        "responses": [
+            {
+                "text": "En los múltiples."
+            },
+            {
+                "text": "En los de intervalo."
+            },
+            {
+                "text": "En los de razón.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre en la contingencia estímulo reforzante-conducta motivada? Que con programas de refuerzo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 73)",
+        "responses": [
+            {
+                "text": "Continuo la conducta extinguida aparece y desaparece a lo largo del proceso."
+            },
+            {
+                "text": "Continuo la extinción se produce más lentamente que con reforzamiento parcial."
+            },
+            {
+                "text": "Parcial la extinción se produce más lentamente que con reforzamiento continuo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la principal repercusión de la teoría de la probabilidad condicionada en la psicología?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "Establecer que aprendamos aquello que tiene consecuencias agradables para un modelo."
+            },
+            {
+                "text": "Permitir que siempre se pueda encontrar un motivo para el aprendizaje de una conducta nueva.",
+                "correct": true
+            },
+            {
+                "text": "Poder actuar como reforzador aquella conducta del sujeto que ocurre con menor frecuencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué sucede durante el castigo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 55)",
+        "responses": [
+            {
+                "text": "Que el reforzador se debe aplicar de forma demorada."
+            },
+            {
+                "text": "Que el sujeto intermitentemente recibe un reforzador aversivo que le lleva a aprender más rápidamente la conducta."
+            },
+            {
+                "text": "Que el sujeto crea expectativas sobre la situación que le llevan a no responder.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a la adquisición de la conducta imitativa, la estimulación contigua:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 107)",
+        "responses": [
+            {
+                "text": "Precisa de la focalización y mantenimiento de un foco atencional.",
+                "correct": true
+            },
+            {
+                "text": "Produce por sí misma la adquisición de la respuesta imitativa."
+            },
+            {
+                "text": "Conlleva la observación de la conducta imitativa."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué función desempeñan los procesos motivacionales en el aprendizaje observacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 114)",
+        "responses": [
+            {
+                "text": "Focalizan la retención del observador."
+            },
+            {
+                "text": "Son los encargados de determinar la transformación del aprendizaje en ejecución.",
+                "correct": true
+            },
+            {
+                "text": "Son los responsables de la disponibilidad de las respuestas componentes necesarias."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se aprende la ME?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Por aprendizaje observacional."
+            },
+            {
+                "text": "Por condicionamiento operante.",
+                "correct": true
+            },
+            {
+                "text": "Por condicionamiento clásico."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se produce la respuesta en los programas de razón fija?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 22)",
+        "responses": [
+            {
+                "text": "Nada más recibirse el premio, la respuesta incrementa su vigor y posteriormente fluctúa."
+            },
+            {
+                "text": "La respuesta se interrumpe temporalmente nada más recibir el premio, pasada esta pausa la respuesta vuelve a emitirse con vigor.",
+                "correct": true
+            },
+            {
+                "text": "Se emite una tasa de respuesta constante durante todo el entrenamiento."
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a las propiedades de incentivo de la recompensa para el sujeto, ¿qué ocurre en la conducta cuando se ejecutan pocos ensayos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 75)",
+        "responses": [
+            {
+                "text": "Que se encontrará menos afectada por los cambios en el nivel motivacional."
+            },
+            {
+                "text": "Que dependerá del nivel de impulso."
+            },
+            {
+                "text": "Que se encuentra más afectada por los cambios en el nivel motivacional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A qué induce la indefensión aprendida?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 66)",
+        "responses": [
+            {
+                "text": "A que no se sepa responder ante otras situaciones.",
+                "correct": true
+            },
+            {
+                "text": "A que se aprendan respuestas alternativas de defensa para enfrentarse a la situación."
+            },
+            {
+                "text": "A que se emitan gran cantidad de respuestas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es preciso para la adquisición de respuestas de imitación desde el condicionamiento clásico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 94)",
+        "responses": [
+            {
+                "text": "La aparición del reforzador."
+            },
+            {
+                "text": "La emisión de la respuesta por parte del observador."
+            },
+            {
+                "text": "La contigüidad espacio-temporal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "A través de un condicionamiento de segundo orden se explican:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "Las propiedades hedónicas de los estímulos que actúan como incentivo.",
+                "correct": true
+            },
+            {
+                "text": "Todas las conductas motivadas."
+            },
+            {
+                "text": "Las conductas motivadas intrínsecamente."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué efecto tienen los estímulos marca?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 40)",
+        "responses": [
+            {
+                "text": "Minimizar la demora del premio.",
+                "correct": true
+            },
+            {
+                "text": "Minimizar la detección de causalidad."
+            },
+            {
+                "text": "Maximizar el intervalo entre estímulos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se conoce a la expectativa que se crea ante un objeto ambiental agradable?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 13)",
+        "responses": [
+            {
+                "text": "Incentivo.",
+                "correct": true
+            },
+            {
+                "text": "Premio."
+            },
+            {
+                "text": "Reforzador."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de las diversas tentativas explicativas de la imitación, ¿quién defiende el concepto de imitación generalizada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 98)",
+        "responses": [
+            {
+                "text": "El modelo operante.",
+                "correct": true
+            },
+            {
+                "text": "Las teorías instintivas."
+            },
+            {
+                "text": "El condicionamiento clásico."
+            }
+        ]
+    },
+    {
+        "text": "Centrándonos en el reforzador y según la teoría social cognitiva, ¿cómo actúa la mediación cognitiva en el aprendizaje observacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 104)",
+        "responses": [
+            {
+                "text": "Ejerciendo una influencia consecuente."
+            },
+            {
+                "text": "A través de las respuestas anticipatorias de meta."
+            },
+            {
+                "text": "Ejerciendo una influencia antecedente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre en un entrenamiento de omisión?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 48)",
+        "responses": [
+            {
+                "text": "Que al realizar la conducta, el estímulo aversivo aparece."
+            },
+            {
+                "text": "Que no se ejecuta la conducta para que no se retire el estímulo agradable.",
+                "correct": true
+            },
+            {
+                "text": "Que si no se ejecuta la conducta no se retira el estímulo aversivo."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué afecta el incentivo externo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 15)",
+        "responses": [
+            {
+                "text": "Al aprendizaje."
+            },
+            {
+                "text": "A la adquisición de conductas."
+            },
+            {
+                "text": "A la ejecución.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo actúan los estímulos de marcaje?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 39)",
+        "responses": [
+            {
+                "text": "Como castigos."
+            },
+            {
+                "text": "Como incentivos secundarios.",
+                "correct": true
+            },
+            {
+                "text": "Como recompensas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué defiende la teoría del incentivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 2)",
+        "responses": [
+            {
+                "text": "Que la búsqueda de la meta depende de las consecuencias que determina."
+            },
+            {
+                "text": "Que la dirección hacia una meta es fruto de la interacción entre estados emocionales y expectativas cognitivas.",
+                "correct": true
+            },
+            {
+                "text": "Que la respuesta del sujeto se encuentra definitivamente determinada por las necesidades que crea el reforzador."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los procesos encargados de transformar el aprendizaje en ejecución según la teoría social cognitiva?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 114)",
+        "responses": [
+            {
+                "text": "Los procesos de reproducción motora."
+            },
+            {
+                "text": "Los procesos motivacionales.",
+                "correct": true
+            },
+            {
+                "text": "Los procesos de retención."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina al emparejamiento accidental de una conducta con un premio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "Conducta supersticiosa.",
+                "correct": true
+            },
+            {
+                "text": "Asociación vicaria."
+            },
+            {
+                "text": "Programa de refuerzo parcial."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste el efecto de contraste conductual positivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 26)",
+        "responses": [
+            {
+                "text": "En el cambio excesivo que se produce en la ejecución de un sujeto cuando se le incrementa la magnitud del incentivo empleado.",
+                "correct": true
+            },
+            {
+                "text": "En el cambio excesivo que se produce en la ejecución de un sujeto cuando se le desciende la magnitud del incentivo empleado."
+            },
+            {
+                "text": "En el cambio excesivo que se produce en la ejecución de un sujeto cuando se le adelanta el incentivo empleado."
+            }
+        ]
+    },
+    {
+        "text": "El valor del incentivo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 12)",
+        "responses": [
+            {
+                "text": "Depende del sujeto que lo percibe e interpreta.",
+                "correct": true
+            },
+            {
+                "text": "No es aprendido."
+            },
+            {
+                "text": "Es consustancial con el objeto en sí."
+            }
+        ]
+    },
+    {
+        "text": "En los efectos de contraste se producen cambios en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "La demora del premio."
+            },
+            {
+                "text": "La ejecución.",
+                "correct": true
+            },
+            {
+                "text": "El aprendizaje."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los procesos motivacionales postulados por Bandura, ¿a qué función se refiere cuando dice que la observación de las consecuencias de la conducta del modelo aporta una discriminación de las conductas apropiadas o inadecuadas en ambientes diferentes?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 116)",
+        "responses": [
+            {
+                "text": "Función informativa."
+            },
+            {
+                "text": "Función motivacional."
+            },
+            {
+                "text": "Función de acrecentamiento del estímulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué plantea la teoría de la probabilidad condicionada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "Que podrían actuar como reforzador aquellas conductas del sujeto que ocurrían con menor frecuencia."
+            },
+            {
+                "text": "Que es posible que no existan los reforzadores secundarios."
+            },
+            {
+                "text": "Que siempre se puede encontrar un motivo para el aprendizaje de una nueva conducta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre en la motivación del sujeto cuando sucesivamente la ejecución de la conducta no va seguida del incentivo esperado?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 67)",
+        "responses": [
+            {
+                "text": "Que la probabilidad de la respuesta se mantiene constante dado que el sujeto se encuentra motivado para realizar la conducta."
+            },
+            {
+                "text": "Que la probabilidad de la respuesta disminuye ya que el sujeto deja de estar motivado para realizar la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Que el sujeto incrementa la emisión de la conducta por su nivel motivacional."
+            }
+        ]
+    },
+    {
+        "text": "Si una conducta ha sido incentivada siempre en relación con otra que se ha incentivado parcialmente, al dejarse de recibir el incentivo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 73)",
+        "responses": [
+            {
+                "text": "Se extinguirá más fácilmente.",
+                "correct": true
+            },
+            {
+                "text": "Se demorará."
+            },
+            {
+                "text": "Se mantendrá durante más tiempo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre cuando se han empleado demoras distintas del premio durante la adquisición de una conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76)",
+        "responses": [
+            {
+                "text": "Que la demora del premio provoca que la respuesta se emita más rápidamente."
+            },
+            {
+                "text": "Que la conducta deja de emitirse en el momento en el que no se dispensa el premio."
+            },
+            {
+                "text": "Que la demora del premio provoca una mayor resistencia a la extinción de dicha conducta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué tipo de condicionamiento los estímulos adquieren sus propiedades hedónicas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "Por condicionamiento observacional."
+            },
+            {
+                "text": "Por condicionamiento operante."
+            },
+            {
+                "text": "Por condicionamiento clásico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la probabilidad condicionada puede actuar como reforzador:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 77)",
+        "responses": [
+            {
+                "text": "Los estímulos primarios y los secundarios presentados contiguamente a la conducta."
+            },
+            {
+                "text": "Todo estímulo que incremente la probabilidad de la respuesta exigida siempre y cuando no rebase ciertos límites."
+            },
+            {
+                "text": "Cualquier actividad cuya probabilidad de ocurrencia sea mayor que la de la conducta exigida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la Teoría Social Cognitiva, ¿qué procesos son los que utilizan las representaciones simbólicas de los patrones modelados para dirigir la ejecución real de las respuestas? Los procesos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 113)",
+        "responses": [
+            {
+                "text": "Atencionales."
+            },
+            {
+                "text": "De reproducción motora.",
+                "correct": true
+            },
+            {
+                "text": "Motivacionales."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se tiene que dar para que se produzca la imitación según el condicionamiento operante?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 96)",
+        "responses": [
+            {
+                "text": "Que exista un sujeto motivado al que se refuerce.",
+                "correct": true
+            },
+            {
+                "text": "Que el sujeto sea reforzado directamente."
+            },
+            {
+                "text": "Que exista una contigüidad entre la situación y la posibilidad de emitir la respuesta."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre en una situación de escape/evitación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 53)",
+        "responses": [
+            {
+                "text": "Que el sujeto no se encuentra motivado para emitir la conducta de escape y se produce lo que se denomina indefensión aprendida."
+            },
+            {
+                "text": "Que las expectativas que se crea el sujeto ante la situación es lo que le permite no sufrir las consecuencias del estímulo desagradable.",
+                "correct": true
+            },
+            {
+                "text": "Que las expectativas que se crea el sujeto ante la situación, le llevan a evitar/escapar del castigo."
+            }
+        ]
+    },
+    {
+        "text": "Los sistemas de mediación verbal e imaginativa, ¿para qué tipo de procesos son necesarios, según la teoría social cognitiva de Bandura?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 110)",
+        "responses": [
+            {
+                "text": "Para los atencionales."
+            },
+            {
+                "text": "Para los de retención.",
+                "correct": true
+            },
+            {
+                "text": "Para los motivacionales."
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a la ME, ¿por qué procedimiento adquieren sus características hedónicas los estímulos? Por condicionamiento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "Clásico.",
+                "correct": true
+            },
+            {
+                "text": "Observacional."
+            },
+            {
+                "text": "Operante."
+            }
+        ]
+    }
+]

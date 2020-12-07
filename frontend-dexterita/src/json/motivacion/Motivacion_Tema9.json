@@ -1,0 +1,1031 @@
+[
+    {
+        "text": "Una de las razones por la que se ha considerado a la actividad cardiovascular un indicador psicofisiológico de la motivación es porque en situaciones con alto grado de motivación se ha observado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 55)",
+        "responses": [
+            {
+                "text": "Una desaceleración del ritmo cardíaco."
+            },
+            {
+                "text": "Una disminución de la presión sistólica."
+            },
+            {
+                "text": "Una disminución del flujo sanguíneo periférico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación a las técnicas basadas en la medición de la conducta instrumental, ¿a qué se refiere el número de aciertos y errores?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 17)",
+        "responses": [
+            {
+                "text": "A la frecuencia de emisión de una conducta."
+            },
+            {
+                "text": "A las habilidades motrices en la ejecución de una conducta."
+            },
+            {
+                "text": "Al grado de eficiencia en la realización de una conducta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la motivación ¿qué disciplina busca conocer cómo determinadas reacciones fisiológicas posibilitan o preparan al cuerpo para la acción?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "La psicología fisiológica."
+            },
+            {
+                "text": "La motivación fisiológica."
+            },
+            {
+                "text": "La psicofisiología.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Dentro de qué campo han sido desarrolladas las técnicas basadas en la medición de la conducta instrumental, manifiesta u observable?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 11)",
+        "responses": [
+            {
+                "text": "Psicofisiología."
+            },
+            {
+                "text": "Psicología evolutiva."
+            },
+            {
+                "text": "Psicología del aprendizaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué medida de la motivación basada en la medición de la conducta instrumental se ve afectada por variables como la duración, la intensidad y la modalidad del estímulo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 20)",
+        "responses": [
+            {
+                "text": "La tasa de respuesta."
+            },
+            {
+                "text": "El tiempo de reacción.",
+                "correct": true
+            },
+            {
+                "text": "El número de aciertos y errores."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se efectúa el registro psicofisiológico del flujo o volumen sanguíneo cuando se utiliza como técnica de medida motivacional? Mediante el uso de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 48)",
+        "responses": [
+            {
+                "text": "Detectores del pulso sanguíneo que permiten registrar la actividad cardiaca."
+            },
+            {
+                "text": "Aparatos automatizados de registro que permiten lecturas continuas."
+            },
+            {
+                "text": "Transductores pletismográficos que permiten obtener señales eléctricas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las limitaciones efectuadas a la utilización de medidas de autoinforme en la investigación motivacional hace referencia a que dichas medidas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 67)",
+        "responses": [
+            {
+                "text": "Están afectadas por las propias características de la prueba.",
+                "correct": true
+            },
+            {
+                "text": "Conllevan una medición lenta del proceso motivacional."
+            },
+            {
+                "text": "Permiten incluir escalas de mentira como procedimiento de control."
+            }
+        ]
+    },
+    {
+        "text": "En el empleo de las técnicas de medida de la motivación basadas en la medición de la conducta instrumental, ¿cuál es una de las soluciones dadas para superar el problema de las diferencias individuales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 24)",
+        "responses": [
+            {
+                "text": "Usar escalas de fiabilidad cómo procedimiento de control."
+            },
+            {
+                "text": "Utilizar diseños en los que cada sujeto sea su propio control.",
+                "correct": true
+            },
+            {
+                "text": "Emplear como variable dependiente un juicio o preferencia."
+            }
+        ]
+    },
+    {
+        "text": "Los autoinformes:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 61)",
+        "responses": [
+            {
+                "text": "Constituyen medidas directas del proceso motivacional."
+            },
+            {
+                "text": "Pueden evaluar motivaciones concretas.",
+                "correct": true
+            },
+            {
+                "text": "No permiten medir de manera rápida la motivación de las personas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es uno de los procedimientos empleados para solucionar las deficiencias de los autoinformes a causa de la deseabilidad social y la autodecepción? La introducción de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 71)",
+        "responses": [
+            {
+                "text": "Instrucciones estandarizadas."
+            },
+            {
+                "text": "Escalas de mentira.",
+                "correct": true
+            },
+            {
+                "text": "Técnicas de contrabalanceo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué parámetro de medida de la conducta motivada se caracteriza por ser más usual en estudios con animales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 16)",
+        "responses": [
+            {
+                "text": "Las acciones de libre elección."
+            },
+            {
+                "text": "El tiempo de reacción."
+            },
+            {
+                "text": "La tasa de respuesta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Mateos, ¿qué se busca analizar con la utilización de los autoinformes para identificar la estructura motivacional básica de la personalidad? Poner de manifiesto cuáles son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 65)",
+        "responses": [
+            {
+                "text": "Los mecanismos que median en las distintas disposiciones motivacionales."
+            },
+            {
+                "text": "Los motivos básicos que comparten todos los seres humanos.",
+                "correct": true
+            },
+            {
+                "text": "Los motivos específicos que diferencian a unas personas de otras."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué otras medidas conductuales asociadas al tiempo de ejecución se valoran como útiles en el estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 21)",
+        "responses": [
+            {
+                "text": "La activación conductual y la constancia mostrada en la realización de la tarea."
+            },
+            {
+                "text": "La frecuencia en la realización de la tarea y la activación conductual."
+            },
+            {
+                "text": "La persistencia y el esfuerzo mostrados en la realización de la tarea.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Siempre que se controlen las demás condiciones, ¿cuál de los siguientes hechos es un indicador de una alta motivación en la realización de una tarea?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 21)",
+        "responses": [
+            {
+                "text": "La obtención de TR pequeños en su realización.",
+                "correct": true
+            },
+            {
+                "text": "La obtención de TR variables y amplios en su finalización."
+            },
+            {
+                "text": "La disminución de la velocidad en su ejecución."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué disciplina se preocupa por conocer qué cambios fisiológicos, sin intervención sobre el Sistema Nervioso, se producen ante determinadas situaciones estimulares?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "La neurociencia."
+            },
+            {
+                "text": "La psicofisiología.",
+                "correct": true
+            },
+            {
+                "text": "La psicología fisiológica."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué técnicas de medida de la motivación cabe afirmar que constituyen el procedimiento más antiguo de obtención de información?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 63)",
+        "responses": [
+            {
+                "text": "De las medidas cardiovasculares."
+            },
+            {
+                "text": "De las técnicas electromiográficas."
+            },
+            {
+                "text": "De los autoinformes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué propuestas se han formulado para intentar superar las limitaciones encontradas en el uso del autoinforme como técnica de medida de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 71)",
+        "responses": [
+            {
+                "text": "Seleccionar al menos dos variables e interrelacionarlas mediante controles aleatorios."
+            },
+            {
+                "text": "Utilizar pruebas complementarias e introducir procedimientos de control.",
+                "correct": true
+            },
+            {
+                "text": "Emplear únicamente diseños en los que cada sujeto sea su propio control y complementar con mediciones continuadas."
+            }
+        ]
+    },
+    {
+        "text": "En la medición y estudio de la motivación, una de las críticas fundamentales que se han hecho a las técnicas basadas en la medición de respuestas fisiológicas ha sido:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 57)",
+        "responses": [
+            {
+                "text": "Que pueden producirse distorsiones en las respuestas debido al fenómeno de rebote."
+            },
+            {
+                "text": "Que son medidas indirectas del proceso motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Que los datos obtenidos de TR presentan una gran variabilidad."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué técnicas de medida de la presión arterial son más útiles para su consideración como variable en psicología de la motivación? Las técnicas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 53)",
+        "responses": [
+            {
+                "text": "Que emplean transductores pletismográficos que permiten obtener señales eléctricas."
+            },
+            {
+                "text": "De contabilización del pulso sanguíneo que permiten detectar la actividad cardiaca."
+            },
+            {
+                "text": "Automatizadas de registro que permiten lecturas continuas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La disciplina científica que intenta averiguar cómo los cambios en la motivación se traducen en el funcionamiento de determinados mecanismos endocrinos y neuronales, mediante la manipulación del sistema nervioso, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 27)",
+        "responses": [
+            {
+                "text": "Psicología fisiológica.",
+                "correct": true
+            },
+            {
+                "text": "Psiconeuroanatomía."
+            },
+            {
+                "text": "Psicofisiología."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se ha observado en situaciones de alto grado de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 55)",
+        "responses": [
+            {
+                "text": "Un aumento del flujo sanguíneo periférico."
+            },
+            {
+                "text": "Un aumento de la presión arterial, sobre todo de la sistólica.",
+                "correct": true
+            },
+            {
+                "text": "Una desaceleración del ritmo cardiaco."
+            }
+        ]
+    },
+    {
+        "text": "Una de las limitaciones que presentan las técnicas psicofisiológicas de medida de la motivación, hace referencia a que dichas técnicas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 57)",
+        "responses": [
+            {
+                "text": "Necesitan ajustes precisos entre lo observado y lo planificado."
+            },
+            {
+                "text": "También actúan como correlatos fisiológicos de diversos procesos.",
+                "correct": true
+            },
+            {
+                "text": "Requieren mucho entrenamiento por parte del sujeto experimental."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la motivación, la psicología fisiológica busca conocer:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 27)",
+        "responses": [
+            {
+                "text": "Cómo determinadas reacciones fisiológicas preparan al cuerpo para la acción."
+            },
+            {
+                "text": "Qué estructuras median la conducta motivada.",
+                "correct": true
+            },
+            {
+                "text": "Qué cambios fisiológicos tienen lugar ante determinadas situaciones estimulares."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ventaja presenta el uso de autoinformes como técnica de medida de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 66)",
+        "responses": [
+            {
+                "text": "Reflejar siempre de manera real y fiel la motivación que se tiene."
+            },
+            {
+                "text": "Tener total validez como indicadores de los estados internos."
+            },
+            {
+                "text": "Ofrecer un procedimiento rápido de medir la motivación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características es propia de las técnicas psicofisiológicas en el estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 31)",
+        "responses": [
+            {
+                "text": "Emplear medidas indirectas consistentes básicamente en el registro de la actividad nerviosa.",
+                "correct": true
+            },
+            {
+                "text": "Interesarse por el conocimiento de las estructuras que median la conducta motivada."
+            },
+            {
+                "text": "Primar la intervención sobre el SN mediante procedimientos químicos."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué forma de medición se encuadra la evaluación de la actividad electrodérmica como un cambio en el potencial de la piel?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Exosomática."
+            },
+            {
+                "text": "Neurosomática."
+            },
+            {
+                "text": "Endosomática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre los parámetros de medida de la conducta motivada que la consideran como fuerza motriz activadora del comportamiento, se encuentran:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 15)",
+        "responses": [
+            {
+                "text": "Las acciones de libre elección.",
+                "correct": true
+            },
+            {
+                "text": "Los autoinformes."
+            },
+            {
+                "text": "Los informes fisiológicos."
+            }
+        ]
+    },
+    {
+        "text": "De las diferentes medidas de la actividad electrodermal utilizadas en la medición de la motivación ¿cuál es la que tiene un uso más frecuente y es más fácil de interpretar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 40,41)",
+        "responses": [
+            {
+                "text": "La conductancia de la piel.",
+                "correct": true
+            },
+            {
+                "text": "La resistencia de la piel."
+            },
+            {
+                "text": "El potencial de la piel."
+            }
+        ]
+    },
+    {
+        "text": "Una de las finalidades de estudio en el empleo de los autoinformes ha sido la de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 64)",
+        "responses": [
+            {
+                "text": "Poner de manifiesto los mecanismos innatos motivacionales."
+            },
+            {
+                "text": "Comprobar la importancia de las relaciones motivación- cognición."
+            },
+            {
+                "text": "Identificar la estructura motivacional básica de la personalidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para intentar superar las limitaciones encontradas en el uso de las técnicas psicofisiológicas de medida de la motivación, se ha propuesto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 58)",
+        "responses": [
+            {
+                "text": "Efectuar ensayos de práctica."
+            },
+            {
+                "text": "Realizar mediciones continuadas.",
+                "correct": true
+            },
+            {
+                "text": "Utilizar una única medida psicofisiológica."
+            }
+        ]
+    },
+    {
+        "text": "En la investigación motivacional básica, ¿cuál es una de las limitaciones señaladas a las técnicas basadas en la medición de la conducta instrumental?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 24)",
+        "responses": [
+            {
+                "text": "Que los datos obtenidos de TR presentan una gran variabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Que la medición de la frecuencia de emisión de las respuestas no se adecúa al tipo de prueba empleado."
+            },
+            {
+                "text": "Que las posibilidades de respuesta son siempre excesivamente amplias."
+            }
+        ]
+    },
+    {
+        "text": "Desde sus inicios, ¿qué ha conllevado en el ámbito de la psicología básica el estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 2)",
+        "responses": [
+            {
+                "text": "La necesidad de medición.",
+                "correct": true
+            },
+            {
+                "text": "La valoración de los análisis comparativos."
+            },
+            {
+                "text": "La importancia de los principios filosóficos."
+            }
+        ]
+    },
+    {
+        "text": "Existen dos técnicas generales de medida de la actividad electrodermal, una basada en registros exosomáticos y otra basada en registros:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 36)",
+        "responses": [
+            {
+                "text": "Endométricos."
+            },
+            {
+                "text": "Homeostáticos."
+            },
+            {
+                "text": "Endosomáticos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué la conductancia eléctrica de la piel tiene un uso frecuente como técnica psicofisiológica de medida de la motivación? Porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 41)",
+        "responses": [
+            {
+                "text": "Presenta total validez como indicador de los estados internos."
+            },
+            {
+                "text": "Sus resultados se ajustan mejor a una distribución normal.",
+                "correct": true
+            },
+            {
+                "text": "Permite emplear pruebas complementarias como las escalas de mentira."
+            }
+        ]
+    },
+    {
+        "text": "Entre los parámetros de medida de la conducta motivada desde el ámbito de la conducta instrumental u observable, ¿cuál se caracteriza por ser una medida de exactitud?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 17)",
+        "responses": [
+            {
+                "text": "El número de aciertos y errores.",
+                "correct": true
+            },
+            {
+                "text": "Los autoinformes."
+            },
+            {
+                "text": "El tiempo de reacción."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué hace referencia la arritmia sinusal respiratoria?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "Al patrón cíclico de fluctuaciones de la tasa cardiaca en relación con la respiración.",
+                "correct": true
+            },
+            {
+                "text": "A la actividad vascular periférica que tiene lugar al respirar."
+            },
+            {
+                "text": "A la fuerza con que se mueve la sangre por las arterias cuando inspiramos."
+            }
+        ]
+    },
+    {
+        "text": "Una de las críticas efectuadas a las técnicas de medida de la motivación basadas en la conducta instrumental se refiere a que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 24)",
+        "responses": [
+            {
+                "text": "Utilizan la misma terminología para describir elecciones diferentes."
+            },
+            {
+                "text": "Los tiempos de reacción obtenidos son muy variables.",
+                "correct": true
+            },
+            {
+                "text": "Solo emplean medidas de exactitud."
+            }
+        ]
+    },
+    {
+        "text": "En relación a las técnicas de medida de la motivación, ¿cuáles consideran la motivación como fuerza motriz activadora del comportamiento? Las técnicas basadas en la medición de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Los estados subjetivos."
+            },
+            {
+                "text": "La conducta instrumental.",
+                "correct": true
+            },
+            {
+                "text": "Las respuestas fisiológicas."
+            }
+        ]
+    },
+    {
+        "text": "Como parámetro de medida de la motivación, el tiempo de reacción se ha considerado como una medida de tiempo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 19)",
+        "responses": [
+            {
+                "text": "Preferencia."
+            },
+            {
+                "text": "Ejecución.",
+                "correct": true
+            },
+            {
+                "text": "Elección."
+            }
+        ]
+    },
+    {
+        "text": "Una de las críticas realizadas a los autoinformes tiene que ver con las posibles distorsiones que se pueden producir sobre las respuestas a causa de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 67)",
+        "responses": [
+            {
+                "text": "La dirección de la atención y la conducta de elección."
+            },
+            {
+                "text": "La deseabilidad social y la autodecepción.",
+                "correct": true
+            },
+            {
+                "text": "Las condiciones sociales y la tendencia hedonista."
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué la actividad electrodermal y las medidas cardiovasculares han jugado un papel muy importante en psicología de la motivación? Porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "Actúan exclusivamente como correlatos psicológicos del proceso motivacional."
+            },
+            {
+                "text": "Aportan toda la información necesaria sobre la conducta motivada y permiten que la interpretación de una misma medida no varíe en función del contexto."
+            },
+            {
+                "text": "Representan índices muy adecuados para determinar la actividad del SNA asociado a las conductas motivadas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "De entre las diversas técnicas de medida de la motivación, ¿cuál constituye el procedimiento más antiguo de obtención de información y se caracteriza porque dicha obtención está basada en la introspección?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 63)",
+        "responses": [
+            {
+                "text": "Los autoinformes.",
+                "correct": true
+            },
+            {
+                "text": "Las técnicas de retroalimentación."
+            },
+            {
+                "text": "Las medidas psicofisiológicas."
+            }
+        ]
+    },
+    {
+        "text": "La asunción de que la conducta es realizada de manera espontánea por el sujeto es característico de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 12)",
+        "responses": [
+            {
+                "text": "Las medidas de autoinforme."
+            },
+            {
+                "text": "Las técnicas de medición de la conducta instrumental.",
+                "correct": true
+            },
+            {
+                "text": "Las medidas basadas en respuestas fisiológicas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ventaja presenta el uso de autoinformes en la medición de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 66)",
+        "responses": [
+            {
+                "text": "Evitar las distorsiones que puedan producirse en las respuestas."
+            },
+            {
+                "text": "Constituir siempre medidas veraces y directas del proceso motivacional."
+            },
+            {
+                "text": "Permitir medir la motivación de manera rápida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Ha sido utilizada con frecuencia en Psicología de la Motivación, y constituye una de las medidas psicofisiológicas más antigua, la actividad:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 35)",
+        "responses": [
+            {
+                "text": "Electromiográfica."
+            },
+            {
+                "text": "Electrodermal.",
+                "correct": true
+            },
+            {
+                "text": "Electroencefalográfica."
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué se caracteriza la investigación psicofisiológica de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 32)",
+        "responses": [
+            {
+                "text": "Por el empleo de técnicas histológicas, neuroanatómicas y químicas."
+            },
+            {
+                "text": "Por la provocación de alguna conducta para después ver las reacciones fisiológicas que resultan.",
+                "correct": true
+            },
+            {
+                "text": "Por la utilización de animales en su investigación para extraer resultados aplicables a humanos."
+            }
+        ]
+    },
+    {
+        "text": "En el campo de la motivación humana, una de las finalidades de estudio para la que han sido ampliamente utilizados los autoinformes es para:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 65)",
+        "responses": [
+            {
+                "text": "Identificar los mecanismos mediadores que intervienen en los fenómenos investigados.",
+                "correct": true
+            },
+            {
+                "text": "Analizar el grado de validez que presentan los indicadores de los estados internos."
+            },
+            {
+                "text": "Ver el impacto de la motivación en los grupos."
+            }
+        ]
+    },
+    {
+        "text": "Una de las limitaciones señaladas a la actividad electrodermal en el estudio y medición de la motivación, tiene que ver con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 57)",
+        "responses": [
+            {
+                "text": "Que no tienen en cuenta los rasgos de personalidad."
+            },
+            {
+                "text": "Que su significado psicológico es muy cuestionable.",
+                "correct": true
+            },
+            {
+                "text": "Que sus parámetros de medida son muy pequeños."
+            }
+        ]
+    },
+    {
+        "text": "La tasa de respuesta, el número de aciertos y errores, las acciones de libre elección y el TR constituyen técnicas de medida de la motivación basadas en la medición de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "9",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 15)",
+        "responses": [
+            {
+                "text": "Las respuestas fisiológicas."
+            },
+            {
+                "text": "Los estados subjetivos y sentimientos."
+            },
+            {
+                "text": "La conducta instrumental, manifiesta u observable.",
+                "correct": true
+            }
+        ]
+    }
+]

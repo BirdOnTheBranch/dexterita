@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Seleccione la afirmación correcta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los pensamientos y comportamientos racionaies del ser humano no siempre son conscientes y controlados.",
+                "correct": true
+            },
+            {
+                "text": "Los procesos automáticos son aquellos que cumplen, necesariamente, cuatro condiciones son no conscientes, no intencionados, estan fuera de control Voluntario y son muy eficientes."
+            },
+            {
+                "text": "La distinción entre proceso automáticos y controlados es dicotómica."
+            }
+        ]
+    },
+    {
+        "text": "Segun la hipótesis de la inteligencia ecológica el desarrollo de nuestro cerebro se debe a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mantener un mayor número de relaciones sociales."
+            },
+            {
+                "text": "Aumentar el tamaño del grupo."
+            },
+            {
+                "text": "La resolución de problemas técnicos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre las motivaciones relacionadas con el yo, 'La motivación que destaca el fuerte deseo de confirmar el autoconcepto, tanto en lo que respecta a las características habilidades positivas como a las negativas' es Io que denominamos motivo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Autoverificación.",
+                "correct": true
+            },
+            {
+                "text": "Autoexpansión."
+            },
+            {
+                "text": "Autoensalzamiento."
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación correcta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las facetas del yo reflejadas en el autoconocimiento implícito son reconocidas por la persona, en cambio las del autoconcepto explicito no son reconocidas como parte del autoconcepto."
+            },
+            {
+                "text": "Las personas somos conscientes del autoconocimiento explicito, pero no del conocimiento implicito.",
+                "correct": true
+            },
+            {
+                "text": "Solo las facetas del autoconcepto de las que se es consciente pueden afectar profundamente a los juicios y decisiones de la persona."
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que lleva a las personas a la necesidad que tenemos de sentirnos especiales, como individuos y como miembros de un grupo se denomina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Motivo de pertenencia."
+            },
+            {
+                "text": "Motivo de potenciación personal.",
+                "correct": true
+            },
+            {
+                "text": "Motivo de control."
+            }
+        ]
+    },
+    {
+        "text": "Resaltar las semejanzas percibidas entre los miembros de una misma categoria y las diferencias entre las categorías, es lo que denominamos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Principio de acentuación.",
+                "correct": true
+            },
+            {
+                "text": "Pensamiento contrafáctico."
+            },
+            {
+                "text": "Principio de coherencia."
+            }
+        ]
+    },
+    {
+        "text": "Los hombres que obtienen bajas puntuaciones en las escalas de feminidad y masculinidad del BSRI se denominan:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Indiferenciados.",
+                "correct": true
+            },
+            {
+                "text": "Femeninos."
+            },
+            {
+                "text": "Andróginos."
+            }
+        ]
+    },
+    {
+        "text": "En un experimento:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se mide el grado de covariación de diferentes variables al mismo tiempo."
+            },
+            {
+                "text": "Se manipulan las variables dependientes."
+            },
+            {
+                "text": "Se manipulan las variables independientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El condicionamiento evaluativo o de las actitudes:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Requiere que la persona sea consciente de la asociación entre estímulos nuevos y objetos que provocan estados afectivos."
+            },
+            {
+                "text": "No se produce a través de los mismos procesos que los del condicionamiento clásico.",
+                "correct": true
+            },
+            {
+                "text": "Se produce únicamente después de varias asociaciones entre el estimulo nuevo y los objetos que provocan estados afectivos."
+            }
+        ]
+    },
+    {
+        "text": "El estudio de Zajonc (1965) relativo al efecto de mera presencia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No encontró que la presencia de los demás facitara el rendimiento."
+            },
+            {
+                "text": "Encuentra que las atribuciones intemas Son responsables del aumento del rendimiento."
+            },
+            {
+                "text": "Halló que sólo cuando la tarea era fácil, o la persona era experta en la materia, se observaba un incremento en el rendimiento al hacer la tarea acompañado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La evaluación de las actitudes se puede manifestar a través de respuestas:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Exclusivamente afectivas."
+            },
+            {
+                "text": "Cognitivas, afecivas y conductuales.",
+                "correct": true
+            },
+            {
+                "text": "Afectivas y cognitivas, pero no conductuales."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de disociación formuado por Devine, lo que se obtiene en las medidas implicitas de las actitudes prejuiciosas hacia los miembros de determinados grupos, son:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asociaciones estereotipadas aprendidas en la socialización.",
+                "correct": true
+            },
+            {
+                "text": "Creencias personales sobre los estereotipos."
+            },
+            {
+                "text": "Respuestas deliberativas controladas sobre los estereotipos."
+            }
+        ]
+    },
+    {
+        "text": "Las personas con una necesidad de cognición alta suelen procesar los mensajes persuasivos por la ruta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Central.",
+                "correct": true
+            },
+            {
+                "text": "Periferica."
+            },
+            {
+                "text": "Asociada a la baja elaboración."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la autodiscrepancia se incluiría dentro del grupo de las teorías:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que hacen hincapié en el desequilibrio y el malestar psicológico.",
+                "correct": true
+            },
+            {
+                "text": "Que hacen hincapie en el efecto prioritario del autoconocimiento episódico frente al conocimiento de autoesquemas."
+            },
+            {
+                "text": "Centradas en el estudio de los trastonos de personalidad."
+            }
+        ]
+    },
+    {
+        "text": "Para el enfoque evolucionista existen diferencias entre sexos en la experiencia de celos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los hombres experimentan más celos que las mujeres."
+            },
+            {
+                "text": "Las diferencias se producen en el mecanismo que activa la experiencia de celos.",
+                "correct": true
+            },
+            {
+                "text": "Las mujeres experimentan más celos que los varones."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la ambigüedad atributiva, las personas para proteger su autoestima ante resultados negativos evaluados por personas no pertenecientes a su grupo tenderán a hacer atribuciones a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La falta de capacidad."
+            },
+            {
+                "text": "La personalidad."
+            },
+            {
+                "text": "El prejuicio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El famoso experimento de Milgram sobre descargas eléctricas ayuda a explicar, según el modelo de Cialdini, el principio de influencia de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Validación social."
+            },
+            {
+                "text": "Escasez."
+            },
+            {
+                "text": "Autoridad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando pensamos que un anuncio electoral para la campaña de unas elecciones generales visto en televisión influye más en el voto de los demás que en el nuestro podemos hablar del efecto:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mera presencia."
+            },
+            {
+                "text": "Teroera persona.",
+                "correct": true
+            },
+            {
+                "text": "Boomerang."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en la formación de impresiones se hace hincapié en la combinación de los elementos informativos entre sí para producir una figura significativa, se está:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Siguiendo los modelos de combinación lineal en la formación de impresiones."
+            },
+            {
+                "text": "Centrando el proceso en el carácter evaluativo de la impresión de una persona."
+            },
+            {
+                "text": "Buscando la coherencia interna de la impresión que nos formamos de una persona.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El procedimiento experimental denominado «preactivación» priming, pone en juego un procesamiento:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Postconsciente."
+            },
+            {
+                "text": "Preconsciente.",
+                "correct": true
+            },
+            {
+                "text": "Dependiente de las metas."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la disonancia cognitiva, después de tomar una decisión entre estudiar una de dos carreras igualmente atractivas para la persona, un elemento que reduciria la disonancia posterior a tal elección sería:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Considerar que 1os resultados de estudiar la carrera no elegida son muy importantes."
+            },
+            {
+                "text": "Que la carrera no elegida resulte altamente atractiva."
+            },
+            {
+                "text": "Lgnorar las dificultades que va a proporcionar estudiar la carrera elegida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría atributiva de Weiner, cuando una persona atribuye la causa de un éxito propio a una atribución interna, estable y controlable por él mismo, se relacionara con emociones, como:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Vergüenza y desaliento."
+            },
+            {
+                "text": "Agradecimiento y culpa."
+            },
+            {
+                "text": "Orgullo y confianza.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Seleccione la afirmación falsa: En el marco de los estudios del yo y del autoconcepto, la 'autopresentación' es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lo que también llamamos, manejo de la impresión."
+            },
+            {
+                "text": "La forma en que se mide el rasgo hipocresia.",
+                "correct": true
+            },
+            {
+                "text": "Un proceso por el que, entre otros aspectos, tratamos de controlar la imagen que los demás se forman de nosotros."
+            }
+        ]
+    },
+    {
+        "text": "Según los resultados de Buss en los criterios de elección de pareja, las mujeres valorarán más que los hombres:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La capacidad para conseguir recursos.",
+                "correct": true
+            },
+            {
+                "text": "El atractivo fiísico."
+            },
+            {
+                "text": "La juventud."
+            }
+        ]
+    },
+    {
+        "text": "Conceptualizar el yo como un yo compuesto de 'la imaginación de cómo nos perciben otras personas, la imaginación sobre cómo nos valoran, y algún tipo de sentimiento propio, como orgullo o vergüenza, derivado de cómo pensamos que nos juzgan los demás', se encuadra dentro de las propuestas:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De los teóricos del concepto del 'yo espejo'.",
+                "correct": true
+            },
+            {
+                "text": "De los que postulan que autoconcepto y autoestima no están relacionados."
+            },
+            {
+                "text": "Que fomularon 'la teoría de la autopercepción.'"
+            }
+        ]
+    },
+    {
+        "text": "En la investigación empírica en percepción social respecto al contenido de la percepción, se ha encontrado que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El efecto del orden en la presentación de los rasgos tiene un efecto mayor que la mayor relevancia del rasgo para la interacción."
+            },
+            {
+                "text": "Los rasgos negativos son más informativos que los rasgos positivos.",
+                "correct": true
+            },
+            {
+                "text": "Los rasgos que son ambiguos tienen mayor impacto que los claros."
+            }
+        ]
+    },
+    {
+        "text": "El tamaño relativo del neocórtex se relaciona con:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los bajos costes de mantenerlo."
+            },
+            {
+                "text": "Un periodo más largo de crecimiento cerebral antes del nacimiento."
+            },
+            {
+                "text": "Una madurez más tardia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la UNED se ha conmvocado un encuentro interfacultativo al que han asistido 2000 estudiantes de Derecho, y 300 de Filosofia. En el evento, nos cruzamos con un universitario vestido de manera informal, y concluimos que es de Filos ofia y no de Derecho, ya que esa vestimenta se ajusta al estereotipo de estudiante de Filosofia y no al de Derecho, e ignoramos al hacerlo el número de asistentes de una y otra facultad. Diga el nombre del heuristico que mejor explica este sesgo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Heurístico de accesibilidad."
+            },
+            {
+                "text": "Heurístico de representatividad.",
+                "correct": true
+            },
+            {
+                "text": "Heurístico de simulación."
+            }
+        ]
+    },
+    {
+        "text": "El error que es consecuencia de generalizar los resultados obtenidos en una muestra de un país concreto a otras culturas se denomina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Supuesto de universalidad.",
+                "correct": true
+            },
+            {
+                "text": "Falso consenso."
+            },
+            {
+                "text": "Sesgo de correspondencia."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en un comercio nos hacen un pequeño obsequio están aplicando una estrategia de influencia basada en la táctica llamada:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pie en la puerta."
+            },
+            {
+                "text": "Esto no es todo.",
+                "correct": true
+            },
+            {
+                "text": "Bola baja."
+            }
+        ]
+    }
+]

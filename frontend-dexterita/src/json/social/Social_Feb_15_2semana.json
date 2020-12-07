@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En los estudios de Dunbar en los que se comparó el tamaño relativo del neocórtex cerebral de varias especies, se encontró apoyo para la hipótesis de que el aumento del cerebro se produjo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Por la necesidad de resolver problemas sociales.",
+                "correct": true
+            },
+            {
+                "text": "Por la necesidad de resolver problemas técnicos."
+            },
+            {
+                "text": "Por la necesidad de explorar grandes territorios."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones expresa más claramente una actitud?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 204-206)",
+        "responses": [
+            {
+                "text": "María estudia Telecomunicaciones porque sus padres la han presionado para que elija esa carrera."
+            },
+            {
+                "text": "Por su forma de hablar y comportarse, María se parece a la típica chica que estudia una carrera técnica, así que supongo que debe de estar matriculada en alguna de ellas."
+            },
+            {
+                "text": "Creo que las chicas que estudian carreras técnicas son muy inteligentes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación verdadera:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 209)",
+        "responses": [
+            {
+                "text": "Algunas actitudes se pueden medir a partir de la observación de conductas no verbales.",
+                "correct": true
+            },
+            {
+                "text": "Las actitudes no se forman o cambian por condicionamiento clásico, solamente por condicionamiento operante."
+            },
+            {
+                "text": "Las actitudes son observables, puesto que son las respuestas que se dan ante el objeto de actitud."
+            }
+        ]
+    },
+    {
+        "text": "El “error último de atribución” se puede clasificar como un proceso de naturaleza:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 155)",
+        "responses": [
+            {
+                "text": "Intergrupal.",
+                "correct": true
+            },
+            {
+                "text": "Interpersonal."
+            },
+            {
+                "text": "Perceptiva."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un atleta explica su fracaso en una competición achacándolo a que las instalaciones deportivas no reunían las condiciones adecuadas, está realizando un tipo de atribución:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Autoensalzadora."
+            },
+            {
+                "text": "Defensiva."
+            },
+            {
+                "text": "Autoprotectora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un contexto intergrupal, la atribución de resultados negativos persistentes (p.ej., que otras personas nos rechacen de forma reiterada) al prejuicio de los otros ¿puede servir de protección de la autoestima?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Sí, porque el prejuicio de otros, sobre todo si es generalizado, es siempre una causa externa a nosotros mismos."
+            },
+            {
+                "text": "No, porque el rechazo persistente, aunque sea por parte de unos pocos, hace referencia a una causa inherente a nuestro yo."
+            },
+            {
+                "text": "Sólo si los resultados negativos se atribuyen al prejuicio de personas concretas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El planteamiento teórico que afirma que las actitudes pueden influir en la conducta a través de un procesamiento espontáneo o de un procesamiento elaborado corresponde a:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 220-221)",
+        "responses": [
+            {
+                "text": "El Modelo MODE.",
+                "correct": true
+            },
+            {
+                "text": "La Teoría de la disonancia."
+            },
+            {
+                "text": "La Teoría de la acción razonada."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones NO sería cierta a la vista de las conclusiones que parecen derivarse de la investigación realizada sobre el autoensalzamiento?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 189-190)",
+        "responses": [
+            {
+                "text": "La alta autoestima predice el alto rendimiento académico.",
+                "correct": true
+            },
+            {
+                "text": "En todas las culturas se produce, de una manera u otra, el autoensalzamiento."
+            },
+            {
+                "text": "La mayoría de la gente se considera por encima de la media en cuanto a capacidades y habilidades sociales."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes condiciones NO aumenta la eficacia de la táctica la “bola baja”?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 258)",
+        "responses": [
+            {
+                "text": "Se aumenta el número de conductas y obligaciones previas a la decisión final."
+            },
+            {
+                "text": "Se utiliza una misma persona como agente de influencia."
+            },
+            {
+                "text": "El compromiso es privado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuanto mayor sea la percepción de que la causa de una conducta se debe a la situación:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 133)",
+        "responses": [
+            {
+                "text": "Mayor será la probabilidad de cometer el “error fundamental de atribución”."
+            },
+            {
+                "text": "Menor será la responsabilidad que se le atribuya al actor.",
+                "correct": true
+            },
+            {
+                "text": "Mayor será el número de inferencias correspondientes."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la clasificación que hace Fiske de los motivos sociales universales, el motivo de potenciación personal se refiere a la necesidad de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Conocerse a sí mismo para superar a los demás."
+            },
+            {
+                "text": "Controlar la eficacia de nuestra conducta y sus resultados."
+            },
+            {
+                "text": "Sentirse especial y desarrollar las capacidades propias.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo de Richman y Leary, los sentimientos heridos, incitados por la amenaza al motivo de pertenencia, pueden provocar reacciones:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 17-19)",
+        "responses": [
+            {
+                "text": "Que no dependen de cómo construya el individuo la situación de rechazo sino de su personalidad."
+            },
+            {
+                "text": "Tanto de deseo de aumentar los contactos sociales como de huir de ellos.",
+                "correct": true
+            },
+            {
+                "text": "Que son independientes de cómo valore la persona la relación que ha provocado esos sentimientos."
+            }
+        ]
+    },
+    {
+        "text": "El efecto de mera exposición a un estímulo describe:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 215)",
+        "responses": [
+            {
+                "text": "El aumento de la favorabilidad hacia un estímulo negativo al aumentar la exposición repetida al mismo."
+            },
+            {
+                "text": "Un proceso basado en el condicionamiento operante."
+            },
+            {
+                "text": "El aumento de la favorabilidad hacia un estímulo neutro al aumentar la exposición repetida al mismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas sociales es cierta?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Son fácilmente ajustables a la información contradictoria que percibimos."
+            },
+            {
+                "text": "Pueden producir fácilmente distorsiones en la comprensión del mundo social.",
+                "correct": true
+            },
+            {
+                "text": "Son esencialmente privados, es decir, no compartidos con los demás."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la comparación social:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 261, 182, 16)",
+        "responses": [
+            {
+                "text": "Necesitamos evaluar lo adecuado de nuestro comportamiento validándolo socialmente.",
+                "correct": true
+            },
+            {
+                "text": "La disonancia tiene un origen cognitivo basado en la comparación."
+            },
+            {
+                "text": "El refuerzo negativo aumenta la probabilidad de que realicemos comparaciones sociales."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones describe un proceso básico para la formación del autoconcepto según la teoría de la categorización del yo?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 176)",
+        "responses": [
+            {
+                "text": "Resolver la divergencia cognitiva entre el yo-ideal y el yo-real."
+            },
+            {
+                "text": "Comparar la idea que tengo de mí mismo con la idea que tienen los demás."
+            },
+            {
+                "text": "Determinar la similitud que tengo con unos individuos y la diferencia con otros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios de Gerbner sobre la influencia de la televisión mostraron que las diferencias ideológicas entre conservadores, moderados y liberales disminuían en los:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 108-110 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Televidentes medios."
+            },
+            {
+                "text": "Televidentes duros.",
+                "correct": true
+            },
+            {
+                "text": "Televidentes ligeros."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones respecto a la cultura es FALSA?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 49-50)",
+        "responses": [
+            {
+                "text": "La cultura surge del individuo.",
+                "correct": true
+            },
+            {
+                "text": "La cultura es transmitida de unos a otros."
+            },
+            {
+                "text": "La cultura consiste en elementos compartidos."
+            }
+        ]
+    },
+    {
+        "text": "En comparación con las culturas colectivistas, las personas en las culturas individualistas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Valoran más la equidad y el contacto con personas y grupos es más extenso.",
+                "correct": true
+            },
+            {
+                "text": "Valoran más la obediencia y diferencian más entre la conducta dirigida a miembros del exogrupo y la dirigida a miembros del endogrupo."
+            },
+            {
+                "text": "Valoran más el sentido del deber y se dejan llevar más por las normas sociales."
+            }
+        ]
+    },
+    {
+        "text": "Los aspectos del yo sobre los que no somos conscientes:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p.171)",
+        "responses": [
+            {
+                "text": "No afectan a nuestra vida."
+            },
+            {
+                "text": "Forman parte del autoconocimiento implícito.",
+                "correct": true
+            },
+            {
+                "text": "Son aquellos que se forman antes de la adquisición del lenguaje."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características, referidas al autoconcepto, sería teóricamente errónea?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 167-168)",
+        "responses": [
+            {
+                "text": "Tenemos más esquemas sobre nosotros que sobre otras personas."
+            },
+            {
+                "text": "Se trata de un modelo jerárquico y multidimensional."
+            },
+            {
+                "text": "Todos los aspectos del yo siguen una estructura de esquemas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes modelos de persuasión considera al receptor como un ser pasivo?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 271-272)",
+        "responses": [
+            {
+                "text": "El modelo heurístico."
+            },
+            {
+                "text": "El modelo de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo del aprendizaje del mensaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si la audiencia tiene suficiente capacidad y motivación para procesar un mensaje:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 280)",
+        "responses": [
+            {
+                "text": "Utilizará heurísticos basados, por ejemplo, en la autoridad del comunicador en relación con el tema del mensaje para aceptarlo o rechazarlo."
+            },
+            {
+                "text": "Cuantos más argumentos dé el comunicador, independientemente de su fundamentación, más influencia conseguirá."
+            },
+            {
+                "text": "Es mejor que el comunicador deje implícitas las conclusiones a que las haga explícitas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre el proceso de inferencia es FALSA?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 85-87)",
+        "responses": [
+            {
+                "text": "Cuando tenemos tiempo o un interés especial en hacer juicios precisos, empleamos heurísticos para hacer inferencias.",
+                "correct": true
+            },
+            {
+                "text": "Los modelos de ser humano que mejor representan cómo hacemos normalmente las inferencias en nuestra vida diaria son el del “indigente cognitivo” y el del “estratega motivado”."
+            },
+            {
+                "text": "Las inferencias que hacemos suelen estar influidas por esquemas y ejemplares debido a las limitaciones de nuestra memoria a corto plazo."
+            }
+        ]
+    },
+    {
+        "text": "Habitualmente, cuando percibimos un estímulo social se da:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 119)",
+        "responses": [
+            {
+                "text": "Únicamente un procesamiento abajo-arriba, y solo excepcionalmente un procesamiento arriba-abajo."
+            },
+            {
+                "text": "Únicamente un procesamiento arriba-abajo, y solo excepcionalmente un procesamiento abajo-arriba."
+            },
+            {
+                "text": "Ambos tipos de procesamiento (abajo-arriba y arriba-abajo) simultáneamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Tal como la entienden los psicólogos sociales, la sociabilidad:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Es una necesidad que se manifiesta sobre todo en los primeros años de vida, cuando el ser humano es más vulnerable y necesita más a los demás."
+            },
+            {
+                "text": "Es una tendencia innata a relacionarnos con los demás que se va desarrollando en la interacción con otras personas.",
+                "correct": true
+            },
+            {
+                "text": "Es una característica de personalidad que se manifiesta sobre todo en las relaciones interpersonales."
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento de Kruglanski (1980), las metas de dirección nos motivan para:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 105)",
+        "responses": [
+            {
+                "text": "Dirigirnos a la conclusión más acertada posible."
+            },
+            {
+                "text": "Llegar a la conclusión que más nos conviene.",
+                "correct": true
+            },
+            {
+                "text": "Poner en marcha un razonamiento lo más complejo y elaborado posible."
+            }
+        ]
+    },
+    {
+        "text": "La sobreestimación del grado en que están relacionados dos sucesos o características (“correlaciones ilusorias”) se ha explicado por el heurístico de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "Disponibilidad.",
+                "correct": true
+            },
+            {
+                "text": "Optimismo ilusorio."
+            },
+            {
+                "text": "Falso consenso."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes factores es necesario para que se produzca la influencia de los demás en nuestros pensamientos, emociones o comportamientos?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 6-7)",
+        "responses": [
+            {
+                "text": "Que los otros estén interactuando con nosotros."
+            },
+            {
+                "text": "Que vivamos en un medio social",
+                "correct": true
+            },
+            {
+                "text": "Que los otros tengan intención de influirnos."
+            }
+        ]
+    },
+    {
+        "text": "Teniendo en cuenta las consecuencias de las atribuciones causales, las estrategias de intervención para mejorar la relación en parejas insatisfechas deberían centrarse en evitar las atribuciones:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2015",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 43-44 Cuaderno)",
+        "responses": [
+            {
+                "text": "Externas, estables y específicas de los sucesos negativos."
+            },
+            {
+                "text": "Internas, estables y globales de los sucesos positivos."
+            },
+            {
+                "text": "Internas, estables y globales de los sucesos negativos.",
+                "correct": true
+            }
+        ]
+    }
+]

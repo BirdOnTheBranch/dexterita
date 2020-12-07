@@ -1,0 +1,533 @@
+[
+  {
+    "text": "Los estudios realizados en diversos países muestran que las creencias sobre las personas mayores",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Son más ambivalentes en culturas colectivistas que en culturas individualistas" },
+      { "text": "Son uniformemente negativas en todas las culturas" },
+      { "text": "Son similares en diversas culturas", "correct": true }
+    ]
+  },
+  {
+    "text": "¿Qué estrategias se han propuesto desde el enfoque del aprendizaje social para prevenir y reducir el comportamiento agresivo?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Desahogarse mediante formas simbólicas de agresión a modelos violentos para reducir la probabilidad de acciones agresivas reales" },
+      { "text": "Observar modelos no agresivos para adquirir pautas de conducta alternativas", "correct": true },
+      { "text": "Desaprender a comportarse agresivamente mediante el castigo para facilitar la extinción" }
+    ]
+  },
+  {
+    "text": "¿Por qué el anonimato favorece la conducta agresiva?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Porque interfiere en la inhibición de agresión", "correct": true },
+      { "text": "Porque fomenta la ignorancia pluralizada" },
+      { "text": "Porque intensifica la desconexión moral" }
+    ]
+  },
+  {
+    "text": "Según la teoría de la identidad social, ¿por qué en un contexto intergrupal las personas tienden a favorecer a su propio grupo?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Percibir que su grupo es mejor que otros les aporta una identidad social positiva", "correct": true },
+      { "text": "Se sienten presionadas por la mayoria" },
+      {
+        "text": "Dependen de él para alcanzar sus metas instrumentales"
+      }
+    ]
+  },
+  {
+    "text": "Segun la investigación sobre estrategias de control de los recursos en niños y adolescentes, a estas edades el mayor éxito en el logro de metas se consigue:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Recurriendo sobre todo a estrategias coercitivas para imponerse a los demás" },
+      {
+        "text": "Empleando siempre estrategias prosociales para ganarse al otro"
+      },
+      { "text": "Combinando estrategias prosociales y coercitivas segun la situación", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "Según el modelo del contenido de los estereotipos, ¿que características tendría el estereotipo que desarrollaríamos hacia un grupo que compite con el nuestro por unos recursos escasos y al que percibimos como poderoso?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Alta competencia, alta cordialidad" },
+      { "text": "Alta competencia, baja cordialidad", "correct": true },
+      { "text": "Baja competencia, baja cordialidad" }
+    ]
+  },
+  {
+    "text":
+    "En relación con la conceptualización del prejuicio, en los últimos años algunos autores han señalado que el prejuicio",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Conduce invariablemente a la discriminación abierta" },
+      { "text": "Depende del contexto social, político y cultural en el que se desarrollan las relaciones interpersonales", "correct": true },
+      { "text": "Es uniformemente hostil o negativo" }
+    ]
+  },
+  {
+    "text":
+    "¿Con cuál de los siguientes motivos sociales básicos se relaciona más estrechamente con la dependencia informativa?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Comprensión", "correct": true },
+      { "text": "Pertenencia" },
+      { "text": "Confianza" }
+    ]
+  },
+  {
+    "text":
+    "¿Cuál de las siguientes afirmaciones NO es una razón fundamental para la afiliación?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El valor relacional percibido", "correct": true },
+      { "text": "La reducción de la incertidumbre" },
+      { "text": "El apoyo emocional" }
+    ]
+  },
+  {
+    "text":
+    "Cual era el mejor predictor de la atracción interpersonal según los resultados del estudio realizado por Luo y Zhang (2009) en el que emplearon el paradigma de citas rápidas ?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La reciprocidad" },
+      { "text": "El atractivo físico", "correct": true },
+      { "text": "La semejanza" }
+    ]
+  },
+  {
+    "text":
+    "¿Cuál de las siguientes razones contribuye a explicar desde la perspectiva del condicionamiento clásico por qué la familiaridad predice la atracción?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La incertidumbre y reacciones de cautela que generan los estímulos nuevos disminuyen a medida que la exposición repetida a ellos muestra que son benignos" },
+      { "text": "Tendemos a procesar perceptiva y cognitivamente con mayor fluidez los estímulos nuevos" },
+      { "text": "La mayor parte de nuestros encuentros sociales son moderadamente positivos a nivel afectivo (o al menos no son aversivos)", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "Durante el periodo clásico de la P.social (1950-1978) la actividad en el ámbito aplicado",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Abarca mas campos que en la época anterior y representaba de forma mas fiel la investigación psicosocial", "correct": true },
+      { "text": "Se ve favorecida por la aparición de multiples modelos como el de ciclo completo o de Psicología social aplicada" },
+      { "text": "Disminuyó con respecto a la época anterior" }
+    ]
+  },
+  {
+    "text":
+    "La conducta de ayuda y la conducta agresiva",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Representan dos facetas del ser humano, la prosocial y la antisocial, que son incompatibles entre sí" },
+      { "text": "Tienen un origen innato, por lo que las personas, desde que nacen tienden a una u a la otra, independientemente de la situación" },
+      { "text": "Tienen bastantes aspectos en común, de tipo cognitivo, motivacional y en cuanto a las consecuencias de la conducta", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "El modelo de ciclo completo de Cialdini (1980) comienza con",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La planificación, que incluye la teorización, el análisis de la realidad concreta y el diseño" },
+      { "text": "La calidad de vida" },
+      { "text": "El estudio de procesos psicosociales en el laboratorio", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "Cuando afirmamos que los estereotipos de género cumplen la función de mantener la estructura desigual de poder social que favorece a los hombres, ¿a qué dimensión de los estereotipos nos estamos refiriendo?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Prescriptiva", "correct": true },
+      { "text": "Instrumentalidad/Agencia" },
+      { "text": "Expresividad/Comunalidad" }
+    ]
+  },
+  {
+    "text":
+    "Señale cuál de las siguientes formas de agresión se puede categorizar como 'agresión relacional'",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Prácticas sadomasoquistas con la pareja" },
+      { "text": "Excluir a una persona del círculo de amistades para humillarla", "correct": true },
+      { "text": "Golpear a una persona de la que se ha recibido un insulto" }
+    ]
+  },
+  {
+    "text":
+    "El fenómeno conocido como ignorancia pluralizada se produce sobre todo en situaciones en las que",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Es evidente que una persona necesita ayuda y hay varias personas observando" },
+      { "text": "Es evidente que una persona necesita ayuda y solo hay una persona observando" },
+      { "text": "Hay cierto grado de ambigüedad y varias personas observando", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "De acuerdo con el modelo de prejuicio sutil y manifiesto (Pettigrew y Meertens, 1995) una de las diferencias que existen entre los racistas sutiles y los tradicionales es que",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Lo primeros (sutiles) expresan sentimientos positivos hacia las minorías, pero los segundos (los tradicionales) no lo hacen" },
+      { "text": "Los primeros (sutiles) evitan expresar emociones abiertamente hostiles hacia las minorías, mientras que los segundos (los tradicionales) expresan de forma abierta su prejuicio", "correct": true },
+      { "text": "Los primeros (sutiles) creen en la inferioridad genética de las minorías, mientras que los segundos (los tradicionales) perciben una inferioridad cultural" }
+    ]
+  },
+  {
+    "text":
+    "Considerando que el prejuicio es una actitud, el objeto actitudinal sería",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Un exogrupo o sus miembros", "correct": true },
+      { "text": "La discriminación" },
+      { "text": "El estereotipo" }
+    ]
+  },
+  {
+    "text":
+    "¿Cual de las siguientes estrategias NO sería una buena solución para contrarrestar el efecto perverso de la empatía cuando amenaza al bien común, es decir, cuando provoca favoritismo?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Hacer salientes las normas de justicia e imparcialidad" },
+      { "text": "Hacer a la gente consciente de las consecuencias que sus decisiones parciales pueden tener para otros" },
+      { "text": "Intentar que las decisiones se hagan públicas para que actúe el miedo a la desaprobación social", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "El modelo de disociación propuesto por Devine (1989) sostiene que las personas no prejuiciosas experimentan un conflicto entre",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Los sesgos raciales inconscientes y las actitudes conscientes favorables a las minorías" },
+      { "text": "Las respuestas basadas en los estereotipos culturales y las basadas en las creencias personales", "correct": true },
+      { "text": "Los sentimientos positivos y los sentimientos negativos que tienen hacia las minorías" }
+    ]
+  },
+  {
+    "text":
+    "¿Cuál de los siguientes procesos está en la base del conflicto entre grupos segun la teoría del conflicto realista?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La categorización social" },
+      { "text": "La interdependencia negativa", "correct": true },
+      { "text": "El contacto intergrupal" }
+    ]
+  },
+  {
+    "text":
+    "En el desarrollo personal del altruismo y la conducta prosocial intervienen fundamentalmente tres procesos básicos: la maduración socio-cognitiva, la socialización y",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El aprendizaje a través de la interacción con los iguales", "correct": true },
+      { "text": "La eficacia biológica inclusiva" },
+      { "text": "El contagio emocional" }
+    ]
+  },
+  {
+    "text":
+    "¿En que marco teórico encajaría mejor una explicación de la atracción interpersonal basada en la sensación de que una relación con otra persona nos aporta más beneficios que costes y que dicha razón coste/beneficio es buena atendiendo a las alternativas que percibimos en nuestro entorno?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "En las teorías de refuerzo", "correct": true },
+      { "text": "En la teoría del equilibrio de Heider" },
+      { "text": "En las teorías de la consistencia cognitiva" }
+    ]
+  },
+  {
+    "text":
+    "Teoria de justificación del sistema, los estereoripos negativos sobre grupos socialmente desfavorecidos",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Tienen un fondo de verdad que relaja la naturaleza real de los miembros de las minorías estereotipadas", "correct": true },
+      { "text": "Son compartidos tambien por los miembros de los grupos desfavorecidos, a pesar que les perjudican" },
+      { "text": "Son compartidos únicamente por los miembros de los grupos aventajados" }
+    ]
+  },
+  {
+    "text":
+    "Los estudios psicosociales sobre bullying han encontrado que los niños que presencian episodios de acoso con frecuencia mantienen actitudes personales contrarias a este tipo de acciones, y sin embargo no ayudan a la víctima e, incluso, llegan a apoyar al acosador. ¿Cuál de los siguientes procesos NO sería relevante para explicar esta paradoja?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El efecto de mera exposición", "correct": true },
+      { "text": "La ignorancia pluralizada" },
+      { "text": "El conformismo" }
+    ]
+  },
+  {
+    "text":
+    "Según el modelo de activación y coste recompensa, ¿en qué caso se produciría el fenómeno de culpabilización de la víctima?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Cuando costes ayudar son altos y los de no ayudar bajos" },
+      { "text": "Cuando tanto costes de ayudar como los de no ayudar son altos", "correct": true },
+      { "text": "Ningún caso" }
+    ]
+  },
+  {
+    "text":
+    "La investigación sobre las diferencias de género en la conducta de ayuda sugiere que:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Los hombres ayudan más que las mujeres" },
+      { "text": "Las mujeres ayudan más que los hombres" },
+      { "text": "La probabilidad de ayudar no depende tanto del sexo, si no de otros factores como relación entre la tarea y roles de género en los que la persona se ha socializado", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "¿Cual de las siguientes afirmaciones es propia de la hostilidad heterosexual, de acuerdo con la teoría del sexismo ambivalente (Glick y Fiske, 1996)?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Las mujeres no tienen competencia para triunfar en el mundo laboral por lo que tienen salarios más bajos que los hombres" },
+      { "text": "Es natural que los hombres tengan más poder que las mujeres" },
+      { "text": "Las mujeres se aprovechan de los hombres a través de la sexualidad", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "La investigación de Levy y cols. (2002) sobre la percepción del envejecimiento mostró que:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La autoestereotipia tiene un efecto más fuerte que la discriminación en la esperanza de vida de los adultos mayores" },
+      { "text": "La autoestereotipia influye en la esperanza de vida de los adultos mayores independientemente de otros factores como el género, la etnia o la sensación de soledad", "correct": true },
+      { "text": "La discriminación hacia las personas mayores es mayor cuando éstas rechazan estereotipos que cuando los aceptan" }
+    ]
+  },
+  {
+    "text":
+    "Si una psicóloga social decide asumir el rol de investigadora aplicada tendrá que:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Centrarse en el análisis de la situación que demanda modificación y tratar de distanciarse de los puntos de vista tradicionales", "correct": true },
+      { "text": "Tomar partido por su cliente y asumir sus reivindicaciones" },
+      { "text": "Promover la causa de sus clientes, generalmente en contra de sus adversarios" }
+    ]
+  },
+  {
+    "text":
+    "Cual de las siguientes afirmaciones sobre el modelo PATH de Buunk y Van vugt (2007) es falsa:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El modelo teórico planteado en la tercera fase debe seguir el principio de parsimonia" },
+      { "text": "Este modelo tiene la ventaja de que puede aplicarse a todo tipo de problemas sociales", "correct": true },
+      { "text": "Este modelo está próximo a los enfoques de tecnología social" }
+    ]
+  },
+  {
+    "text":
+    "Si hiciéramos un experimento en el que introdujésemos de repente humo en una sala donde los participantes (ajenos al objetivo y procedimiento del estudio) estuvieran sentados esperando, ¿cuándo sería mas probable que saliesen de la sala para avisar de la presencia de humo?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Cuando en la sala hubiese un único participante esperando", "correct": true },
+      { "text": "Cuando en la sala hubiese tres participantes juntos esperando" },
+      { "text": "Cuando en la sala hubiese un participante junto con dos cómplices de los experimentadores que se comportasen como si no pasara nada" }
+    ]
+  },
+  {
+    "text":
+    "Los estereotipos influyen en la autoestima de las personas que los mantienen porque fomentan una visión positiva del grupo al que pertenecen, ¿cómo se denomina el efecto?",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Justificación del status quo" },
+      { "text": "Amenaza al estereotipo" },
+      { "text": "Favoritismo endogrupal", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "El término 'contacto extendido' se refiere al caso en que una persona",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Mantiene un mayor número de contactos con miembros de un mismo exogrupo" },
+      { "text": "Mantiene contactos con miembros de distintos grupos" },
+      { "text": "Sabe que existe una relación cercana y positiva entre miembros del propio grupo y del exogrupo", "correct": true }
+    ]
+  },
+  {
+    "text":
+    "Si una persona española cree que la mayoría de suecos son personas frías, rubias y trabajadoras, estaríamos hablando de",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Homogeneización endogrupal" },
+      { "text": "Un estereotipo", "correct": true },
+      { "text": "Una discriminación" }
+    ]
+  },
+  {
+    "text":
+    "La investigación de Cuddy y cols. (2005) sobre el contenido del estereotipo de los adultos mayores encontró que, cuando se afirmaba que una persona mayor posee buena memoria",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Se la percibía como más competente" },
+      { "text": "La percepción de su competencia no se veía afectada", "correct": true },
+      { "text": "Se la percibía como menos competente" }
+    ]
+  },
+  {
+    "text":
+    "En el estudio sobre el desarrollo de tendencias prosociales y agonísticas descrito en el Cuaderno de Investigación se defiende que, en los grupos infantiles:",
+    "fecha": {
+      "mes": "Junio",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "El comportamiento agonístico y el prosocial se complementan para mantener la cohesión del grupo.", "correct": true },
+      { "text": "El comportamiento agonístico es mucho más frecuente y decisivo que el prosocial, por lo que es necesaria la intervención del adulto para prevenir conflictos" },
+      { "text": "Las relaciones de dominancia son perjudiciales para el grupo porque llevan al abuso de poder y a una escalada en el comportamiento agresivo." }
+    ]
+  }
+]

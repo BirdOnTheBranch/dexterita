@@ -1,0 +1,726 @@
+[
+    {
+        "text": "Si la adenina representa el 23% de las bases nitrogenadas en una molécula determinada de ADN, ¿en qué porcentaje estará presente la guanina?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "46%."
+            },
+            {
+                "text": "27%.",
+                "correct": true
+            },
+            {
+                "text": "77%."
+            },
+            {
+                "text": "23%."
+            }
+        ]
+    },
+    {
+        "text": "Sobre las características estructurales y funcionales de las neuronas sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El citoesqueleto es un componente fundamental de la membrana neuronal."
+            },
+            {
+                "text": "La mayoría de las neuronas cuentan con varios troncos axónicos que se ramifican."
+            },
+            {
+                "text": "La disposición y amplitud del árbol dendrítico puede modificarse por diversos factores constituyendo un ejemplo de plasticidad neural.",
+                "correct": true
+            },
+            {
+                "text": "En el botón terminal del axón se produce siempre la síntesis de proteínas específicas para la comunicación neuronal."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué números de la Figura 3 señalan el eje rostro-caudal del encéfalo anterior?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_1semana_3.jpg",
+        "responses": [
+            {
+                "text": "1-2.",
+                "correct": true
+            },
+            {
+                "text": "3-4."
+            },
+            {
+                "text": "5-6."
+            },
+            {
+                "text": "7-8."
+            }
+        ]
+    },
+    {
+        "text": "Si la selección natural está actuando en contra de los individuos que padecen una enfermedad disminuyendo su eficacia biológica en un 70%, ¿cuál es el coeficiente de selección (s) de los individuos que padecen esta enfermedad?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,49."
+            },
+            {
+                "text": "0,3."
+            },
+            {
+                "text": "0,7.",
+                "correct": true
+            },
+            {
+                "text": "1."
+            }
+        ]
+    },
+    {
+        "text": "Durante la propagación de un potencial de acción a lo largo del axón, la refractariedad de la zona de la membrana neuronal donde se ha producido dicho potencial, en parte, es consecuencia de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que los canales del ion potasio se hayan cerrado."
+            },
+            {
+                "text": "Un menor tiempo de apertura de los canales del ion potasio."
+            },
+            {
+                "text": "Que los canales del ion sodio se hayan cerrado."
+            },
+            {
+                "text": "Un aumento de la conductancia a los iones de potasio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los neurotransmisores que, principalmente, genera potenciales postsinápticos inhibidores es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La glicina.",
+                "correct": true
+            },
+            {
+                "text": "La noradrenalina."
+            },
+            {
+                "text": "La adrenalina."
+            },
+            {
+                "text": "El glutamato."
+            }
+        ]
+    },
+    {
+        "text": "Al analizar la evolución de las especies hemos de tener en cuenta que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El conjunto de procesos que conducen a cambios adaptativos que solucionan de una forma similar e independiente problemas semejantes se conoce como evolución convergente."
+            },
+            {
+                "text": "Las semejanzas entre organismos por herencia compartida de un antepasado común se denominan homologías."
+            },
+            {
+                "text": "Los parecidos entre organismos debidos a similitud funcional, pero no causados por herencia compartida de un ancestro común, se denominan analogías."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los experimentos de John García sobre aversión condicionada pusieron de manifiesto:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el aprendizaje animal solo puede abordarse desde una estrategia conductista."
+            },
+            {
+                "text": "La existencia de formas de aprendizaje biológicamente preparadas.",
+                "correct": true
+            },
+            {
+                "text": "La existencia del instinto."
+            },
+            {
+                "text": "La inexistencia de las llamadas pautas de acción fija."
+            }
+        ]
+    },
+    {
+        "text": "En la Figura 2 se muestran numeradas, pero desordenadas y mezcladas, varias fases del proceso de división celular por mitosis y meiosis en una célula 2n = 4. ¿Qué número corresponde al proceso o fase indicado a continuación?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_2semana_2.jpg",
+        "responses": [
+            {
+                "text": "1: metafase II meiótica."
+            },
+            {
+                "text": "2: anafase y telofase mitótica."
+            },
+            {
+                "text": "3: formación de gametos tras la anafase II y telofase II meiótica."
+            },
+            {
+                "text": "4: profase I meiótica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que el valor de la heredabilidad de la inteligencia aumente en paralelo con el estatus social (nivel de vida, recursos económicos, oportunidades educativas, etc.) es una prueba irrefutable de que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A)los factores genéticos influyen muy poco en los rasgos psicológicos humanos."
+            },
+            {
+                "text": "B)el valor de la heredabilidad de un rasgo es específico de la población en la que se obtiene."
+            },
+            {
+                "text": "C)la manifestación de las potencialidades genéticas puede depender del ambiente."
+            },
+            {
+                "text": "Lo dicho en B y C es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que un hombre que padece una enfermedad hereditaria y una mujer que no la padece, y cuyos padres tampoco la padecieron, tienen un hijo y una hija que la padecen. ¿Cuál es el tipo de transmisión de esta enfermedad y cuál sería el genotipo más probable de los abuelos maternos de la mujer?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ligada al sexo; XX, XaY.",
+                "correct": true
+            },
+            {
+                "text": "Autosómica recesiva; aa, aa."
+            },
+            {
+                "text": "Ligada al sexo; XaXa, XaY."
+            },
+            {
+                "text": "Autosómica dominante; Aa, AA."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la selección natural reduce la eficacia biológica de los genotipos heterocigotos y homocigotos recesivos, se denomina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Subdominancia o selección contra el heterocigoto."
+            },
+            {
+                "text": "Sobredominancia o superioridad del heterocigoto."
+            },
+            {
+                "text": "Selección positiva."
+            },
+            {
+                "text": "Selección codominante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando el catión potasio, durante el estado de reposo de la membrana neuronal, se mueve hacia el exterior celular, que tiene mayor cantidad de cargas positivas que el interior, lo hace fundamentalmente en virtud de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La fuerza de difusión.",
+                "correct": true
+            },
+            {
+                "text": "La presión electrostática."
+            },
+            {
+                "text": "La excitabilidad celular."
+            },
+            {
+                "text": "Cualquiera de las opciones anteriores porque todas son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "En la Figura 1 se representa una ley o regla conocida en la Ecología del Comportamiento, ¿de cuál se trata?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_2semana_1.jpg",
+        "responses": [
+            {
+                "text": "Regla de la Reparación Genética."
+            },
+            {
+                "text": "Ley de los Rendimientos Decrecientes."
+            },
+            {
+                "text": "Regla de la Reina Roja."
+            },
+            {
+                "text": "Regla o Ley de Bateman+.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La impronta genética del gen IGF2 corrobora el hecho de que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El padre invierte una gran cantidad de recursos durante el embarazo."
+            },
+            {
+                "text": "La monogamia exclusiva no es biológicamente estable.",
+                "correct": true
+            },
+            {
+                "text": "La monogamia exclusiva es biológicamente estable."
+            },
+            {
+                "text": "La madre debe de invertir todos sus recursos en el embarazo actual por la incertidumbre del éxito de los futuros."
+            }
+        ]
+    },
+    {
+        "text": "Respecto al SN autónomo sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está implicado en el control de la musculatura lisa, del músculo cardiaco y de diferentes glándulas.",
+                "correct": true
+            },
+            {
+                "text": "Forma parte del SN somático."
+            },
+            {
+                "text": "Cuenta exclusivamente con fibras aferentes."
+            },
+            {
+                "text": "Sus fibras son los únicos componentes de los nervios craneales."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios genéticos están logrando, a pesar de su dificultad, descubrir los efectos que tienen genes concretos sobre la conducta humana. ¿Cuál de los siguientes genes se ha relacionado con alteraciones importantes de las capacidades lingüísticas y articulación del lenguaje?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El gen FOXP2.",
+                "correct": true
+            },
+            {
+                "text": "Un gen recesivo ligado al cromosoma Y."
+            },
+            {
+                "text": "Un gen estructural cuyo locus está en el cromosoma 12."
+            },
+            {
+                "text": "El gen SRY."
+            }
+        ]
+    },
+    {
+        "text": "La médula espinal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Forma parte del tronco del encéfalo."
+            },
+            {
+                "text": "No tiene estructura bilateral simétrica debido a los ensanchamientos que muestra en los niveles en los que se insertan los nervios que inervan los brazos y las piernas."
+            },
+            {
+                "text": "Forma parte del SN periférico."
+            },
+            {
+                "text": "Está parcelada en 31 segmentos medulares delimitados por la inserción de cada par de nervios espinales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se quiere obtener la heredabilidad en sentido estricto para un rasgo humano hay que utilizar la correlación entre:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Padres e hijos.",
+                "correct": true
+            },
+            {
+                "text": "Gemelos dicigóticos criados juntos."
+            },
+            {
+                "text": "Gemelos monocigóticos criados por separado."
+            },
+            {
+                "text": "Cualquiera de las tres opciones anteriores nos permite obtener el valor de la heredabilidad en sentido estricto."
+            }
+        ]
+    },
+    {
+        "text": "En 2008, Walum et al. realizaron un estudio con 552 parejas de gemelos y sus respectivos cónyuges o parejas. Todos los sujetos fueron evaluados respecto a varios índices de calidad de la relación conyugal y las características genéticas del gen del receptor de vasopresina. Los resultados indicaron que en los varones hay una asociación estadísticamente significativa entre el polimorfismo existente en el gen del receptor de la vasopresina y la calidad de la relación conyugal. Concretamente, encontraron que los portadores de uno de los alelos de este gen (el 334) tenían más problemas matrimoniales que los hombres sin este alelo. ¿Qué tipo de estrategia se ha seguido en esta investigación?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intervención conductual."
+            },
+            {
+                "text": "Aproximación correlacional.",
+                "correct": true
+            },
+            {
+                "text": "Intervención somática."
+            },
+            {
+                "text": "Todas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Sobre el aporte sanguíneo al encéfalo para cubrir sus necesidades metabólicas sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los sistemas de aporte sanguíneo al encéfalo están unidos formando el círculo o polígono de Willis.",
+                "correct": true
+            },
+            {
+                "text": "Los requerimientos energéticos del encéfalo son menores que los de cualquier otro órgano."
+            },
+            {
+                "text": "La sangre accede al encéfalo por los mismos lugares que el líquido cefalorraquídeo."
+            },
+            {
+                "text": "El encéfalo acumula glucosa para su funcionamiento aunque ésta no llegue a través de la sangre."
+            }
+        ]
+    },
+    {
+        "text": "La despolarización de la membrana del terminal presináptico de una sinapsis química desencadena:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cierre de los canales presinápticos del ion potasio."
+            },
+            {
+                "text": "Siempre la despolarización inmediata de la membrana postsináptica."
+            },
+            {
+                "text": "La apertura de los canales presinápticos del ion calcio dependientes de voltaje y la liberación del neurotransmisor.",
+                "correct": true
+            },
+            {
+                "text": "Las tres anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "El troquelado sexual:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se establece en el momento en el que va a ejercer su efecto."
+            },
+            {
+                "text": "Es un mecanismo de aislamiento reproductivo.",
+                "correct": true
+            },
+            {
+                "text": "Es causa de la impronta filial."
+            },
+            {
+                "text": "Tiene como estímulo originador de la impronta el mismo que va a ser objeto de la respuesta sexual."
+            }
+        ]
+    },
+    {
+        "text": "La altura de la planta del guisante (Pisum sativum) con la que investigó Mendel y gracias a la cual descubrió las leyes de la genética que llevan su nombre:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ es un rasgo mendeliano."
+            },
+            {
+                "text": "B/ es un rasgo cualitativo."
+            },
+            {
+                "text": "C/ es un rasgo cuantitativo."
+            },
+            {
+                "text": "Lo dicho en A y B es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la Figura 4 se representa, a la izquierda, la predicción del Teorema de los rendimientos decrecientes en relación al forrajeo de los estorninos y, a la derecha, la conducta real de estas aves. Usando sus conocimientos de Ecología del Comportamiento, ¿puede afirmarse que el forrajeo se adapta a lo predicho por este modelo de optimización?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_2semana_4.jpg",
+        "responses": [
+            {
+                "text": "Solo en las distancias cortas."
+            },
+            {
+                "text": "Solo en las distancias largas."
+            },
+            {
+                "text": "Sí, efectivamente.",
+                "correct": true
+            },
+            {
+                "text": "No, en ningún caso."
+            }
+        ]
+    },
+    {
+        "text": "Sobre la extinción de las especies se sabe que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se produce siempre por aislamiento geográfico."
+            },
+            {
+                "text": "El que se produzca radiación adaptativa como consecuencia de la ocupación de diferentes nichos ecológicos aumenta considerablemente la probabilidad de que se produzca."
+            },
+            {
+                "text": "Sólo el 1% de las especies han desaparecido."
+            },
+            {
+                "text": "Entre los factores que contribuyen a ella, la disminución de la variabilidad genética es el más importante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de X Frágil es un ejemplo de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ polimorfismo de un solo nucleótido."
+            },
+            {
+                "text": "B/ transmisión ligada al sexo."
+            },
+            {
+                "text": "C/ que una sola mutación en un gen que se expresa en el tejido cerebral puede producir discapacidad mental y alteraciones de comportamiento."
+            },
+            {
+                "text": "B y C son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que haya un elevado porcentaje de coincidencia en padecer la esquizofrenia entre gemelos monocigóticos y también, aunque en menor medida, entre gemelos dicigóticos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permite excluir la influencia de la varianza por dominancia y por epistasia en el valor de la heredabilidad."
+            },
+            {
+                "text": "Apunta a que el ambiente no es un factor que tenga que ver con el desarrollo de la esquizofrenia."
+            },
+            {
+                "text": "Indica que es altamente probable que haya genes implicados.",
+                "correct": true
+            },
+            {
+                "text": "Permite afirmar que se trata de una enfermedad genética mendeliana."
+            }
+        ]
+    },
+    {
+        "text": "¿Quién acuñó el término Psicobiología y fundó la revista Psychobiology?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Martin E.P. Seligman."
+            },
+            {
+                "text": "William James."
+            },
+            {
+                "text": "Knight Dunlap.",
+                "correct": true
+            },
+            {
+                "text": "Santiago Ramón y Cajal."
+            }
+        ]
+    },
+    {
+        "text": "Actualmente es posible, mediante procedimientos optogenéticos, hacer inactivas temporalmente determinadas estructuras encefálicas que regulan conductas concretas (p. ej., para reducir comportamientos desadaptativos). Uno de los mecanismos neurofisiológicos de esa inactivación es, probablemente, hacer que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El potencial umbral tienda hacia la positividad."
+            },
+            {
+                "text": "La carga eléctrica neta del interior celular sea más negativa.",
+                "correct": true
+            },
+            {
+                "text": "Disminuya el período refractario absoluto."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas."
+            }
+        ]
+    }
+]

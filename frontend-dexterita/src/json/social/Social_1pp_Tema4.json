@@ -1,0 +1,1157 @@
+[
+    {
+        "text": "Peter ha suspendido el examen de matemáticas. Es la primera vez que Pedro suspende en matemáticas y nunca ha suspendido un examen de ninguna materia. El resto de su clase también ha suspendido ese examen. En términos del modelo de covariación de Kelley, con estos datos, la información que maneja un observador se corresponde con una configuración basada en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 138-142)",
+        "responses": [
+            {
+                "text": "Alto consenso, alta distintividad, baja consistencia.",
+                "correct": true
+            },
+            {
+                "text": "Bajo consenso, alta distintividad, alta consistencia."
+            },
+            {
+                "text": "Alto consenso, baja distintividad, baja consistencia."
+            }
+        ]
+    },
+    {
+        "text": "El congraciamiento es una estrategia de manejo de la impresión:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 129)",
+        "responses": [
+            {
+                "text": "Que consiste en ensalzarse a uno mismo para presentarse ante el perceptor bajo una luzfavorable."
+            },
+            {
+                "text": "Que se pone en marcha cuando una persona ensalza al perceptor para alterar a su favor el resultado del proceso perceptivo.",
+                "correct": true
+            },
+            {
+                "text": "Que consiste en alegar incapacidad por alguna causa externa para paliar los efectos negativos de algunos comportamientos propios y congraciarnos con el otro."
+            }
+        ]
+    },
+    {
+        "text": "Atribuir la causa de un fracaso propio a factores externos es un ejemplo de atribución:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Autoensalzadora."
+            },
+            {
+                "text": "Esencialista."
+            },
+            {
+                "text": "Autoprotectora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los rasgos que caracterizan la Psicología Social es su interés por la realidad construida por las personas frente a la realidad objetiva. ¿Cuál de las siguientes opciones refleja mejor el concepto de realidad construida?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El procesamiento arriba-abajo.",
+                "correct": true
+            },
+            {
+                "text": "El procesamiento normativo."
+            },
+            {
+                "text": "El procesamiento abajo-arriba."
+            }
+        ]
+    },
+    {
+        "text": "Habitualmente, cuando percibimos un estímulo social se da:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 119)",
+        "responses": [
+            {
+                "text": "Únicamente un procesamiento arriba-abajo, y solo excepcionalmente un procesamiento abajo-arriba."
+            },
+            {
+                "text": "Ambos tipos de procesamiento (abajo-arriba y arriba-abajo) simultáneamente.",
+                "correct": true
+            },
+            {
+                "text": "Únicamente un procesamiento abajo-arriba, y solo excepcionalmente un procesamiento arriba-abajo."
+            }
+        ]
+    },
+    {
+        "text": "En una muestra de fumadores se comprobó que el 75% atribuía más probabilidad de contraer cáncer de pulmón al fumador medio que a ellos mismos. Este resultado refleja un sesgo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 65-66 Cuaderno y Tema 4 manual)",
+        "responses": [
+            {
+                "text": "Optimismo ilusorio."
+            },
+            {
+                "text": "Ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Falso consenso."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios transculturales sobre diferencias en atribución, en los que se ha comparado a culturas colectivistas e individualistas, han puesto de manifiesto que",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Los colectivistas son más sensibles a las claves situacionales si son llamativas.",
+                "correct": true
+            },
+            {
+                "text": "No existe una tendencia universal a hacer atribuciones disposicionales."
+            },
+            {
+                "text": "Los colectivistas no son proclives a cometer el error fundamental de atribución."
+            }
+        ]
+    },
+    {
+        "text": "Observamos que Carlos siempre come el pastel de manzana de su abuela, así como cualquier otro pastel que se le ponga por delante. En términos del modelo de covariación de Kelley estamos observando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 138-142)",
+        "responses": [
+            {
+                "text": "Alta consistencia y alta distintividad."
+            },
+            {
+                "text": "Alta consistencia y baja distintividad.",
+                "correct": true
+            },
+            {
+                "text": "Baja consistencia y alto consenso."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes teorías se centra fundamentalmente en las autoatribuciones?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 151)",
+        "responses": [
+            {
+                "text": "La teoría atributiva de Weiner.",
+                "correct": true
+            },
+            {
+                "text": "El modelo de covariación de Kelley."
+            },
+            {
+                "text": "La teoría de las inferencias correspondientes de Jones y Davis."
+            }
+        ]
+    },
+    {
+        "text": "Una de las explicaciones de la asimetría en las atribuciones del actor y del observador se fundamenta en que el observador presta más atención a la conducta del actor mientras que el actor atiende, fundamentalmente, a la situación. Esta explicación alude a un proceso",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Informativo."
+            },
+            {
+                "text": "Motivacional."
+            },
+            {
+                "text": "Perceptivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los esquemas causales, los esquemas de causas necesarias múltiples hacen referencia a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "La necesidad de que se dé al menos una de las causas múltiples para que se produzca determinado efecto."
+            },
+            {
+                "text": "La producción de diversos efectos a partir de causas múltiples."
+            },
+            {
+                "text": "La necesidad de que se den todas las causas conjuntamente para que se produzca determinado efecto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la Teoría de las inferencias correspondientes, para que un efecto sirva como base para realizar una inferencia correspondiente debemos inferir que el actor:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Ha actuado libre e intencionadamente.",
+                "correct": true
+            },
+            {
+                "text": "Atribuye su propia conducta a causas internas."
+            },
+            {
+                "text": "No era consciente de las posibles consecuencias de su acción."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría atributiva de Weiner, las atribuciones que hacemos de nuestros éxitos y fracasos provocan diferentes emociones que afectan a nuestra motivación posterior. Teniendo en cuenta este planteamiento y las dimensiones en las que Weiner clasifica las atribuciones, indique cuál de las siguientes afirmaciones es cierta.:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 152-153)",
+        "responses": [
+            {
+                "text": "La dimensión de estabilidad tiene que ver sobre todo con las expectativas de cara al futuro y con sentimientos de esperanza o desánimo.",
+                "correct": true
+            },
+            {
+                "text": "La dimensión de controlabilidad implica que las emociones serán positivas cuando la atribución es controlable y negativas cuando es incontrolable."
+            },
+            {
+                "text": "Las atribuciones internas, estables y controlables garantizan un aumento de la autoestima y la motivación."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos de atribución",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "No se ven afectados por el estado afectivo ni por la motivación."
+            },
+            {
+                "text": "Se relacionan sobre todo con los motivos sociales básicos de comprensión, control y potenciación personal.",
+                "correct": true
+            },
+            {
+                "text": "Siguen siempre un modelo normativo propio del científico ingenuo."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos de combinación lineal sobre la formación de impresiones, el modelo promedio sostiene que, si queremos causar una impresión positiva en otra persona, deberemos mencionar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 124)",
+        "responses": [
+            {
+                "text": "Pocos rasgos pero muy positivos.",
+                "correct": true
+            },
+            {
+                "text": "Cuantos más rasgos positivos mejor, aunque sean de poco valor."
+            },
+            {
+                "text": "Rasgos que sean importantes en ese contexto concreto."
+            }
+        ]
+    },
+    {
+        "text": "En los experimentos de Asch sobre formación de impresiones, los rasgos “afectuosa” y “fría”, en el contexto de una serie de características sobre una persona, se consideran centrales porque",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Son los dos extremos de un continuo en el que se incluían los rasgos periféricos."
+            },
+            {
+                "text": "Son determinantes en la impresión que se forma de la persona, que variaba dependiendo de que se incluyera una u otra característica.",
+                "correct": true
+            },
+            {
+                "text": "Su significado no cambia, independientemente del contexto en el que se incluyan este tipo de características."
+            }
+        ]
+    },
+    {
+        "text": "La conducta no verbal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 120-121)",
+        "responses": [
+            {
+                "text": "Es expresión fidedigna de los sentimientos de los demás, porque es imposible regularla de manera intencionada."
+            },
+            {
+                "text": "Es tan básica y universal que apenas se ve influida por la cultura."
+            },
+            {
+                "text": "Nos permite inferir las emociones y las intenciones de los demás de manera relativamente automática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Por definición, para que el modelo de covariación en la atribución sea aplicable, es necesario que el observador tenga información sobre:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p.136)",
+        "responses": [
+            {
+                "text": "La existencia de causas inhibitorias."
+            },
+            {
+                "text": "Diferentes casos de un mismo suceso.",
+                "correct": true
+            },
+            {
+                "text": "La existencia de una causa suficiente."
+            }
+        ]
+    },
+    {
+        "text": "La tendencia a responsabilizar a las víctimas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Permite reducir la amenaza que supone creer que las cosas pueden ocurrir sin el control de la persona afectada.",
+                "correct": true
+            },
+            {
+                "text": "Aumenta a medida que aumenta la semejanza de los observadores con las víctimas."
+            },
+            {
+                "text": "Disminuye a medida que aumenta la gravedad de las consecuencias del suceso."
+            }
+        ]
+    },
+    {
+        "text": "Complete la frase de la forma más correcta en el marco de la Teoría de las inferencias correspondientes: “Para hacer una inferencia correspondiente es necesario atribuir…:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 132)",
+        "responses": [
+            {
+                "text": "…intención, y para atribuir intención hay que atribuir conocimiento y capacidad”.",
+                "correct": true
+            },
+            {
+                "text": "…conocimiento, y para atribuir conocimiento hay que atribuir intención y capacidad”."
+            },
+            {
+                "text": "…capacidad, y para atribuir capacidad hay que atribuir intención y conocimiento”."
+            }
+        ]
+    },
+    {
+        "text": "El “error último de atribución” se puede clasificar como un proceso de naturaleza:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 155)",
+        "responses": [
+            {
+                "text": "Intergrupal.",
+                "correct": true
+            },
+            {
+                "text": "Perceptiva."
+            },
+            {
+                "text": "Interpersonal."
+            }
+        ]
+    },
+    {
+        "text": "Si las expectativas sobre el comportamiento de una persona se desconfirman, es más fácil que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Aumenten las inferencias correspondientes o disposicionales sobre ese comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Aumente la relevancia hedónica para el perceptor."
+            },
+            {
+                "text": "Disminuyan las atribuciones a características de personalidad de esa persona."
+            }
+        ]
+    },
+    {
+        "text": "En el marco del modelo de covariación de Kelley, ¿qué atribución suele descartarse cuando se da un consenso bajo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 139)",
+        "responses": [
+            {
+                "text": "La atribución a la persona."
+            },
+            {
+                "text": "La atribución a las circunstancias."
+            },
+            {
+                "text": "La atribución al estímulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La pareja de Juan ha sacado la máxima puntuación la primera vez que se presenta a una oposición, muy por encima de la nota de los otros 800 candidatos. Juan cree que ese éxito de su pareja se debe a su inteligencia y esfuerzo, ya que siempre ha tenido las mejores calificaciones de su clase en todas las asignaturas. Según el modelo de covariación de Kelley, la inferencia de Juan se basa en información sobre la existencia de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 138-139)",
+        "responses": [
+            {
+                "text": "Bajo consenso y alta distintividad."
+            },
+            {
+                "text": "Bajo consenso y baja distintividad.",
+                "correct": true
+            },
+            {
+                "text": "Alto consenso y alta distintividad."
+            }
+        ]
+    },
+    {
+        "text": "En el marco de la Teoría de las inferencias correspondientes, ¿cuándo es más probable que hagamos una inferencia disposicional?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando la acción es coherente con nuestras expectativas previas."
+            },
+            {
+                "text": "Cuando la acción es coherente con el rol social."
+            },
+            {
+                "text": "Cuando el efecto de la acción no es deseable.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos referentes a la formación de impresiones, el enfoque de combinación lineal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 125)",
+        "responses": [
+            {
+                "text": "Es aplicable sobre todo a situaciones en las que es necesario realizar un juicio rápido sobre otra persona."
+            },
+            {
+                "text": "Considera que los rasgos que describen a una persona son independientes entre sí.",
+                "correct": true
+            },
+            {
+                "text": "Plantea que los rasgos centrales influyen en el significado de los demás rasgos y organizan la imagen que tenemos del otro."
+            }
+        ]
+    },
+    {
+        "text": "Si se utiliza el esquema previo que se tiene sobre los alemanes al planificar un negocio con una persona de esa nacionalidad",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se está utilizando un proceso mental de arriba-abajo.",
+                "correct": true
+            },
+            {
+                "text": "Se comete un sesgo de falso consenso."
+            },
+            {
+                "text": "Se cae en la “falacia de conjunción”."
+            }
+        ]
+    },
+    {
+        "text": "Después de un partido de fútbol, los miembros del equipo perdedor atribuyen el resultado a la actuación del árbitro y a la mala suerte, mientras que los del equipo vencedor lo explican por el buen juego que han realizado. Este sesgo es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 155)",
+        "responses": [
+            {
+                "text": "Error último de atribución.",
+                "correct": true
+            },
+            {
+                "text": "Efecto “tercera persona”."
+            },
+            {
+                "text": "Falso consenso."
+            }
+        ]
+    },
+    {
+        "text": "Es más probable que un acontecimiento produzca un análisis atributivo cuando es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 124-125)",
+        "responses": [
+            {
+                "text": "Positivo."
+            },
+            {
+                "text": "Habitual."
+            },
+            {
+                "text": "Inesperado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de covariación de Kelley, ¿cuál es la atribución más probable cuando se da alto consenso, alta consistencia y alta distintividad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 137-138)",
+        "responses": [
+            {
+                "text": "A la persona."
+            },
+            {
+                "text": "A la situación."
+            },
+            {
+                "text": "Al estímulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Heider (1958), el primer autor que estudió el proceso atributivo desde la Psicología Social:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 132-133)",
+        "responses": [
+            {
+                "text": "El grado de responsabilidad que se atribuye al actor depende principalmente de su capacidad."
+            },
+            {
+                "text": "Las personas actúan como “psicólogos ingenuos” que construyen teorías de sentido común sobre las causas del comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Las personas tienden a explicar las causas del comportamiento en función de factores externos ignorando las causas personales."
+            }
+        ]
+    },
+    {
+        "text": "La percepción social:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 118-119)",
+        "responses": [
+            {
+                "text": "Se ve influida por ejemplares concretos no por esquemas previos."
+            },
+            {
+                "text": "Es de carácter reactivo, no activo."
+            },
+            {
+                "text": "Es dinámica y depende de la interacción",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Elija la opción que completa correctamente la siguiente frase: “Respecto al locus de causalidad, _______1_______ y _______2_______ son atribuciones internas, mientras que _______3_______ y _______4_______ son atribuciones externas.”:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 152)",
+        "responses": [
+            {
+                "text": "1 = la dificultad de la tarea. 2 = la suerte. 3 = la capacidad. 4 = el esfuerzo."
+            },
+            {
+                "text": "1 = la capacidad. 2 = el esfuerzo. 3 = la dificultad de la tarea. 4 = la suerte.",
+                "correct": true
+            },
+            {
+                "text": "1 = la dificultad de la tarea. 2 = el esfuerzo. 3 = la suerte. 4 = la capacidad."
+            }
+        ]
+    },
+    {
+        "text": "En el marco del modelo de covariación de Kelley, ¿cómo se denomina la fuente de información referida a la forma en que la persona ha respondido al estímulo en otras ocasiones?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 137)",
+        "responses": [
+            {
+                "text": "Distintividad."
+            },
+            {
+                "text": "Consenso."
+            },
+            {
+                "text": "Consistencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría clásica de la atribución pone el acento en el análisis que el observador hace de los efectos de la acción que atribuimos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Psicología ingenua, de Heider."
+            },
+            {
+                "text": "Covariación, de Kelley."
+            },
+            {
+                "text": "Inferencias correspondientes, de Jones y Davis.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un camarero al que Pedro no conoce de nada le atiende de forma especialmente amable. Pedro se entera de que buena parte del sueldo del camarero depende de que los clientes estén satisfechos con el trato recibido. Pedro no está seguro de si el amable trato recibido se debe a que el camarero es una persona especialmente afable y simpática o a que de ello depende su sueldo. A la vista de esta descripción, ¿qué proceso es más probable que influya en la atribución que realice Pedro sobre la conducta del camarero?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El sesgo de correspondencia."
+            },
+            {
+                "text": "El principio de descuento.",
+                "correct": true
+            },
+            {
+                "text": "El principio de aumento."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la investigación de Asch (1946) sobre la formación de impresiones, el que un rasgo sea central o periférico depende:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 122-123)",
+        "responses": [
+            {
+                "text": "Del resto de rasgos estímulo con los que aparece asociado.",
+                "correct": true
+            },
+            {
+                "text": "Del significado del rasgo en sí."
+            },
+            {
+                "text": "De la longitud de la lista de rasgos presentada."
+            }
+        ]
+    },
+    {
+        "text": "La conducta no verbal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 120-121)",
+        "responses": [
+            {
+                "text": "Es una manifestación más fiel de nuestros sentimientos e intenciones que el lenguaje verbal, porque es espontánea e incontrolable."
+            },
+            {
+                "text": "No es únicamente la manifestación de un estado interno, sino que tiene una finalidad comunicativa en la interacción con los demás.",
+                "correct": true
+            },
+            {
+                "text": "Tiene la ventaja de ser fácil de interpretar porque se compone de elementos universales e independientes del contexto."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un atleta explica su fracaso en una competición achacándolo a que las instalaciones deportivas no reunían las condiciones adecuadas, está realizando un tipo de atribución:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Defensiva."
+            },
+            {
+                "text": "Autoprotectora.",
+                "correct": true
+            },
+            {
+                "text": "Autoensalzadora."
+            }
+        ]
+    },
+    {
+        "text": "Cuando atribuimos la causa de un suspenso en una asignatura fácil a falta de esfuerzo, el “locus de causalidad” mediante el que se explica esa conducta se basa en",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Fuerzas ambientales."
+            },
+            {
+                "text": "Características situacionales."
+            },
+            {
+                "text": "Causas internas o personales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando hablamos de procesamiento arriba-abajo en la percepción social, ¿a qué nos estamos refiriendo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "A la influencia que ejercen aspectos no puramente cognitivos, como las emociones o motivaciones, en la percepción social."
+            },
+            {
+                "text": "A la influencia que el conocimiento previo almacenado en nuestra memoria tiene en la forma en que percibimos la realidad social.",
+                "correct": true
+            },
+            {
+                "text": "A la influencia que la información proveniente del medio tiene en la percepción de la realidad social en un momento dado."
+            }
+        ]
+    },
+    {
+        "text": "Cuando el conocimiento previo que tenemos influye en la interpretación e integración de la nueva información que nos llega se considera un procesamiento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 72, 93, 113)",
+        "responses": [
+            {
+                "text": "De arriba-abajo.",
+                "correct": true
+            },
+            {
+                "text": "De combinación lineal."
+            },
+            {
+                "text": "De abajo-arriba."
+            }
+        ]
+    },
+    {
+        "text": "Cuanto mayor sea la percepción de que la causa de una conducta se debe a la situación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 133)",
+        "responses": [
+            {
+                "text": "Mayor será la probabilidad de cometer el “error fundamental de atribución”."
+            },
+            {
+                "text": "Mayor será el número de inferencias correspondientes."
+            },
+            {
+                "text": "Menor será la responsabilidad que se le atribuya al actor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Nos dicen que Ana suele llegar tarde todos los días al trabajo, que sus compañeros de trabajo suelen llegar puntualmente, y que Ana suele llegar tarde a todas sus citas. En el marco del modelo de covariación de Kelley, ¿a qué combinación de elementos de información daría lugar esta información?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Consenso alto, distintividad baja, consistencia baja."
+            },
+            {
+                "text": "Consenso bajo, distintividad baja, consistencia alta.",
+                "correct": true
+            },
+            {
+                "text": "Consenso bajo, distintividad alta, consistencia baja."
+            }
+        ]
+    },
+    {
+        "text": "Un niño que no tiene en casa las circunstancias ideales para el estudio consigue habitualmente resultados muy brillantes. El hecho de que no tenga en casa las circunstancias ideales para estudiar, probablemente contribuirá a que se produzca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 145-146)",
+        "responses": [
+            {
+                "text": "Una atribución externa."
+            },
+            {
+                "text": "El efecto actor/observador."
+            },
+            {
+                "text": "El principio atributivo de aumento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos de combinación lineal sobre la formación de impresiones, la asignación diferencial de peso a los rasgos de una persona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 124-125)",
+        "responses": [
+            {
+                "text": "Fue propuesta por el modelo promedio y es una idea similar a los rasgos centrales del enfoque de Asch."
+            },
+            {
+                "text": "Es una idea introducida por el modelo de la media ponderada que supone que no todos los rasgos tienen la misma importancia en todos los contextos.",
+                "correct": true
+            },
+            {
+                "text": "Es una aportación del modelo suma que propone que determinados rasgos, por su importancia, influyen en el significado de los demás rasgos y organizan la imagen completa que nos formamos de la otra persona."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes NO es una dimensión de causalidad de las contempladas en la Teoría de la motivación de logro de Weiner?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. 152)",
+        "responses": [
+            {
+                "text": "Controlabilidad."
+            },
+            {
+                "text": "Estabilidad."
+            },
+            {
+                "text": "Capacidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Después de un accidente laboral, ¿en cuál de las siguientes situaciones es más fácil que se hagan atribuciones defensivas?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando el observador y la víctima son muy diferentes.",
+                "correct": true
+            },
+            {
+                "text": "Cuando está claro que el accidente se ha debido a causas externas."
+            },
+            {
+                "text": "Si el accidente ha sido leve, sin consecuencias graves."
+            }
+        ]
+    },
+    {
+        "text": "Según los autores que proponen que los dos enfoques de formación de impresiones, gestáltico y combinación lineal, pueden ser válidos en función de la situación, ¿cuándo es más probable que predomine el enfoque de combinación lineal?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando tengamos un interés especial en la persona percibida.",
+                "correct": true
+            },
+            {
+                "text": "Cuando carezcamos de tiempo para invertirlo en la formación de la impresión."
+            },
+            {
+                "text": "Cuando la persona percibida encaja fácilmente en una categoría almacenada en la memoria."
+            }
+        ]
+    },
+    {
+        "text": "Señale en cuál de las siguientes situaciones es más probable que se realicen atribuciones causales",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Ante acontecimientos inesperados con resultados negativos.",
+                "correct": true
+            },
+            {
+                "text": "Ante acontecimientos con resultados positivos."
+            },
+            {
+                "text": "Cuando esperamos un éxito y lo logramos."
+            }
+        ]
+    },
+    {
+        "text": "La probabilidad de que se produzca una inferencia correspondiente aumenta a medida que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "La normatividad de la conducta del actor disminuye y las consecuencias de esa conducta son menos deseables para la gente en general.",
+                "correct": true
+            },
+            {
+                "text": "La normatividad de la conducta del actor disminuye y las consecuencias de esa conducta son más deseables para la gente en general."
+            },
+            {
+                "text": "La normatividad de la conducta del actor aumenta y las consecuencias de esa conducta son menos deseables para la gente en general."
+            }
+        ]
+    },
+    {
+        "text": "Según la Teoría de Jones y Davis, en cuanto a los efectos de la acción, ¿qué proporciona más información para realizar una inferencia correspondiente?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Los efectos invariantes de la acción."
+            },
+            {
+                "text": "Los efectos no-comunes entre dos alternativas.",
+                "correct": true
+            },
+            {
+                "text": "Los efectos comunes entre dos alternativas."
+            }
+        ]
+    },
+    {
+        "text": "En los procesos atributivos, la causa es",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Directamente observable para el perceptor."
+            },
+            {
+                "text": "Siempre un aspecto físico controlable."
+            },
+            {
+                "text": "Inferida por el que hace la atribución.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se incorpora a su trabajo el primer día, realiza un esfuerzo especial por alabar las opiniones de su superior. En este caso estará haciendo uso del",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Efecto de recencia."
+            },
+            {
+                "text": "Autoensalzamiento."
+            },
+            {
+                "text": "Congraciamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones es característica del enfoque de “configuración gestáltica”?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Lo esencial en la percepción de una persona es la media del valor de todos los rasgos."
+            },
+            {
+                "text": "El significado de cada característica que se percibe de una persona depende del conjunto de las otras características que se conocen sobre ella.",
+                "correct": true
+            },
+            {
+                "text": "La impresión sobre una persona depende de la suma de las características que se perciben de ella."
+            }
+        ]
+    }
+]

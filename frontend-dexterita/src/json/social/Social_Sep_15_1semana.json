@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Las tácticas de influencia basadas en el principio de validación social funcionan porque:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 261-262)",
+        "responses": [
+            {
+                "text": "Apelan a nuestra necesidad de reafirmar nuestra identidad personal y de sentirnos valorados por los demás."
+            },
+            {
+                "text": "Tendemos a pensar que nuestro comportamiento será más correcto si se parece al de los demás.",
+                "correct": true
+            },
+            {
+                "text": "Actúan a través del componente afectivo de las actitudes."
+            }
+        ]
+    },
+    {
+        "text": "La premisa de que no es la realidad objetiva sino la realidad construida lo que influye en la forma de pensar, sentir y comportarse de las personas implica que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "La realidad nos afectará de una forma u otra según cómo la interpretemos.",
+                "correct": true
+            },
+            {
+                "text": "Es muy difícil llegar a una visión compartida de la realidad puesto que cada persona la interpreta a su manera."
+            },
+            {
+                "text": "Sólo es posible estudiar el comportamiento social de las personas utilizando métodos subjetivos."
+            }
+        ]
+    },
+    {
+        "text": "La conducta no verbal:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 120-121)",
+        "responses": [
+            {
+                "text": "No es únicamente la manifestación de un estado interno, sino que tiene una finalidad comunicativa en la interacción con los demás.",
+                "correct": true
+            },
+            {
+                "text": "Es una manifestación más fiel de nuestros sentimientos e intenciones que el lenguaje verbal, porque es espontánea e incontrolable."
+            },
+            {
+                "text": "Tiene la ventaja de ser fácil de interpretar porque se compone de elementos universales e independientes del contexto."
+            }
+        ]
+    },
+    {
+        "text": "El proceso por el que incluimos en nuestro autoconcepto a otras personas cuando percibimos y aceptamos que pertenecemos a una misma categoría social se denomina:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Identificación social.",
+                "correct": true
+            },
+            {
+                "text": "Sociabilidad."
+            },
+            {
+                "text": "Interdependencia."
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que impulsa a sentirse especial, a aceptarse uno mismo y a desarrollar las propias capacidades es el motivo de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Pertenencia."
+            },
+            {
+                "text": "Potenciación personal.",
+                "correct": true
+            },
+            {
+                "text": "Confianza."
+            }
+        ]
+    },
+    {
+        "text": "La tendencia a responsabilizar a las víctimas:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Disminuye a medida que aumenta la gravedad de las consecuencias de ese suceso."
+            },
+            {
+                "text": "Aumenta a medida que aumenta la semejanza de los observadores con las víctimas."
+            },
+            {
+                "text": "Permite reducir la amenaza que supone creer que las cosas pueden ocurrir sin el control de la persona afectada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para que un mensaje resulte persuasivo y consiga cambiar las actitudes de las personas:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 276)",
+        "responses": [
+            {
+                "text": "En ocasiones basta con que el receptor se fije en unas cuantas claves presentes en el contexto y externas al mensaje.",
+                "correct": true
+            },
+            {
+                "text": "El receptor debe procesar de forma activa la información."
+            },
+            {
+                "text": "Es necesario que su contenido se comprenda y se recuerde."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas mentales y los ejemplares es FALSA?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 84-85)",
+        "responses": [
+            {
+                "text": "Lo más probable es que las personas utilicemos una mezcla de percepción por ejemplares y esquemas mentales en la cognición social."
+            },
+            {
+                "text": "Los esquemas mentales aportan una mayor flexibilidad en la cognición social que los ejemplares.",
+                "correct": true
+            },
+            {
+                "text": "Según el contexto, podemos activar diferentes subconjuntos de ejemplares para manejar una misma categoría social."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones recoge un aspecto que tienen en común los modelos de Fiske, de Levine y Kerr y de Richman y Leary sobre los motivos sociales?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 14-17)",
+        "responses": [
+            {
+                "text": "Los tres se basan en la idea de que la valoración negativa por parte de los demás produce en el individuo una batalla intrapsíquica entre las necesidades fundamentales."
+            },
+            {
+                "text": "Los tres modelos tipifican las respuestas que las personas dan para afrontar el ostracismo."
+            },
+            {
+                "text": "Los tres conceden una importancia primordial al motivo de pertenencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autodiscrepancia de Higgins, el impulso que nos motiva a modificar nuestra forma de ser es, principalmente, de naturaleza:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "Existencial."
+            },
+            {
+                "text": "Emocional.",
+                "correct": true
+            },
+            {
+                "text": "Cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "En comparación con las culturas colectivistas, en las culturas individualistas es más probable que las personas:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 56-57)",
+        "responses": [
+            {
+                "text": "Muestren un sesgo egocéntrico en sus atribuciones.",
+                "correct": true
+            },
+            {
+                "text": "Juzguen a los demás por sus afiliaciones."
+            },
+            {
+                "text": "Se definan a sí mismas en función de los roles que ocupan dentro del grupo."
+            }
+        ]
+    },
+    {
+        "text": "Después de un partido de fútbol, los miembros del equipo perdedor atribuyen el resultado a la actuación del árbitro y a la mala suerte, mientras que los del equipo vencedor lo explican por el buen juego que han realizado. Este sesgo es un ejemplo de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 155)",
+        "responses": [
+            {
+                "text": "Error último de atribución.",
+                "correct": true
+            },
+            {
+                "text": "Falso consenso."
+            },
+            {
+                "text": "Efecto “tercera persona”."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo o teoría de la persuasión centra la explicación de la persuasión en la valoración superficial que los receptores hacen de una serie de claves de persuasión externa, como, por ejemplo, las características estructurales del mensaje?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 273)",
+        "responses": [
+            {
+                "text": "El modelo del aprendizaje del mensaje."
+            },
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La táctica del pie en la puerta tiene mayor eficacia cuando:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 257)",
+        "responses": [
+            {
+                "text": "La misma persona realiza la segunda petición inmediatamente después de la primera."
+            },
+            {
+                "text": "Se etiqueta explícitamente al blanco de influencia como defensor/a de la causa.",
+                "correct": true
+            },
+            {
+                "text": "Pasa mucho tiempo entre la primera petición y la segunda."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes variables NO influye en la intensidad o fuerza de una actitud?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 207)",
+        "responses": [
+            {
+                "text": "La valencia de la actitud.",
+                "correct": true
+            },
+            {
+                "text": "El conocimiento del objeto de actitud."
+            },
+            {
+                "text": "La accesibilidad de la actitud."
+            }
+        ]
+    },
+    {
+        "text": "En relación con el proceso de inferencia, la perspectiva normativa del científico ingenuo:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 85-86)",
+        "responses": [
+            {
+                "text": "Es un modelo normativo que establece una secuencia de pasos que deben seguirse para realizar una inferencia correcta.",
+                "correct": true
+            },
+            {
+                "text": "Sostiene que la mayoría de las veces priorizamos la eficiencia sobre la exactitud cuando realizamos inferencias."
+            },
+            {
+                "text": "Explica cómo las personas hacen realmente las inferencias en su vida cotidiana."
+            }
+        ]
+    },
+    {
+        "text": "Tener una actitud negativa hacia un grupo social minoritario al que culpamos de alguno de nuestros males es un ejemplo de la función actitudinal:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 212-213)",
+        "responses": [
+            {
+                "text": "Instrumental."
+            },
+            {
+                "text": "De conocimiento."
+            },
+            {
+                "text": "Defensiva del yo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento del animal cultural:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 47-48)",
+        "responses": [
+            {
+                "text": "La cultura no es más que un barniz que modera nuestros impulsos innatos."
+            },
+            {
+                "text": "La naturaleza humana dejó de influir en nuestra mente y nuestra conducta con la aparición de la cultura."
+            },
+            {
+                "text": "La capacidad para la cultura es parte de la naturaleza humana.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si al ver a una persona sentimos miedo simplemente porque la etiquetamos como miembro de un grupo determinado, esta reacción de miedo sería un ejemplo de la influencia:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 104)",
+        "responses": [
+            {
+                "text": "De la ambivalencia actitudinal."
+            },
+            {
+                "text": "Del estado de ánimo sobre la cognición."
+            },
+            {
+                "text": "De la cognición sobre el estado de ánimo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El yo se puede describir como un conjunto de autoesquemas:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p.167)",
+        "responses": [
+            {
+                "text": "Que abarca creencias sobre uno mismo relativas a distintas dimensiones y facetas.",
+                "correct": true
+            },
+            {
+                "text": "Que son más imprecisos que los esquemas que tenemos sobre otras personas."
+            },
+            {
+                "text": "Que incluyen únicamente los rasgos de personalidad y las características que se aplican por igual en todos los contextos."
+            }
+        ]
+    },
+    {
+        "text": "Señale la frase correcta.:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 97)",
+        "responses": [
+            {
+                "text": "La mayor o menor automaticidad del pensamiento se sitúa a lo largo de un continuo.",
+                "correct": true
+            },
+            {
+                "text": "Los procesos preconscientes no afectan a la elaboración de juicios ni a la conducta."
+            },
+            {
+                "text": "Los procesos cognitivos automáticos y controlados son distintos e incompatibles entre sí."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la acción razonada, el principal factor psicológico que hay que predecir, como antecedente inmediato del comportamiento, es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 222)",
+        "responses": [
+            {
+                "text": "Las actitudes hacia la conducta."
+            },
+            {
+                "text": "La intención de conducta.",
+                "correct": true
+            },
+            {
+                "text": "El control percibido."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autopercepción (Bem, 1972), elaboramos nuestro autoconcepto:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p.181)",
+        "responses": [
+            {
+                "text": "Mediante la comparación social."
+            },
+            {
+                "text": "Reflexionando sobre nuestros pensamientos y estados psicológicos."
+            },
+            {
+                "text": "Observando nuestro comportamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la investigación de Barrón y Martínez-Íñigo (1999) sobre las atribuciones en una muestra de casados y divorciados se encontró:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 43 Cuaderno)",
+        "responses": [
+            {
+                "text": "Una relación positiva entre la atribución de sucesos positivos a la pareja y satisfacción en la muestra de personas divorciadas."
+            },
+            {
+                "text": "Que las personas divorciadas atribuían a factores internos de su pareja tanto los aspectos negativos, como los aspectos positivos de la relación."
+            },
+            {
+                "text": "Que las personas divorciadas atribuían los aspectos positivos de la relación a factores externos al otro miembro de la pareja.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La autoestima es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 183)",
+        "responses": [
+            {
+                "text": "Una actitud.",
+                "correct": true
+            },
+            {
+                "text": "Una autoatribución."
+            },
+            {
+                "text": "Un autoesquema."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones define más acertadamente a la Psicología Social como disciplina?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 4-5)",
+        "responses": [
+            {
+                "text": "Se centra prioritariamente en el análisis del contexto social."
+            },
+            {
+                "text": "Se ocupa de los procesos que tienen que ver con la capacidad y necesidad que tiene el ser humano de relacionarse con los demás.",
+                "correct": true
+            },
+            {
+                "text": "Aplica el sentido común de forma rigurosa para describir los fenómenos sociales de la vida cotidiana."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la disonancia cognitiva trata de explica:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 227)",
+        "responses": [
+            {
+                "text": "Cómo la conducta influye en las actitudes.",
+                "correct": true
+            },
+            {
+                "text": "Cómo se forman las actitudes."
+            },
+            {
+                "text": "Cómo las actitudes influyen en la conducta."
+            }
+        ]
+    },
+    {
+        "text": "Las investigaciones que se han ocupado de las explicaciones que las personas dan de fenómenos societales han encontrado que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 49 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Tanto las personas con ideología conservadora como las de ideología de izquierdas atribuyen la riqueza a causas internas.",
+                "correct": true
+            },
+            {
+                "text": "Las personas desempleadas tienden a atribuir el desempleo a causas sociales, mientras que los que tienen trabajo suelen atribuir el problema a características personales de los parados."
+            },
+            {
+                "text": "Hay más diferencias en cuanto a las atribuciones sobre las causas de la pobreza entre ricos y pobres que entre personas de distinta ideología."
+            }
+        ]
+    },
+    {
+        "text": "El congraciamiento es una estrategia de manejo de la impresión:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 129)",
+        "responses": [
+            {
+                "text": "Que se pone en marcha cuando una persona ensalza al perceptor para alterar a su favor el resultado del proceso perceptivo.",
+                "correct": true
+            },
+            {
+                "text": "Que consiste en alegar incapacidad por alguna causa externa para paliar los efectos negativos de algunos comportamientos propios y congraciarnos con el otro."
+            },
+            {
+                "text": "Que consiste en ensalzarse a uno mismo para presentarse ante el perceptor bajo una luz favorable."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes situaciones el efecto tercera persona se intensifica?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 100-101 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Cuando las recomendaciones del mensaje no se perciben como personalmente beneficiosas.",
+                "correct": true
+            },
+            {
+                "text": "Cuando el tema no es importante para la persona."
+            },
+            {
+                "text": "Cuando la comparación se hace con personas de nuestro grupo."
+            }
+        ]
+    }
+]

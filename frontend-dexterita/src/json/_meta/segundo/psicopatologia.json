@@ -1,0 +1,21 @@
+[
+  {
+    "id":"psicopato-20-jun-2p-1week",
+    "name":"Psicopatología",
+    "course":"Segundo",
+    "course_dg":"2",
+    "subject":"psicopatologia",
+    "year": 20,
+    "month": "june",
+    "rating": 20,
+    "questions": 30,
+    "plusScore": 0.33,
+    "minusScore": 0.17,
+    "minutes": 40,
+    "color":"#b7b583",
+    "slogan":"Junio 2020",
+    "verified": true,
+    "logo":"#logo19",
+    "keywords":["psicopatologia","product optimization","emulation"]
+  }
+]

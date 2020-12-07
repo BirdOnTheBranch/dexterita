@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Según la teoría de la acción razonada, el principal factor psicológico que hay que predecir, como antecedente inmediato del comportamiento, es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 222)",
+        "responses": [
+            {
+                "text": "El control percibido."
+            },
+            {
+                "text": "Las actitudes hacia la conducta."
+            },
+            {
+                "text": "La intención de conducta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento del animal cultural:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 47-48)",
+        "responses": [
+            {
+                "text": "La naturaleza humana dejó de influir en nuestra mente y nuestra conducta con la aparición de la cultura."
+            },
+            {
+                "text": "La cultura no es más que un barniz que modera nuestros impulsos innatos."
+            },
+            {
+                "text": "La capacidad para la cultura es parte de la naturaleza humana.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Tal como la entienden los psicólogos sociales, la interdependencia es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Un proceso psicológico por el que incluimos a los miembros del endogrupo en nuestro autoconcepto."
+            },
+            {
+                "text": "Una característica central de los grupos psicológicos que implica coordinación entre sus miembros.",
+                "correct": true
+            },
+            {
+                "text": "Un motivo social básico que nos impulsa a formar parte de un grupo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes medidas de actitudes se considera explícita?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 208)",
+        "responses": [
+            {
+                "text": "Diferencial semántico.",
+                "correct": true
+            },
+            {
+                "text": "Observación de conductas no verbales."
+            },
+            {
+                "text": "Electromiograma."
+            }
+        ]
+    },
+    {
+        "text": "Atribuir la causa de un fracaso propio a factores externos es un ejemplo de atribución:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Esencialista."
+            },
+            {
+                "text": "Autoensalzadora."
+            },
+            {
+                "text": "Autoprotectora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La variedad y complejidad del autoconcepto hacen necesario el uso de estrategias cognitivas para lograr la coherencia cuando existen discordancias entre elementos. De las siguientes opciones hay una que NO se relaciona con alguna de esas estrategias. ¿Cuál es?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 167-168 y 179-180)",
+        "responses": [
+            {
+                "text": "La organización del autoconocimiento en esquemas.",
+                "correct": true
+            },
+            {
+                "text": "Las atribuciones de la propia conducta a la situación."
+            },
+            {
+                "text": "El autoconcepto activo."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes afirmaciones el que la realiza expresa más claramente una actitud?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 204-206)",
+        "responses": [
+            {
+                "text": "Por su forma de hablar y comportarse, María se parece a la típica chica que estudia una carrera técnica, así que supongo que debe de estar matriculada en alguna de ellas."
+            },
+            {
+                "text": "Creo que las chicas que estudian carreras técnicas son muy inteligentes.",
+                "correct": true
+            },
+            {
+                "text": "María estudia Telecomunicaciones porque sus padres la han presionado para que elija esa carrera."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la comparación social:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 261, 182, 16)",
+        "responses": [
+            {
+                "text": "Necesitamos evaluar lo adecuado de nuestro comportamiento validándolo socialmente.",
+                "correct": true
+            },
+            {
+                "text": "El refuerzo negativo aumenta la probabilidad de que realicemos comparaciones sociales."
+            },
+            {
+                "text": "La disonancia tiene un origen cognitivo basado en la comparación."
+            }
+        ]
+    },
+    {
+        "text": "Señale uno de los resultados encontrados en el análisis del contenido de la programación televisiva, del estudio sobre indicadores culturales de Gerbner y sus colaboradores:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 108 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "La presencia de las mujeres sobrepasaba a la de los hombres en una proporción de tres a uno."
+            },
+            {
+                "text": "Se cultivaba el mito de la clase media como modelo del perfecto estadounidense.",
+                "correct": true
+            },
+            {
+                "text": "Las personas mayores de 65 años estaban más representadas de lo que les correspondería por su tasa en la población."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos referentes a la formación de impresiones, el enfoque de combinación lineal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 123-125)",
+        "responses": [
+            {
+                "text": "Plantea que los rasgos centrales influyen en el significado de los demás rasgos y organizan la imagen que tenemos del otro."
+            },
+            {
+                "text": "Considera que los rasgos que describen a una persona son independientes entre sí.",
+                "correct": true
+            },
+            {
+                "text": "Es aplicable sobre todo a situaciones en las que es necesario realizar un juicio rápido sobre otra persona."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuáles son los motivos sociales básicos especialmente relacionados con la cognición:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 106)",
+        "responses": [
+            {
+                "text": "Las metas de precisión y de dirección."
+            },
+            {
+                "text": "Pertenencia e intencionalidad."
+            },
+            {
+                "text": "Comprensión, control y confianza.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Observamos que Sergio siempre come el pastel de manzana de su abuela, así como cualquier otro pastel que se le ponga por delante. En términos del modelo de covariación de Kelley estamos observando:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 138-139)",
+        "responses": [
+            {
+                "text": "Alta consistencia y alta distintividad."
+            },
+            {
+                "text": "Baja consistencia y alto consenso."
+            },
+            {
+                "text": "Alta consistencia y baja distintividad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el momento de recuperar información que se tiene almacenada en la memoria, el estado emocional tiende a ser congruente con:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "La valencia (positiva o negativa) de la información.",
+                "correct": true
+            },
+            {
+                "text": "La atención selectiva."
+            },
+            {
+                "text": "El heurístico de representatividad;."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un psicólogo social tiene que explicar por qué una persona se comporta hacia otra de una determinada manera en un momento concreto, ¿en cuál de los siguientes factores se centra fundamentalmente?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 5-6)",
+        "responses": [
+            {
+                "text": "En los rasgos de personalidad de ese individuo."
+            },
+            {
+                "text": "En la influencia de los demás sobre sus procesos psicológicos.",
+                "correct": true
+            },
+            {
+                "text": "En la naturaleza biológica heredada del ser humano."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autodiscrepancia, las creencias que tenemos sobre cómo deberíamos ser forman el yo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 173)",
+        "responses": [
+            {
+                "text": "Ideal."
+            },
+            {
+                "text": "Potencial."
+            },
+            {
+                "text": "Responsable.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una diferencia entre esquemas sociales y ejemplares es que",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 84 y 85)",
+        "responses": [
+            {
+                "text": "No hay diferencia entre ambos en este sentido: tanto esquemas como ejemplares son elementos culturalmente compartidos."
+            },
+            {
+                "text": "Los ejemplares son compartidos por los miembros de una sociedad, mientras que los esquemas son construcciones individuales."
+            },
+            {
+                "text": "Los esquemas son compartidos por los miembros de una sociedad, mientras que los ejemplares son elaboraciones individuales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las hipótesis que se pueden derivar del estudio de López-Sáez y cols. (1997) sobre el efecto tercera persona es la siguiente:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 102 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Existirá una correlación negativa entre la influencia percibida en uno mismo y en otras personas."
+            },
+            {
+                "text": "Cuanto mayor sea la distancia respecto al grupo con el que se hace la comparación mayor será el efecto tercera persona.",
+                "correct": true
+            },
+            {
+                "text": "Se espera que exista un efecto tercera persona mayor en la percepción de influencia basada en la coherencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es el “efecto de sobrejustificación”?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 181)",
+        "responses": [
+            {
+                "text": "La tendencia a que las motivaciones intrínsecas disminuyan en aquellas actividades que se asocian con algún tipo de refuerzo externo.",
+                "correct": true
+            },
+            {
+                "text": "La tendencia a intentar justificar ante los demás nuestros actos, aunque seamos conscientes de que éstos hayan sido dañinos para los otros."
+            },
+            {
+                "text": "La tendencia a recordar mejor la información relevante para el autoconcepto que cualquier otro tipo de información."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos convencer a alguien de que haga algo utilizando la táctica del “pie en la puerta”, ¿cuál de las siguientes opciones nos funcionaría mejor?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 256-257)",
+        "responses": [
+            {
+                "text": "Hacer una petición inicial que no requiera mucho esfuerzo.",
+                "correct": true
+            },
+            {
+                "text": "Decir a la persona que es de las pocas que han accedido a esa primera petición."
+            },
+            {
+                "text": "Pagar a la persona para que acceda a la primera petición y así lograr su compromiso."
+            }
+        ]
+    },
+    {
+        "text": "El contexto social modela los procesos psicológicos y la conducta:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 57, 58 y 61)",
+        "responses": [
+            {
+                "text": "A través de la interpretación subjetiva que hacemos de él.",
+                "correct": true
+            },
+            {
+                "text": "Independientemente de los significados culturales."
+            },
+            {
+                "text": "A través del clima o de la densidad de población."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los conceptos que se enumeran debajo corresponde a la siguiente definición?: “Atajos mentales que utilizamos para simplificar la solución de problemas cognitivos complejos, transformándolos en operaciones más sencillas.”:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 88)",
+        "responses": [
+            {
+                "text": "Los ejemplares sociales."
+            },
+            {
+                "text": "Los scripts o guiones de acción."
+            },
+            {
+                "text": "Los heurísticos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La influencia de los demás:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 6-7)",
+        "responses": [
+            {
+                "text": "Es siempre unidireccional, ya que somos el blanco de la influencia de los demás."
+            },
+            {
+                "text": "No siempre es explícita.",
+                "correct": true
+            },
+            {
+                "text": "Tiene lugar únicamente cuando los demás interactúan con nosotros."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones describe un proceso básico para la formación del autoconcepto según la teoría de la categorización del yo?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 176)",
+        "responses": [
+            {
+                "text": "Determinar la similitud que tengo con unos individuos y la diferencia con otros.",
+                "correct": true
+            },
+            {
+                "text": "Resolver la divergencia cognitiva entre el yo-ideal y el yo-real."
+            },
+            {
+                "text": "Comparar la idea que tengo de mí mismo con la idea que tienen los demás."
+            }
+        ]
+    },
+    {
+        "text": "Habitualmente, cuando percibimos un estímulo social se da:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 119)",
+        "responses": [
+            {
+                "text": "Ambos tipos de procesamiento (abajo-arriba y arriba-abajo) simultáneamente.",
+                "correct": true
+            },
+            {
+                "text": "Únicamente un procesamiento abajo-arriba, y solo excepcionalmente un procesamiento arriba-abajo."
+            },
+            {
+                "text": "Únicamente un procesamiento arriba-abajo, y solo excepcionalmente un procesamiento abajo-arriba."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la respuesta cognitiva explica el proceso de cambio de actitudes poniendo el énfasis en",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 272-273)",
+        "responses": [
+            {
+                "text": "El número de automensajes generados por el receptor del mensaje persuasivo.",
+                "correct": true
+            },
+            {
+                "text": "El recuerdo del mensaje persuasivo por parte del receptor."
+            },
+            {
+                "text": "El empleo de heurísticos por parte del receptor."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referentes a la comparación entre las culturas individualistas y las colectivistas es cierta?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "En las culturas individualistas hay menos comunicación directa y explícita."
+            },
+            {
+                "text": "En las culturas individualistas hay más contacto físico."
+            },
+            {
+                "text": "En las culturas colectivistas hay más diferencias entre las conductas que se dirigen hacia miembros del endogrupo y las que se dirigen hacia miembros del exogrupo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El sesgo “primus inter pares” implica:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 64 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Un proceso de auto-ensalzamiento por el que la persona niega tener características negativas."
+            },
+            {
+                "text": "Exclusivamente un proceso de auto-ensalzamiento en el que la persona se atribuye características positivas."
+            },
+            {
+                "text": "Un proceso de comparación en el que la persona se ensalza en relación con los demás.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro de la hipótesis de la inteligencia social podemos distinguir dos versiones: la inteligencia social y la inteligencia maquiavélica. La versión de la inteligencia social:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 44)",
+        "responses": [
+            {
+                "text": "Parte de una perspectiva multinivel de la selección natural.",
+                "correct": true
+            },
+            {
+                "text": "No tiene en cuenta la supervivencia de los individuos hasta que estos puedan reproducirse."
+            },
+            {
+                "text": "Contempla la posibilidad de que los individuos cooperen con otros, pero no que manipulen a otros para obtener beneficios personales."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio emblemático para poner a prueba la teoría de la disonancia cognitiva, Festinger y Carlsmith (1959) comprobaron qué sucede cuando una persona se ve forzada a hacer algo en contra de su actitud. Teniendo en cuenta los resultados dentro del paradigma de la complacencia inducida, si a un adolescente no le gusta estudiar, ¿cuál de las siguientes conductas de los padres sería mejor para que cambiara de actitud hacia el estudio?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(p. 230-231)",
+        "responses": [
+            {
+                "text": "Darle 15 euros para la hucha cada vez que dedique una hora a estudiar."
+            },
+            {
+                "text": "Prometerle que se le regalará un juguete muy caro y deseado si estudia una hora diaria durante diez días."
+            },
+            {
+                "text": "Darle 1 euro para la hucha cada vez que dedique una hora a estudiar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de Ubillos y cols. (2003), la mayoría de la muestra atribuyó más probabilidad de mantener relaciones sexuales de riesgo al joven medio de su entorno que a sí mismos. Este resultado es un ejemplo de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 65-66 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Falso consenso."
+            },
+            {
+                "text": "Ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Efecto tercera persona invertido."
+            }
+        ]
+    }
+]

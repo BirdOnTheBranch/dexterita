@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Qué relación existe entre la psicología básica y la psicología aplicada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 124)",
+        "responses": [
+            {
+                "text": "Son complementarias.",
+                "correct": true
+            },
+            {
+                "text": "Son incompatibles."
+            },
+            {
+                "text": "Son correlacionadas."
+            }
+        ]
+    },
+    {
+        "text": "El enfoque psicodinámico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 88)",
+        "responses": [
+            {
+                "text": "Destaca la capacidad inherente del ser humano de tener libre voluntad y no estar bajo el control de factores internos y externos."
+            },
+            {
+                "text": "Considera que la conducta es impulsada por fuerzas instintivas, conflictos internos y motivos conscientes e inconscientes.",
+                "correct": true
+            },
+            {
+                "text": "Se centra en las influencias sociales y culturales que rodean a las personas y que tienen un considerable impacto en sus comportamientos."
+            }
+        ]
+    },
+    {
+        "text": "Etimológicamente la palabra psicología significa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 20)",
+        "responses": [
+            {
+                "text": "Filosofia de la mente."
+            },
+            {
+                "text": "Estudio empírico de los fenómenos de la mente."
+            },
+            {
+                "text": "Ciencia del alma.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los enfoques de la Psicología, ¿en qué se centra el enfoque cognitivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "En la conducta observable."
+            },
+            {
+                "text": "En el estudio del pensamiento y de todos los procesos de conocimiento.",
+                "correct": true
+            },
+            {
+                "text": "En la dinámica interior inconsciente de fuerzas internas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología se centra exclusivamente en el estudio de la conducta observable?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 72)",
+        "responses": [
+            {
+                "text": "El cognitivo."
+            },
+            {
+                "text": "El humanista."
+            },
+            {
+                "text": "El conductista.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los procesos psicológicos básicos, ¿cuáles son los procesos activadores?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 137)",
+        "responses": [
+            {
+                "text": "La motivación y la emoción.",
+                "correct": true
+            },
+            {
+                "text": "El aprendizaje y la memoria."
+            },
+            {
+                "text": "La atención y la percepción."
+            }
+        ]
+    },
+    {
+        "text": "La psicología científica se diferencia del resto de las psicologías en que éstas no utilizan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "El método científico.",
+                "correct": true
+            },
+            {
+                "text": "Los conocimientos no sistemáticos."
+            },
+            {
+                "text": "El pensamiento puramente racional."
+            }
+        ]
+    },
+    {
+        "text": "Al conjunto sistemático de hechos empíricos que se hallan integrados u ordenados de una manera específica, se le denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 55)",
+        "responses": [
+            {
+                "text": "Teoría."
+            },
+            {
+                "text": "Ciencia.",
+                "correct": true
+            },
+            {
+                "text": "Conocimiento."
+            }
+        ]
+    },
+    {
+        "text": "Kelley señaló que existen solo dos tipos de psicología. La psicología:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 48)",
+        "responses": [
+            {
+                "text": "Conductista y la psicología cognitiva."
+            },
+            {
+                "text": "Del sentido común y la psicología científica.",
+                "correct": true
+            },
+            {
+                "text": "Básica y la psicología aplicada."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología se centra en estudiar las relaciones entre la conducta y los mecanismos cerebrales, buscando las causas del comportamiento por la actividad de los genes, el cerebro y los sistemas nervioso y endocrino?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 82)",
+        "responses": [
+            {
+                "text": "Conductista."
+            },
+            {
+                "text": "Biológico.",
+                "correct": true
+            },
+            {
+                "text": "Cognitivo."
+            }
+        ]
+    },
+    {
+        "text": "¿Quién definió a la psicología como 'la ciencia de la vida mental, de sus fenómenos y de sus condiciones'?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 22)",
+        "responses": [
+            {
+                "text": "Harold Kelley."
+            },
+            {
+                "text": "Descartes."
+            },
+            {
+                "text": "William James.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué parte de la psicología científica se ocupa de la funcionalidad de la conducta y de los procesos mentales en los distintos ambientes en los que actúan los individuos, tanto de forma individual como colectiva, incluyendo además su dimensión patológica?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 130)",
+        "responses": [
+            {
+                "text": "La psicología cognitiva."
+            },
+            {
+                "text": "La psicología básica."
+            },
+            {
+                "text": "La psicología aplicada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes procesos psicológicos básicos pertenece al grupo de los procesos activadores?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 137)",
+        "responses": [
+            {
+                "text": "La atención."
+            },
+            {
+                "text": "La motivación.",
+                "correct": true
+            },
+            {
+                "text": "La percepción."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se manifiestan y registran siempre los hechos empíricos que utiliza la ciencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "Según la condición experimental de que se trate."
+            },
+            {
+                "text": "Siempre según las leyes de la fisica."
+            },
+            {
+                "text": "Siempre de la misma manera.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La psicología es una ciencia porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 35)",
+        "responses": [
+            {
+                "text": "Realiza un estudio empírico de los fenómenos de la mente."
+            },
+            {
+                "text": "Se centra principalmente en las experiencias internas de la conciencia."
+            },
+            {
+                "text": "Las conclusiones en las que se basa están de acuerdo con los principios del método científico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los psicólogos intentan descubrir las leyes generales que, de forma ordenada, pudieran explicar la diversidad de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Trastornos y enfermedades mentales que se producen en los humanos."
+            },
+            {
+                "text": "Sensaciones y pensamientos que se dan en el hombre."
+            },
+            {
+                "text": "Conductas en la actividad del ser humano.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología se ocupa de la dinámica interior inconsciente de fuerzas internas, conflictos y energía de los instintos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "El enfoque psicodinámico.",
+                "correct": true
+            },
+            {
+                "text": "El enfoque biológico."
+            },
+            {
+                "text": "El enfoque humanista."
+            }
+        ]
+    },
+    {
+        "text": "La principal diferencia que hay entre la psicología del sentido común y la psicología que realizan los psicólogos está en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "La importancia de los hechos que se tratan."
+            },
+            {
+                "text": "El método que utilizan para indagar los hechos.",
+                "correct": true
+            },
+            {
+                "text": "La veracidad de los hechos que se tratan."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué parte de la psicología científica utiliza el método experimental como método científico para estudiar la conducta y los procesos mentales, haciendo especial hincapié en el conocimiento de los procesos psicológicos básicos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 133,134)",
+        "responses": [
+            {
+                "text": "La psicología dinámica."
+            },
+            {
+                "text": "La psicología aplicada."
+            },
+            {
+                "text": "La psicología básica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Quiénes fueron los principales promotores del enfoque humanista?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "Watson y Thorndike."
+            },
+            {
+                "text": "Rogers y Maslow.",
+                "correct": true
+            },
+            {
+                "text": "Freud y Jung."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología se centra en el estudio del pensamiento y en los procesos de conocimiento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "El enfoque cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "El enfoque psicodinámico."
+            },
+            {
+                "text": "El enfoque humanista."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué entendemos por procesos psicológicos básicos?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 135)",
+        "responses": [
+            {
+                "text": "Son aquellos conocimientos psicológicos que representan a la mayoría de los procesos mentales.",
+                "correct": true
+            },
+            {
+                "text": "Son aquellos estados psicológicos ordenados por un procedimiento determinado y adecuado que permita relacionar los hechos entre sí."
+            },
+            {
+                "text": "Son los pasos necesarios y suficientes para llevar a cabo una investigación experimental o básica."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología se centra en la tarea de determinar la importancia relativa de los factores genéticos y la experiencia en relación con aspectos específicos de la conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 104)",
+        "responses": [
+            {
+                "text": "El enfoque biológico."
+            },
+            {
+                "text": "El enfoque evolucionista.",
+                "correct": true
+            },
+            {
+                "text": "El enfoque conductista."
+            }
+        ]
+    },
+    {
+        "text": "Las normas que utiliza la psicología científica y que implican el compromiso del investigador son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 64)",
+        "responses": [
+            {
+                "text": "La subjetividad, la incertidumbre y la destreza."
+            },
+            {
+                "text": "La certeza, la validez y la creencia."
+            },
+            {
+                "text": "La objetividad, la exactitud y el escepticismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los psicólogos cognitivos definen la 'psicología' como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 24)",
+        "responses": [
+            {
+                "text": "La ciencia de la vida mental, de sus fenómenos y de sus condiciones."
+            },
+            {
+                "text": "El estudio empírico de los fenómenos de la mente."
+            },
+            {
+                "text": "La ciencia del comportamiento y de los procesos mentales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La psicología científica se distingue del resto de las psicologías en que éstas no utilizan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "El método científico.",
+                "correct": true
+            },
+            {
+                "text": "El sentido común."
+            },
+            {
+                "text": "Un procedimiento de carácter puramente racional."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología considera que la conducta es impulsada por fuerzas instintivas, conflictos internos y motivos conscientes e inconscientes?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p.88)",
+        "responses": [
+            {
+                "text": "El cognitivo."
+            },
+            {
+                "text": "El humanista."
+            },
+            {
+                "text": "El psicodinámico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque de la psicología destaca la capacidad inherente del hombre de tener libre voluntad y no estar bajo control de los factores internos y externos? El enfoque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 99)",
+        "responses": [
+            {
+                "text": "Humanista.",
+                "correct": true
+            },
+            {
+                "text": "Sociocultural."
+            },
+            {
+                "text": "Psicodinámico."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes procesos psicológicos básicos pertenece al grupo de los procesos cognitivos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 138)",
+        "responses": [
+            {
+                "text": "El aprendizaje.",
+                "correct": true
+            },
+            {
+                "text": "La motivación."
+            },
+            {
+                "text": "La emoción."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denominan aquellos conocimientos psicológicos que representan al conjunto de los procesos mentales? Procesos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 135)",
+        "responses": [
+            {
+                "text": "Psicológicos básicos.",
+                "correct": true
+            },
+            {
+                "text": "Conscientes e inconscientes."
+            },
+            {
+                "text": "Externos e internos."
+            }
+        ]
+    }
+]

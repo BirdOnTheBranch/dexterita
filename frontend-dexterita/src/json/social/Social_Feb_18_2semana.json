@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En el año 2012 una banda de falsos jeques hizo creer al Getafe que estaba interesado en comprar su club de fútbol. Para hacer creer a los dirigentes que tenían un alto tren de vida iban a las reuniones con coches de alta gama (en realidad alquilados por horas). ¿En qué principio de influencia se basaba este timo?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 267)",
+        "responses": [
+            {
+                "text": "Simpatía."
+            },
+            {
+                "text": "Reciprocidad."
+            },
+            {
+                "text": "Autoridad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el enfoque de “configuración gestáltica” de Asch sobre formación de impresiones, un rasgo es central si:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 122)",
+        "responses": [
+            {
+                "text": "Tiene un significado concreto."
+            },
+            {
+                "text": "Influye en el significado de los demás rasgos.",
+                "correct": true
+            },
+            {
+                "text": "No tiene mayor impacto que los demás rasgos en la configuración de la impresión final. "
+            }
+        ]
+    },
+    {
+        "text": "Señale la alternativa FALSA sobre los estudios correlacionales:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 26-29)",
+        "responses": [
+            {
+                "text": "Permiten estudiar cómo covarían al mismo tiempo dos o más variables."
+            },
+            {
+                "text": "Permiten establecer relaciones de causa-efecto.",
+                "correct": true
+            },
+            {
+                "text": "Las correlaciones se expresan matemáticamente en coeficientes de correlación."
+            }
+        ]
+    },
+    {
+        "text": "Un viernes estrenan en la cartelera española una película de mucho éxito con el siguiente slogan: “Numero 1 en USA”. ¿En qué principio de influencia se basaría este slogan publicitario?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 262)",
+        "responses": [
+            {
+                "text": "Validación social.",
+                "correct": true
+            },
+            {
+                "text": "Compromiso y coherencia."
+            },
+            {
+                "text": "Reciprocidad."
+            }
+        ]
+    },
+    {
+        "text": "Señale el aspecto que tienen en común la territorialidad y la distancia interpersonal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 59-60)",
+        "responses": [
+            {
+                "text": "Son los dos extremos de una de las dimensiones culturales de Hofstede. "
+            },
+            {
+                "text": "Se refieren a espacios que tienen límites físicos fijos y claramente definidos."
+            },
+            {
+                "text": "Son dos mecanismos dirigidos a regular la privacidad y la interacción con otras personas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El concepto de “cultura evocada” introducido por los psicólogos evolucionistas se refiere a:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 15 del Cuaderno de Investigación, Cuadro 1.2) ",
+        "responses": [
+            {
+                "text": "La activación de diferentes mecanismos psicológicos heredados según las condiciones concretas del medio físico y social.",
+                "correct": true
+            },
+            {
+                "text": "La transmisión de elementos culturales de una generación a la siguiente."
+            },
+            {
+                "text": "La única explicación posible de las diferencias entre culturas y de las semejanzas intra-culturales."
+            }
+        ]
+    },
+    {
+        "text": "Cuanto más intensa es una actitud:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 207) ",
+        "responses": [
+            {
+                "text": "Más difícil será su activación."
+            },
+            {
+                "text": "Más resistente será al cambio.",
+                "correct": true
+            },
+            {
+                "text": "Menos se polarizará la respuesta."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se dice que el ideal de hombre y de mujer ha cambiado mucho en España durante el último siglo, se está haciendo referencia a los términos hombre y mujer desde el punto de vista de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 21 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "El sexo."
+            },
+            {
+                "text": "El género.",
+                "correct": true
+            },
+            {
+                "text": "El efecto del falso consenso."
+            }
+        ]
+    },
+    {
+        "text": "Cuando los resultados de una acción son positivos, ¿qué patrón de atribuciones será más frecuente?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 146)",
+        "responses": [
+            {
+                "text": "El actor hace más atribuciones externas que internas y lo contrario sucede con el observador."
+            },
+            {
+                "text": "El observador hace menos atribuciones personales que si el resultado es negativo."
+            },
+            {
+                "text": "El actor hace más atribuciones personales y menos situacionales que si el resultado es negativo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el enfoque de la teoría de los roles sociales, las diferencias en la conducta social de hombres y mujeres:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 4 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Suelen asociarse con actitudes de sexismo hostil."
+            },
+            {
+                "text": "Deberían ser menores en sociedades más igualitarias.",
+                "correct": true
+            },
+            {
+                "text": "Se deben a una asignación arbitraria de roles distintos a los dos sexos."
+            }
+        ]
+    },
+    {
+        "text": "Acerca de las diferencias entre esquemas y ejemplares, seleccione la alternativa que es FALSA:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 80 y 84)",
+        "responses": [
+            {
+                "text": "El esquema es una estructura de conocimiento. Los ejemplares no son una estructura de conocimiento.",
+                "correct": true
+            },
+            {
+                "text": "Los esquemas son conocimientos más abstractos, en cambio, los ejemplares son conocimientos más concretos."
+            },
+            {
+                "text": "Los esquemas son una especie de teorías. Los ejemplares no conforman una teoría acerca del mundo."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la selección natural y de la selección sexual:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 25 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Habrá diferencias entre hombres y mujeres tanto en cuanto a los sucesos que activan los celos como en cuanto a la intensidad de los celos experimentados."
+            },
+            {
+                "text": "No habrá diferencias entre hombres y mujeres en cuanto a los sucesos que activan los celos, pero sí en cuanto a la intensidad de los celos experimentados."
+            },
+            {
+                "text": "No habrá diferencias entre hombres y mujeres en cuanto a la intensidad de los celos experimentados, pero sí en cuanto a los sucesos que activan los celos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si nos categorizamos a nosotros mismos en el nivel más general de abstracción posible, ¿cuál de las siguientes frases utilizaríamos para describirnos?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 176)",
+        "responses": [
+            {
+                "text": "Soy un individuo único y diferente a otras personas."
+            },
+            {
+                "text": "Soy miembro de un grupo nacional determinado."
+            },
+            {
+                "text": "Soy un ser humano diferente a otras especies animales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La afirmación “los efectos obtenidos en los experimentos sobre disonancia cognitiva son resultado de un proceso de atribución sobre la propia conducta y no de un cambio de actitudes producido por la motivación para reducir el malestar psicológico” es característica de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 234) ",
+        "responses": [
+            {
+                "text": "La New Look de la disonancia."
+            },
+            {
+                "text": "La teoría de la consistencia del yo."
+            },
+            {
+                "text": "La teoría de la autopercepción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el análisis ingenuo de la conducta de Heider, el grado de responsabilidad del actor con capacidad y motivación, pero llevado por la fuerza de la situación, es de :",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 134) ",
+        "responses": [
+            {
+                "text": "Justificabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Intencionalidad."
+            },
+            {
+                "text": "Imprevisión."
+            }
+        ]
+    },
+    {
+        "text": "El término «continuidad evolutiva» de Darwin supone que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 40)",
+        "responses": [
+            {
+                "text": "La evolución es un progreso lineal, por lo que, en sentido evolutivo, todas las especies no son igual de perfectas."
+            },
+            {
+                "text": "Todas las especies proceden de un tronco común, y la evolución es un progreso lineal."
+            },
+            {
+                "text": "Todas las especies actuales proceden de un tronco común, y han evolucionado a partir de especies ancestrales por un proceso de selección natural.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En las zonas céntricas de las grandes ciudades hay captadores de ONGs que tratan de que nos hagamos socios de diferentes asociaciones. Normalmente nos dicen que podemos ayudar incluso con cuotas muy pequeñas. ¿En qué principio de influencia se basarían este tipo de discursos?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 258)",
+        "responses": [
+            {
+                "text": "Compromiso y coherencia.",
+                "correct": true
+            },
+            {
+                "text": "Escasez."
+            },
+            {
+                "text": "Reciprocidad."
+            }
+        ]
+    },
+    {
+        "text": "Tener en cuenta la información que aporta el estado emocional en el momento en que tomamos una decisión es uno de los mecanismos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 102)",
+        "responses": [
+            {
+                "text": "Del modelo de infusión del afecto",
+                "correct": true
+            },
+            {
+                "text": "De la correlación ilusoria."
+            },
+            {
+                "text": "Del efecto Pigmalión."
+            }
+        ]
+    },
+    {
+        "text": "El condicionamiento de las actitudes, o condicionamiento evaluativo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 215-216) ",
+        "responses": [
+            {
+                "text": "Nunca puede producirse por una única asociación."
+            },
+            {
+                "text": "No requiere que la persona sea consciente de la asociación entre el estímulo incondicionado y el condicionado.",
+                "correct": true
+            },
+            {
+                "text": "Implica procesos que son exactamente iguales que los del condicionamiento clásico."
+            }
+        ]
+    },
+    {
+        "text": "La denominada “cognición fría” se ha caracterizado por:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 76-77)",
+        "responses": [
+            {
+                "text": "Centrarse en los procesos de influencia mutua del afecto y la cognición."
+            },
+            {
+                "text": "Incorporar los factores emocionales al estudio de la cognición social."
+            },
+            {
+                "text": "Prestar especial atención a los procesos de razonamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referentes a los principios básicos en los que se basa la Psicología Social es correcta?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 7-8)",
+        "responses": [
+            {
+                "text": "El procesamiento mental intuitivo ocurre con poca frecuencia en las situaciones sociales, y cuando ocurre suele ser perjudicial."
+            },
+            {
+                "text": "La construcción de la realidad es incompatible con el pensamiento no racional porque requiere una elaboración cuidadosa y consciente."
+            },
+            {
+                "text": "La influencia de los demás en nuestra forma de pensar, sentir y actuar se produce a través de nuestra interpretación de la realidad social.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las siguientes afirmaciones se refieren a las diferencias entre los procesos que se encuentran en la base del desarrollo de nuestro autoconcepto y la formación de las impresiones sobre los otros. ¿Cuál de ellas es correcta?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 167)",
+        "responses": [
+            {
+                "text": "Los procesos cognitivos involucrados en los dos tipos de conocimiento son totalmente diferentes, ya que en un caso el objeto de conocimiento es uno mismo y en el otro el objeto son los otros."
+            },
+            {
+                "text": "Los procesos cognitivos son exactamente iguales: no hay diferencias."
+            },
+            {
+                "text": "El conocimiento que tenemos sobre nosotros mismos es mucho mayor que el que tenemos sobre los otros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Baumeister acuña la etiqueta “animal cultural” frente a la etiqueta “animal social” para enfatizar que, a diferencia de otras especies, la especie humana:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "Depende de la cultura para sobrevivir.",
+                "correct": true
+            },
+            {
+                "text": "No se puede considerar, en sentido estricto, un “animal social”."
+            },
+            {
+                "text": "Es la única que ha desarrollado cultura."
+            }
+        ]
+    },
+    {
+        "text": "Una campaña del gobierno sobre prevención de uso de drogas en adolescentes utiliza una imagen del “antes” y otra del “después” del consumo. Las últimas imágenes son especialmente impactantes porque aparecen rostros de adolescentes demacrados mientras una voz en off relata las terribles consecuencias que tienen para la salud las drogas (suministrando datos sobre muertes por sobredosis). ¿Para qué tipo de persona será más eficaz esta de campaña?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 280)",
+        "responses": [
+            {
+                "text": "Para personas con baja autoestima."
+            },
+            {
+                "text": "Para personas con alta autoestima.",
+                "correct": true
+            },
+            {
+                "text": "Para personas con baja autoeficacia. "
+            }
+        ]
+    },
+    {
+        "text": "Señale el heurístico que explica la siguiente reacción: “Con frecuencia, los atletas que consiguen la medalla de plata experimentan más frustración que los que consiguen la de bronce”:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 92, cuadro 3.7)",
+        "responses": [
+            {
+                "text": "Correlación ilusoria."
+            },
+            {
+                "text": "Heurístico de simulación.",
+                "correct": true
+            },
+            {
+                "text": "Heurístico de anclaje y ajuste."
+            }
+        ]
+    },
+    {
+        "text": "Considere la siguiente afirmación y elija la opción de respuesta correcta: “La teoría de la autodiscrepancia de Higgins concede especial importancia al factor social en los esquemas del yo, ya que incorpora la presencia imaginada de los otros en la representación mental que la persona tiene de ella misma”:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 173)",
+        "responses": [
+            {
+                "text": "La afirmación es falsa, ya que esta teoría contempla el efecto de la presencia real (no imaginada) de los otros en el autoconcepto."
+            },
+            {
+                "text": "La afirmación es falsa, ya que esta teoría se refiere a cómo nos vemos a nosotros mismos y no a cómo nos ven los demás, por lo que no incorpora la presencia de los otros."
+            },
+            {
+                "text": "La afirmación es verdadera.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Kelley, el esquema de causas múltiples necesarias se utilizará si:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 140)",
+        "responses": [
+            {
+                "text": "El perceptor es consciente de que determinado efecto solo se puede producir si hay dos o más causas presentes.",
+                "correct": true
+            },
+            {
+                "text": "El efecto observado se puede explicar por más de una causa, pero cualquiera de ellas bastaría para que se hubiera producido."
+            },
+            {
+                "text": "El perceptor dispone de la información proveniente de diversas fuentes que le permitan inferir la causa a partir de la covariación de esa información con el efecto."
+            }
+        ]
+    },
+    {
+        "text": "Desde la perspectiva de la selección multinivel, un alto grado de coordinación entre individuos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 44)",
+        "responses": [
+            {
+                "text": "Es la única fuente que proporciona una ventaja adaptativa en la especie humana."
+            },
+            {
+                "text": "Es más importante para la supervivencia de la especie humana que la capacidad de competir."
+            },
+            {
+                "text": "Proporciona a los grupos una ventaja para la supervivencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina el efecto por el cual las motivaciones extrínsecas hacen disminuir poco a poco la importancia que las motivaciones intrínsecas tienen para explicar la propia conducta?  :",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 181)",
+        "responses": [
+            {
+                "text": "Efecto de despersonalización."
+            },
+            {
+                "text": "Efecto inhibitorio extrínseco."
+            },
+            {
+                "text": "Efecto de sobrejustificación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de Richman y Leary, los sentimientos heridos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "(p. 17)",
+        "responses": [
+            {
+                "text": "Dan como resultado una percepción de amenaza a la necesidad de pertenencia."
+            },
+            {
+                "text": "Ocurren justo después de una experiencia de rechazo y suelen ir acompañados de un descenso de la autoestima.",
+                "correct": true
+            },
+            {
+                "text": "Son una mezcla de diversas emociones negativas provocadas por eventos interpersonales negativos."
+            }
+        ]
+    }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "text": "La Etología se interesa por",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Los patrones aprendidos de conducta" },
+      { "text": "La conducta tal y como la emite un animal vivo únicamente en una situación experimental de laboratorio "},
+      { "text": "Los patrones conductuales que los individuos despliegan para sobrevivir y/o reproducirse ", "correct": true },
+      { "text": "Todas las anteriores son ciertas" }
+    ]
+  },
+  {
+    "text": "Para la Psicobiología , la naturaleza humana es una consecuencia de...",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "La ontogenia y de la actividad del sistema nervioso (SN)" },
+      { "text": "La filogenia y de la actividad del sistema nervioso (SN)", "correct": true },
+      { "text": "La interactuación de factores genéticos" },
+      { "text": "Ninguna de las anteriores" }
+    ]
+  },
+  {
+    "text": "El objetivo de la Psicobiología es..",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "El estudio del comportamiento humano y los procesos mentales que la subyacen", "correct": true  },
+      { "text": "El estudio del comportamiento humano sin tener en cuenta los factores mentales que la subyacen"},
+      { "text": "El estudio de las relaciones entre genética y los factores mentales" },
+      { "text": "El estudio de los factores mentales" }
+    ]
+  },
+  {
+    "text": "La psicobiología se diferencia del resto de las disciplinas psicológicas y biológicas por:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "El estudio pormenorizado de la genética" },
+      { "text": "Dar máxima relevancia al sustrato biológico que hace posible el comportamiento y los procesos mentales", "correct": true },
+      { "text": "Lo complicado de su metodología no científica" },
+      { "text": "Ninguna de las anteriores" }
+    ]
+  },
+  {
+    "text": "La teoría de la polarización dinámica de la neurona pertenece a",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Santiago Ramón y Cajal", "correct": true },
+      { "text": "William James" },
+      { "text": "Iván Paulov" },
+      { "text": "Martin E.P. Seligman" }
+    ]
+  },
+  {
+    "text": "Funda el conductismo",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Iván Paulov" },
+      { "text": "Eduard Thorndike" },
+      { "text": "John B. Watson", "correct": true },
+      { "text": "Skinner" }
+    ]
+  },
+  {
+    "text": "Para la Psicobiología, al igual que para la Psicología científica, la naturaleza humana es:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Teoría, investigación y aplicación de las estadísticas" },
+      { "text": "Consecuencia de la ontogenia y de la actividad de nuestro sistema nervioso (SN)" },
+      { "text": "Teoría, investigación y aplicación de la vida cotidiana" },
+      { "text": "Consecuencia de la filogenia y de la actividad de nuestro sistema nervioso (SN)", "correct": true }
+    ]
+  },
+  {
+    "text": "El marco de referencia para estudiar y comprender el comportamiento humano, es el construido a partir de todos aquellos conocimientos alcanzados mediante",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "El uso del método científico", "correct": true },
+      { "text": "La recopilación de conocimientos del saber popular" },
+      { "text": "La aplicación de la vida cotidiana" },
+      { "text": "Todas las respuestas son verdaderas" }
+    ]
+  },
+  {
+    "text": "Para la Psicobiología, el comportamiento es",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Una función exclusiva del estímulo" },
+      { "text": "El conjunto de las acciones emitidas por un organismo aunque éstas no puedan ser cuantificadas" },
+      { "text": "El conjunto de acciones observables de un organismo emitidas en respuesta a un estímulo en una relación activa con el medio en que vive", "correct": true },
+      { "text": "La propiedad biológica del organismo que no está sujeta a las leyes de la evolución" }
+    ]
+  },
+  {
+    "text": "La Psicobiología del Desarrollo",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Intenta explicar los cambios que se producen durante el desarrollo de la conducta únicamente mediante la intervención sobre el SN" },
+      { "text": "Tiene como objetivo principal estudiar cómo las influencias genéticas afectan a la conducta" },
+      { "text": "Se centra en el estudio de las causas próximas del comportamiento", "correct": true },
+      { "text": "Estudia las conductas de diversas especies animales en condiciones naturales" }
+    ]
+  },
+  {
+    "text": "En un estudio realizado por Noaghiul et al. (2004), recogiendo datos de una amplia muestra, pusieron de manifiesto que las personas que consumen una dieta rica en ácidos grasos poliinsaturados tienen menos riesgo de padecer trastorno bipolar. ¿Qué tipo de contrastación empírica se ha llevado a cabo en este estudio?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Método de encuestas" },
+      { "text": "Intervención conductual" },
+      { "text": "Contrastación observacional", "correct": true },
+      { "text": "Intervención somática" }
+    ]
+  },
+  {
+    "text": "Cuando se trata de comprobar la eficacia de un nuevo fármaco para el tratamiento de la depresión humana, los laboratorios han de realizar pruebas con sujetos humanos. En el caso que nos ocupa se formaron cuatro grupos de pacientes, de los que el grupo 1 recibió el tratamiento con el nuevo fármaco, el grupo 2 fue tratado con el fármaco habitual, el grupo tres recibió psicoterapia y al grupo 4 se le administró el placebo (unas píldoras que sólo contienen excipiente: glucosa y otros compuestos inocuos en todos los sentidos). Los resultados fueron alentadores porque el nuevo fármaco demostró ser significativamente más eficaz que la psicoterapia y que el placebo. A partir de lo dicho podemos afirmar que se trata de una investigación",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Correlacional" },
+      { "text": "Analógica" },
+      { "text": "Observacional"},
+      { "text": "Experimental", "correct": true }
+    ]
+  },
+  {
+    "text": "Respecto a las estrategias de contrastación utilizadas por la Psicobiología en la explicación de la conducta, se sabe que",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "En la contrastación observacional, la conducta actúa como variable independiente" },
+      { "text": "En la intervención conductual, el SN u organismo actúa como variable independiente" },
+      { "text": "La intervención somática implica una contrastación experimental en la que la conducta actúa como variable dependiente", "correct": true },
+      { "text": "Tanto en las contrastaciones experimentales como en las observacionales existe una variable dependiente y otra independiente" }
+    ]
+  },
+  {
+    "text": "¿Cuál de las siguientes frases NO refleja una característica de la Psicobiología?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Su objeto de estudio es el comportamiento" },
+      { "text": "La investigación en esta área utiliza animales de laboratorio" },
+      { "text": "Mantiene una postura dualista: mente y cuerpo son entidades separadas", "correct": true },
+      { "text": "Considera que las características de un organismo, incluida su conducta, tienen un significado funcional" }
+    ]
+  },
+  {
+    "text": "En un estudio llevado a cabo por S. Hanann et al. (2006) con técnicas de neuroimagen se ha demostrado que cuando se presentan los mismos estímulos visuales eróticos se activan más la amígdala y el hipotálamo en los hombres que en las mujeres ¿Cuál es la estrategia de investigación seguida?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Aproximación correlacional" },
+      { "text": "Contrastación observacional" },
+      { "text": "Intervención conductual", "correct": true },
+      { "text": "Intervención somática" }
+    ]
+  },
+  {
+    "text": "En el marco de la explicación biológica de la conducta, los períodos críticos se relacionan con",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Las etapas en las que está en juego la supervivencia del individuo" },
+      { "text": "Los efectos poco reversibles que experimenta el sistema nervioso en etapas perinatales de máxima susceptibilidad", "correct": true },
+      { "text": "Un gran aumento de plasticidad del sistema nervioso" },
+      { "text": "Las fases del desarrollo en las que el sistema nervioso es refractario a cualquier factor epigenético" }
+    ]
+  },
+  {
+    "text": "¿Qué disciplina de la Psicobiología centra su interés en el estudio de los procesos psicológicos superiores en humanos?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Ecología del comportamiento" },
+      { "text": "Psicología del pensamiento" },
+      { "text": "Psicobiología superior"},
+      { "text": "Neurociencia cognitiva", "correct": true }
+    ]
+  },
+  {
+    "text": "La teoría de la evolución por selección natural avala",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "El uso de animales como modelos para comprender el comportamiento humano", "correct": true },
+      { "text": "La utilización de tests para pronosticar la conducta humana" },
+      { "text": "La idea de que la conducta no tiene nada que ver con la adaptación biológica, al menos en el especie humana" },
+      { "text": "El dato de que la especie humana es fruto de una creación divina especial, diferente de la de los demás seres vivos" }
+    ]
+  },
+  {
+    "text": "En una de sus investigaciones, el equipo del Dr. Ambrosio administra a ratas de la raza Fischer 344 dosis controladas de heroína para evaluar distintas variables comportamentales relacionadas con la adicción a esta droga ¿Qué tipo de estrategia está realizando del Dr. Ambrosio y su equipo?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Una intervención observacional" },
+      { "text": "Una aproximación correlacional" },
+      { "text": "Una intervención conductual" },
+      { "text": "Una intervención somática", "correct": true }
+    ]
+  },
+  {
+    "text": "Dentro del marco de referencia para estudiar y comprender el comportamiento humano, la conducta y los procesos mentales que la sustentan, son considerados como hechos",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Positivos, subjetivos, verificables y replicables" },
+      { "text": "Objetivos, verificables, susceptibles de ser cuantificados y observables" },
+      { "text": "Positivos, objetivos, verificables y susceptibles de ser cuantificados", "correct": true },
+      { "text": "Cuantificables, observables e introspectivos" }
+    ]
+  },
+  {
+    "text": "'Todos los intentos de discernir la naturaleza humana anteriores a 1859 carecen de valor y sería mejor ignorarlos totalmente'. Esta afirmación, es atribuible a un fragmento de “Biology and Man”, de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Martin Seligman" },
+      { "text": "W. Wundt" },
+      { "text": "Frederick Burrus Skinner" },
+      { "text": "G.G. Simpson", "correct": true  }
+    ]
+  },
+  {
+    "text": "Para conocer la naturaleza humana debe encuadrarse al hombre en el contexto creado por",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "La teoría de la evolución", "correct": true },
+      { "text": "La corriente conductista de Watson" },
+      { "text": "El psicoanálisis de Freud" },
+      { "text": "Todas las respuestas son erróneas" }
+    ]
+  },
+  {
+    "text": "La inyección de un fármaco para realizar una alteración en el SN forma parte de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "La intervención somática", "correct": true },
+      { "text": "La intervención conductual" },
+      { "text": "La observación conductual" },
+      { "text": "Ninguna de las anteriores" }
+    ]
+  },
+  {
+    "text": "Las lesiones que se producen para modificar distintas regiones del SN forman parte de",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "La intervención somática", "correct": true },
+      { "text": "La intervención conductual" },
+      { "text": "La corriente fisiconductista" },
+      { "text": "El conductismo" }
+    ]
+  },
+  {
+    "text": "Cuando un animal es introducido en una caja de Skinner y conectado a una bomba de infusión que permite la autoadministración de morfina mediante un catéter situado en la vena yugular una vez implantado un programa de condicionamiento , se está realizando una intervención",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Conductual" },
+      { "text": "Somática" },
+      { "text": "Conductual y somática", "correct": true },
+      { "text": "Operante" }
+    ]
+  },
+  {
+    "text": "Intervención somática",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "VI organismo SN, VD conducta", "correct": true },
+      { "text": "VI conducta, VD organismo  SN" },
+      { "text": "VI conducta, VD organismo SNP" },
+      { "text": "VI organismo SN, VD organismo SNP" }
+    ]
+  },
+  {
+    "text": "Etapas seguidas en el método científico",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Observación, hipótesis, contrastación, experimentación/observación, leyes, teorías", "correct": true },
+      { "text": "Observación, hipótesis, contrastación, experimentación/observación, teorías, leyes" },
+      { "text": "Observación, teorías, hipótesis, contrastación, experimentación/observación, leyes" },
+      { "text": "Observación, hipótesis ,inducción, experimentación/observación, leyes, teorías" }
+    ]
+  },
+  {
+    "text": "La filosofía mantuvo estancado bajo una férrea tutela el estudio de la naturaleza humana hasta finales del siglo XIX, momento extraordinario en el que, por un lado, se da a conocer al mundo",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "El dualismo cartesiano y el conductismo" },
+      { "text": "El dualismo cartesiano y las leyes de la evolución" },
+      { "text": "La teoría de la evolución y por otro lado la teoría neuronal", "correct": true },
+      { "text": "Todas las respuestas son erróneas" }
+    ]
+  },
+  {
+    "text": "Las diferencias en relación a las capacidades mentales del hombre y otros animales son solo de grado y no de clase, es decir que, si bien el hombre tiene determinadas facetas sobresalientes en comparación con otros seres vivos, éstas se apuntan, ya existen en otros animales en mayor o menor medida según la proximidad filogenética a nosotros. Pertenece a la obra de Darwin",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "La fecundación de las orquídeas" },
+      { "text": "El origen de las especies" },
+      { "text": "La expresión de las emociones en el hombre y los animales" },
+      { "text": "El origen del hombre y la selección en relación al sexo", "correct": true }
+    ]
+  },
+  {
+    "text": "'La asociación de estímulos condicionados e incondicionados depende de la historia evolutiva del aparato sensorial motriz y asociativo de la especie en cuestión y que por tanto las leyes del aprendizaje varían de una situación a otra de acuerdo con la preparación del organismo'. Esta frase es atribuible a:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Martin Seligman", "correct": true },
+      { "text": "W. Wundt" },
+      { "text": "Frederick Burrus Skinner" },
+      { "text": "G.G. Simpson" }
+    ]
+  }
+]

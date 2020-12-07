@@ -1,0 +1,725 @@
+[
+    {
+        "text": "Mientras usted realiza este examen, las bombas electrogénicas de sodio-potasio de sus neuronas están activas, lo que supone un consumo de la molécula energética adenosín trifosfato (ATP). ¿Qué porcentaje aproximado de consumo de ATP representa respecto a la cantidad total de la que disponemos en el encéfalo?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La mitad."
+            },
+            {
+                "text": "Casi tres cuartas partes.",
+                "correct": true
+            },
+            {
+                "text": "Una cuarta parte."
+            },
+            {
+                "text": "Casi el cien por cien."
+            }
+        ]
+    },
+    {
+        "text": "En una población de 1000 personas existe un gen con dos alelos (dominante y recesivo). De éstas, 500 personas muestran el genotipo homocigoto dominante y 200 el genotipo homocigoto recesivo. ¿Cuál es la frecuencia del alelo dominante en esta población?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,65.",
+                "correct": true
+            },
+            {
+                "text": "0,35."
+            },
+            {
+                "text": "0,7."
+            },
+            {
+                "text": "0,9."
+            }
+        ]
+    },
+    {
+        "text": "Indique en qué plano se han seccionado los hemisferios cerebrales que aparecen en la Figura y cuál es la estructura señalada con la flecha 2:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_1semana_2.jpg",
+        "responses": [
+            {
+                "text": "Frontal, bulbo raquídeo."
+            },
+            {
+                "text": "Coronal, cerebelo."
+            },
+            {
+                "text": "Coronal, puente.",
+                "correct": true
+            },
+            {
+                "text": "Horizontal, tronco del cerebelo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes disciplinas se relaciona directamente con el estudio de las causas lejanas del comportamiento?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Psicología evolucionista."
+            },
+            {
+                "text": "Ecología del Comportamiento."
+            },
+            {
+                "text": "Sociobiología."
+            },
+            {
+                "text": "Todas las opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que el color de la piel humana está determinado por tres genes (ABC) con dos alelos cada uno, Al, A2, Bl, B2, Cl y C2, donde los marcados con 1 no aportan color y los marcados con 2 aportan color. ¿Qué probabilidad tiene una pareje heterocigótica para los tres genes de tener un hijo fenotípicamente negro (cuyo genotipo sea A2A2B2B2C2C2)?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El 95%."
+            },
+            {
+                "text": "El 50%."
+            },
+            {
+                "text": "El 1,56%.",
+                "correct": true
+            },
+            {
+                "text": "El 24%."
+            }
+        ]
+    },
+    {
+        "text": "Si se parte del supuesto de que la secuencia de nucleótidos UAC UAG AGC GUA corresponde a los anticodones de los ARNts que transportan los cuatro primeros aminoácidos (Met, lle, Ser, His) de un polipéptido determinado, ¿cuál de las siguientes secuencias corresponde al ADN que codifica esta secuencia de aminoácidos?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "AUGAUCUCGCAU."
+            },
+            {
+                "text": "TACTAGAGCGTA.",
+                "correct": true
+            },
+            {
+                "text": "UACUAGAGCGUA."
+            },
+            {
+                "text": "Ninguna de las anteriores."
+            }
+        ]
+    },
+    {
+        "text": "Teniendo en cuenta dónde se origina el nervio trigémino (V) y las áreas que inerva, indique qué número de la Figura 3 se corresponde con él:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_1semana_3.jpg",
+        "responses": [
+            {
+                "text": "1."
+            },
+            {
+                "text": "2.",
+                "correct": true
+            },
+            {
+                "text": "7."
+            },
+            {
+                "text": "5."
+            }
+        ]
+    },
+    {
+        "text": "El gen que codifica el transportador de serotonina (SERT) presenta dos alelos (largo-l- y corto-s) en nuestra especie y se ha relacionado fundamentalmente con:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Trastornos de ansiedad/estrés y neuroticismo.",
+                "correct": true
+            },
+            {
+                "text": "El trastorno de déficit de atención con hiperactividad (TDAH)."
+            },
+            {
+                "text": "Problemas lingüísticos y e articulación del habla."
+            },
+            {
+                "text": "Las tres anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "La señal eléctrica que llega a los botones terminales sinápticos neuronales a consecuencia de la propagación de un potencial de acción es de un valor de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "+15mV."
+            },
+            {
+                "text": "+35mV."
+            },
+            {
+                "text": "+50mV.",
+                "correct": true
+            },
+            {
+                "text": "+70mV."
+            }
+        ]
+    },
+    {
+        "text": "En 2004, van Honk et al. comprobaron que, en mujeres, la inyección de una dosis de testosterona hace que asuman más riesgos en un juego de cartas. ¿Qué tipo de estrategia se ha seguido en esta investigación?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Observacional."
+            },
+            {
+                "text": "Intervención conductual."
+            },
+            {
+                "text": "Aproximación correlacional."
+            },
+            {
+                "text": "Intervención somática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que mediante cría selectiva Tolman y Tryon lograran que, al cabo de algunas generaciones, la capacidad de resolver laberintos de las cepas seleccionadas fuera muy diferente en función del criterio de selección elegido (ratas rápidas en resolver el problema del laberinto contra ratas lentas en resolverlo), pero que esos efectos de la selección sólo se manifestaran cuando el ambiente de crianza era 'normal' (investigaciones de Cooper y Zubek, 1958) permite asegurar que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un ambiente empobrecido hace que las diferencias genéticas sean el factor más importante para explicar las diferencias en la rapidez del aprendizaje."
+            },
+            {
+                "text": "El aprendizaje está totalmente determinado por la herencia genética."
+            },
+            {
+                "text": "La capacidad de aprendizaje está influida por los genes.",
+                "correct": true
+            },
+            {
+                "text": "Un ambiente enriquecido hace que las diferencias genéticas tengan mayor influencia en el rasgo."
+            }
+        ]
+    },
+    {
+        "text": "El concepto de la Psicología Evolucionista que permite entender que persistan en momento actual conductas aparentemente poco adaptativas es el de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambiente de Adaptación Evolutiva.",
+                "correct": true
+            },
+            {
+                "text": "Promiscuidad."
+            },
+            {
+                "text": "Teoría de Juegos."
+            },
+            {
+                "text": "Modelos de Optimización."
+            }
+        ]
+    },
+    {
+        "text": "La fórmula de Falconer H2 = 2 (rMZJ - rDZJ) permite:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ un mejor cálculo de le heredabilidad en sentido estricto."
+            },
+            {
+                "text": "B/ un mejor cálculo de la heredabilidad en sentido amplio.",
+                "correct": true
+            },
+            {
+                "text": "C/ excluir el peso del ambiente no compartido a la hora de calcular heredabilidad."
+            },
+            {
+                "text": "D/ lo dicho en A y C es cierto."
+            }
+        ]
+    },
+    {
+        "text": "Desde la Psicología Evolucionista se pueden explicar algunos fenómenos psicológicos bien documentados como el de los autistas superdotados. Esto es posible gracias a un aparato teórico propio de esta disciplina conocido como:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Optimización."
+            },
+            {
+                "text": "Altruismo."
+            },
+            {
+                "text": "Ambiente de Adaptación Evolutiva."
+            },
+            {
+                "text": "Teoría Modular de la Mente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sobre el diencéfalo sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Forma parte del tronco del encéfalo."
+            },
+            {
+                "text": "El tálamo constituye la zona más dorsal.",
+                "correct": true
+            },
+            {
+                "text": "Se organiza alrededor del cuarto ventrículo."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "De entre los siguientes neurotransmisores, uno de los que generan rincipalmente potenciales postsinápticos excitadores es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La morfina."
+            },
+            {
+                "text": "El GABA."
+            },
+            {
+                "text": "La glicina."
+            },
+            {
+                "text": "El aspartato.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la eficacia biológica sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es a lo que Darwin hacía referencia cuando describió como los más aptos a los individuos cuya descendencia representa el mayor porcentaje de la población en la siguiente generación."
+            },
+            {
+                "text": "Los cambios que en ella se producen ponen de manifiesto la acción de la selección natural."
+            },
+            {
+                "text": "Será menor cuanto mayor sea el coeficiente de selección."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes células gliales suministra nutrientes a las neuronas y participa en el mantenimiento de la barrera hematoencefálica?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Células de Schwann."
+            },
+            {
+                "text": "Oligodendrocitos."
+            },
+            {
+                "text": "Células endoteliales."
+            },
+            {
+                "text": "Astrocitos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones es FALSA?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La herencia intermedia es un ejemplo de herencia cuantitativa."
+            },
+            {
+                "text": "La herencia de los alelos aditivos cumple las leyes de Mendel."
+            },
+            {
+                "text": "La epistasia no interviene en el valor de la heredabilidad obtenida a partir de la correlación entre gemelos.",
+                "correct": true
+            },
+            {
+                "text": "Muchos rasgos psicológicos, v.g. la inteligencia, tienen una base genética cuantitativa."
+            }
+        ]
+    },
+    {
+        "text": "La Figura 1 es una ilustración de un tipo de regulación de la expresión génica:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb20_1semana_1.jpg",
+        "responses": [
+            {
+                "text": "A largo plazo."
+            },
+            {
+                "text": "Que precisa la presencia de un inductor, una molécula cuya unión a una proteína reguladora permite que ésta se acople a la secuencia reguladora del ADN y active la expresión del gen estructural."
+            },
+            {
+                "text": "Cuyo ejemplo es el modelo del operón"
+            },
+            {
+                "text": "En la que la unión de un correpresor a una proteína reguladora permite que ésta se acople a una secuencia reguladora específica del ADN e impida la expresión génica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El Teorema de los Rendimientos Decrecientes aplicado a la cópula de las moscas del estiércol predice que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tiempo que el macho invierte en copular con la hembra aumenta conforme aumenta la distancia recorrida para encontrada.",
+                "correct": true
+            },
+            {
+                "text": "El tiempo que el macho invierte en copula con la hembra disminuye conforme aumenta la distancia recorrida para encontrarla."
+            },
+            {
+                "text": "No existe ninguna relación entre la distancia recorrida y el tiempo de cópula."
+            },
+            {
+                "text": "El tiempo de la cópula aumenta conforme aumenta el tiempo de búsqueda hasta valores intermedios del mismo y luego desciende bruscamente."
+            }
+        ]
+    },
+    {
+        "text": "Un potencial postsináptico excitador:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dificulta la generación de un potencial de acción."
+            },
+            {
+                "text": "Lleva por sí solo a que se desencadene siempre un potencial de acción."
+            },
+            {
+                "text": "Mantiene constante su magnitud hasta alcanzar el cono axónico."
+            },
+            {
+                "text": "Facilita la generación de un potencial de acción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el Dilema del Prisionero, la estrategia evolutivamente estable para cada jugador es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que un reo confiese y otro no."
+            },
+            {
+                "text": "Que ambos reos confiesen.",
+                "correct": true
+            },
+            {
+                "text": "Que ninguno de los dos confiese."
+            },
+            {
+                "text": "No existe ninguna opción que maximice la cuenta de resultados."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos teorías se han propuesto para explicar la superioridad de la reproducción sexual frente a la asexual?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El Dilema de Prisionero y la Teoría de Juegos."
+            },
+            {
+                "text": "La Teoría de la Reparación Genética y el Dilema del Prisionero."
+            },
+            {
+                "text": "La Teoría de los Halcones y la Teoría de las Palomas."
+            },
+            {
+                "text": "La Teoría de la Reparación Genética y la Teoría de la Reina Roja.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sobre la variabilidad genética existente en las poblaciones sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La aparición de un nuevo alelo puede deberse a una mutación de un solo nucleótido (puntual) que da lugar a un polimorfismo de nucleótido simple.",
+                "correct": true
+            },
+            {
+                "text": "No es uno de los pilares en los que se sustenta la evolución de las especies."
+            },
+            {
+                "text": "Se pone de manifiesto con la misma frecuencia en todos los loci."
+            },
+            {
+                "text": "Las mutaciones no alteran las frecuencias alélicas ni genotípicas"
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que dos caracteres dependen, respectivamente, de los genes A y B que presentan dos alelos cada uno con una relación de dominancia (Aa, Bb), ¿qué porcentaje de la descendencia de una pareja cuyos genotipos son, respectivamente, AaBb y AABB presentarán el mismo fenotipo que sus progenitores para esos caracteres?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "25%."
+            },
+            {
+                "text": "50%."
+            },
+            {
+                "text": "75%."
+            },
+            {
+                "text": "100%.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando la membrana neuronal está en reposo, si comparamos las cargas eléctricas que se distribuyen a ambos lados de la misma con las que se almacenan en una pequeña pila de cualquier instrumento, solemos decir que el interior celular se comporta como un cátodo porque:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En ese lado de la membrana hay mayor abundancia de cationes."
+            },
+            {
+                "text": "En ese lado de la membrana hay menor abundancia de aniones."
+            },
+            {
+                "text": "Los aniones son atraidos hacia ese lado de la membrana."
+            },
+            {
+                "text": "Los cationes son atraídos hacia ese lado de la membrana.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sobre la plasticidad neural sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aprendizaje constante en las rimeras etapas de la vida potencia o da lugar a nuev conexiones entre neuronas."
+            },
+            {
+                "text": "Los astrocitos este implicados en la plasticidad sináptica que subyace al aprendizaje y la memoria."
+            },
+            {
+                "text": "Un ejemplo evidente son los cambios que pueden producirse en la cantidad de espinas dendríticas."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La especiación alopátrica:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ocurre siempre sin separación física entre las poblaciones."
+            },
+            {
+                "text": "Para que tenga lugar, deben establecerse mecanismos de aislamiento reproductivo que pueden ser tanto precigóticos como postcigóticos.",
+                "correct": true
+            },
+            {
+                "text": "Es más habitual en plantas que en animales."
+            },
+            {
+                "text": "Se produce siempre por poliploidía."
+            }
+        ]
+    },
+    {
+        "text": "Los datos observados en humanos y los obtenidos mediante ingeniería genética muestran que para la diferenciación completa del fenotipo sexual masculino:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2020",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Es esencial la actividad funcional de los genes SRY y SOX9."
+            },
+            {
+                "text": "B/ Intervienen factores epigenéticos hormonales."
+            },
+            {
+                "text": "C/ Intervienen sólo genes ubicados en el cromosoma Y."
+            },
+            {
+                "text": "D/ A y B son ciertas.",
+                "correct": true
+            }
+        ]
+    }
+]

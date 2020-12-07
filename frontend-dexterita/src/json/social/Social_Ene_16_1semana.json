@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Cuál de las siguientes opciones es un ejemplo de proceso postconsciente?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 99)",
+        "responses": [
+            {
+                "text": "La supresión de pensamientos."
+            },
+            {
+                "text": "La influencia inconsciente que una experiencia negativa tiene en nuestros juicios y en nuestra conducta posterior.",
+                "correct": true
+            },
+            {
+                "text": "El priming."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes aspectos es el que, por definición, ha de estar siempre presente en cualquier actitud?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 204-205)",
+        "responses": [
+            {
+                "text": "El emocional hacia el objeto de actitud."
+            },
+            {
+                "text": "El evaluativo (positivo vs. negativo) hacia el objeto de actitud.",
+                "correct": true
+            },
+            {
+                "text": "El conductual hacia el objeto de actitud."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias puede evitar o reducir el efecto de las expectativas, que supone una amenaza a la validez de los resultados de una investigación?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "Garantizar a los participantes que sus respuestas serán confidenciales."
+            },
+            {
+                "text": "Utilizar un cuestionario post-experimental."
+            },
+            {
+                "text": "Que la persona que recoge los datos no sepa a qué condición experimental ha sido asignado cada participante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de marketing para comprobar la influencia de tres tipos de anuncios se midió el “efecto tercera persona”. La siguiente tabla recoge la media en influencia percibida en uno mismo y en otras personas, en una escala de 1 a 10. ¿En cuál de los anuncios se produjo ese “efecto tercera persona”?: <br><table><tr><td colspan=2>Anuncio A</td><td colspan=2>Anuncio B</td><td colspan=2>Anuncio B</td></tr><tr><td>Sí mismo</td><td>Otros</td><td>Sí mismo</td><td>Otros</td><td>Sí mismo</td><td>Otros</td></tr><tr><td>6</td><td>4</td><td>4</td><td>7</td><td>5</td><td>5</td></tr></table><br>",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 158 Cuaderno y 246 Manual)",
+        "responses": [
+            {
+                "text": "Anuncio A."
+            },
+            {
+                "text": "Anuncio B.",
+                "correct": true
+            },
+            {
+                "text": "Anuncio C."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es el “efecto de sobrejusticiación”?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 181)",
+        "responses": [
+            {
+                "text": "La tendencia a recordar mejor la información relevante para el autoconcepto que cualquier otro tipo de información."
+            },
+            {
+                "text": "La tendencia a que las motivaciones intrínsecas disminuyan en aquellas actividades que se asocian con algún tipo de refuerzo externo.",
+                "correct": true
+            },
+            {
+                "text": "La tendencia a intentar justificar ante los demás nuestros actos, aunque seamos conscientes de que éstos hayan sido dañinos para los otros."
+            }
+        ]
+    },
+    {
+        "text": "En una muestra de fumadores se comprobó que el 75% atribuía más probabilidad de contraer cáncer de pulmón al fumador medio que a ellos mismos. Este resultado refleja un sesgo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 65-66 Cuaderno y Tema 4 manual)",
+        "responses": [
+            {
+                "text": "Falso consenso."
+            },
+            {
+                "text": "Optimismo ilusorio."
+            },
+            {
+                "text": "Ilusión de invulnerabilidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Observamos que Carlos siempre come el pastel de manzana de su abuela, así como cualquier otro pastel que se le ponga por delante. En términos del modelo de covariación de Kelley estamos observando:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 138-142)",
+        "responses": [
+            {
+                "text": "Alta consistencia y baja distintividad.",
+                "correct": true
+            },
+            {
+                "text": "Baja consistencia y alto consenso."
+            },
+            {
+                "text": "Alta consistencia y alta distintividad."
+            }
+        ]
+    },
+    {
+        "text": "El autoconocimiento activo es la información sobre uno mismo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 170)",
+        "responses": [
+            {
+                "text": "A la que no le influyen las características de la situación."
+            },
+            {
+                "text": "De la que se tiene consciencia en un momento determinado.",
+                "correct": true
+            },
+            {
+                "text": "Que no surge de forma espontánea, sino cuando se reflexiona sobre el yo."
+            }
+        ]
+    },
+    {
+        "text": "Desde el enfoque de la cognición social, el término atención selectiva hace alusión a que procesamos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "Sólo aquellos estímulos que nos resultan salientes.",
+                "correct": true
+            },
+            {
+                "text": "Grandes lotes de información."
+            },
+            {
+                "text": "La información mediante el uso de heurísticos."
+            }
+        ]
+    },
+    {
+        "text": "Atribuir la causa de un fracaso propio a factores externos es un ejemplo de atribución:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 149)",
+        "responses": [
+            {
+                "text": "Autoprotectora.",
+                "correct": true
+            },
+            {
+                "text": "Autoensalzadora."
+            },
+            {
+                "text": "Esencialista."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con las investigaciones de Cialdini y sus colaboradores en el Parque Natural del Bosque Petrificado, hacer conscientes a las personas de que la mayoría de la gente realiza una conducta inadecuada (robar fósiles en el mencionado estudio):",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 161 Cuaderno)",
+        "responses": [
+            {
+                "text": "Incitaría a que esa conducta se viera como lógica y normal.",
+                "correct": true
+            },
+            {
+                "text": "Favorecería la erradicación de esa conducta negativa."
+            },
+            {
+                "text": "Se basaría en una norma preceptiva."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la valoración que se hace del contenido o de los argumentos de un mensaje se ve sesgada por la simpatía del comunicador:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 277)",
+        "responses": [
+            {
+                "text": "Se está cometiendo un sesgo relacionado con el “efecto tercera persona”."
+            },
+            {
+                "text": "El mensaje no llegará a ser persuasivo."
+            },
+            {
+                "text": "Se está utilizando la ruta periférica al elaborar el mensaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un estudio emblemático para poner a prueba la teoría de la disonancia cognitiva, Festinger y Carlsmith (1959) comprobaron qué sucede cuando una persona se ve forzada a hacer algo en contra de su actitud. Teniendo en cuenta los resultados dentro del paradigma de la complacencia inducida, si a un adolescente no le gusta estudiar, ¿cuál de las siguientes conductas de los padres sería mejor para que cambiara de actitud hacia el estudio?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 230)",
+        "responses": [
+            {
+                "text": "Darle 1 euro cada vez que dedique una hora a estudiar.",
+                "correct": true
+            },
+            {
+                "text": "Darle 15 euros cada vez que dedique una hora a estudiar."
+            },
+            {
+                "text": "Prometerle que se le hará un regalo muy caro y deseado si estudia una hora diaria durante diez días."
+            }
+        ]
+    },
+    {
+        "text": "El psicólogo social Roy Baumeister (2005) propuso sustituir la denominación de “animal social”, referida a los seres humanos, por la de “animal cultural” porque:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "La especie humana es la única que tiene capacidad para la cultura."
+            },
+            {
+                "text": "Los seres humanos dependen de la cultura para sobrevivir.",
+                "correct": true
+            },
+            {
+                "text": "La sociabilidad no forma parte de la naturaleza humana, pero la capacidad para la cultura sí."
+            }
+        ]
+    },
+    {
+        "text": "Si, para tratar de persuadir a alguien y cambiar sus actitudes hacia algo, recurrimos a un mensaje con gran cantidad de argumentos (no necesariamente fuertes), emitidos por una persona con apariencia de experto, ante una audiencia manipulada para mostrar reacciones positivas hacia el mensaje, ¿en qué modelo de persuasión nos estamos basando?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 273-274)",
+        "responses": [
+            {
+                "text": "En el modelo persuasivo de Cialdini."
+            },
+            {
+                "text": "En el modelo de la respuesta cognitiva."
+            },
+            {
+                "text": "En el modelo heurístico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Uno de los rasgos que caracterizan la Psicología Social es su interés por la realidad construida por las personas frente a la realidad objetiva. ¿Cuál de las siguientes opciones refleja mejor el concepto de realidad construida?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 119-120)",
+        "responses": [
+            {
+                "text": "El procesamiento abajo-arriba."
+            },
+            {
+                "text": "El procesamiento arriba-abajo.",
+                "correct": true
+            },
+            {
+                "text": "El procesamiento normativo."
+            }
+        ]
+    },
+    {
+        "text": "Una persona tiene miedo a montar en avión porque cada cierto tiempo oye en las noticias que ha habido algún accidente mortal de aviación en algún lugar del mundo. En cambio, no le da ningún miedo llevar una vida sedentaria y una alimentación alta en grasas animales que, según los médicos, aumenta las probabilidades de que sufra del corazón. ¿Cuál de los siguientes heurísticos es más probable que esté en la base de esta aparente irracionalidad?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 88-95)",
+        "responses": [
+            {
+                "text": "El de anclaje y ajuste."
+            },
+            {
+                "text": "El de accesibilidad.",
+                "correct": true
+            },
+            {
+                "text": "El de representatividad."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un vendedor comenta al cliente que va a hacerle un descuento muy especial pero que no lo divulgue, ya que podría tener problemas con la dirección, está utilizando una táctica basada en:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 265-266)",
+        "responses": [
+            {
+                "text": "La cooperación y el principio de simpatía.",
+                "correct": true
+            },
+            {
+                "text": "“esto no es todo” y el principio de coherencia."
+            },
+            {
+                "text": "La semejanza y el principio de validación social."
+            }
+        ]
+    },
+    {
+        "text": "Si las expectativas sobre el comportamiento de una persona se desconfirman, es más fácil que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Aumente la relevancia hedónica para el perceptor."
+            },
+            {
+                "text": "Aumenten las inferencias correspondientes o disposicionales sobre ese comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Disminuyan las atribuciones a características de personalidad de esa persona."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estos factores contribuye a aumentar el grado de disonancia de acuerdo con el paradigma de la libre elección?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 228)",
+        "responses": [
+            {
+                "text": "Que se piense que las alternativas posibles producirán resultados muy diferentes entre sí.",
+                "correct": true
+            },
+            {
+                "text": "Que la decisión carezca de importancia para el individuo."
+            },
+            {
+                "text": "Que la alternativa rechazada sea poco atractiva."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio sobre la percepción de testigos de un suceso (Buckhout, 1977) se comprobó que los testigos sobreestimaban la duración del suceso, así como la altura y el peso del asaltante. Este resultado refleja:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 67 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Un sesgo de ignorancia pluralista, ya que se sobreestimaron varias claves del contexto."
+            },
+            {
+                "text": "Un efecto de “primus inter pares”."
+            },
+            {
+                "text": "Una percepción adaptativa, ya que se sobreestimaron aspectos relacionados con el peligro de la situación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referentes a la comparación entre las culturas individualistas y las colectivistas es cierta?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "En las culturas colectivistas hay más diferencias entre las conductas que se dirigen hacia miembros del endogrupo y las que se dirigen hacia miembros del exogrupo.",
+                "correct": true
+            },
+            {
+                "text": "En las culturas individualistas hay más contacto físico."
+            },
+            {
+                "text": "En las culturas individualistas hay menos comunicación directa y explícita."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones completa mejor la siguiente afirmación referida a una de las ideas fundamentales del modelo de Matsumoto, expuesto en el Capítulo 2, sobre evolución, cultura y contexto social? “Los procesos mentales y las conductas sociales de las personas dependen de…",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 58)",
+        "responses": [
+            {
+                "text": "… las características de personalidad fraguadas por la cultura, y no del contexto social”."
+            },
+            {
+                "text": "… la interpretación que hacen del contexto social en el que se encuentran en un momento dado, lo que a su vez viene influido por la cultura y la evolución”.",
+                "correct": true
+            },
+            {
+                "text": "… el contexto social objetivamente representado, el cual es independiente de la interpretación que de dicho contexto haga la persona”."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes medidas de actitudes se considera explícita?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "Observación de conductas no verbales."
+            },
+            {
+                "text": "Electromiograma."
+            },
+            {
+                "text": "Diferencial semántico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de la acción planificada, la percepción que tiene la persona de lo fácil o difícil que le resultará realizar un comportamiento es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 224)",
+        "responses": [
+            {
+                "text": "El control conductual percibido.",
+                "correct": true
+            },
+            {
+                "text": "La norma social subjetiva."
+            },
+            {
+                "text": "La actitud hacia la conducta."
+            }
+        ]
+    },
+    {
+        "text": "Desde la motivación de autoverificación, una persona con alta autoestima buscará evaluaciones positivas por parte de los demás con el objetivo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 191)",
+        "responses": [
+            {
+                "text": "Confirmar su autoconcepto positivo.",
+                "correct": true
+            },
+            {
+                "text": "Causar una buena impresión."
+            },
+            {
+                "text": "Aumentar su autoestima."
+            }
+        ]
+    },
+    {
+        "text": "Si un psicólogo tuviera que analizar desde una perspectiva psicosocial el acoso escolar en un determinado instituto, con vistas a una posterior intervención, ¿cuál de los siguientes fenómenos sería más probablemente el foco de su investigación?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 5-6)",
+        "responses": [
+            {
+                "text": "Los rasgos de personalidad del acosador y de la víctima, con objeto de diseñar un programa de entrenamiento en habilidades sociales individualizado para cada uno."
+            },
+            {
+                "text": "La dinámica que tiene lugar en el grupo al que pertenecen el acosador y la víctima, con objeto de diseñar una intervención que reduzca el apoyo activo y pasivo al acosador por parte de los compañeros.",
+                "correct": true
+            },
+            {
+                "text": "Las características sociodemográficas del barrio donde está ubicado el centro, con objeto de diseñar políticas sociales que favorezcan la integración de todos sus habitantes."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué depende, según las teorías de la identidad social y de la categorización del yo, que una persona se categorice en un nivel social o en uno individual?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 177)",
+        "responses": [
+            {
+                "text": "De la coherencia del autoconcepto."
+            },
+            {
+                "text": "Del contexto o la situación.",
+                "correct": true
+            },
+            {
+                "text": "De la complejidad del autoconcepto."
+            }
+        ]
+    },
+    {
+        "text": "Una de las diferencias entre la organización del conocimiento social en esquemas y la basada en ejemplares radica en que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 84-85)",
+        "responses": [
+            {
+                "text": "Los ejemplares sirven para hacer generalizaciones, mientras que los esquemas no."
+            },
+            {
+                "text": "Los ejemplares se almacenan a partir de la experiencia directa o indirecta con los estímulos particulares, mientras que los esquemas constituyen un conocimiento abstracto.",
+                "correct": true
+            },
+            {
+                "text": "Los esquemas se basan en un conocimiento concreto, mientras que los ejemplares se basan en un conocimiento abstracto."
+            }
+        ]
+    },
+    {
+        "text": "La táctica de influencia denominada “de la bola baja” consiste, básicamente, en:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 257-258)",
+        "responses": [
+            {
+                "text": "Conseguir que la persona se comprometa a realizar una conducta basándose en información falsa o incompleta para que posteriormente continúe con su compromiso inicial.",
+                "correct": true
+            },
+            {
+                "text": "Hacer una petición inicial mayor de lo que se piensa que se puede conseguir y posteriormente rebajar la petición."
+            },
+            {
+                "text": "Hacer una petición poco costosa y, una vez que se consigue, hacer otra de mayor coste."
+            }
+        ]
+    }
+]

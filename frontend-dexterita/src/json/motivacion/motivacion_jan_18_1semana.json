@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En la entrevista motivacional, cuando se trabaja la MI de una persona que desea cambiar sus hábitos de conducta, ¿qué se debe hacer en segundo lugar”?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Trabajar las resistencias que presenta al cambio.",
+                "correct": true
+            },
+            {
+                "text": "Elevar su percepción de autoeficacia."
+            },
+            {
+                "text": "Plantearle sus propias ambivalencias ante el problema."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Relación entre niveles de motivación y cantidad de premio. Centrándonos exclusivamente en la 3ª Fase (y última) del experimento realizado. ¿Qué principal consecuencia podemos inferir de los resultados obtenidos en esta fase del experimento?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Que la respuesta desaparece si se elimina el premio que lleva aparejada dicha respuesta.",
+                "correct": true
+            },
+            {
+                "text": "Que el cambio en la magnitud de la recompensa aumenta el valor del incentivo."
+            },
+            {
+                "text": "Que a mayor magnitud de recompensa la conducta se ejecuta más rápidamente."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "En el estudio de la motivación, la orientación que ha intentado explicar la conducta basándose en los procesos mentales internos no observables, ha sido la...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Tenomenológica."
+            },
+            {
+                "text": "Cognitiva.",
+                "correct": true
+            },
+            {
+                "text": "Conductual."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Relación entre niveles de motivación y cantidad de premio. Centrándonos exclusivamente en la 3ª Fase (y última) del experimento realizado. ¿Qué efecto de contraste se ha producido en esta fase del experimento”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un efecto de contraste negativo o depresión."
+            },
+            {
+                "text": "No se ha producido ningún efecto de contraste.",
+                "correct": true
+            },
+            {
+                "text": "Un efecto de contraste positivo o elación."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Las recompensas verbales...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Si son esperadas favorecen la MI."
+            },
+            {
+                "text": "Si incrementan la percepción de autoeficacia, favorece la ME."
+            },
+            {
+                "text": "Si son informativas favorecen la MI.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Quiénes fueron los principales promotores del enfoque humanista?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Rogers y Maslow.",
+                "correct": true
+            },
+            {
+                "text": "Watson y Thorndike."
+            },
+            {
+                "text": "Freud y Jung."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Relación entre niveles de motivación y cantidad de premio. Centrándonos exclusivamente en la 3ª Fase (y última) del experimento realizado. ¿Qué procedimiento concreto de contraste se ha utilizado en esta fase del experimento?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un efecto de contraste simultáne"
+            },
+            {
+                "text": "Un efecto de contraste sucesivo."
+            },
+            {
+                "text": "No se ha utilizado ningún procedimiento de contraste.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Por qué la dirección es considerada como un índice claro del estado motivacional que tiene el individuo? Porque...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Produce una mayor actividad motora."
+            },
+            {
+                "text": "Adquiere una importante función para predecir la conducta motivada.",
+                "correct": true
+            },
+            {
+                "text": "Eleva la activación energética."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Por qué la teoría de Jones y Davis tiene una importante función en el estudio de la atribución? Porque...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Aporta datos sobre los factores que nos ayudan a hacer inferencias disposicionales.",
+                "correct": true
+            },
+            {
+                "text": "La relevancia hedónica actúa reforzando la capacidad de los sujetos para hacer atribuciones."
+            },
+            {
+                "text": "Hacer atribuciones refuerza la expectativa que tiene el sujeto de conseguir algo."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué pasa si un sujeto participa en una actividad voluntaria sobre la que tiene control?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Su MI será elevada.",
+                "correct": true
+            },
+            {
+                "text": "Su ME se potencia."
+            },
+            {
+                "text": "Su nivel motivacional no se verá afectado por las recompensas recibidas."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según la teoría de la probabilidad condicionada puede actuar como reforzador...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los estímulos primarios y los secundarios presentados contiguamente a la conducta."
+            },
+            {
+                "text": "Cualquier actividad cuya probabilidad de ocurrencia sea mayor que la de la conducta exigida.",
+                "correct": true
+            },
+            {
+                "text": "Todo estimulo que incremente la probabilidad de la respuesta exigida siempre y cuando no rebase ciertos límites."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué concepto de Guba (1983) consiste en establecer una relación ideal entre las interpretaciones del investigador y sus fuentes de información”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Credibilidad.",
+                "correct": true
+            },
+            {
+                "text": "Validez."
+            },
+            {
+                "text": "Fiabilidad."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Para Petri y Govern, una característica de la activación es...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un aumento en la producción de respuestas en el sistema nervioso central."
+            },
+            {
+                "text": "Su persistencia o insistencia en el comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "El fraccionamiento direccional de respuestas."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué se evalúa en la medición endosomática? La actividad electrodérmica como...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un cambio en el potencial de la piel.",
+                "correct": true
+            },
+            {
+                "text": "Una disminución en la resistencia de la piel."
+            },
+            {
+                "text": "Un aumento de la conductancia de la piel."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Cuál considera Darwin el comportamiento más elemental en la lucha por la supervivencia?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El comportamiento instintivo. ",
+                "correct": true
+            },
+            {
+                "text": "El reflejo."
+            },
+            {
+                "text": "La conducta innata. "
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según Berger, ¿cómo consiguen las grandes marcas que sus productos sean percibidos como muy valiosos en el campo publicitario”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Relacionando sus productos con recompensas emocionales.",
+                "correct": true
+            },
+            {
+                "text": "Resaltando los aspectos funcionales de sus productos."
+            },
+            {
+                "text": "Ligando sus productos a sus propiedades externas."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué se ha observado en situaciones de alto grado de motivación?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Una desaceleración del ritmo cardiaco."
+            },
+            {
+                "text": "Un aumento del flujo sanguíneo periférico."
+            },
+            {
+                "text": "Un aumento de la presión arterial, sobre todo de la sistólica.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según Fdez-Abascal (2003), ¿cuáles son los diferentes momentos que explican el comportamiento observable de una persona?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Inicio, mantenimiento, dirección, intensidad y finalización de un comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Conducta activa y retroalimentación del rendimiento."
+            },
+            {
+                "text": "Estímulos y respuestas."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Las investigaciones realizadas en Norteamérica sobre motivación y actividad física y deporte, se caracterizaron por...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Centrar su interés en las motivaciones de los deportistas."
+            },
+            {
+                "text": "Utilizar el TR como medida motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Estar vinculadas al campo práctico."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según la teoría de la motivación de logro de Atkinson, cuando nos referimos a la intensidad de atracción o rechazo que el sujeto atribuye a la consecución de la meta, hablamos de...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El valor incentivo del éxito.",
+                "correct": true
+            },
+            {
+                "text": "La expectativa de éxito."
+            },
+            {
+                "text": "La motivación de éxito."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Investigaciones recientes sobre el fenómeno de la “saciedad sensorial específica”, han señalado que el consumo de un único alimento...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "No afecta a la conducta de ingesta."
+            },
+            {
+                "text": "Incrementa la palatabilidad de los alimentos."
+            },
+            {
+                "text": "Reduce su valor motivacional.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Práctica: Relación entre niveles de motivación y cantidad de premio. Centrándonos exclusivamente en la 3ª Fase (y última) del experimento realizado. ¿En qué consistía esta fase del experimento?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se cambiaron las cantidades de alimento con respecto a la fase anterior, en dos de las tres ratas."
+            },
+            {
+                "text": "Se eliminó el alimento como recompensa en las tres ratas.",
+                "correct": true
+            },
+            {
+                "text": "Se establecieron diferentes cantidades fijas de alimento para cada una de las tres ratas."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Según la teoría de Adams, ¿en qué ocasiones puede ocurrir que alguien cambie la referencia de comparación, dejando de hacerlo con esa persona o grupo y hacer una comparación nueva con otra persona o grupo que le beneficie? Cuando se produce una situación de tensión como consecuencia de una...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Percepción de injusticia.",
+                "correct": true
+            },
+            {
+                "text": "Baja autoestima."
+            },
+            {
+                "text": "Elevada motivación de poder."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué filósofo griego fue el primero en emplear y promover el diálogo como mejor medio para motivar a sus discípulos a alcanzar el conocimiento y la verdad?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Sócrates.",
+                "correct": true
+            },
+            {
+                "text": "Aristóteles."
+            },
+            {
+                "text": "Platón."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Los estudios experimentales sobre el motivo de hambre, han puesto de manifiesto que el hipotálamo lateral...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Deprime la sensación de hambre al actuar en interacción con el páncreas."
+            },
+            {
+                "text": "Ayuda a regular el peso corporal en el punto de ajuste.",
+                "correct": true
+            },
+            {
+                "text": "Da lugar a una ingesta excesiva de comida cuando se lesiona."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Cuando Pinillos hablaba de 'una incómoda alteración de la armonía mental del sujeto, que le impulsa concretamente a una actividad orientada a reducir o eliminar su causa', se refería a la...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Disonancia cognitiva.",
+                "correct": true
+            },
+            {
+                "text": "Acción razonada."
+            },
+            {
+                "text": "Tensión dinámica."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué nombre recibe el efecto que las hormonas sexuales tienen sobre la conducta, y que hace referencia al papel que dichas hormonas ejercen sobre el organismo maduro de forma reversible y temporal”? Efecto...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Regulador."
+            },
+            {
+                "text": "Organizador."
+            },
+            {
+                "text": "Activador.",
+                "correct": true
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Qué se infiere de la respuesta emocional condicionada”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Que la respuesta emocional obedece a otro proceso que el sujeto no controla conscientemente."
+            },
+            {
+                "text": "Que los cambios emocionales provocan cambios en la motivación.",
+                "correct": true
+            },
+            {
+                "text": "Que emoción y motivación funcionan como dos procesos opuestos."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "Justificar que la aparición y mantenimiento de la conducta de imitación se produce por la contiguidad espacio-temporal entre la situación observada y la posibilidad de emitir la respuesta a imitar, es defendido por...:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las teorías instintivas."
+            },
+            {
+                "text": "El condicionamiento clásico.",
+                "correct": true
+            },
+            {
+                "text": "El condicionamiento operante."
+            }
+        ],
+        "feedback": ""
+    },
+    {
+        "text": "¿Cómo se denomina la hipótesis, planteada por Baumeister y Leary, que defiende la idea de que las personas tenemos el impulso de mantener al menos una mínima cantidad de relaciones interpersonales duraderas, positivas y significativas”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Afiliativa por dependencia."
+            },
+            {
+                "text": "De la necesidad de pertenencia.",
+                "correct": true
+            },
+            {
+                "text": "De la equidad por comparación."
+            }
+        ],
+        "feedback": ""
+    }
+]

@@ -1,0 +1,1178 @@
+[
+    {
+        "text": "Cuando la valoración que se hace del contenido o de los argumentos de un mensaje se ve sesgada por la simpatía del comunicador:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 277)",
+        "responses": [
+            {
+                "text": "El mensaje no llegará a ser persuasivo."
+            },
+            {
+                "text": "Se está utilizando la ruta periférica al elaborar el mensaje.",
+                "correct": true
+            },
+            {
+                "text": "Se está cometiendo un sesgo relacionado con el “efecto tercera persona”."
+            }
+        ]
+    },
+    {
+        "text": "Si alguien quiere persuadirnos de algo, es mejor que nos pille distraídos. Según las investigaciones realizadas al respecto, ¿hasta qué punto es cierta esta afirmación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 283)",
+        "responses": [
+            {
+                "text": "Sí, cuando sus argumentos son débiles.",
+                "correct": true
+            },
+            {
+                "text": "No, independientemente de la fuerza o debilidad de los argumentos."
+            },
+            {
+                "text": "Sí, cuando sus argumentos son fuertes."
+            }
+        ]
+    },
+    {
+        "text": "Una empresa de informática con tiendas en toda España oferta un descuento del 50% en un modelo de ordenador, si se compra en un día concreto, y solo para 100 unidades. Son conscientes de que la demanda será mucho mayor que su oferta. Una vez que han vendido los 4 ejemplares de oferta existentes en cada tienda, a los siguientes clientes les ofrecen el mismo ordenador con un descuento del 15%. ¿Qué táctica de influencia están utilizando?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La táctica de “esto no es todo”."
+            },
+            {
+                "text": "La táctica de la “bola baja”.",
+                "correct": true
+            },
+            {
+                "text": "La táctica del “portazo en la cara”."
+            }
+        ]
+    },
+    {
+        "text": "Las tácticas de influencia basadas en el principio de validación social funcionan porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 261-262)",
+        "responses": [
+            {
+                "text": "Actúan a través del componente afectivo de las actitudes."
+            },
+            {
+                "text": "Tendemos a pensar que nuestro comportamiento será más correcto si se parece al de los demás.",
+                "correct": true
+            },
+            {
+                "text": "Apelan a nuestra necesidad de reafirmar nuestra identidad personal y de sentirnos valorados por los demás."
+            }
+        ]
+    },
+    {
+        "text": "Los conocimientos previos sobre el tema de un mensaje y la oportunidad de pensar sobre ese tema influirían en la probabilidad de elaboración de ese mensaje, aumentando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La capacidad para procesarlo.",
+                "correct": true
+            },
+            {
+                "text": "La necesidad de cognición."
+            },
+            {
+                "text": "La motivación para procesarlo."
+            }
+        ]
+    },
+    {
+        "text": "Si para tratar de persuadir a alguien y cambiar sus actitudes hacia algo, recurrimos a un mensaje con gran cantidad de argumentos (no necesariamente fuertes), emitidos por una persona con apariencia de experto, ante una audiencia manipulada para mostrar reacciones positivas hacia el mensaje, ¿en qué modelo de persuasión nos estamos basando?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 273-274)",
+        "responses": [
+            {
+                "text": "En el modelo heurístico.",
+                "correct": true
+            },
+            {
+                "text": "En el modelo persuasivo de Cialdini."
+            },
+            {
+                "text": "En el modelo de la respuesta cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "En el ámbito de la influencia de los medios de comunicación, el llamado “efecto tercera persona”:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 284)",
+        "responses": [
+            {
+                "text": "Se relaciona con el sesgo de ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Pone de manifiesto que el empleo de tácticas de influencia y persuasión es siempre negativo desde un punto de vista ético."
+            },
+            {
+                "text": "Se refiere a la elevada consciencia que poseen algunos receptores de lo accesibles que son a los intentos de manipulación de los demás."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la respuesta cognitiva explica el proceso de cambio de actitudes poniendo el énfasis en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 272-273)",
+        "responses": [
+            {
+                "text": "El número de automensajes generados por el receptor del mensaje persuasivo.",
+                "correct": true
+            },
+            {
+                "text": "El empleo de heurísticos por parte del receptor."
+            },
+            {
+                "text": "El recuerdo del mensaje persuasivo por parte del receptor."
+            }
+        ]
+    },
+    {
+        "text": "En un conocido experimento sobre influencia pidieron a un grupo de vecinos poner una pequeña pegatina en la puerta de su casa recomendando prudencia en la conducción. Poco después, a esas mismas personas se les pidió que permitieran colocar un gran cartel en su fachada sobre el mismo tema. Al grupo control solo se le hizo esta última petición. En el grupo control el 17% accedieron a colocar el gran cartel. en el grupo experimental el 76%. ¿Qué técnica de influencia estaba testando este experimento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 256)",
+        "responses": [
+            {
+                "text": "“Bola baja”."
+            },
+            {
+                "text": "“Pie en la puerta”.",
+                "correct": true
+            },
+            {
+                "text": "“Incluso un penique es suficiente”."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo o teoría de la persuasión centra la explicación de la persuasión en la valoración superficial que los receptores hacen de una serie de claves de persuasión externa, como, por ejemplo, las características estructurales del mensaje?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 273)",
+        "responses": [
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            },
+            {
+                "text": "El modelo del aprendizaje del mensaje."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de probabilidad de elaboración, si empleamos la ruta periférica nuestro procesamiento cognitivo del mensaje persuasivo será:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 274-275)",
+        "responses": [
+            {
+                "text": "Poco elaborado.",
+                "correct": true
+            },
+            {
+                "text": "Muy elaborado."
+            },
+            {
+                "text": "Reflexivo y costoso."
+            }
+        ]
+    },
+    {
+        "text": "Cuando en el supermercado me ofrecen a degustar un producto concreto para aumentar su venta, además del elemento informativo sobre las características del producto que están publicitando, esta acción tiene el efecto de activar el principio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 259-260)",
+        "responses": [
+            {
+                "text": "De la reciprocidad.",
+                "correct": true
+            },
+            {
+                "text": "De la coherencia."
+            },
+            {
+                "text": "De la validación social."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo o teoría de la persuasión hace hincapié en que la exposición a mensajes persuasivos pocas veces origina un procesamiento activo de la información?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 273)",
+        "responses": [
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            },
+            {
+                "text": "El modelo del aprendizaje del mensaje."
+            }
+        ]
+    },
+    {
+        "text": "La táctica de influencia denominada “de la bola baja” consiste, básicamente, en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 257-258)",
+        "responses": [
+            {
+                "text": "Hacer una petición poco costosa y, una vez que se consigue, hacer otra de mayor coste."
+            },
+            {
+                "text": "Conseguir que la persona se comprometa a realizar una conducta basándose en información falsa o incompleta para que posteriormente continúe con su compromiso inicial.",
+                "correct": true
+            },
+            {
+                "text": "Hacer una petición inicial mayor de lo que se piensa que se puede conseguir y posteriormente rebajar la petición."
+            }
+        ]
+    },
+    {
+        "text": "Muchas personas suelen leer siempre el mismo periódico, escuchar las noticias y los debates del mismo canal de TV y rechazar de entrada cualquier mensaje procedente de una fuente contraria a sus actitudes, esgrimiendo argumentos desfavorables. ¿Cuál de las siguientes motivaciones explica mejor estos comportamientos en conjunto?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 281-282)",
+        "responses": [
+            {
+                "text": "La necesidad de consistencia.",
+                "correct": true
+            },
+            {
+                "text": "La necesidad de cognición."
+            },
+            {
+                "text": "La necesidad de valía personal."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué necesidad básica asociada a las características del receptor influye en que ante un mensaje persuasivo las personas generen más pensamientos favorables a sus actitudes previas y desfavorables a opiniones opuestas?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La necesidad de afiliación."
+            },
+            {
+                "text": "La necesidad de consistencia.",
+                "correct": true
+            },
+            {
+                "text": "La necesidad de cognición."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo o teoría de la persuasión tiene como postulado central que los mensajes pueden llegar a persuadir a través de dos “rutas” de pensamiento: central o periférica?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 274)",
+        "responses": [
+            {
+                "text": "El modelo heurístico."
+            },
+            {
+                "text": "El modelo de probabilidad de elaboración.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes modelos de persuasión considera al receptor como un ser pasivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 271-272)",
+        "responses": [
+            {
+                "text": "El modelo del aprendizaje del mensaje.",
+                "correct": true
+            },
+            {
+                "text": "El modelo de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo heurístico."
+            }
+        ]
+    },
+    {
+        "text": "El delegado de alumnos de una universidad hace una petición muy sencilla a sus compañeros: firmar una solicitud dirigida al rector para que ponga un servicio de préstamo de bicicletas a disposición de los alumnos. Tres días después, los representantes de alumnos convocan a los firmantes a una manifestación portando pancartas dirigidas al rector con esa petición: “Implantación de un sistema de préstamo de bicicletas YA”. ¿Qué táctica de influencia se está empleando?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 256-257)",
+        "responses": [
+            {
+                "text": "Pie en la puerta.",
+                "correct": true
+            },
+            {
+                "text": "Bola baja."
+            },
+            {
+                "text": "Esto no es todo."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes condiciones impediría que la táctica del “portazo en la cara” resultara eficaz.",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Que trascurra mucho tiempo entre la primera y la segunda petición.",
+                "correct": true
+            },
+            {
+                "text": "Que ambas peticiones las realice la misma persona."
+            },
+            {
+                "text": "Que las dos peticiones sean semejantes."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la comparación social,",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La disonancia tiene un origen cognitivo basado en la comparación."
+            },
+            {
+                "text": "Necesitamos evaluar lo adecuado de nuestro comportamiento validándolo socialmente.",
+                "correct": true
+            },
+            {
+                "text": "El refuerzo negativo aumenta la probabilidad de que realicemos comparaciones sociales."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos convencer a alguien de que haga algo utilizando la táctica del “pie en la puerta”, ¿cuál de las siguientes opciones nos funcionaría mejor?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 256-257)",
+        "responses": [
+            {
+                "text": "Decir a la persona que es de las pocas que han accedido a esa primera petición."
+            },
+            {
+                "text": "Pagar a la persona para que acceda a la primera petición y así lograr su compromiso."
+            },
+            {
+                "text": "Hacer una petición inicial que no requiera mucho esfuerzo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los argumentos fuertes son más persuasivos (es decir, más apropiados para cambiar las actitudes) en el caso de personas con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Alta necesidad de cognición que en los bajos en esa necesidad.",
+                "correct": true
+            },
+            {
+                "text": "Alta necesidad de consistencia que en el caso de los bajos en esa necesidad."
+            },
+            {
+                "text": "Baja capacidad y baja motivación para elaborar el mensaje que en los altos en capacidad y motivación."
+            }
+        ]
+    },
+    {
+        "text": "Es mejor situar los argumentos más sólidos de un mensaje al final de la comunicación",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando se quiera provocar un efecto primacía en la audiencia."
+            },
+            {
+                "text": "Cuando se crea que la motivación y capacidad de la audiencia son bajas.",
+                "correct": true
+            },
+            {
+                "text": "Cuando se prevea una probabilidad de elaboración alta en la audiencia."
+            }
+        ]
+    },
+    {
+        "text": "Según las investigaciones realizadas en torno a la influencia de las variables del mensaje, en las que se ha comparado la influencia de los mensajes que sólo incluyen el punto de vista de la fuente (unilaterales) con los que contienen, además, la visión opuesta (bilaterales), ¿cuál de los siguientes mensajes es más eficaz para una audiencia poco motivada para procesar el mensaje?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Un mensaje bilateral sin refutación y sin conclusiones explícitas."
+            },
+            {
+                "text": "Un mensaje bilateral con refutación y con conclusiones explícitas.",
+                "correct": true
+            },
+            {
+                "text": "Un mensaje unilateral y con conclusiones explícitas."
+            }
+        ]
+    },
+    {
+        "text": "Las tácticas de influencia social descritas por Cialdini son un ejemplo del funcionamiento de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 254 y tema 3)",
+        "responses": [
+            {
+                "text": "El procesamiento controlado."
+            },
+            {
+                "text": "La profecía autocumplida."
+            },
+            {
+                "text": "Los heurísticos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características del modelo de la respuesta cognitiva es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 272-273)",
+        "responses": [
+            {
+                "text": "Los receptores del mensaje procesan de forma activa la información.",
+                "correct": true
+            },
+            {
+                "text": "Existen dos fases antes de que se produzca la respuesta cognitiva: aceptación y recuerdo."
+            },
+            {
+                "text": "Los receptores del mensaje no suelen esforzarse en analizar la validez del mensaje."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la influencia de las variables del mensaje, señale la afirmación que es verdadera:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Los mensajes que aportan tanto el punto de vista de la fuente como el punto de vista opuesto (refutándolo) son más eficaces que los unilaterales.",
+                "correct": true
+            },
+            {
+                "text": "Es mejor que las conclusiones no sean explícitas cuando la audiencia tiene poca motivación y/o capacidad."
+            },
+            {
+                "text": "Los mensajes que inducen altos niveles de miedo son eficaces si no aportan recomendaciones para evitar las consecuencias a las que alude la amenaza."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de probabilidad de elaboración, ¿en cuál de las siguientes circunstancias será probable que la persona elabore el mensaje persuasivo que recibe?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 276)",
+        "responses": [
+            {
+                "text": "Cuando no tiene conocimientos sobre el tema."
+            },
+            {
+                "text": "Cuando se guía por claves externas al contenido del mensaje."
+            },
+            {
+                "text": "Cuando lo que dice el mensaje es inconsistente con sus actitudes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo de probabilidad de elaboración postula que las dos rutas a la persuasión (central y periférica) constituyen los extremos de un continuo,",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Por lo que se considera que esta perspectiva ha echado por tierra los trabajos previos sobre el modelo heurístico y el de la respuesta cognitiva."
+            },
+            {
+                "text": "De modo que si se utilizan claves heurísticas no se elaborará en absoluto el mensaje."
+            },
+            {
+                "text": "A lo largo del cual se dan procesos de elaboración intermedia, heurística y deliberativa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si un receptor recibe un mensaje sobre un tema del que tiene amplios conocimientos porque es muy importante para él, ¿qué forma de elaboración de la información es más probable que se produzca, si no influyen otras variables? La elaboración característica de la influencia vía:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 275-6)",
+        "responses": [
+            {
+                "text": "Heurística."
+            },
+            {
+                "text": "Ruta periférica."
+            },
+            {
+                "text": "Ruta central.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si la audiencia tiene suficiente capacidad y motivación para procesar un mensaje:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 280)",
+        "responses": [
+            {
+                "text": "Es mejor que el comunicador deje implícitas las conclusiones a que las haga explícitas.",
+                "correct": true
+            },
+            {
+                "text": "Cuantos más argumentos dé el comunicador, independientemente de su fundamentación, más influencia conseguirá."
+            },
+            {
+                "text": "Utilizará heurísticos basados, por ejemplo, en la autoridad del comunicador en relación con el tema del mensaje para aceptarlo o rechazarlo."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del modelo del aprendizaje del mensaje, el modelo de los dos factores supone una reformulación del planteamiento original en relación con el proceso persuasivo. ¿Cuáles son los dos factores que propone?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La recepción del mensaje y su aceptación.",
+                "correct": true
+            },
+            {
+                "text": "La aceptación y el recuerdo del mensaje."
+            },
+            {
+                "text": "La recepción y la comprensión del mensaje."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones es FALSA, en relación con las condiciones que se deben dar para que sea eficaz la táctica del “portazo en la cara”?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Que se explique por qué razón se rebaja la petición."
+            },
+            {
+                "text": "Que la primera petición no sea desmesurada."
+            },
+            {
+                "text": "Que las peticiones las realicen personas diferentes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las muestras gratuitas de productos con que algunos comercios obsequian a sus clientes son un ejemplo de la táctica de",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "“esto no es todo”.",
+                "correct": true
+            },
+            {
+                "text": "“la bola baja”."
+            },
+            {
+                "text": "“incluso un penique es suficiente”."
+            }
+        ]
+    },
+    {
+        "text": "En el transcurso de una negociación de empresa, el comité de los trabajadores pide un aumento salarial del 5%, aunque sus expectativas son conseguir un 3%. La estrategia es que, si les niegan la solicitud inicial, pedirán una subida menor. En este ejemplo se está utilizando la táctica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 260-261)",
+        "responses": [
+            {
+                "text": "De “esto no es todo”."
+            },
+            {
+                "text": "De “la bola baja”."
+            },
+            {
+                "text": "Del “portazo en la cara”.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando un vendedor comenta al cliente que va a hacerle un descuento muy especial pero que no lo divulgue, ya que podría tener problemas con la dirección, está utilizando una táctica basada en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 265-266)",
+        "responses": [
+            {
+                "text": "La semejanza y el principio de validación social."
+            },
+            {
+                "text": "“esto no es todo” y el principio de coherencia."
+            },
+            {
+                "text": "La cooperación y el principio de simpatía.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La táctica del pie en la puerta tiene mayor eficacia cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 257)",
+        "responses": [
+            {
+                "text": "Se etiqueta explícitamente al blanco de influencia como defensor/a de la causa.",
+                "correct": true
+            },
+            {
+                "text": "La misma persona realiza la segunda petición inmediatamente después de la primera."
+            },
+            {
+                "text": "Pasa mucho tiempo entre la primera petición y la segunda."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes condiciones NO aumenta la eficacia de la táctica la “bola baja”?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 258)",
+        "responses": [
+            {
+                "text": "Se utiliza una misma persona como agente de influencia."
+            },
+            {
+                "text": "El compromiso es privado.",
+                "correct": true
+            },
+            {
+                "text": "Se aumenta el número de conductas y obligaciones previas a la decisión final."
+            }
+        ]
+    },
+    {
+        "text": "En un conocido experimento sobre influencia se convocó a un grupo de estudiantes a un curso voluntario que empezaba a las 7 de la mañana. En esta condición solo se inscribió al curso un 24% del grupo. A otro grupo se les comunicó el curso sin decirles la hora, y se apuntó el 56% para realizarlo. Cuando a este grupo se le comunicó, posteriormente, que el curso era a las 7 de la mañana, solo se borró el 5%. ¿Qué táctica de influencia estaba testando este experimento?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Bola baja.",
+                "correct": true
+            },
+            {
+                "text": "Incluso un penique es suficiente."
+            },
+            {
+                "text": "Pie en la puerta."
+            }
+        ]
+    },
+    {
+        "text": "La principal característica del enfoque del Modelo Crítico es que la capacidad de influencia de los medios de comunicación depende de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 97)",
+        "responses": [
+            {
+                "text": "La exposición selectiva."
+            },
+            {
+                "text": "Su función de agenda setting, es decir, de su capacidad de decidir en lo que se piensa y en lo que no.",
+                "correct": true
+            },
+            {
+                "text": "Las actitudes previas del receptor."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una persona recibe un mensaje persuasivo, lo interpreta basándose en claves externas y también en procesos deliberativos no muy costosos, y finalmente cambia su actitud, ¿qué modelo de persuasión explica mejor ese cambio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 275)",
+        "responses": [
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo de probabilidad de elaboración.",
+                "correct": true
+            },
+            {
+                "text": "El modelo heurístico."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la respuesta cognitiva, en el área del cambio de actitudes mediante mensajes persuasivos, ¿cuál será el efecto de la distracción en la persuasión?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Aumentará las posibilidades de persuasión cuando los argumentos del mensaje son contrarios a las actitudes del receptor.",
+                "correct": true
+            },
+            {
+                "text": "Aumentará las posibilidades de persuasión cuando los argumentos del mensaje son fuertes."
+            },
+            {
+                "text": "Aumentará las posibilidades de persuasión cuando los argumentos del mensaje coinciden con las actitudes del receptor."
+            }
+        ]
+    },
+    {
+        "text": "Si durante una campaña política veo en la televisión que un candidato constantemente mantiene a bebés en los brazos me daré cuenta de que está intentando activar el principio de influencia basado en",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La simpatía.",
+                "correct": true
+            },
+            {
+                "text": "La autoridad."
+            },
+            {
+                "text": "La validación social."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de probabilidad de elaboración, el cambio de actitudes provocado por un mensaje será más duradero y predecirá mejor la conducta futura si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se basa en heurísticos."
+            },
+            {
+                "text": "Genera en los perceptores un alto número de pensamientos relacionados con el mensaje.",
+                "correct": true
+            },
+            {
+                "text": "Se procesa vía la ruta periférica."
+            }
+        ]
+    },
+    {
+        "text": "La táctica de influencia llamada “de la bola baja” funciona mejor cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 257-258)",
+        "responses": [
+            {
+                "text": "No se da a la persona la oportunidad de buscar justificaciones para mantener su decisión inicial."
+            },
+            {
+                "text": "La persona se compromete la primera vez libremente y de forma pública.",
+                "correct": true
+            },
+            {
+                "text": "El agente de influencia que da la información falsa o incompleta en el primer momento no es el mismo que el que da la información adecuada al final."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué situaciones es mejor que se hagan explícitas las conclusiones a las que se debe llegar con un mensaje?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando se crea que la motivación y capacidad de la audiencia son bajas.",
+                "correct": true
+            },
+            {
+                "text": "Si se pretende que los receptores elaboren activamente el mensaje."
+            },
+            {
+                "text": "Si se dirige a una audiencia con alta necesidad de cognición."
+            }
+        ]
+    },
+    {
+        "text": "En una campaña dirigida a reducir el abandono de perros aparecía el eslogan “Él nunca lo haría”. ¿En qué principio se basa la táctica empleada en este anuncio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 259)",
+        "responses": [
+            {
+                "text": "Validación social."
+            },
+            {
+                "text": "Autoridad."
+            },
+            {
+                "text": "Reciprocidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones NO está relacionada con la siguiente frase: “cuando una persona se compromete con una postura, será más proclive a aceptar peticiones para realizar conductas coherentes con esa postura”?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 260-261).",
+        "responses": [
+            {
+                "text": "La táctica del portazo en la cara.",
+                "correct": true
+            },
+            {
+                "text": "El principio psicológico de coherencia."
+            },
+            {
+                "text": "La teoría de la disonancia cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el postulado básico del modelo de probabilidad de elaboración de Petty y Cacciopo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 274)",
+        "responses": [
+            {
+                "text": "Los mensajes pueden llegar a persuadir a través de dos rutas de pensamiento: central o periférica.",
+                "correct": true
+            },
+            {
+                "text": "Se procesan claves de la persuasión por medio de esquemas o reglas de decisión que las personas han aprendido por experiencias previas y por observación."
+            },
+            {
+                "text": "El cambio de actitudes depende del número de automensajes generados y del balance entre los pensamientos a favor y en contra de la posición defendida por el mensaje."
+            }
+        ]
+    },
+    {
+        "text": "Según las investigaciones sobre cómo influyen las variables del mensaje, para conseguir persuadir a un receptor con baja motivación y capacidad de elaboración deberíamos emplear mensajes que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 280)+",
+        "responses": [
+            {
+                "text": "Contengan pocos argumentos y que no sean novedosos."
+            },
+            {
+                "text": "Faciliten al receptor sacar sus propias conclusiones."
+            },
+            {
+                "text": "Contengan muchos argumentos, y los más fuertes al final.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el área del cambio de actitudes mediante mensajes persuasivos, el modelo del aprendizaje del mensaje se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Centrarse en la importancia de la motivación del receptor para recibir y aceptar el mensaje."
+            },
+            {
+                "text": "Dar una gran importancia a los procesos cognitivos que tienen lugar en la mente del receptor."
+            },
+            {
+                "text": "Considerar al receptor como un ser pasivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un adolescente desea que sus padres le compren una videoconsola nueva, sin embargo, es consciente de que los argumentos con los que pretende persuadirles de ello son débiles. Teniendo en cuenta la debilidad de sus argumentos, el adolescente tendrá mayor probabilidad de convencer a sus padres para que le compren la consola si",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Consigue que su hermana advierta a sus padres previamente de sus intenciones."
+            },
+            {
+                "text": "Transmite el mensaje un día en que sus padres se encuentran tristes como consecuencia de una discusión."
+            },
+            {
+                "text": "Aprovecha que sus padres están distraídos mientras hacen la cena para transmitirles el mensaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para que un mensaje resulte persuasivo y consiga cambiar las actitudes de las personas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(p. 276)",
+        "responses": [
+            {
+                "text": "Es necesario que su contenido se comprenda y se recuerde."
+            },
+            {
+                "text": "El receptor debe procesar de forma activa la información."
+            },
+            {
+                "text": "En ocasiones basta con que el receptor se fije en unas cuantas claves presentes en el contexto y externas al mensaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones es una premisa del modelo de probabilidad de elaboración?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 274-275)",
+        "responses": [
+            {
+                "text": "Para que se dé persuasión se tiene que utilizar la ruta central."
+            },
+            {
+                "text": "La persuasión vía ruta central se produce si la persona tiene baja capacidad y/o baja motivación."
+            },
+            {
+                "text": "La persuasión vía ruta periférica se produce sin demasiado esfuerzo cognitivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se acercan las elecciones y el ciudadano P está indeciso. Para salir de dudas, decide asistir a los mítines de los dos candidatos que se presentan. En el primero queda cautivado por el carisma del aspirante, por lo bien que habla y por la credibilidad que inspira. Además, observa que todos los asistentes le aplauden con entusiasmo. Convencido ya de qué opción va a votar, decide no asistir al mitin del otro candidato. ¿Teniendo en cuenta esta descripción, cuál de los siguientes modelos de persuasión explica mejor el cambio de actitud de P?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "(pp. 273-274)",
+        "responses": [
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            },
+            {
+                "text": "El modelo de la ruta central."
+            }
+        ]
+    }
+]

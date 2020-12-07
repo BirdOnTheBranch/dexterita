@@ -1,0 +1,3050 @@
+[
+    {
+        "text": "Supongamos que en el factor g de inteligencia influyen tres genes aditivos A, B y C cada uno con dos alelos, 1 y 2. Sabiendo que el alelo 1 de cada gen aporta un punto de inteligencia y el alelo 2, dos puntos, se pide calcular la probabilidad de que una pareja heterocigótica para los tres genes tenga un descendiente cuyo valor de g sea 12:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "1/16."
+            },
+            {
+                "text": "1/4."
+            },
+            {
+                "text": "1/8."
+            },
+            {
+                "text": "1/64.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de Angelman:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "C/ Se caracteriza por retraso mental."
+            },
+            {
+                "text": "A/ Se produce en individuos que presentan una deleción en su cromosoma 15 materno."
+            },
+            {
+                "text": "B/ Es provocado por una traslocación recíproca equilibrada entre los  cromosomas14/15."
+            },
+            {
+                "text": "A y C son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La correlación que entre hermanos gemelos monocigóticos criados por separados (MZS) nos proporciona el valor de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La mitad de la heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La heredabilidad en sentido amplio.",
+                "correct": true
+            },
+            {
+                "text": "La ambientalidad."
+            },
+            {
+                "text": "La heredabilidad en sentido estricto."
+            }
+        ]
+    },
+    {
+        "text": "En los perros, la narcolepsia es producida por uno de los alelos del gen del receptor del neurotransmisor hipocretina. Teniendo en cuenta esta circunstancia, podemos concluir que la narcolepsia canina es un rasgo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la genética cuantitativa."
+            },
+            {
+                "text": "Mendeliano.",
+                "correct": true
+            },
+            {
+                "text": "Continuo."
+            },
+            {
+                "text": "Poligénico."
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aparecen al azar y la selección natural se encarga de determinar su valor para el éxito reproductivo de quien las porta .",
+                "correct": true
+            },
+            {
+                "text": "Tienen una finalidad y un carácter postadaptativo."
+            },
+            {
+                "text": "Son siempre heredables."
+            },
+            {
+                "text": "Producen cambios espectaculares en las frecuencias alélicas."
+            }
+        ]
+    },
+    {
+        "text": "En una pareja de jóvenes, el chico no quiere tener hijos porque cuando era niño lo pasó mal al tener que someterse a una dieta sin fenilalanina desde su nacimiento, igual que le ocurrió a su padre. Ni la chica ni nadie de su familia próxima o lejana se vieron en esas circunstancias y ella no se hace a la idea de casarse y no tener hijos. Como un último intento de convencer a su novio, le consulta a usted como amigo/a que estudia Psicología en la UNED sobre la probabilidad de tener un hijo varón con el mismo problema de su novio. Usted le dice que es de un:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "75%."
+            },
+            {
+                "text": "100%."
+            },
+            {
+                "text": "50%."
+            },
+            {
+                "text": "0%.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La proporción de la variabilidad fenotípica que se debe a diferencias genéticas entre los individuos de una población se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dosis génica."
+            },
+            {
+                "text": "Varianza fenotípica."
+            },
+            {
+                "text": "Valor genético aditivo."
+            },
+            {
+                "text": "Heredabilidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de cría selectiva en el que se pretende aumentar la longitud del tallo de las flores de una población A cuya media es de 15 cm ¿cuál será la heredabilidad de dicho rasgo si tras escoger de esta población una subpoblación B con una longitud de tallo media de 25 cm, obtenemos una subpoblación C con un tallo de 20 cm?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.5",
+                "correct": true
+            },
+            {
+                "text": "0.6"
+            },
+            {
+                "text": "0.7"
+            },
+            {
+                "text": "0.8"
+            }
+        ]
+    },
+    {
+        "text": "Suponga que una mujer que, desde su nacimiento hasta la adolescencia, tuvo que tener una dieta especial carente de fenilalanina, se casa con un señor cuya madre también llevó esa dieta por el mismo motivo. En el caso de que tuvieran una hija, este joven matrimonio se pregunta si ella tendría que llevar la misma dieta. Usted le dice que la probabilidad de que eso pueda ocurrir es de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "75%"
+            },
+            {
+                "text": "25%"
+            },
+            {
+                "text": "50%",
+                "correct": true
+            },
+            {
+                "text": "100%"
+            }
+        ]
+    },
+    {
+        "text": "De un rasgo cuantitativo sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es casi siempre monogénico."
+            },
+            {
+                "text": "Sus distintos fenotipos se explican por diferentes valores genotípicos.",
+                "correct": true
+            },
+            {
+                "text": "Se expresa o no en el fenotipo pero no presenta valores intermedios."
+            },
+            {
+                "text": "Se denomina también discreto."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios de genética cuantitativa de la conducta ponen de manifiesto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los genes que determinan rasgos fenotípicos cuantitativos no se transmiten de padres a hijos según los principios de la genética mendeliana."
+            },
+            {
+                "text": "Hay alelos cuyo valor se suma al de otros para explicar el fenotipo.",
+                "correct": true
+            },
+            {
+                "text": "La heredabilidad es un valor numérico entre 1 y -1."
+            },
+            {
+                "text": "Los rasgos cuantitativos o continuos solo pueden ser monogénicos."
+            }
+        ]
+    },
+    {
+        "text": "Cuando encontramos que a medida que se aumenta en edad, los valores de la heredabilidad aumentan, tenemos que aceptar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La influencia del ambiente en la expresión del rasgo es mayor"
+            },
+            {
+                "text": "El ambiente es irrelevante a la hora de explicar el comportamiento"
+            },
+            {
+                "text": "La influencia del ambiente en la expresión del rasgo es menor",
+                "correct": true
+            },
+            {
+                "text": "Todo lo que se puede decir es que los genes no tienen ninguna influencia sobre la conducta"
+            }
+        ]
+    },
+    {
+        "text": "Si usted quisiera obtener el valor de la heredabilidad en sentido estricto de un rasgo humano realizaría un estudio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Con padres e hijos.",
+                "correct": true
+            },
+            {
+                "text": "Con gemelos."
+            },
+            {
+                "text": "Con hermanos."
+            },
+            {
+                "text": "De selección."
+            }
+        ]
+    },
+    {
+        "text": "Se realiza un cruce entre dos razas puras (homocigóticas) para un determinado carácter cuantitativo, una con un valor medio de 35, la otra de 80 y ambas con una varianza de 7,36, que produce una generación F1 con una varianza en el carácter cuantitativo estudiado de 7,36. En función de estos resultados podemos decir que esta varianza será consecuencia fundamentalmente de la varianza:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambiental (VA).",
+                "correct": true
+            },
+            {
+                "text": "Genética por epistasia (VGi)."
+            },
+            {
+                "text": "Genética por dominancia (VGD)."
+            },
+            {
+                "text": "Genética aditiva (VGA)."
+            }
+        ]
+    },
+    {
+        "text": "Un hombre 45, XY, fenotípicamente normal, tiene un hijo con síndrome de Down, la explicación más probable es que este hombre:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sea homocigótico recesivo."
+            },
+            {
+                "text": "Sea portador de una traslocación robertsoniana.",
+                "correct": true
+            },
+            {
+                "text": "Presente una trisomía."
+            },
+            {
+                "text": "Sea portador de una traslocación recíproca."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio sobre un determinado rasgo se obtiene que las correlaciones (r) entre gemelos criados juntos son: rMz= 0,80 y rDz= 0,40. Aplicando las fórmulas de Falconer a estos resultados se puede afirmar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El 80% de la variabilidad fenotípica para el rasgo se debe a la varianza genética"
+            },
+            {
+                "text": "La variabilidad fenotípica para el rasgo no está influida en absoluto por el ambiente compartido"
+            },
+            {
+                "text": "El 20% de la variabilidad fenotípica para el rasgo es atribuible al ambiente específico de cada uno (no compartido)"
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios de genética de la conducta ponen de manifiesto que lo más frecuente es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las diferencias fenotípicas entre individuos en rasgos conductuales sean cualitativas."
+            },
+            {
+                "text": "La base genética de los rasgos conductuales sea monogénica."
+            },
+            {
+                "text": "Los rasgos conductuales no se heredan."
+            },
+            {
+                "text": "Cada alelo de cada gen aporta al fenotipo una cierta cantidad del rasgo conductual.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que para un determinado rasgo la varianza ambiental es de 10,5 y la genética de 8,25 ¿Cuál es el valor de la heredabilidad para ese rasgo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.81"
+            },
+            {
+                "text": "0.26"
+            },
+            {
+                "text": "0.66"
+            },
+            {
+                "text": "0.44",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Supongamos un rasgo determinado por dos genes (A y B) con dos alelos cada uno (A1, A2 y B1, B2, respectivamente) y con un valor aditivo de 0 para los alelos A1 y B1 y de 1 para los alelos A2 y B2 ¿Qué proporción de los descendientes de progenitores heterocigotos para ambos loci, tendrían un valor genotípico de 3?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "4/16.",
+                "correct": true
+            },
+            {
+                "text": "1/16."
+            },
+            {
+                "text": "8/16."
+            },
+            {
+                "text": "6/16."
+            }
+        ]
+    },
+    {
+        "text": "Los cromosomas X de los mamíferos, cuando hay más de uno, están funcionalmente inactivados al azar en las células somáticas por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El bloqueo de la enzima ADN polimerasa."
+            },
+            {
+                "text": "La acción de un gen que impide la transcripción del ADN de ese cromosoma.",
+                "correct": true
+            },
+            {
+                "text": "La pérdida del gen SRY."
+            },
+            {
+                "text": "La mediación del corpúsculo de Barr."
+            }
+        ]
+    },
+    {
+        "text": "Suponga que en un estudio de cría selectiva en el que se pretendía aumentar la producción de leche de una población de vacas cuya media estaba en 40 1/día, se seleccionaron las vacas con una producción media de 50 1/día y se obtuvo que la descendencia de éstas producía 45 1/día. ¿Cuál sería el valor de la H en este estudio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "1"
+            },
+            {
+                "text": "0.5",
+                "correct": true
+            },
+            {
+                "text": "5"
+            },
+            {
+                "text": "10"
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que para un determinado rasgo la varianza ambiental es de 6,06 y la total de 20,2 ¿Cuál es el valor de la heredabilidad para ese rasgo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.7",
+                "correct": true
+            },
+            {
+                "text": "0.3"
+            },
+            {
+                "text": "0.77"
+            },
+            {
+                "text": "0.43"
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que en una población la puntuación media de un determinado rasgo es de 176 y su varianza total de 18,75, una heredabilidad de 0,44 para ese rasgo nos indicaría que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "8,25 puntos de la varianza son debidos a causas genéticas.",
+                "correct": true
+            },
+            {
+                "text": "18,75 puntos de la media del rasgo son debidos a causas genéticas."
+            },
+            {
+                "text": "77,44 puntos de la media del rasgo son debidos a causas genéticas."
+            },
+            {
+                "text": "0,44 puntos de la varianza son debidos a causas genéticas."
+            }
+        ]
+    },
+    {
+        "text": "Suponiendo que la longitud del tallo de una planta estuviera controlada por tres genes (A, B y C) con dos alelos cada uno, cuyos valores aditivos son: A: 10, a: 5, B: 6, b: 2, C: 4, c: 0 . ¿Cuál de los siguientes genotipos tendría el tallo más largo? O lo que es lo mismo ¿Cuál tendría el mayor valor genotípico?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "AabbCc."
+            },
+            {
+                "text": "AaBbCc."
+            },
+            {
+                "text": "AABBcc."
+            },
+            {
+                "text": "AaBBCC.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con los estudios sobre Genética de la Conducta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los estudios de padres e hijos nos permiten calcular la heredabilidad en sentido estricto.",
+                "correct": true
+            },
+            {
+                "text": "Todas las afirmaciones anteriores son correctas."
+            },
+            {
+                "text": "Los estudios de selección nos permiten calcular la heredabilidad en sentido amplio."
+            },
+            {
+                "text": "Los estudios con gemelos idénticos nos permiten calcular la heredabilidad en sentido estricto."
+            }
+        ]
+    },
+    {
+        "text": "Tras realizar un estudio sobre un determinado rasgo con gemelos monocigóticos y otro con gemelos dicigóticos, en los que se obtuvo una correlación de 0.6 y 0.3, respectivamente, podemos concluir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El efecto del ambiente compartido es 0.3"
+            },
+            {
+                "text": "El valor de la heredabilidad es 0.6",
+                "correct": true
+            },
+            {
+                "text": "La heredabilidad de ese rasgo es 0.9"
+            },
+            {
+                "text": "No podemos calcular la heredabilidad con estos datos "
+            }
+        ]
+    },
+    {
+        "text": "La correlación entre gemelos monocigóticos criados juntos nos proporciona el valor de,",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heredabilidad en sentido estricto"
+            },
+            {
+                "text": "La ambientalidad"
+            },
+            {
+                "text": "La heredabilidad en sentido amplio más la ambientalidad compartida",
+                "correct": true
+            },
+            {
+                "text": "La mitad de la heredabilidad en sentido amplio"
+            }
+        ]
+    },
+    {
+        "text": "Si al hacer el cariotipo de un hombre nos encontramos con 47 cromosomas y, al analizarlo, observamos que sus cromosomas sexuales son XYY, podemos decir que estamos ante un caso de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Síndrome de Down."
+            },
+            {
+                "text": "Monosomía."
+            },
+            {
+                "text": "Trisomía.",
+                "correct": true
+            },
+            {
+                "text": "Poliploidía."
+            }
+        ]
+    },
+    {
+        "text": "En genética cuantitativa, los alelos cuyo valor se suma al de otros para explicar el fenotipo reciben el nombre de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dosis génica."
+            },
+            {
+                "text": "Alelos recesivos."
+            },
+            {
+                "text": "Alelos aditivos.",
+                "correct": true
+            },
+            {
+                "text": "Alelos dominantes."
+            }
+        ]
+    },
+    {
+        "text": "Para que la heredabilidad del rasgo sea 0.54 ¿cuál tuvo que ser el valor de la correlación entre gemelos monocigóticos criados por separado?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.54",
+                "correct": true
+            },
+            {
+                "text": "Cualquiera de las dos"
+            },
+            {
+                "text": "0.27"
+            },
+            {
+                "text": "Ninguna de las dos"
+            }
+        ]
+    },
+    {
+        "text": "En genética cuantitativa, la respuesta de selección es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una medida de la heredabilidad en sentido estricto."
+            },
+            {
+                "text": "La diferencia entre la media de la población y la media del grupo seleccionado."
+            },
+            {
+                "text": "La diferencia entre la media de los descendientes del grupo seleccionado y la de la población original.",
+                "correct": true
+            },
+            {
+                "text": "Una medida de la heredabilidad en sentido amplio."
+            }
+        ]
+    },
+    {
+        "text": "Cuáles de los siguientes métodos no son de aplicación en los estudios de genética cuantitativa humana:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estudios de adopciones"
+            },
+            {
+                "text": "Estudios de selección",
+                "correct": true
+            },
+            {
+                "text": "Estudios de gemelos"
+            },
+            {
+                "text": "Estudios de familia"
+            }
+        ]
+    },
+    {
+        "text": "la utilización de modelos animales en los estudios de genética de la conducta ha permitido poner de manifiesto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todos los trastornos del comportamiento dependen de una herencia poligénica."
+            },
+            {
+                "text": "Ciertos tipos de obesidad dependen de determinados alelos de un gen.",
+                "correct": true
+            },
+            {
+                "text": "Los trastornos emocionales permanentes no pueden ser atribuidos a factores genéticos."
+            },
+            {
+                "text": "El ciclo sueño – vigilia depende sólo de factores ambientales."
+            }
+        ]
+    },
+    {
+        "text": "Para calcular la heredabilidad que explica el éxito de la cría selectiva ha de tenerse en cuenta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La varianza atribuible a la epistasia."
+            },
+            {
+                "text": "La varianza genética aditiva.",
+                "correct": true
+            },
+            {
+                "text": "La varianza debida al efecto por dominancia."
+            }
+        ]
+    },
+    {
+        "text": "En el ámbito de la genética cuantitativa, el valor genotípico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            },
+            {
+                "text": "Depende de la dosis génica y del valor aditivo.",
+                "correct": true
+            },
+            {
+                "text": "Es el número de veces que aparece un alelo de un locus ."
+            },
+            {
+                "text": "Es el valor de cada alelo de un locus."
+            }
+        ]
+    },
+    {
+        "text": "La correlación entre gemelos dicigóticos criados por separado nos proporciona el valor de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La mitad de la heredabilidad en sentido amplio.",
+                "correct": true
+            },
+            {
+                "text": "La heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La ambientalidad."
+            },
+            {
+                "text": "La heredabilidad en sentido estricto."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la bravura del toro de lidia (Bos taurus ibericus.) se sabe que los nivelesplasmáticos de serotonina correlacionan negativamente con la agresividad del toro durante lalidia (a menos serotonina más agresividad) y, por otro lado, que estos niveles no varíansignificativamente a lo largo de la vida del toro, aunque sí existe variabilidad de unosindividuos a otros. Teniendo en cuenta estos datos, un ganadero realiza una cría selectiva detoros bravos utilizando los niveles de serotonina plasmática como rasgo a seleccionar. Paraello, de una población cuyo nivel plasmático medio de serotonina es de 684,9 ng/ml,selecciona para crianza una población con un nivel plasmático medio de 634,9 ng/ml deserotonina. Los toros descendientes de este grupo presentan una concentración plasmáticamedia de 645,9 ng/ml de serotonina ¿Cuál es la heredabilidad del rasgo utilizado en este estudio de cría selectiva?:(una única respuesta correcta):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,22."
+            },
+            {
+                "text": "0,2."
+            },
+            {
+                "text": "0,8."
+            },
+            {
+                "text": "0,78.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que realizamos un estudio en una población y obtenemos que el valor medio de un determinado rasgo cuantitativo es de 160 unidades, la varianza total es de 8 unidades y la heredabilidad de 0,75. Con estos datos podemos decir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "120 unidades del valor medio (160) son debidas a causas genéticas."
+            },
+            {
+                "text": "6 unidades de la varianza total son debidas a causas genéticas.",
+                "correct": true
+            },
+            {
+                "text": "El 75% del valor medio del rasgo es debido a causas genéticas."
+            },
+            {
+                "text": "El 25% del valor medio del rasgo es debido a causas ambientales."
+            }
+        ]
+    },
+    {
+        "text": "En una noticia publicada en la prensa, se indicaba que una mujer inglesa había dado a luz a dos mellizos, uno de raza blanca y otro de raza negra. Aunque el color de la piel está determinado por los efectos aditivos de múltiples genes, supongamos que sólo estuviera determinado por dos genes con dos alelos cada uno (Aa y Bb), donde sólo el alelo marcado con mayúscula aporta color. Si el padre de estos mellizos es blanco (aabb) y la madre mulata (AaBb) ¿qué probabilidad tendría esta pareja de tener hijos blancos (aabb)?:(una única respuesta correcta):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "25%.",
+                "correct": true
+            },
+            {
+                "text": "50%."
+            },
+            {
+                "text": "75%."
+            },
+            {
+                "text": "100%."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué conclusión se puede extraer del hecho de que la heredabilidad de la inteligencia aumente con la edad (de 0,22 a los 5 años hasta 0,88 a los 26)?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el ambiente es más importante cuanto menor es la edad",
+                "correct": true
+            },
+            {
+                "text": "Que el ambiente afecta siempre por igual"
+            },
+            {
+                "text": "Que en los adultos los genes se expresan más que en los jóvenes"
+            },
+            {
+                "text": "Nada de lo dicho explica esas diferencias en heredabilidad"
+            }
+        ]
+    },
+    {
+        "text": "De la investigación de Cooper y Zubek de 1958 con ratas seleccionadas, 'listas' y 'torpes' criadas en tres ambientes, empobrecido, normal y enriquecido, se deduce que a la hora de explicar la conducta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ El ambiente es irrelevante."
+            },
+            {
+                "text": "B/ La influencia genética es irrelevante."
+            },
+            {
+                "text": "C/ El valor de la heredabilidad puede depender del ambiente.",
+                "correct": true
+            },
+            {
+                "text": "Todo lo dicho en A, B y C es cierto."
+            }
+        ]
+    },
+    {
+        "text": "A la luz de los datos relativos a la estructura de las opsinas para el rojo y el verde y la ubicación de los genes que las codifican, parece probable que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Su origen esté en una duplicación dentro del cromosoma Y."
+            },
+            {
+                "text": "Su origen esté en una duplicación dentro del cromosoma X.",
+                "correct": true
+            },
+            {
+                "text": "Su origen esté en una inversión dentro del cromosoma X."
+            },
+            {
+                "text": "Su origen esté en una deleción dentro del cromosoma X."
+            }
+        ]
+    },
+    {
+        "text": "Suponiendo que C1 y C2 son dos de los genes que contribuyen a la determinación del color de la piel humana y que los valores aditivos de sus alelos son: C1:10, c1:0, C2:5, c2:0, siendo 10 el que aporta más color y 0 la ausencia de color ¿qué proporción de la descendencia de una pareja de progenitores heterocigotos para ambos genes (C1c1C2c2), presentarán un fenotipo mulato con el mismo valor genotípico que sus progenitores?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "3/16"
+            },
+            {
+                "text": "6/16"
+            },
+            {
+                "text": "4/16",
+                "correct": true
+            },
+            {
+                "text": "2/16"
+            }
+        ]
+    },
+    {
+        "text": "Cuál de los siguientes rasgos no es monogénico, sino cuantitativo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inteligencia (el llamado factor g).",
+                "correct": true
+            },
+            {
+                "text": "La narcolepsia canina."
+            },
+            {
+                "text": "La obesidad humana debida a una variante de leptina fisiológicamente inactiva."
+            },
+            {
+                "text": "La fenilcetonuria."
+            }
+        ]
+    },
+    {
+        "text": "La genética de la conducta tiene entre sus objetivos investigar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los fenotipos conductuales poligénicos."
+            },
+            {
+                "text": "Los fenotipos conductuales monogénicos."
+            },
+            {
+                "text": "Qué proporción de la varianza fenotípica conductual se explica por la diversidad genotípica y cuál por la diversidad ambiental."
+            },
+            {
+                "text": "Lo indicado en las tres opciones anteriores es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios de genética de la conducta ponen de manifiesto que lo más frecuente es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las diferencias fenotípicas entre individuos en rasgos conductuales sean cualitativas."
+            },
+            {
+                "text": "Cada alelo de cada gen aporte al fenotipo una cierta cantidad del rasgo conductual.",
+                "correct": true
+            },
+            {
+                "text": "La base genética de los rasgos conductuales sea monogénica."
+            },
+            {
+                "text": "Los rasgos conductuales no se hereden."
+            }
+        ]
+    },
+    {
+        "text": "La proporción de variabilidad fenotípica que se debe a diferencias genéticas entre los individuos de una población se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Varianza fenotípica."
+            },
+            {
+                "text": "Valor genético aditivo."
+            },
+            {
+                "text": "Heredabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Dosis génica."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los siguientes síndromes NO está causado por un defecto monogénico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El síndrome del X frágil."
+            },
+            {
+                "text": "La fenilcetonuria."
+            },
+            {
+                "text": "La obesidad debida a mutaciones en el gen que codifica la leptina."
+            },
+            {
+                "text": "El síndrome de Turner.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál será la heredabilidad de un determinado rasgo sabiendo que la varianza fenotípica para ese rasgo es de 50 y que la varianza ambiental es 10?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.8",
+                "correct": true
+            },
+            {
+                "text": "0.6"
+            },
+            {
+                "text": "0.5"
+            },
+            {
+                "text": "0.7"
+            }
+        ]
+    },
+    {
+        "text": "Los estudios de genética de la conducta con modelos animales han demostrado que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las tres opciones anteriores son ciertas ."
+            },
+            {
+                "text": "Hay una relación causal entre el gen del transportador de serotonina y un síndrome similar a la fenilcetonuria."
+            },
+            {
+                "text": "Algunas conductas agresivas están provocadas por niveles bajos de leptina."
+            },
+            {
+                "text": "En diversas conductas emocionales intervienen alelos concretos de determinados genes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Al estudiar la incidencia del alcoholismo en una población se obtuvo una varianza ambiental (VA)= 12 y una varianza total (VT) = 20 ¿Cuál es el valor de la heredabilidad del alcoholismo en esa población?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.8"
+            },
+            {
+                "text": "0.6"
+            },
+            {
+                "text": "0.2"
+            },
+            {
+                "text": "0.4",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los datos obtenidos en genética de la conducta humana y con modelos animales nos muestran que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hasta el momento no se han descubierto defectos monogénicos que estén asociados con el deterioro de la inteligencia, los procesos de aprendizaje o el lenguaje."
+            },
+            {
+                "text": "La mutación de un gen del cromosoma X que se expresa en el tejido cerebral está asociada con la aparición de subnormalidad moderada sobre todo en varones.",
+                "correct": true
+            },
+            {
+                "text": "Los defectos monogenéticos que se han asociado con trastornos conductuales se producen siempre en alelos dominantes."
+            },
+            {
+                "text": "Las tres opciones anteriores son falsas."
+            }
+        ]
+    },
+    {
+        "text": "La mayoría de los estudios de gemelos y familias indican una heredabilidad del CI de 0.70, lo que significa que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El 70% del CI de un individuo se debe a sus genes"
+            },
+            {
+                "text": "El CI tienen una heredabilidad menor que otras capacidades cognitivas más específicas"
+            },
+            {
+                "text": "El 70% de las diferencias en el CI entre los individuos de una población se deben a las diferencias genéticas existentes entre ellos",
+                "correct": true
+            },
+            {
+                "text": "La media del CI en la población es 0.70"
+            }
+        ]
+    },
+    {
+        "text": "Si usted aplicara la Fórmula de Falconer para averiguar la heredabilidad de un rasgo medido mediante cuestionario y encontrara que la correlación entre gemelos monocigóticos criados juntos es de 0.63 y la de gemelos dicigóticos criados juntos fuera de 0.42, estaría en condiciones de asegurar que el valor de la heredabilidad en sentido amplio es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.84"
+            },
+            {
+                "text": "0.63"
+            },
+            {
+                "text": "0.42",
+                "correct": true
+            },
+            {
+                "text": "0.5"
+            }
+        ]
+    },
+    {
+        "text": "Suponga que tenemos una población en el cual uno de los rasgos medidos tiene como media 105.2 y como varianza 30.6 y que la correlación entre padre-hijo es de 0.45. ¿Qué tipo de heredabilidad podemos obtener y cuál es su valor?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En sentido amplio; 0.306"
+            },
+            {
+                "text": "En sentido estricto; 0.9",
+                "correct": true
+            },
+            {
+                "text": "En sentido estricto; 0.61"
+            },
+            {
+                "text": "En sentido amplio; 0.9"
+            }
+        ]
+    },
+    {
+        "text": "Las personas con el cariotipo 47XYY se caracterizan porque tienen:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El cromosoma X inactivo"
+            },
+            {
+                "text": "Un cromosoma Y inactivado"
+            },
+            {
+                "text": "Sus dos cromosomas Y inactivos"
+            },
+            {
+                "text": "Los dos cromosomas Y activos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que la especie humana tenga 46 cromosomas (n=23) a diferencia de los chimpancés, gorilas y orangutanes, que tienen 48 (n=24), parece poder explicarse por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una aneuploidía."
+            },
+            {
+                "text": "Una translocación robertsoniana.",
+                "correct": true
+            },
+            {
+                "text": "Una inversión."
+            },
+            {
+                "text": "Una monosomía."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que al evaluar determinado rasgo conductual, los gemelos dicigóticos muestran el mismo grado de correlación que los gemelos monocigóticos. Si cada par de gemelos creció en un mismo ambiente familiar, podemos concluir con certeza que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/El valor de la heredabilidad de este rasgo es 1"
+            },
+            {
+                "text": "B/El ambiente es un factor importante en la manifestación de este rasgo",
+                "correct": true
+            },
+            {
+                "text": "C/El valor de la heredabilidad de este rasgo es 0.35"
+            },
+            {
+                "text": "Las opciones A y B son correctas"
+            }
+        ]
+    },
+    {
+        "text": "Una aneuploidía en la que los alelas recesivos del cromosoma X se expresan siempre es el síndrome de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lyon."
+            },
+            {
+                "text": "Turner.",
+                "correct": true
+            },
+            {
+                "text": "Down."
+            },
+            {
+                "text": "Klinefelter."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que entre los simios antropoides (primates no humanos) y los humanos haya una diferencia en el número de cromosomas, parece poder atribuirse a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Translocación no recíproca."
+            },
+            {
+                "text": "Translocación recíproca."
+            },
+            {
+                "text": "Translocación robertsoniana.",
+                "correct": true
+            },
+            {
+                "text": "Deleción."
+            }
+        ]
+    },
+    {
+        "text": "En animales de laboratorio puede hacerse una estimación del grado de 'ansiedad' que pueden tener  esos sujetos ante espacios abiertos cuando se estudian en un laberinto en forma de cruz y elevado suficientemente sobre el suelo. En ese laberinto hay brazos abiertos, de modo que si el  animal se asoma a los bordes ve que hay una apreciable altura, y brazos cerrados con paredes, en los que no es posible ver el suelo. La estimación de esta 'ansiedad' guarda relación  con el tiempo que el sujeto pasa en los brazos abiertos y cerrados, de modo que, en general, a menor tiempo en los brazos abiertos mayor 'ansiedad'. Suponga que en una población  de roedores de laboratorio se calcula que la heredabilidad de ese rasgo de'ansiedad' es de 0,35 y que la varianza fenotípica total es de 27. ¿Cuál será el valor de la varianza genética?:(una única respuesta correcta):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "9,45.",
+                "correct": true
+            },
+            {
+                "text": "77."
+            },
+            {
+                "text": "0,95."
+            },
+            {
+                "text": "1,29."
+            }
+        ]
+    },
+    {
+        "text": "A mediados de los 70 del siglo anterior se demostró la existencia en perros de una mutación recesiva responsable de la narcolepsia canina. De ello se deduce que los miembros de una camada cuyos progenitores presentan narcolepsia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tienen un 25 % de probabilidades de ser normales."
+            },
+            {
+                "text": "Con toda seguridad serán narcolépticos.",
+                "correct": true
+            },
+            {
+                "text": "Lo más probable es que sean normales."
+            },
+            {
+                "text": "Tienen un 50 % de posibilidades de ser narcolépticos."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que al evaluar un determinado rasgo conductual (e.g. extroversión) observamos que tanto la correlación entre padres e hijos como entre hermanos es de 0.40 ¿cuál podría ser el valor aproximado de la heredabilidad para dicho rasgo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.60"
+            },
+            {
+                "text": "0.80",
+                "correct": true
+            },
+            {
+                "text": "0.20"
+            },
+            {
+                "text": "0.40"
+            }
+        ]
+    },
+    {
+        "text": "La correlación entre padres biológicos y sus hijos biológicos cuando éstos han sido criados por familias adoptivas, nos proporciona el valor de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La mitad de la heredabilidad en sentido amplio más la ambientalidad compartida."
+            },
+            {
+                "text": "La heredabilidad en sentido amplio más la ambientalidad compartida."
+            },
+            {
+                "text": "La heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La heredabilidad en sentido estricto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El síndrome del X frágil:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un defecto poligénico"
+            },
+            {
+                "text": "Se produce por la mutación del gen FOXP2"
+            },
+            {
+                "text": "Es la segunda causa de síndrome de Down en varones",
+                "correct": true
+            },
+            {
+                "text": "Afecta principalmente a las mujeres"
+            }
+        ]
+    },
+    {
+        "text": "En los experimentos que investigan la sensibilidad al alcohol con ratones se toma como medida el tiempo que los roedores pasan dormidos/sin actividad motora, después de administrarles una inyección de etanol. De una población de ratones genéticamente heterogénea (reproducidos al azar) cuya media de sueño tras la inyección del etanol es de 55 min., los investigadores seleccionan los ratones cuya media de sueño es de 25 min y observan que en la descendencia de estos ratones la media de sueño tras la administración de etanol es de 35 min. De estos resultados pueden concluir que la heredabilidad del rasgo es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.25"
+            },
+            {
+                "text": "0.83"
+            },
+            {
+                "text": "0.66",
+                "correct": true
+            },
+            {
+                "text": "0.35"
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de Down:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede estar causado por una translocación robertsoniana.",
+                "correct": true
+            },
+            {
+                "text": "No está asociado a retraso mental."
+            },
+            {
+                "text": "Es una monosomía."
+            },
+            {
+                "text": "Es una trisomía del cromosoma X."
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No afectan a la variabilidad genética."
+            },
+            {
+                "text": "No son consideradas un factor que produzca por sí solo cambios importantes en las frecuencias alélicas.",
+                "correct": true
+            },
+            {
+                "text": "Son siempre heredables."
+            },
+            {
+                "text": "Tienen una finalidad y un carácter postadaptativo."
+            }
+        ]
+    },
+    {
+        "text": "No es una alteración estructural de los cromosomas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una traslocación."
+            },
+            {
+                "text": "Una deleción."
+            },
+            {
+                "text": "Una trisomía.",
+                "correct": true
+            },
+            {
+                "text": "Una inversión."
+            }
+        ]
+    },
+    {
+        "text": "Si en un estudio de familias que investiga la predisposición al alcoholismo se obtiene que la correlación entre padres e hijos y entre hermanos es de 0,20, se hallaría un valor de la heredabilidad de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,10."
+            },
+            {
+                "text": "0,20."
+            },
+            {
+                "text": "0,40.",
+                "correct": true
+            },
+            {
+                "text": "0,80."
+            }
+        ]
+    },
+    {
+        "text": "En genética cuantitativa, el diferencial de selección es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La media de los descendientes del grupo seleccionado"
+            },
+            {
+                "text": "Una medida de heredabilidad en sentido estricto"
+            },
+            {
+                "text": "Una medida de la heredabilidad en sentido amplio"
+            },
+            {
+                "text": "La diferencia entre la media de la población y la media del grupo seleccionado",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una trisomía es una alteración cromosómica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que es incompatible con la vida."
+            },
+            {
+                "text": "Que provoca la aparición de tres copias de cada cromosoma en las células del organismo."
+            },
+            {
+                "text": "Que se produce cuando un óvulo es fecundado por dos espermatozoides."
+            },
+            {
+                "text": "Que se produce por la no disyunción meiótica de una pareja de cromosomas homólogos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La genética cuantitativa, que estudia los caracteres que presentan variaciones puramente cuantitativas en la población:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se fundamenta en ningún caso en el modelo poligénico de la herencia."
+            },
+            {
+                "text": "No tiene en cuenta el posible efecto del ambiente sobre el fenotipo."
+            },
+            {
+                "text": "Afirma que los genes que influyen sobre rasgos fenotípicos cuantitativos no se heredan según las leyes de Mendel."
+            },
+            {
+                "text": "Considera los efectos sobre el fenotipo de factores genéticos de tipo aditivo, y también los efectos debidos a la dominancia y los debidos a la influencia de las interacciones epistáticas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Es bien cierto que los rasgos poligénicos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Presentan una variación continua de la población.",
+                "correct": true
+            },
+            {
+                "text": "Se trasmiten a la descendencia siguiendo leyes diferentes a las contempladas en la transmisión de los rasgos monogénicos ."
+            },
+            {
+                "text": "Son discretos."
+            },
+            {
+                "text": "Están determinados por varios genes con un único alelo cada uno."
+            }
+        ]
+    },
+    {
+        "text": "Una hipotética investigación intentó estudiar el contenido de vitamina A y colesterol de los huevos puestos por una población de gallinas. Las varianzas resultantes fueron para la vitamina A: Vza fenotípica=123.5, Vza ambiental=96.2 y Vza aditiva=27.3, para el colesterol: Vza fenotípica=862.0, Vza ambiental=484.6 y Vza aditiva=377.4. Con estos datos: ¿cuál es la heredabilidad para ambos rasgos?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.22 y 0.43 respectivamente",
+                "correct": true
+            },
+            {
+                "text": "0.55 y 0.12"
+            },
+            {
+                "text": "0.77 y 0.56 respectivamente"
+            },
+            {
+                "text": "No puede saberse"
+            }
+        ]
+    },
+    {
+        "text": "Supongamos un rasgo determinado por dos genes (A y B), con dos alelos cada uno (A1, A2 y B1, B2 respectivamente) y con un valor aditivo de 1 para los alelos A1 y B1 y de 0 para los alelos A2 y B2 ¿cuál de los siguientes genotipos tendría un valor genotípico similar al del 25% de los descendientes?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A1A1B2B1",
+                "correct": true
+            },
+            {
+                "text": "A1A2B2B1"
+            },
+            {
+                "text": "A1A1B2B2"
+            },
+            {
+                "text": "A1A1B1B1"
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que el color de las flores de una planta está determinado por dos genes A y B con diferentes alelos y cuyos valores aditivos son A1=3, A2=2, A3=0, B1=0, B2=2, siendo el color blanco aquel para el que la suma total de valores genotípicos es 0 y de 10 para el color rojo intenso. Si cruzamos una planta de flores blancas con otra de flores de color rojo intenso y después, dos de sus descendientes entre sí, podremos concluir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dado que desconocemos el genotipo de la F1, no podemos calcular los valores genotípicos de la generación F2."
+            },
+            {
+                "text": "El fenotipo con mayor representación en la F2 será aquel que presente una suma de valores genotípicos de 5.",
+                "correct": true
+            },
+            {
+                "text": "Solo una planta de cada cien tendrá flores de color rojo intenso."
+            },
+            {
+                "text": "No habrá ninguna planta con flores blancas."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio sobre diferentes rasgos psicológicos se encontró en la puntuación para el rasgo 'extroversión' una correlación entre gemelos dicigóticos de 0,2. Teniendo en cuenta estos datos ¿qué heredabilidad presenta la extroversión en la población estudiada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.4",
+                "correct": true
+            },
+            {
+                "text": "0.8"
+            },
+            {
+                "text": "0.2"
+            },
+            {
+                "text": "0.6"
+            }
+        ]
+    },
+    {
+        "text": "Los portadores de una traslocación robertsoniana entre los cromosomas 14 y 21:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Padecen el síndrome de maullido del gato."
+            },
+            {
+                "text": "Tienen un cariotipo de 2n=4 7 cromosomas."
+            },
+            {
+                "text": "Han perdido por deleción los brazos largos de estos cromosomas."
+            },
+            {
+                "text": "Tienen alta probabilidad de que alguno de sus descendientes padezca el Síndrome de Down.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Tienen que encontrarse en las células germinales o gametos para que tengan interés evolutivo."
+            },
+            {
+                "text": "B/ Son una forma de recombinación."
+            },
+            {
+                "text": "C/ Son especialmente probables en el proceso de replicación."
+            },
+            {
+                "text": "Lo dicho en A y C es correcto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Tras realizar dos estudios para conocer la heredabilidad de un rasgo, uno con gemelos dicigóticos y otro con padres e hijos, en los que se obtuvo una correlación de 0.4 en ambos casos, podemos concluir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heredabilidad es de 0.4 en el primer caso y de 0.8 en el segundo"
+            },
+            {
+                "text": "No hay influencia del ambiente"
+            },
+            {
+                "text": "Con cualquiera de los estudios hemos averiguado la heredabilidad en sentido amplio"
+            },
+            {
+                "text": "El 80% de la variabilidad en el rasgo se debe a alelos aditivos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El valor de la heredabilidad:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Puede oscilar entre 0 y 1."
+            },
+            {
+                "text": "B/ Se calcula únicamente a partir de la correlación."
+            },
+            {
+                "text": "C/ Representa una medida de la influencia de la variabilidad genética en la variabilidad observada en el rasgo correspondiente."
+            },
+            {
+                "text": "Lo dicho en A y C es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Por los efectos que en la actividad serotoninérgica tienen los alelos S del gen que codifica el transportador de serotonina y el de la enzima MAOA, cabe esperar que los sujetos homocigóticos para uno u otro gen:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tengan el mismo fenotipo conductual.",
+                "correct": true
+            },
+            {
+                "text": "En ambos casos el comportamiento sea normal."
+            },
+            {
+                "text": "Tengan un comportamiento normal por cuanto los efectos de ambos genes se contrarresten."
+            },
+            {
+                "text": "Los que lo sean para el de la MAOA serán tranquilos, pero los que lo sean para el transportador serán agresivos."
+            }
+        ]
+    },
+    {
+        "text": "El síndrome del X frágil es el resultado de una alteración genética:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que solo se manifiesta en mujeres."
+            },
+            {
+                "text": "Autosómica dominante."
+            },
+            {
+                "text": "Ligada al sexo.",
+                "correct": true
+            },
+            {
+                "text": "Autosómica recesiva."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que en una población caucásica, en un momento dado, el valor de la correlación (r) entre gemelos monocigóticos para el rasgo impulsividad es de 0,45 y entre gemelos dicigóticos de 0,32. ¿Cuál será la heredabilidad de ese rasgo de acuerdo con la fórmula de Falconer?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.065"
+            },
+            {
+                "text": "0.77"
+            },
+            {
+                "text": "0.26",
+                "correct": true
+            },
+            {
+                "text": "0.13"
+            }
+        ]
+    },
+    {
+        "text": "En una población se realizó un estudio de gemelos para conocer la influencia genética en diversos rasgos psicológicos. La correlación obtenida entre gemelos monocigóticos para el rasgo ansiedad fue de 0,30. Teniendo en cuenta estos datos ¿cuál sería la heredabilidad de ese rasgo psicológico?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,15."
+            },
+            {
+                "text": "0,7."
+            },
+            {
+                "text": "0,6."
+            },
+            {
+                "text": "0,3.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El Síndrome de Turner es una:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Haploidía."
+            },
+            {
+                "text": "Trisomía."
+            },
+            {
+                "text": "Aneuploidía.",
+                "correct": true
+            },
+            {
+                "text": "Poliploidía."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio sobre memoria espacial hecho con roedores de laboratorio, empleando cría selectiva y la metodología del laberinto radial de 8 brazos, se vio que la media de la población original fue de 59 en el número de aciertos para encontrar una recompensa (una bolita de comida) en ciertos brazos. Se seleccionó una subpoblación como individuos reproductores, la cual tenía una media de aciertos de 73. Y, a su vez, los descendientes de esa subpoblación tuvieron un valor medio de aciertos de 66. ¿Cuál será la heredabilidad del rasgo memoria espacial en esa población de roedores de laboratorio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.7"
+            },
+            {
+                "text": "0.25"
+            },
+            {
+                "text": "0.5",
+                "correct": true
+            },
+            {
+                "text": "0.35"
+            }
+        ]
+    },
+    {
+        "text": "Cuando la expresión de un gen depende de si procede del padre o de la madre estamos hablando de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Herencia ligada al sexo."
+            },
+            {
+                "text": "Dominancia."
+            },
+            {
+                "text": "Impresión genómica.",
+                "correct": true
+            },
+            {
+                "text": "Heterocigosis."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se estudia la heredabilidad de un determinado rasgo fenotípico conductual sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aunque su valor sea alto no significa que el rasgo no esté influido también por factores ambientales.",
+                "correct": true
+            },
+            {
+                "text": "Si se estudia en sentido amplio su valor se debe específicamente a la varianza genética aditiva."
+            },
+            {
+                "text": "Para que su valor sea alto debe haber poca variabilidad genética para ese rasgo en la población."
+            },
+            {
+                "text": "Su valor nos indica el porcentaje del rasgo que se debe a los genes."
+            }
+        ]
+    },
+    {
+        "text": "Como sabemos, a la varianza genética que podemos encontrar en una población contribuyen el efecto aditivo, la dominancia y la epistasia, ¿qué componente o componentes de esta varianza comparte uno de los padres con su hijo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La dominancia."
+            },
+            {
+                "text": "Los tres."
+            },
+            {
+                "text": "La epistasia."
+            },
+            {
+                "text": "El aditivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Suponga que un cierto trastorno alimentario solamente influyera un gen con dos alelos, A1 y A2, y que el genotipo A2A2 fuera el que llevaran las personas sin ese trastorno. Si en una población dada, el promedio de descendientes de parejas en las que uno de sus miembros fuera de genotipo A1A1 es de 0,7 y el promedio de los descendientes de las parejas que más hijos tienen, que es el de genotipo A2A2, es de 2,5 ¿cuál será el valor del coeficiente de selección en el caso de las parejas A1A1?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,72",
+                "correct": true
+            },
+            {
+                "text": "0,371"
+            },
+            {
+                "text": "0,43"
+            },
+            {
+                "text": "0,28"
+            }
+        ]
+    },
+    {
+        "text": "Si al investigar la anorexia nerviosa en una población se obtiene que la varianza genética es (VG)=40 y la varianza total es (VT)=66, se puede concluir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La anorexia nerviosa tiene un componente ambiental muy bajo."
+            },
+            {
+                "text": "La proporción de la variabilidad fenotípica que se debe a las diferencias genéticas entre los individuos de la población es 0,60.",
+                "correct": true
+            },
+            {
+                "text": "La ambientalidad de la anorexia es 0,60."
+            },
+            {
+                "text": "La heredabilidad (H) de la anorexia es muy baja."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de gemelos se encontró que la correlación entre gemelos monocigóticosrespecto al tamaño del núcleo caudado fue de 0,83, mientras que el de gemelos dicigóticos fuede 0,40. ¿Cuál cree usted que es el valor más ajustado de la heredabilidad de dicho rasgo, el tamaño del núcleo caudado?(una única respuesta correcta):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,40."
+            },
+            {
+                "text": "0,80."
+            },
+            {
+                "text": "0,83."
+            },
+            {
+                "text": "0,86.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El término 'interacción interloci' hace referencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al fenómeno de dominancia."
+            },
+            {
+                "text": "A aquellas situaciones en que se presenta epistasia.",
+                "correct": true
+            },
+            {
+                "text": "A la varianza genética aditiva."
+            },
+            {
+                "text": "Al fenómeno de ligamiento."
+            }
+        ]
+    },
+    {
+        "text": "En muchos estudios de familias y de gemelos se ha obtenido que la correlación en inteligencia general o factor g (CI) entre gemelos criados separados es rMz= 0,75 y que entre padres e hijos es rPH= 0,37, de lo que se deduce que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los estudios de padres e hijos aportan un valor de la heredabilidad en sentido amplio casi igual al obtenido en los de gemelos."
+            },
+            {
+                "text": "La varianza genética aditiva explica la mayor parte de la varianza genética del CI.",
+                "correct": true
+            },
+            {
+                "text": "El valor de la heredabilidad del CI en sentido amplio es casi el doble que la heredabilidad en sentido estricto."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "En 1988 apareció la primera publicación relativa a la existencia de una mutación monogenica que afectaba específicamente al ritmo biológico circadiano (de 24 horas) en un mamífero, el hámster dorado. Los homocigóticos para la variante nueva (conocida como tau) mostraban un ritmo circadiano de 20 horas, a diferencia de los homocigóticos para la variante normal, que era de 24 horas. Sabiendo que los heterocigóticos exhiben un ciclo de 22 horas, podemos decir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El alelo normal es dominante."
+            },
+            {
+                "text": "El alelo tau es recesivo."
+            },
+            {
+                "text": "El alelo tau es dominante."
+            },
+            {
+                "text": "Nos hallamos ante un caso de herencia intermedia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que en un estudio sobre habilidades sociales (rasgo psicológico) encontramos que hay la misma correlación entre hermanos biológicos que entre hermanos adoptivos (no emparentados genéticamente). ¿Cuál es la conclusión más plausible de las que se ofrecen a continuación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heredabilidad es muy grande"
+            },
+            {
+                "text": "No se puede decir qué es lo que más influye en la variabilidad del rasgo"
+            },
+            {
+                "text": "La variabilidad es de origen ambiental",
+                "correct": true
+            },
+            {
+                "text": "La variabilidad es de origen genético"
+            }
+        ]
+    },
+    {
+        "text": "Si al estudiar la ansiedad en una población se obtiene una varianza total (vt) = 16 y se determina una varianza ambiental (va) = 12, podremos afirmar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La ansiedad tiene una H = 0.25 en esta población.",
+                "correct": true
+            },
+            {
+                "text": "En esta población la ansiedad tiene una varianza genética (Vg) = 28."
+            },
+            {
+                "text": "La H de la ansiedad es muy alta en esa población."
+            },
+            {
+                "text": "Lo indicado en las tres opciones anteriores es cierto."
+            }
+        ]
+    },
+    {
+        "text": "En relación con los estudios de genética de la conducta ¿cuál de los siguientes rasgos depende de la expresión de más de un gen?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todos ellos."
+            },
+            {
+                "text": "La narcolepsia."
+            },
+            {
+                "text": "La inteligencia.",
+                "correct": true
+            },
+            {
+                "text": "La fenilcetonuria."
+            }
+        ]
+    },
+    {
+        "text": "Respecto al síndrome de Turner se sabe que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una poliploidía."
+            },
+            {
+                "text": "Es una trisomía."
+            },
+            {
+                "text": "Se presenta tanto en hombres como en mujeres."
+            },
+            {
+                "text": "Los individuos que lo manifiestan no presentan Cromatina de Barr.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto al concepto de heredabilidad se sabe que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo depende de la varianza genética aditiva"
+            },
+            {
+                "text": "Es la proporción de la varianza fenotípica para un determinado rasgo debida a diferencias genéticas",
+                "correct": true
+            },
+            {
+                "text": "Su valor oscila entre 0 y 10"
+            },
+            {
+                "text": "Es el porcentaje de individuos que presentan un rasgo heredable"
+            }
+        ]
+    },
+    {
+        "text": "Si la correlación entre gemelos monocigóticos es de 0.7 y entre gemelos dicigóticos de 0.4, ¿cuál es el valor de la heredabilidad del rasgo en cuestión si aplicamos la fórmula de Falconer para eliminar la influencia del ambiente compartido?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.3"
+            },
+            {
+                "text": "0.6",
+                "correct": true
+            },
+            {
+                "text": "0.15"
+            },
+            {
+                "text": "0.55"
+            }
+        ]
+    },
+    {
+        "text": "En el caso del Síndrome de X frágil, la anomalía cromosómica estructural que más se aproxima a su probable origen es una:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Duplicación.",
+                "correct": true
+            },
+            {
+                "text": "Inversión."
+            },
+            {
+                "text": "Deleción."
+            },
+            {
+                "text": "Translocación robertsoniana."
+            }
+        ]
+    },
+    {
+        "text": "Al número de veces que aparece un alelo de un gen en un determinado genotipo se le denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Valor aditivo."
+            },
+            {
+                "text": "Dosis génica.",
+                "correct": true
+            },
+            {
+                "text": "Valor genotípico."
+            },
+            {
+                "text": "Parentesco genético."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la pregunta anterior, podemos asegurar que el valor de la heredabilidad incluye:(una única respuesta correcta):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El 50% de la varianza aditiva."
+            },
+            {
+                "text": "El 50% de la varianza por dominancia."
+            },
+            {
+                "text": "El 100% de la varianza por epistasia.",
+                "correct": true
+            },
+            {
+                "text": "Sólo la varianza aditiva."
+            }
+        ]
+    },
+    {
+        "text": "Si la correlación entre gemelos monocigóticos es de 0.8 y entre gemelos dicigóticos de 0.4, ¿cuál es el valor de la heredabilidad del rasgo en cuestión si aplicamos la Fórmula de Falconer para eliminar la influencia del ambiente compartido?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.80.",
+                "correct": true
+            },
+            {
+                "text": "0.30."
+            },
+            {
+                "text": "0.55."
+            },
+            {
+                "text": "0.15."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se presenta el genoma de un individuo con la expresión 45,X estamos afirmando que se trata de una persona con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Síndrome de Klinefeleter."
+            },
+            {
+                "text": "Síndrome de Turner.",
+                "correct": true
+            },
+            {
+                "text": "Monosomía del par 21."
+            },
+            {
+                "text": "Trisomía del par 21."
+            }
+        ]
+    },
+    {
+        "text": "Cuando al analizar los fenotipos que una población presenta para un determinado carácter, encontramos que se distribuyen según la curva normal, decimos que se trata de un carácter:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Poligénico.",
+                "correct": true
+            },
+            {
+                "text": "Cualitativo."
+            },
+            {
+                "text": "Mendeliano."
+            },
+            {
+                "text": "Discreto."
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de Turner es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Diploidía."
+            },
+            {
+                "text": "Monosomía.",
+                "correct": true
+            },
+            {
+                "text": "Haploidía."
+            },
+            {
+                "text": "Poliploidía."
+            }
+        ]
+    },
+    {
+        "text": "Una mutación se transmite a los descendientes si se produce en el ADN de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los cromosomas sexuales de las células somáticas."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas."
+            },
+            {
+                "text": "Los autosomas de las células somáticas."
+            },
+            {
+                "text": "Los autosomas de los gametos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La Genética Cuantitativa de la Conducta se ocupa de explicar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las diferencias fenotípicas cualitativas existentes entre los individuos"
+            },
+            {
+                "text": "Los rasgos conductuales influidos por varios genes",
+                "correct": true
+            },
+            {
+                "text": "Las conductas que están influidas por un único alelo"
+            },
+            {
+                "text": "La herencia poligénica de los rasgos mendelianos"
+            }
+        ]
+    },
+    {
+        "text": "La utilización de modelos animales en genética mendeliana de la conducta ha permitido comprobar que la mutación del gen que codifica el receptor de hipocretina (neurotransmisor hipotalámico) influye en la aparición de uno de los siguientes rasgos conductuales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El síndrome de déficit de atención e hiperactividad."
+            },
+            {
+                "text": "Las conductas agresivas."
+            },
+            {
+                "text": "Trastornos del lenguaje."
+            },
+            {
+                "text": "La narcolepsia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de Klinefelter es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tetrapoidía"
+            },
+            {
+                "text": "Triploidía"
+            },
+            {
+                "text": "Aneuploidía",
+                "correct": true
+            },
+            {
+                "text": "Monosomía"
+            }
+        ]
+    },
+    {
+        "text": "Cuando, para un rasgo dado, la correlación entre gemelos monocigóticos es la misma que la que se da entre gemelos dicigóticos, deducimos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estamos realizando un estudio de la heredabilidad en sentido estricto."
+            },
+            {
+                "text": "Estamos haciendo un estudio de selección."
+            },
+            {
+                "text": "La heredabilidad es alta."
+            },
+            {
+                "text": "El ambiente explica la variabilidad en dicho rasgo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En una investigación se encontró que la correlación entre gemelos monocigóticos para el rasgo Ansiedad fue de 0,3. ¿Cuál será la heredabilidad de ese rasgo psicológico?:(una única respuesta correcta):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,3.",
+                "correct": true
+            },
+            {
+                "text": "0,6."
+            },
+            {
+                "text": "0,15."
+            },
+            {
+                "text": "1."
+            }
+        ]
+    },
+    {
+        "text": "En relación con los rasgos poligénicos sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son rasgos continuos."
+            },
+            {
+                "text": "Se heredan siguiendo las leyes de la genética mendeliana."
+            },
+            {
+                "text": "Son rasgos cuantitativos."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre los conceptos esenciales de la genética de la conducta está que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los rasgos cuantitativos o continuos, por lo general, son poligénicos."
+            },
+            {
+                "text": "Los alelos aditivos suman su valor al de otros para explicar el fenotipo."
+            },
+            {
+                "text": "La heredabilidad es un valor numérico entre 0 y 1."
+            },
+            {
+                "text": "Las tres anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si encontramos que una persona es portadora de dos Corpúsculos de Barr, podemos pronosticar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se trata de una persona con más de dos cromosomas X.",
+                "correct": true
+            },
+            {
+                "text": "Se trata de un hombre."
+            },
+            {
+                "text": "Se trata de una mujer."
+            },
+            {
+                "text": "Se trata de un síndrome de Klinefelter."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que en una población la media para un determinado carácter cuantitativo tiene un valor de 360 y para un estudio de cría selectiva se selecciona un conjunto de individuos de esa población cuya media para ese carácter tiene un valor de 485. El valor medio del carácter estudiado en los descendientes del cruce de los individuos seleccionados fue de 460 ¿qué valor tendría la respuesta de selección?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.8"
+            },
+            {
+                "text": "0.7826"
+            },
+            {
+                "text": "100",
+                "correct": true
+            },
+            {
+                "text": "125"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuántos fenotipos distintos cabe esperar en un rasgo cuantitativo que depende de dos genes aditivos (A y B) con dos alelos cada uno (A1, A2 y B1, B2), donde los alelos aportan al rasgo el valor del subíndice, sabiendo que los progenitores son genotípicamente heterocigóticos para ambos genes (A1A2B1B2)?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "5",
+                "correct": true
+            },
+            {
+                "text": "Más de 7"
+            },
+            {
+                "text": "3"
+            },
+            {
+                "text": "7"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes rasgos, síndromes y enfermedades es consecuencia de un efecto poligénico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La fenilcetonuria."
+            },
+            {
+                "text": "El albinismo."
+            },
+            {
+                "text": "El síndrome X frágil."
+            },
+            {
+                "text": "Ninguna de las anteriores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si de algo podemos estar seguros es de que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las mutaciones incrementan mucho y rápidamente la variabilidad genética de las poblaciones."
+            },
+            {
+                "text": "Las mutaciones son producidas por la selección natural."
+            },
+            {
+                "text": "Las mutaciones se producen al azar.",
+                "correct": true
+            },
+            {
+                "text": "Las mutaciones son adaptativas por definición."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál cree usted que es la diferencia fundamental entre las investigaciones genéticas de Josef Gottlleb Kölreuter (1733-1806) con plantas de tabaco y las de Mendel con guisantes en lo que se refiere a la altura de las plantas?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el rasgo altura de las plantas de tabaco utilizadas por Kölreuter es poligénico.",
+                "correct": true
+            },
+            {
+                "text": "Que la generación F1 de Kölreuter no resultó ser homogénea en cuanto al fenotipo."
+            },
+            {
+                "text": "Lo dicho en 'que la generación F1 de Kölreuter no resultó ser homogénea en cuanto al fenotipo' y 'que el rasgo altura de las plantas de tabaco utilizadas por Kölreuter es poligénico' es cierto."
+            },
+            {
+                "text": "Que Kölreuter no utilizó las tres generaciones P, F1 y F2."
+            }
+        ]
+    },
+    {
+        "text": "La correlación entre hermanos adoptivos que viven juntos nos proporciona el valor de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La ambientalidad compartida.",
+                "correct": true
+            },
+            {
+                "text": "La heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La heredabilidad en sentido estricto."
+            },
+            {
+                "text": "La mitad de la heredabilidad en sentido amplio."
+            }
+        ]
+    },
+    {
+        "text": "Las técnicas de bandeo de cromosomas sirven, entre otras cosas, para:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Detectar anomalías genéticas."
+            },
+            {
+                "text": "Aportar datos relevantes para el consejo genético."
+            },
+            {
+                "text": "Identificar cromosomas."
+            },
+            {
+                "text": "Todas las respuestas anteriores son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que los sujetos humanos heterocigóticos portadores de un alelo inactivo para la producción de leptina presenten mayor grado de obesidad que los sujetos normales pero menos que los homocigóticos para el alelo inactivo, está sugiriendo que nos hallamos ante:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un fenotipo totalmente ambiental."
+            },
+            {
+                "text": "Un rasgo poligénico."
+            },
+            {
+                "text": "Un fenotipo no influido por los genes."
+            },
+            {
+                "text": "Un gen aditivo.",
+                "correct": true
+            }
+        ]
+    }
+]

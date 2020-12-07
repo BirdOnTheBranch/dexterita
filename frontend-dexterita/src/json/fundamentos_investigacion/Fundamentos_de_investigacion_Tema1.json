@@ -1,0 +1,443 @@
+[
+    {
+        "text": "La fiabilidad del método científico es lo mismo que la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 30 )",
+        "responses": [
+            {
+                "text": "Replicabilidad",
+                "correct": true
+            },
+            {
+                "text": "Flexibilidad "
+            },
+            {
+                "text": "Validez "
+            }
+        ]
+    },
+    {
+        "text": "Una teoría:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 28 )",
+        "responses": [
+            {
+                "text": "No es susceptible de modificación "
+            },
+            {
+                "text": "Son conjuntos de muestreo aleatorio con estratos "
+            },
+            {
+                "text": "Consta de esquemas conceptuales formados por conjuntos de hipótesis relacionadas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una hipótesis de trabajo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 42 )",
+        "responses": [
+            {
+                "text": "Establece una relación entre las variables independientes "
+            },
+            {
+                "text": "Redefine el problema de forma operativa para poder pasar a su contrastación",
+                "correct": true
+            },
+            {
+                "text": "Es una formulación muy amplia derivada de las leyes "
+            }
+        ]
+    },
+    {
+        "text": "Una de las funciones de las teorías es la de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Resumir los datos de una disciplina"
+            },
+            {
+                "text": "Sistematizar el conocimiento",
+                "correct": true
+            },
+            {
+                "text": "Utilizar el método inductivo"
+            }
+        ]
+    },
+    {
+        "text": "En el método inductivo se parte de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P.  31)",
+        "responses": [
+            {
+                "text": "Principios indemostrables a los que se llega por procesos de razonamiento"
+            },
+            {
+                "text": "La observación de la realidad",
+                "correct": true
+            },
+            {
+                "text": "Un conjunto de axiomas "
+            }
+        ]
+    },
+    {
+        "text": "Una ley científica es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 28 )",
+        "responses": [
+            {
+                "text": "Una hipótesis universal que establece una relación probable entre un Constructo y una variable observable "
+            },
+            {
+                "text": "Una hipótesis de amplio alcance explicativo que es susceptible de ser contrastada empíricamente "
+            },
+            {
+                "text": "Una hipótesis de amplio alcance explicativo que ha sido confirmada",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características de una teoría científica es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 30 )",
+        "responses": [
+            {
+                "text": "Ser susceptible de prueba",
+                "correct": true
+            },
+            {
+                "text": "Que no se puede modificar, ni ser sustituida "
+            },
+            {
+                "text": "Ser necesariamente compleja aunque tenga poco potencial explicativo "
+            }
+        ]
+    },
+    {
+        "text": "En la fase de análisis de datos de la elección del estadístico de contraste adecuado depende de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P.  49)",
+        "responses": [
+            {
+                "text": "La formulación de la hipótesis nula"
+            },
+            {
+                "text": "Los objetivos de la investigación"
+            },
+            {
+                "text": "El nivel de medida y el tipo de variables",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis estadística:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 43 )",
+        "responses": [
+            {
+                "text": "Debe ser falsa"
+            },
+            {
+                "text": "Presenta dos posibilidades, la hipótesis nula y la hipótesis alternativa",
+                "correct": true
+            },
+            {
+                "text": "Si es nula siempre se rechaza"
+            }
+        ]
+    },
+    {
+        "text": "El método deductivo se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 31 )",
+        "responses": [
+            {
+                "text": "Partir de un conjunto de axiomas que no se apoyan en observaciones empíricas",
+                "correct": true
+            },
+            {
+                "text": "Establecer a partir de los datos leyes generales aplicables a todo el conjunto de observaciones"
+            },
+            {
+                "text": "Considerar que solo se puede llegar al conocimiento a través de la experiencia "
+            }
+        ]
+    },
+    {
+        "text": "En una escala de intervalo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se permite establecer diferencias entre observaciones",
+                "correct": true
+            },
+            {
+                "text": "Se pueden establecer razones o proporciones entre observaciones"
+            },
+            {
+                "text": "El cero indica la carencia de rasgo"
+            }
+        ]
+    },
+    {
+        "text": "El método hipotético-deductivo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Rechaza la elaboración de teorías, basándose exclusivamente en la formulación de hipótesis tentativas"
+            },
+            {
+                "text": "Se basa en la combinación de la búsqueda de datos empíricos y de la elaboración teórica",
+                "correct": true
+            },
+            {
+                "text": "No necesita considerar los datos empíricos ya que la potencia de la deducción lógica es suficiente"
+            }
+        ]
+    },
+    {
+        "text": "El conocimiento científico y el conocimiento ordinario tienen como rasgo común, que son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sistemáticos"
+            },
+            {
+                "text": "Conocimientos sobre la realidad",
+                "correct": true
+            },
+            {
+                "text": "Verdades absolutas"
+            }
+        ]
+    },
+    {
+        "text": "El tipo de variable con el que se divide a los sujetos  en fumadores pasivos y activos es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 37 )",
+        "responses": [
+            {
+                "text": "Nominal",
+                "correct": true
+            },
+            {
+                "text": "Cuantitativa "
+            },
+            {
+                "text": "Ordinal "
+            }
+        ]
+    },
+    {
+        "text": "Uno de los criterios para elegir el problema como objeto de investigación es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Su estudio sea viable tanto para el investigador como para la comunidad científica, aunque sea costoso",
+                "correct": true
+            },
+            {
+                "text": "Sea un conocimiento necesario para la comunidad científica, aunque no se puedan obtener datos relevantes"
+            },
+            {
+                "text": "Le interese mucho al investigador, aunque no tenga acceso a la muestra"
+            }
+        ]
+    },
+    {
+        "text": "El nivel técnico metodológico del proceso de investigación que propone Arnau (1990) se refiere a la etapa en la que se:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Plantea el problema y se formulan las hipótesis"
+            },
+            {
+                "text": "Realizan los análisis de datos"
+            },
+            {
+                "text": "Selecciona la metodología o procedimiento para la obtención de datos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la aplicación del Método Científico, la formulación del problema debe:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Formularse en base a la interpretación de los resultados"
+            },
+            {
+                "text": "Realizarse al principio de la investigación",
+                "correct": true
+            },
+            {
+                "text": "Realizarse después de la contrastación de la hipótesis"
+            }
+        ]
+    },
+    {
+        "text": "Un requisito para la formulación de hipótesis es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P.  41)",
+        "responses": [
+            {
+                "text": "Pueda ser comprobable empíricamente",
+                "correct": true
+            },
+            {
+                "text": "Establezca todas las relaciones posibles entre los valores de las variables "
+            },
+            {
+                "text": "Se establezca en términos abstractos "
+            }
+        ]
+    },
+    {
+        "text": "Una muestra:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es representativa de al menos uno de los grupos de sujetos que se utilicen en el experimento"
+            },
+            {
+                "text": "Tiene que representar a la población general y no necesariamente a la población básico, para que se puedan generalizar los resultados"
+            },
+            {
+                "text": "Es un conjunto de unidades muestrales seleccionadas de una población básica",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se denominan variables extrañas a los variables:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P. 39 )",
+        "responses": [
+            {
+                "text": "Que podrían influir en la variable dependiente distorsionando el efecto de la variable independiente",
+                "correct": true
+            },
+            {
+                "text": "De conducta que sean objeto de estudio novedoso porque es el primer experimento que las considera como variables dependientes "
+            },
+            {
+                "text": "De manipulación intencional por parte del investigador pero con valores fijos "
+            }
+        ]
+    },
+    {
+        "text": "Las teorías ya establecidas en psicología constituyen para el investigador:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "2019"
+        },
+        "feedback": "(P.  30)",
+        "responses": [
+            {
+                "text": "Una fuente que le proporciona nuevas preguntas de investigación",
+                "correct": true
+            },
+            {
+                "text": "El bagaje de información que le proporciona el sentido común y su cultura "
+            },
+            {
+                "text": "Son verdades que utilizan  constructors ya conocidos y no necesitan de nuevas comprobaciones empíricas "
+            }
+        ]
+    }
+]

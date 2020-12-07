@@ -1,0 +1,502 @@
+[
+    {
+        "text": "En la actualidad, desde la Psicología Fisiológica el cerebro se estudia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Como variable dependiente."
+            },
+            {
+                "text": "Como variable independiente."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué fase del sueño también se denomina “sueño paradójico”?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La N2."
+            },
+            {
+                "text": "La REM.",
+                "correct": true
+            },
+            {
+                "text": "La de ondas lentas."
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis de la homeostasis sinóptica (Tononi y Cirelli, 2003, 2014), la función del sueño es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Reducir a una escala menor la eficiencia de las sinapsis modificadas en la vigilia por el aprendizaje, para evitar que se saturen.",
+                "correct": true
+            },
+            {
+                "text": "Permitir el descanso del cerebro en función de la presión homeostática generada por los incrementos de adenosina durante la vigilia."
+            },
+            {
+                "text": "Facilitar el drenaje del cerebro de metabolitos y otras sustancias potencialmente tóxicas mediante el aumento del espacio extracelular."
+            }
+        ]
+    },
+    {
+        "text": "Una función del núcleo dorsomedial del hipotálamo (DMH) relacionada con el ciclo sueño - vigilia es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Sincronizar el ritmo circadiano con la disponibilidad de alimentos.",
+                "correct": true
+            },
+            {
+                "text": "Separar los circuitos que controlan los distintos ritmos circadianos."
+            },
+            {
+                "text": "Dirigir la actividad de la glándula pineal y la secreción de melatonina."
+            }
+        ]
+    },
+    {
+        "text": "Los sueños lúcidos son ensueños en los que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se resuelven problemas corrientes relacionados con la vida cotidiana."
+            },
+            {
+                "text": "El durmiente es consciente de que está soñando y puede influir en el sueño.",
+                "correct": true
+            },
+            {
+                "text": "Se profetiza el futuro con una probabilidad de acierto superior a la esperable por azar."
+            }
+        ]
+    },
+    {
+        "text": "En ausencia de cromosoma Y, la gónada del embrión:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Permanecerá bipotencial hasta la pubertad."
+            },
+            {
+                "text": "Se diferenciará a ovario.",
+                "correct": true
+            },
+            {
+                "text": "Se diferenciará a testículo."
+            }
+        ]
+    },
+    {
+        "text": "En la rata, la conducta sexual femenina (la lordosis), que se manifestará en la edad adulta, se diferencia y organiza perinatalmente:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Por la progesterona."
+            },
+            {
+                "text": "Por los estrógenos."
+            },
+            {
+                "text": "En ausencia de testosterona.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si se desean estudiar los cerebros de las personas transexuales antes de que comiencen el tratamiento hormonal cruzado, hay que emplear técnicas:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Post-mortem."
+            },
+            {
+                "text": "De neuroimagen.",
+                "correct": true
+            },
+            {
+                "text": "De gemelos homo y dicigóticos."
+            }
+        ]
+    },
+    {
+        "text": "En los primates, la inducción de ansiedad y los estímulos estresantes:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Aumentan el riesgo de maltrato a las crías.",
+                "correct": true
+            },
+            {
+                "text": "Incrementan la calidad de los cuidados a las crías."
+            },
+            {
+                "text": "Correlacionan negativamente con la producción de corticosterona."
+            }
+        ]
+    },
+    {
+        "text": "Al conjunto de reacciones anabólicas y catabólicas que tienen lugar en el organismo para producir la energía que necesita para desarrollar su actividad se denomina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Metabolismo energético.",
+                "correct": true
+            },
+            {
+                "text": "Homeostasis."
+            },
+            {
+                "text": "Fenotipo ahorrador."
+            }
+        ]
+    },
+    {
+        "text": "La teoría glucostática propuesta por Mayer (1953):",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "No se cumple en ninguna circunstancia."
+            },
+            {
+                "text": "Se cumple únicamente cuando las variaciones en los niveles de glucosa son comparables a las que se producen antes de la ingesta diaria."
+            },
+            {
+                "text": "Establecía que los niveles de glucosa del organismo constituyen la señal para que el cerebro desencadene el inicio o cese de la ingesta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El núcleo del tracto solitario (NTS):",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "No recibe aferencias desde los núcleos hipotalámicos que regulan la ingesta."
+            },
+            {
+                "text": "Recibe señales sobre la situación fisiológica del proceso digestivo de la colecistoquinina (CCK) y la grelina a través del nervio vago.",
+                "correct": true
+            },
+            {
+                "text": "No tiene receptores para la leptina."
+            }
+        ]
+    },
+    {
+        "text": "La insulinorresistencia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se produce cuando la insulina no puede realizar su función de facilitar el transporte de la glucosa al interior de las células.",
+                "correct": true
+            },
+            {
+                "text": "No tiene relación con el síndrome metabólico."
+            },
+            {
+                "text": "Potencia la función de la insulina."
+            }
+        ]
+    },
+    {
+        "text": "La teoría fisiológica de la emoción de James y Lange propone que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las emociones son respuestas cognitivas a la información que la corteza cerebral percibe de los cambios fisiológicos que tienen lugar en el cuerpo.",
+                "correct": true
+            },
+            {
+                "text": "En la experiencia emocional no influye el estado fisiológico del cuerpo."
+            },
+            {
+                "text": "Los cambios fisiológicos que producen las emociones no son relevantes en la emoción."
+            }
+        ]
+    },
+    {
+        "text": "Papez:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Hipotetizaba que el hipocampo, el giro cingulado, el hipotálamo, el núcleo talámico anterior y las interconexiones entre estas estructuras constituían el mecanismo central de la emoción.",
+                "correct": true
+            },
+            {
+                "text": "Propuso la hipótesis del cerebro triuno."
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Ekman:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Describió que las microexpresiones faciales son movimientos involuntarios de los músculos de la cara.",
+                "correct": true
+            },
+            {
+                "text": "Demostró que las microexpresiones faciales no correspondían a expresiones emocionales."
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Según McLean el cerebro humano actual es el resultado de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Tres grandes etapas de la evolución.",
+                "correct": true
+            },
+            {
+                "text": "De las experiencias tempranas en el desarrollo ontogenético."
+            },
+            {
+                "text": "De los avances culturales de la humanidad."
+            }
+        ]
+    },
+    {
+        "text": "Una característica común de los genes que están implicados en los Trastornos Específicos del Lenguaje (TEL) es que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Son de forma inequívoca los genes responsables del lenguaje oral."
+            },
+            {
+                "text": "Se expresan de manera tardía durante el desarrollo del cerebro."
+            },
+            {
+                "text": "Se expresan en las mismas zonas del cerebro.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación al Planum Temporale se ha comprobado que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Al igual que la asimetría frontooccipital, se desarrolla después del nacimiento."
+            },
+            {
+                "text": "Es mayor en el hemisferio izquierdo que en el derecho en dos tercios de la población.",
+                "correct": true
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de Wernicke-Geschwind:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La activación del lenguaje se produce de manera secuencial.",
+                "correct": true
+            },
+            {
+                "text": "Los componentes del lenguaje no tienen funciones definidas."
+            },
+            {
+                "text": "La representación del lenguaje es bilateral."
+            }
+        ]
+    },
+    {
+        "text": "En la dislexia profunda:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Están dañadas las dos rutas de lectura por una lesión extensa en el hemisferio izquierdo."
+            },
+            {
+                "text": "La lectura se hace a través de la capacidad residual para la lectura del hemisferio derecho."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La plasticidad sináptica es dependiente del flujo de iones, concretamente de iones de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Calcio y manganeso."
+            },
+            {
+                "text": "Sodio y cloro."
+            },
+            {
+                "text": "Calcio y sodio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los cambios estructurales que tienen lugar en las espinas dendríticas en relación con la potenciación a largo plazo (PLP) están sustentadas por:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las densidades postsinápticas."
+            },
+            {
+                "text": "La actina.",
+                "correct": true
+            },
+            {
+                "text": "La calcineurina."
+            }
+        ]
+    },
+    {
+        "text": "La información que va a procesar el hipocampo llega a esta estructura a través de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La corteza entorrinal.",
+                "correct": true
+            },
+            {
+                "text": "El subículo."
+            },
+            {
+                "text": "Los cuerpos mamilares."
+            }
+        ]
+    },
+    {
+        "text": "Se ha propuesto un modelo relativo a la formación de la memoria, según el cual, los genes se clasifican como permisivos para la memoria o disruptivos de la misma, por lo que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La calcineurina formaría parte de los promotores de memoria."
+            },
+            {
+                "text": "La Ca2+/calmodulina proteína kinasa II (CaMKII) formaría parte de los promotores de memoria.",
+                "correct": true
+            },
+            {
+                "text": "La cofilina formaría parte de los disruptivos de memoria."
+            }
+        ]
+    }
+]

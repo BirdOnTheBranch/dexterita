@@ -1,0 +1,40 @@
+[
+  {
+    "id":"perc-17-sep-1week",
+    "name":"Percepción",
+    "course":"Segundo",
+    "course_dg":"2",
+    "subject":"percepcion",
+    "year": 17,
+    "month": "september",
+    "rating":17,
+    "questions": 30,
+    "plusScore": 0.33,
+    "minusScore":  0.16,
+    "minutes": 45,
+    "color":"#5a8285",
+    "slogan":"Septiembre 2017",
+    "verified": true,
+    "logo":"#logo4",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  },
+  {
+    "id":"fisio-20-feb-1week",
+    "name":"Psicología Fisiológica",
+    "course":"Segundo",
+    "course_dg":"2",
+    "subject":"fisiologica",
+    "year": 20,
+    "month": "february",
+    "rating": 20,
+    "questions": 24,
+    "plusScore": 0.4,
+    "minusScore":  0.2,
+    "minutes": 45,
+    "color":"#5a8285",
+    "slogan":"Febrero 2020",
+    "verified": true,
+    "logo":"#logo12",
+    "keywords":["user-centric","data-warehouse","emulation"]
+  }
+]

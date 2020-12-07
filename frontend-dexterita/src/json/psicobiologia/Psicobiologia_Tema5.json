@@ -1,0 +1,2287 @@
+[
+    {
+        "text": "La opinión de que las conductas son optimizadoras, es más específica de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La Psicología Evolucionista"
+            },
+            {
+                "text": "La Etología"
+            },
+            {
+                "text": "La Sociobiología"
+            },
+            {
+                "text": "La Ecología del Comportamiento",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué la monogamia es un paso previo a la eusocialidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porque favorece el reconocimiento de las crías."
+            },
+            {
+                "text": "Porque determina que el parentesco entre hermanos sea como mínimo del 50%",
+                "correct": true
+            },
+            {
+                "text": "Porque de lo contrario aumentaría la aptitud inclusiva."
+            },
+            {
+                "text": "Porque favorece a la endogamia."
+            }
+        ]
+    },
+    {
+        "text": "La eusocialidad de las ratas topo lampiñas se puede explicar por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La haplodiploidia."
+            },
+            {
+                "text": "Las sucesivas generaciones endogámicas dentro de la colonia.",
+                "correct": true
+            },
+            {
+                "text": "La promiscuidad de las hembras."
+            },
+            {
+                "text": "La reducción de la fertilidad por efecto de la endogamia."
+            }
+        ]
+    },
+    {
+        "text": "En el contexto de la Ecología del Comportamiento, la Regla de Hamilton relaciona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El coste reproductivo para el altruista, el coste reproductivo para el receptor y la aptitud exclusiva de ambos."
+            },
+            {
+                "text": "La aptitud inclusiva con la exclusiva."
+            },
+            {
+                "text": "El coste reproductivo que para el altruista tiene su altruismo, el beneficio que el receptor obtiene y el grado de parentesco.",
+                "correct": true
+            },
+            {
+                "text": "El grado de parentesco genético y los factores epigenéticos."
+            }
+        ]
+    },
+    {
+        "text": "Todas las aves que anidan en tierra, como las gaviotas arenqueras o los gansos, recuperan los huevos que se hallan fuera del nido. Se trata de una pauta de acción fija. Se ha investigado cuáles son las características que han de poseer los huevos para ser recuperados por las gaviotas arenqueras: tras sacar dos huevos del nido se colocó en sus proximidades, y por parejas, distintos tipos de modelos de huevo (tamaño, forma y color). Los resultados se resumen en la Figura cuya interpretación requiere tener en cuenta que se prefirió el huevo que se halla más a la derecha sin tener en cuenta la fila que se considere, por ejemplo, un huevo verde liso de tamaño 10 fue preferido a uno marrón liso de tamaño 12 y a uno marrón moteado de tamaño 11, mientras que un huevo verde moteado de tamaño 10 era preferido a todos los demás excepto el moteado marrón de tamaño 16, y así en todos los casos. Teniendo en cuenta que los huevos de esta especie son del color de los de la segunda fila ( moteados marrones?,¿qué conclusión podemos sacar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema5_01.jpg",
+        "responses": [
+            {
+                "text": "Que sólo el color influye en la conducta de recuperación."
+            },
+            {
+                "text": "Que el color verde moteado del huevo puede considerarse un estímulo supernormal.",
+                "correct": true
+            },
+            {
+                "text": "Que el tamaño es el factor más influyente."
+            },
+            {
+                "text": "Que el tamaño no es un factor importante."
+            }
+        ]
+    },
+    {
+        "text": "Las pautas de acción fija:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo se manifiestan en experimentos de laboratorio."
+            },
+            {
+                "text": "Forman parte del repertorio conductual de alguno de los miembros de la especie."
+            },
+            {
+                "text": "Se pueden considerar conductas instintivas.",
+                "correct": true
+            },
+            {
+                "text": "Son patrones aprendidos de conducta."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué concepto se relaciona más directamente con la Neuroetología?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La motivación."
+            },
+            {
+                "text": "El estímulo desencadenador innato."
+            },
+            {
+                "text": "La pauta de acción fija."
+            },
+            {
+                "text": "El mecanismo desencadenador innato.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con la impronta sexual sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se establece en el momento en que va a ejercer su efecto"
+            },
+            {
+                "text": "Se produce en respuesta a estímulos en movimiento"
+            },
+            {
+                "text": "Generalmente, el individuo que actúa como estímulo para esta impronta no es el objeto de la respuesta sexual",
+                "correct": true
+            },
+            {
+                "text": "Se produce en el momento en que se alcanza la madurez sexual"
+            }
+        ]
+    },
+    {
+        "text": "Los rasgos ornamentales específicos que a veces alcanzan un gran tamaño, vistosidad y complejidad en los machos son propios de especies:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Con reproducción asexual."
+            },
+            {
+                "text": "Poliándricas."
+            },
+            {
+                "text": "Poligínicas.",
+                "correct": true
+            },
+            {
+                "text": "Híbridas."
+            }
+        ]
+    },
+    {
+        "text": "El altruismo reproductivo guarda relación directa con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La aptitud inclusiva",
+                "correct": true
+            },
+            {
+                "text": "La adaptación"
+            },
+            {
+                "text": "La selección natural"
+            },
+            {
+                "text": "La selección sexual"
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que en una población en la que existen dos tipos de individuos en función de la estrategia de interacción social que despliegan: los halcones y las palomas. Si V=2 (el beneficio de ganas una contienda) y C=20 (el coste que sufre el halcón cuando pierde una contienda), en el contexto del Juego de Conflicto con halcones y palomas ¿qué porcentaje de halcones cabe predecir que habrá en esa población?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "20%."
+            },
+            {
+                "text": "10%.",
+                "correct": true
+            },
+            {
+                "text": "50%."
+            },
+            {
+                "text": "100%."
+            }
+        ]
+    },
+    {
+        "text": "La aptitud inclusiva es un concepto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se refiere a la capacidad de aislamiento reproductivo que tiene una especie"
+            },
+            {
+                "text": "Es equivalente al concepto de aptitud definido por Darwin"
+            },
+            {
+                "text": "Se refiere a la probabilidad de supervivencia de un individuo"
+            },
+            {
+                "text": "Está estrechamente relacionado con el éxito reproductivo del individuo y su grupo familiar",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo cabe esperar mayor probabilidad de infanticidio en humanos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuantos más años tenga la madre"
+            },
+            {
+                "text": "Cuanto más joven sea la madre ",
+                "correct": true
+            },
+            {
+                "text": "No hay ninguna relación entre la edad de la madre y la probabilidad de infanticidio"
+            },
+            {
+                "text": "Cuanto mayor sea el niño"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características NO hace referencia a las pautas de acción fija?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Suelen tener carácter consumatorio"
+            },
+            {
+                "text": "Son emitidas casualmente por algunos miembros de la especie",
+                "correct": true
+            },
+            {
+                "text": "Están constituidas por una secuencia ordenada de reflejos"
+            },
+            {
+                "text": "Son innatas"
+            }
+        ]
+    },
+    {
+        "text": "En la Figura, aparece una cabeza realista de gaviota y un lapiz rojo con algunas marcas blancas¿de cuál de los dos estímulos que se presentan al polluelo de gaviota podemos asegurar que se trata de un estímulo supernormal?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema5_05.jpg",
+        "responses": [
+            {
+                "text": "El lápiz",
+                "correct": true
+            },
+            {
+                "text": "Ninguno de los dos"
+            },
+            {
+                "text": "La cabeza de gaviota"
+            },
+            {
+                "text": "Ambos"
+            }
+        ]
+    },
+    {
+        "text": "¿Desde el punto de vista de la sociobiología, cuál de las siguientes conductas es más difícil de explicar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La utilización de esclavos eunucos para vigilar a las mujeres en los harenes de los sultanes."
+            },
+            {
+                "text": "El comportamiento de la madrastra de los cuentos, la de Blancanieves, la de la Cenicienta, la de Pulgarcito , etc"
+            },
+            {
+                "text": "La monogamia humana.",
+                "correct": true
+            },
+            {
+                "text": "El que en 1650, tras la guerra de los 30 años en Alemania, aprobado en el concilio de Nuremberg, se permitiera la poliginia (no se permitía a los varones entrar en órdenes religiosas, se permitía a los clérigos casarse y a los laicos tomar una segunda esposa)."
+            }
+        ]
+    },
+    {
+        "text": "Entendemos por altruismo reproductivo cualquier conducta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que ponga al servicio de la población el mayor número de descendientes directos."
+            },
+            {
+                "text": "Que promueva la abstinencia sexual en aras a la supervivencia de la especie."
+            },
+            {
+                "text": "Que favorezca la reproducción de un congénere en detrimento de la propia reproducción.",
+                "correct": true
+            },
+            {
+                "text": "Encaminada a compartir los propios gametos con el máximo número de congéneres."
+            }
+        ]
+    },
+    {
+        "text": "Un supuesto básico de la Teoría de Juegos es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los jugadores son egoístas irracionales."
+            },
+            {
+                "text": "Los jugadores son altruistas racionales."
+            },
+            {
+                "text": "Los jugadores son egoístas racionales.",
+                "correct": true
+            },
+            {
+                "text": "Los jugadores son altruistas por naturaleza."
+            }
+        ]
+    },
+    {
+        "text": "En el contexto del Dilema del Prisionero:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La solución que favorecería al promedio de la población que se enfrenta a este dilema es 'confesar'."
+            },
+            {
+                "text": "La estrategia evolutívamente estable es 'no confiar'."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            },
+            {
+                "text": "Se asume que los participantes que se enfrentan a este dilema son egoístas y racionales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las pautas de acción fija:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(Pág. 95)",
+        "responses": [
+            {
+                "text": "Son patrones estereotipados e innatos de conducta",
+                "correct": true
+            },
+            {
+                "text": "Se aprenden en determinadas interacciones sociales"
+            },
+            {
+                "text": "No tienen una función adaptativa"
+            },
+            {
+                "text": "Se aprenden en períodos críticos del desarrollo"
+            }
+        ]
+    },
+    {
+        "text": "Una estrategia evolutívamente estable es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La que si la despliega la mayoría de la población favorece su sustitución por otra menos costosa."
+            },
+            {
+                "text": "La que favorece la aptitud indirecta."
+            },
+            {
+                "text": "La que puede ser invadida por otra aunque la despliegue la mayoría de la población."
+            },
+            {
+                "text": "La que si es desplegada por la mayoría de la población, no puede ser invalidada por ninguna otra.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La mayoría de los estudios etológicos clásicos de las causas próximas de la conducta se centran en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La descripción y medición de patrones estereotipados de condcuta."
+            },
+            {
+                "text": "El análisis de los estímulos que la provocan y en la relación entre esos estímulos y el estado actual del organismo que la emite.",
+                "correct": true
+            },
+            {
+                "text": "La clasificación de patrones conductuales individuales y sociales."
+            },
+            {
+                "text": "El análisis de la función que cumplen las pautas de acción fija."
+            }
+        ]
+    },
+    {
+        "text": "El valor de r (grado de parentesco genético) entre la reina de las abejas y sus descendientes macho, habida cuenta de la haplodiploidía y suponiendo que el emparejamiento es monógamo, es de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "1."
+            },
+            {
+                "text": "0,5.",
+                "correct": true
+            },
+            {
+                "text": "0,75."
+            },
+            {
+                "text": "0,25."
+            }
+        ]
+    },
+    {
+        "text": "La preeclampsia es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el conflicto padres/hijos, siempre ganan los hijos."
+            },
+            {
+                "text": "El conflicto madre-hijo.",
+                "correct": true
+            },
+            {
+                "text": "Que el embrión es un ente pasivo en su relación con la fisiología de la madre."
+            },
+            {
+                "text": "Que el control de la salud de la madre durante la gestación está en el feto."
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué los alces dedican menos tiempo a alimentarse en el agua que en la tierra?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Porque maximizan la ingesta de sodio"
+            },
+            {
+                "text": "B/ Porque maximizan la ingesta de energía"
+            },
+            {
+                "text": "C/ Porque el sodio supone una limitación en la tasa de obtención de energía"
+            },
+            {
+                "text": "B y C son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde una perspectiva sociobiológica, ¿cuál es la variable que mejor va a permitir predecir la cooperación entre individuos?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La pertinencia al mismo grupo"
+            },
+            {
+                "text": "La búsqueda de alimentos"
+            },
+            {
+                "text": "El compartir territorio"
+            },
+            {
+                "text": "El grado de parentesco genético",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál sería a la larga la frecuencia de palomas si el pago promedio en la confrontación entre halcones fuera de -5 y el pago promedio para la confrontación entre palomas fuera de +5?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,5.",
+                "correct": true
+            },
+            {
+                "text": "0,75."
+            },
+            {
+                "text": "1."
+            },
+            {
+                "text": "0."
+            }
+        ]
+    },
+    {
+        "text": "Si se hablara de un mecanismo desencadenador innato, nos estaríamos refiriendo a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(Pág. 123)",
+        "responses": [
+            {
+                "text": "Al efecto organizador o activador de una hormona"
+            },
+            {
+                "text": "Una neurona"
+            },
+            {
+                "text": "Un circuito nervioso",
+                "correct": true
+            },
+            {
+                "text": "Un estímulo"
+            }
+        ]
+    },
+    {
+        "text": "En el contexto de la Sociobiología, se puede llegar a afirmar que la unidad de selección es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La especie"
+            },
+            {
+                "text": "El grupo"
+            },
+            {
+                "text": "El gen",
+                "correct": true
+            },
+            {
+                "text": "El individuo"
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes especies es menos probable que exista troquelado sexual?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mamíferos herbívoros"
+            },
+            {
+                "text": "Aves nifífugas"
+            },
+            {
+                "text": "Aves parásitas",
+                "correct": true
+            },
+            {
+                "text": "El troquelado sexual es igual en todas las especies animales"
+            }
+        ]
+    },
+    {
+        "text": "Por conducta instintiva se entiende:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los patrones de conducta típicos de la especie"
+            },
+            {
+                "text": "El despliegue coordinado de reflejos ordenados secuencialmente provocados por estímulos biológicamente significativos"
+            },
+            {
+                "text": "Las pautas de acción fija"
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En sentido estricto, ateniéndonos a la definición de cada sistema de apareamiento, la Ley de Bateman NO se cumpliría en las especies:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Monógamas.",
+                "correct": true
+            },
+            {
+                "text": "Promiscuas."
+            },
+            {
+                "text": "Poliginándricas."
+            },
+            {
+                "text": "Poligínicas."
+            }
+        ]
+    },
+    {
+        "text": "Parece ser que, entre los seres humanos, la elección de pareja guarda una cierta relación con alguna de las características de los propios padres en el sentido de que la pareja elegida suele tener más parecido con los padres de uno de lo que cabría esperar si el emparejamiento fuera estrictamente al azar, efecto que se manifiesta de modo especial entre los varones. También en otras especies se da este tipo de proceso: por ejemplo cuando se crían desde el nacimiento cabras con ovejas y viceversa, los machos, al llegar a la madurez, suelen preferir interactuar social y sexualmente con hembras de la especie de crianza (que no es la propia), efecto que es mucho menor y mucho más reversible en las hembras así criadas. Esto podía explicarse por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La presencia de estímulos-signo supernormales"
+            },
+            {
+                "text": "Un proceso de impronta filial"
+            },
+            {
+                "text": "La existencia de pautas de acción fija"
+            },
+            {
+                "text": "Un proceso de impronta sexual",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para que sea biológicamente plausible que se dé altruismo es preciso que en la fórmula que representa la ley de Hamilton:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El valor de C sea menor o igual a 1.",
+                "correct": true
+            },
+            {
+                "text": "El valor de C sea mayor que 1."
+            },
+            {
+                "text": "El valor de B sea mayor de 1."
+            },
+            {
+                "text": "El valor de B sea menor de 1."
+            }
+        ]
+    },
+    {
+        "text": "La competencia espermática es poco probable que se dé en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La poliginia.",
+                "correct": true
+            },
+            {
+                "text": "Cualquiera de las opciones anteriores."
+            },
+            {
+                "text": "La poliginandria."
+            },
+            {
+                "text": "La poliandria."
+            }
+        ]
+    },
+    {
+        "text": "Considerando que los números que coronan cada columna de la Figura representan el porcentaje de respuestas de picoteo que emiten los polluelos de gaviota ante los estímulos que se representan justo encima, debemos pensar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema5_02.jpg",
+        "responses": [
+            {
+                "text": "El lapicero con tres rayas en las proximidades de la punta es un estímulo supernormal."
+            },
+            {
+                "text": "Los polluelos de gaviota discriminan perfectamente entre una gaviota real y un lapicero."
+            },
+            {
+                "text": "La conducta de picoteo es una pauta de acción fija."
+            },
+            {
+                "text": "Lo dicho en «la conducta de picoteo es una pauta de acción fija» y «el lapicero con tres rayas en las proximidades de la punta es un estímulo supernormal» es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En una población de halcones y palomas la confrontación entre halcones proporciona un pago promedio de 1 punto positivo. Sabiendo que en este momento la población está formada por igual número de halcones que de palomas, podemos asegurar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los halcones no tardarán en desaparecer."
+            },
+            {
+                "text": "Se trata de una población en equilibrio porque la estrategia evolutivamente estable es una estrategia mixta halcón/paloma."
+            },
+            {
+                "text": "La estrategia paloma es evolutivamente estable."
+            },
+            {
+                "text": "La estrategia halcón es evolutivamente estable.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estados motivacionales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explican la variabilidad en la respuesta de un organismo ante una misma estimulación."
+            },
+            {
+                "text": "Hacen referencia a cambios temporales y reversibles en el estado interno de un organismo."
+            },
+            {
+                "text": "Modifican la capacidad sensorial y perceptiva haciendo que el organismo altere su captación de determinados tipos de estímulos relacionados con la satisfacción de la motivación."
+            },
+            {
+                "text": "Todas las otras opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde un punto de vista sociobiológico, en los cuidados que una madre proporciona a su hijo prima decisivamente:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El asegurar la transmisión de los genes del padre de la criatura"
+            },
+            {
+                "text": "El amor de madre"
+            },
+            {
+                "text": "El asegurar que sus genes pasen a la siguiente generación",
+                "correct": true
+            },
+            {
+                "text": "La cohesión social y familiar"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes parejas de subdisciplinas de la Ecología del Comportamiente son las más alejadas entre sí?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Endocrinología de la conducta - Etología"
+            },
+            {
+                "text": "Psicología Evolucionista - Etología",
+                "correct": true
+            },
+            {
+                "text": "Psicología Evolucionista - Sociobiología"
+            },
+            {
+                "text": "Neuroetología - Etología"
+            }
+        ]
+    },
+    {
+        "text": "La impronta es un tipo de aprendizaje:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A)Que se adquiere tras mucho entrenamiento"
+            },
+            {
+                "text": "B)Que se adquiere en cualquier momento a lo largo del ciclo vital"
+            },
+            {
+                "text": "C)Que depende de la interacción entre el sujeto y cierto tipo de estímulos en un período concreto del desarrollo",
+                "correct": true
+            },
+            {
+                "text": "A y C son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "Cuando los individuos que no se reproducen contribuyen a que sus familiares lo hagan, están incrementando su:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/Aptitud inclusiva.",
+                "correct": true
+            },
+            {
+                "text": "B/Aptitud directa."
+            },
+            {
+                "text": "C/Amptitud indirecta."
+            },
+            {
+                "text": "A y c son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "Desde el punto de vista sociobiológico, cuando el amamantamiento ya no es necesario para la supervivencia de una cría, lo más lógico para esa cría es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No impedir que el hermano mame.",
+                "correct": true
+            },
+            {
+                "text": "Matar al hermano."
+            },
+            {
+                "text": "Impedir que la madre amamante a otro hermano menor."
+            },
+            {
+                "text": "Llorar, por aquello de que 'el que no llora no mama'."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes conductas no es una pauta de acción fija?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El bostezo humano."
+            },
+            {
+                "text": "La lordosis de la rata hembra."
+            },
+            {
+                "text": "Montar en bicicleta.",
+                "correct": true
+            },
+            {
+                "text": "La recuperación del huevo por parte del ganso."
+            }
+        ]
+    },
+    {
+        "text": "Una pareja de hombres homosexuales lograría maximizar su aptitud inclusiva si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Adopta niños con los que no tiene parentesco."
+            },
+            {
+                "text": "Ambos son donantes de semen para procedimientos de fecundación in vitro que dan lugar a cuatro nacimientos de cada donante.",
+                "correct": true
+            },
+            {
+                "text": "Tiene dos hijos mediante maternidad subrogada (vientre de alquiler) con inseminación artificial con el esperma de uno de ellos y óvulos donados por la hermana de otro de los miembros de la pareja."
+            },
+            {
+                "text": "Cría dos sobrinos de cada uno."
+            }
+        ]
+    },
+    {
+        "text": "La preeclamsia es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El conflicto madre - hijo",
+                "correct": true
+            },
+            {
+                "text": "Que el embrión es un ente pasivo en su relación con la fisiología de la madre"
+            },
+            {
+                "text": "Que en el conflicto padres/hijos, siempre ganan los hijos"
+            },
+            {
+                "text": "Que el control de la salud de la madre durante la gestación está en el feto"
+            }
+        ]
+    },
+    {
+        "text": "La lordosis es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pauta de acción fija",
+                "correct": true
+            },
+            {
+                "text": "Conducta aprendida"
+            },
+            {
+                "text": "Mecanismo desencadenador innato"
+            },
+            {
+                "text": "Patrón de conducta parental"
+            }
+        ]
+    },
+    {
+        "text": "¿A qué pregunta de Tinbergen responde la Neuroetología?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A la primera",
+                "correct": true
+            },
+            {
+                "text": "A la cuarta"
+            },
+            {
+                "text": "A la segunda"
+            },
+            {
+                "text": "A la tercera"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes conductas es una estrategia evolutivamente estable?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Criar preferentemente machos"
+            },
+            {
+                "text": "La estrategia paloma"
+            },
+            {
+                "text": "Criar preferentemente hembras"
+            },
+            {
+                "text": "Criar machos y hembras al 50%",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La impronta o troquelado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(Pág. 95)",
+        "responses": [
+            {
+                "text": "Es una conducta innata, no se aprende"
+            },
+            {
+                "text": "Puede ser de dos tipos: territorial y comunicativa"
+            },
+            {
+                "text": "Se produce sin la existencia de ningún tipo de estimulación"
+            },
+            {
+                "text": "Es el proceso por el cual un miembro de una especie adquiere preferencia por interactuar social o sexualmente con un determinado tipo de individuos como consecuencia de la experiencia",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué afirmación ES INCORRECTA en relación con las pautas de acción fija?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son autorreguladas."
+            },
+            {
+                "text": "Son exhibidas por todos los miembros de la especie."
+            },
+            {
+                "text": "Son desencadenadas por cualquier estímulo.",
+                "correct": true
+            },
+            {
+                "text": "Son estereotipadas."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un grupo de machos (en vez de uno solo) controla el acceso sexual a varias hembras, hablamos de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Poliginandria.",
+                "correct": true
+            },
+            {
+                "text": "Poliginia."
+            },
+            {
+                "text": "Monogamia."
+            },
+            {
+                "text": "Poliandria."
+            }
+        ]
+    },
+    {
+        "text": "El principal objetivo de la Ecología del comportamiento es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explicar las leyes del condicionamiento clásico."
+            },
+            {
+                "text": "Todas las opciones son ciertas."
+            },
+            {
+                "text": "Explicar la función adaptativa de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Realizar experimentos de laboratorio para estudiar los procesos de aprendizaje."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una conducta desplegada por todos o muchos miembros de una especie parece tener efectos negativos sobre su aptitud, tenemos que suponer que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se trata de una estrategia evolutivamente estable"
+            },
+            {
+                "text": "Surgió en un entorno ecológico diferente del actual",
+                "correct": true
+            },
+            {
+                "text": "Nunca fue una adaptación"
+            },
+            {
+                "text": "Todavía no ha evolucionado lo suficiente"
+            }
+        ]
+    },
+    {
+        "text": "Se dice que la Psicología Evolucionista es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un antecedente de la Sociobiología"
+            },
+            {
+                "text": "Una síntesis entre la visión adaptacionista de la conducta y la Psicología",
+                "correct": true
+            },
+            {
+                "text": "Otra forma de llamar a la Etología"
+            },
+            {
+                "text": "Las tres son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "En relación con la conducta sexual de la rata, como la de muchos otros mamíferos, sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La testosterona ejerce un efecto organizacional en determinadas áreas cerebrales.",
+                "correct": true
+            },
+            {
+                "text": "Las hormonas gonadales tienen un efecto activacional durante los periodos críticos en la fase temprana del desarrollo."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            },
+            {
+                "text": "Depende enteramente de su sexo genético."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes planteamientos intenta explicar las ventajas de la reproducción sexual sobre la asexual:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección por parentesco."
+            },
+            {
+                "text": "La teoría de la optimización."
+            },
+            {
+                "text": "La ley de Bateman."
+            },
+            {
+                "text": "La teoría de la reina roja.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La conducta desplegada por el ganso gris de la imagen es (se le ve recuperando el huevo que se ha salido del nido)",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema5_04.jpg",
+        "responses": [
+            {
+                "text": "Un estímulo signo"
+            },
+            {
+                "text": "Una pauta de acción fija",
+                "correct": true
+            },
+            {
+                "text": "Un mecanismo desencadenador innato"
+            },
+            {
+                "text": "Ninguna de las tres cosas"
+            }
+        ]
+    },
+    {
+        "text": "En Ecología del Comportamiento, por rendimiento neto hay que entender:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La cantidad total de gasto realizado dividida por el beneficio obtenido"
+            },
+            {
+                "text": "La cantidad total de beneficio aportado por el recurso obtenido"
+            },
+            {
+                "text": "La diferencia entre el beneficio obtenido y el gasto realizado",
+                "correct": true
+            },
+            {
+                "text": "Ninguna de las tres opciones anteriores"
+            }
+        ]
+    },
+    {
+        "text": "La ley o regla de Hamilton establece:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una relación inversamente proporcional entre el grado de parentesco y el grado de altruismo."
+            },
+            {
+                "text": "Que los machos pueden tener muchos más descendientes directos que las hembras."
+            },
+            {
+                "text": "La relación matemática existente entre el coste del altruismo y el beneficio reproductivo del receptor.",
+                "correct": true
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones describe una ventaja de la promiscuidad para las hembras?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Favorece la competencia entre machos."
+            },
+            {
+                "text": "Aumenta la probabilidad de fecundación.",
+                "correct": true
+            },
+            {
+                "text": "Mejora las expectativas reproductivas del macho."
+            },
+            {
+                "text": "Facilita la colaboración en la crianza por parte del macho."
+            }
+        ]
+    },
+    {
+        "text": "En algunas especies, una de las estrategias reproductoras que la hembra utiliza para disminuir el infanticidio es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/La fidelidad."
+            },
+            {
+                "text": "B/La promiscuidad.",
+                "correct": true
+            },
+            {
+                "text": "C/La anisogamia."
+            },
+            {
+                "text": "A y c son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "El estudio de la Ontogenia de la Conducta responde a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La tercera pregunta de Tinbergen"
+            },
+            {
+                "text": "A todas las preguntas de Tinbergen"
+            },
+            {
+                "text": "Las causas últimas"
+            },
+            {
+                "text": "Las causas próximas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Es comprensible desde el marco de referencia de la Sociobiología que una mujer tenga hijos mediante fecundación in vitro con óvulos de una donante?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No puede saberse."
+            },
+            {
+                "text": "Sí, porque está aumentando su actitud indirecta si el hijo es de su pareja."
+            },
+            {
+                "text": "No, porque no comparte parentesco genético con sus hijos.",
+                "correct": true
+            },
+            {
+                "text": "Sí, porque está aumentando su aptitud inclusiva."
+            }
+        ]
+    },
+    {
+        "text": "La teoría del Forrajeo Optimo es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Modelo de optimización.",
+                "correct": true
+            },
+            {
+                "text": "Altruismo entre diploides."
+            },
+            {
+                "text": "Altruismo reproductivo."
+            },
+            {
+                "text": "Aptitud inclusiva."
+            }
+        ]
+    },
+    {
+        "text": "Por el efecto que desencadena en los polluelos de gaviota arenquera, se considera que la punta del pico de la madre representa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/Un estímulo desencadenador innato."
+            },
+            {
+                "text": "B/Un estímulo-signo."
+            },
+            {
+                "text": "C/Una pauta de acción fija."
+            },
+            {
+                "text": "Lo indicado en a y b.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la película de Alfred Hitchcock de 1936 Sabotaje (Sabotage), el conspirador Verloc para escapar del cerco de Scotland Yard, se ve obligado a enviar al hermano pequeño de su mujer, Steve, con el paquete que contiene la bomba que ha de estallar en el metro de Londres al cabo de dos horas. El niño, de unos 13 años, desconoce el contenido del paquete, que ha de colocar junto con dos rollos de película en una consigna de la estación Victoria antes de las 13:45 (es posible que los datos no sean correctos al 100%, pero para lo que afecta al planteamiento de la cuestión, vale con que sean verosímiles). El muchacho se encamina a cumplir su encargo pero en ese día Londres está muy congestionado con motivo de los festejos que ofrece un miembro de la familia real, además, ha de ir andando porque está prohibido trasportar material inflamable en los autobuses (y los rollos de película lo son), así que el muchacho, que por otra parte se entretiene con los desfiles callejeros y sirviendo de maniquí a un truhán ambulante, se ve obligado finalmente a subir a un autobús porque de lo contrario no llegará a tiempo, el tráfico está imposible y el tiempo se acaba, tanto que, finalmente la bomba estalla dentro del autobús donde el niño y otros pasajeros mueren indefectiblemente. <br>Esta película está basada en la novela de Joseph Conrad, El Agente Secreto, pero con la diferencia de que en la novela el muchacho es deficiente mental. Tal vez sea cierto, y seguramente es lo que se trata de sugerir en la película, como dice el crítico, que Verloc se halla dividido entre su supuesto deber político, el amor a su causa, y el amor a sus seres queridos, pero como teóricos del comportamiento humano y estudiosos de su función biológica podemos y debemos hacernos la siguiente pregunta: ¿hubiera enviado Verloc a su propio hijo con la bomba (Desde luego, es claro que lo importante aquí son los argumentos que se han de esgrimir para dar una respuesta u otra, suponemos que dar con la respuesta correcta (sólo una de ellas pensamos que lo es) desde el punto de vista biológico presupone una argumentación acertada)?:<br>",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No hay que confundir las causas políticas con las biológicas, ni éstas con las artísticas "
+            },
+            {
+                "text": "No hubiera enviado a su propio hijo",
+                "correct": true
+            },
+            {
+                "text": "Hubiera enviado a su propio hijo"
+            },
+            {
+                "text": "No existe diferencia ni dramática ni psicológica entre enviar a su hijo o a su cuñado"
+            }
+        ]
+    },
+    {
+        "text": "En relación con las estrategias encaminadas a adoptar la decisión óptima, ES FALSO que los principios de la teoría de optimización:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Midan la utilizado beneficio perseguido en términos de rendimiento."
+            },
+            {
+                "text": "Se apliquen a aquellas estrategias cuyo resultado dependen únicamente de la decisión individual."
+            },
+            {
+                "text": "Considere que la estrategia óptima es la que maximiza la utilidad."
+            },
+            {
+                "text": "Traten de explicar aquellas estrategias en las que la decisión óptima depende de lo que hagan otros individuos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La aptitud inclusiva se mide por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El número de copias de alelos propios que pasan a la siguiente generación.",
+                "correct": true
+            },
+            {
+                "text": "Todas las anteriores son correctas."
+            },
+            {
+                "text": "El éxito reproductivo."
+            },
+            {
+                "text": "El número de descendientes directos que pasan a la siguiente generación."
+            }
+        ]
+    },
+    {
+        "text": "Según la Sociobiología, ¿por qué las madres destetan a sus hijos antes de lo que a éstos les gustaría?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Porque tratan de optimizar su propia aptitud biológica"
+            },
+            {
+                "text": "B/ Porque de esta manera pueden criar más descendientes"
+            },
+            {
+                "text": "C/ Porque de esta manera tratan de favorecer la aptitud biológica de las crías"
+            },
+            {
+                "text": "A y B son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si la mayoría o totalidad de los miembros de la población despliegan una determinada estrategia de interacción social, diremos que es una estrategia evolutívamente estable si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualquier mutante que despliegue una estrategia alternativa se ve seleccionado en contra."
+            },
+            {
+                "text": "No puede ser invalidada por ninguna otra estrategia."
+            },
+            {
+                "text": "Cualquier mutante que despliegue una estrategia alternativa tiene menos éxito reproductivo que los individuos no mutantes."
+            },
+            {
+                "text": "Todas las opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones NO se relaciona con la Sociobiología?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sus postulados básicos nada tienen que ver con los de la Etología",
+                "correct": true
+            },
+            {
+                "text": "Aplica principios evolucionistas para explicar algunos comportamientos como el altruismo"
+            },
+            {
+                "text": "Es la ciencia que estudia en qué medida la conducta social afecta al éxito reproductivo"
+            },
+            {
+                "text": "Pone de manifiesto que la conducta social favorece la aptitud inclusiva"
+            }
+        ]
+    },
+    {
+        "text": "En Etología, las conocidas como 'cuatro preguntas' de Tinbergen pueden resumirse en los siguientes conceptos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Evolución, ontogenia, causación, función.",
+                "correct": true
+            },
+            {
+                "text": "Evolución, causación, función, epigenética."
+            },
+            {
+                "text": "Función, causación, aptitud, impronta."
+            },
+            {
+                "text": "Causación, epigenética, evolución, ontogenia."
+            }
+        ]
+    },
+    {
+        "text": "En el contexto de la Sociobiología, el infanticidio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo se comete cuando las expectativas reproductivas de la cría son mínimas"
+            },
+            {
+                "text": "Sólo tiene sentido biológico si los que lo cometen mejoran con ello su éxito reproductivo",
+                "correct": true
+            },
+            {
+                "text": "Sólo tiene una explicación cultural"
+            },
+            {
+                "text": "Sólo se explica por la escasez de recursos"
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué cree Ud. que los cucos son alimentados por sus padres adoptivos a pesar de presentar un tamaño que hace imposible pasar por descendientes biológicos de los criadores?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porque las crías de cuco emiten estímulos supernormales",
+                "correct": true
+            },
+            {
+                "text": "Porque los criadores no son capaces de percibir la diferencia"
+            },
+            {
+                "text": "Debido al troquelado"
+            },
+            {
+                "text": "Lo que se dice en el enunciado de la pregunta es falso, puesto que a los cucos los crían sus propios progenitores"
+            }
+        ]
+    },
+    {
+        "text": "Según lo estudiado en relación con los sistemas de apareamiento, usted puede asegurar que la monogamia humana:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está programada genéticamente (es un rasgo biológico de nuestra especie)."
+            },
+            {
+                "text": "Es más frecuente cuanto más cálido es el clima."
+            },
+            {
+                "text": "Está determinada fundamentalmente por factores sociales.",
+                "correct": true
+            },
+            {
+                "text": "Sólo es natural en las mujeres puesto que nada tienen que ganar con la promiscuidad y la poliginia."
+            }
+        ]
+    },
+    {
+        "text": "Según los etólogos, las respuestas a estímulos supernormales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No son adaptativas",
+                "correct": true
+            },
+            {
+                "text": "Favorecen el éxito reproductivo"
+            },
+            {
+                "text": "Son menos intensas que las dadas a estímulos realistas"
+            },
+            {
+                "text": "Son menos probables que las dadas a estímulos realistas"
+            }
+        ]
+    },
+    {
+        "text": "La Teoría Modular de la Mente es un concepto asociado específicamente con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La Sociobiología"
+            },
+            {
+                "text": "La Psicología Evolucionista",
+                "correct": true
+            },
+            {
+                "text": "La Ecología del Comportamiento"
+            },
+            {
+                "text": "La Etología"
+            }
+        ]
+    },
+    {
+        "text": "Se ha podido observar que los niños-lobo que han ido apareciendo a lo largo de la historia han tenido una enorme dificultad para aprender el lenguaje y sólo han logrado alcanzar un nivel muy rudimientario. Además, es evidente que todos los niños normales aprenden la lengua que se habla en el entorno en el que se desarrollan. Todos estos datos en relación con el aprendizaje del lenguaje:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Señalan que este aprendizaje guarda un fuerte paralelismo con la forma en que muchas aves canoras aprenden el canto propio de su especie."
+            },
+            {
+                "text": "Apuntan a que se trata de un aprendizaje que tiene un periodo crítico."
+            },
+            {
+                "text": "Hacen que se le puede considerar un cierto tipo de impronta o troquelado."
+            },
+            {
+                "text": "Las otras tres afirmaciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En teoría, teniendo en cuenta el altruismo reproductivo y la aptitud inclusiva ¿con quién es más probable que ejerciese un acto de altruismo reproductivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un sobrino."
+            },
+            {
+                "text": "Con cualquier de ellos, daría lo mismo.",
+                "correct": true
+            },
+            {
+                "text": "Un medio hermano."
+            },
+            {
+                "text": "Un tío."
+            }
+        ]
+    },
+    {
+        "text": "En la película de Nick Cassavetes John Q. (2002), Denzel Washington secuestra al equipo de trasplantes del hospital donde está internado su hijo de 11 ó 12 años, al que se le ha diagnosticado una malformación cardíaca que le llevará a la muerte en pocos meses si no se encuentra pronto el corazón compatible de un donante. La trama argumental de la película no es demasiado relevante salvo que en un determinado momento, el padre del niño plantea el dilema de que, puesto que no hay ningún corazón disponible, él se suicidará con el fin de que el equipo utilice su propio corazón para trasplantárselo a su hijo. Por supuesto, antes de que eso ocurra llegará el corazón deseado, pero, sabiendo que el niño es hijo único y que su padre se halla en la mitad de la treintena de su edad, queremos saber si es razonable esta conducta desde el marco de referencia de la sociobiología:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema5_03.jpg",
+        "responses": [
+            {
+                "text": "Sí, si su esposa ha quedado estéril a raíz del parto."
+            },
+            {
+                "text": "No, porque aún tiene muchas posibilidades de engendrar más hijos.",
+                "correct": true
+            },
+            {
+                "text": "No porque el suicidio no se da en la especie humana."
+            },
+            {
+                "text": "Sí, porque es la única manera que posee este hombre de pasar sus genes a la siguiente generación."
+            }
+        ]
+    },
+    {
+        "text": "La sociobiología estudia las conductas sociales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bajo el supuesto de que algunas de estas conductas aportan ventajas reproductivas a los individuos que las despliegan."
+            },
+            {
+                "text": "Bajo el supuesto de que son en gran medida resultado de la selección natural."
+            },
+            {
+                "text": "Bajo la perspectiva de la teoría de la evolución por medio de la selección natural."
+            },
+            {
+                "text": "Todas las otras opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La explicación más plausible dada hasta ahora al hecho de que las abejas obreras no se reproduzcan, es que ese comportamiento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Disminuye su eficacia inclusiva"
+            },
+            {
+                "text": "Evita que las hermanas pasen más genes a la siguiente generación"
+            },
+            {
+                "text": "Todas las otras opciones son ciertas"
+            },
+            {
+                "text": "Asegura que pasen más genes propios a la siguiente generación",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si no hubiera riesgo de sufrir multa por no hacerlo, optar entre pagar los impuestos directos (hacer la declaración de hacienda) o no hacerlo constituiría:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una estrategia evolutivamente estable."
+            },
+            {
+                "text": "Una estrategia de los comunes."
+            },
+            {
+                "text": "Un dilema del prisionero social."
+            },
+            {
+                "text": "Lo dicho en 'un dilema del prisionero social' y 'una tragedia de los comunes' es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los modelos de optimización propuestos por la ecología del comportamiento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todas las opciones anteriores son ciertas."
+            },
+            {
+                "text": "Tratan de demostrar la función adaptativa de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Tratan de representar un modelo de las interacciones sociales de las que depende la aptitud inclusiva."
+            },
+            {
+                "text": "Demuestran que una estrategia es óptima cuando permite lograr la diferencia entre el coste y el beneficio sea mínima."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué pregunta de las cuatro de Tinbergen responde fundamentalmente el estudio del troquelado?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A la tercera"
+            },
+            {
+                "text": "A la segunda",
+                "correct": true
+            },
+            {
+                "text": "A la primera"
+            },
+            {
+                "text": "A la cuarta"
+            }
+        ]
+    },
+    {
+        "text": "Los mecanismos desencadenadores innatos, concepto acuñado por Lorenz y Tinbergen:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explican la conexión entre estímulos desencadenadores innatos y pautas fijas de acción."
+            },
+            {
+                "text": "Son objeto de estudio de la Neuroetología."
+            },
+            {
+                "text": "Hacen referencia al conjunto de estructuras orgánicas y mecanismos fisiológicos que procesan la estimulación y coordinan los movimientos de respuesta que constituyen la pauta fija de acción."
+            },
+            {
+                "text": "Todas las otras son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se dice que el acervo conductual de una especie forma parte del conjunto de adaptaciones de esa especie:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/Se está adoptando una visión adaptacionista."
+            },
+            {
+                "text": "B/Se está cometiendo un error."
+            },
+            {
+                "text": "C/Se está afirmando que también la conducta es una adaptación."
+            },
+            {
+                "text": "D/Lo dicho en a y c es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con la teoría de juegos sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un modelo explicativo del modo en que se producen las interacciones sociales.",
+                "correct": true
+            },
+            {
+                "text": "En sus planteamientos no cabe el concepto de aptitud biológica."
+            },
+            {
+                "text": "Una estrategia evolutivamente estable puede ser reemplazada por otra, a pesar de que aquella sea desplegada por la mayor parte de la población."
+            },
+            {
+                "text": "Los individuos adoptarán estrategias conductuales que les reporten el mayor beneficio sin tener en cuenta el coste."
+            }
+        ]
+    },
+    {
+        "text": "La estrategia consistente en luchar hasta vencer o sufrir daños importantes, recibe el nombre de estrategia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mixta"
+            },
+            {
+                "text": "Estrategia evolutivamente estable"
+            },
+            {
+                "text": "Halcón",
+                "correct": true
+            },
+            {
+                "text": "Paloma"
+            }
+        ]
+    },
+    {
+        "text": "La conducta que favorece el éxito reproductivo de un congénere en detrimento del propio recibe el nombre de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Conducta parental"
+            },
+            {
+                "text": "Egoísmo"
+            },
+            {
+                "text": "Esfuerzo reproductivo"
+            },
+            {
+                "text": "Altruismo ",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La diabetes gestacional se puede entender como un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cooperación prenatal madre/hijo."
+            },
+            {
+                "text": "Modelo de optimización."
+            },
+            {
+                "text": "Altruismo prenatal madre/hijo."
+            },
+            {
+                "text": "Conflicto prenatal madre/hijo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En Ecología del Comportamiento, la optimización consiste en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La cantidad total de beneficio aportado por el recurso obtenido"
+            },
+            {
+                "text": "Minimizar la cantidad total de gasto realizada"
+            },
+            {
+                "text": "La maximización de la utilidad",
+                "correct": true
+            },
+            {
+                "text": "La diferencia entre el beneficio obtenido y el gasto realizado"
+            }
+        ]
+    },
+    {
+        "text": "El infanticidio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede favorecer el éxito reproductivo del que lo realiza",
+                "correct": true
+            },
+            {
+                "text": "Es biológicamente ineficaz"
+            },
+            {
+                "text": "Sólo se da entre especies no emparentadas"
+            },
+            {
+                "text": "No se explica más que como una alteración mental"
+            }
+        ]
+    },
+    {
+        "text": "La Etología ha demostrado que para cada especie existen algunos estímulos tan especialmente relevantes que al aparecer provocan en el individuo que los capta la emisión de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pautas de acción fija.",
+                "correct": true
+            },
+            {
+                "text": "Respuestas condicionadas."
+            },
+            {
+                "text": "Un mecanismo desencadenador innato."
+            },
+            {
+                "text": "Un mecanismo de impronta."
+            }
+        ]
+    }
+]

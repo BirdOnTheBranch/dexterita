@@ -1,0 +1,314 @@
+[
+  {
+    "text": "La Psicología Fisiológica se puede considerar como:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Una 'psico' más, o la 'psico' que le correspondería a la neurofisiología" },
+      { "text": "Una disciplina molar que aborda la explicación neurobiológica de todos los procesos emocionales, motivacionales y cognitivos", "correct": true },
+      { "text": "Una disciplina reduccionista y molecular al igual que todas las disciplinas 'neuro' de la Neurociencia" }
+    ]
+  },
+  {
+    "text": "La función del sueño, según la hipótesis del drenaje glinfático (Nedergaard y Goldman, 2016), es:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Reducir la eficiencia de las sinapsis modificadas por el aprendizaje para evitar que se saturen" },
+      { "text": "Equilibrar la presión homeostática producida por el incremento de adenosina" },
+      { "text": "Facilitar el transporte de desechos generados por la actividad del cerebro mediante el aumento del espacio extracelular", "correct": true }
+    ]
+  },
+  {
+    "text": "Dentro del circuito neural del ciclo sueño-vigilia, el núcleo dorsomedial del hipotálamo (DMH) envía conexiones inhibitorias:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Al núcleo ventrolateral del área preóptica (VLPO)", "correct": true },
+      { "text": "A las neuronas orexinérgicas del hipotálamo lateral (OX-HL)" },
+      { "text": "Al locus coeruleus (LC)" }
+    ]
+  },
+  {
+    "text": "Según Sigmund Freud (1856 — 1939), los sueños tienen ese carácter a veces extraño y fantástico porque:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Son la representación desfigurada, para evitar al censor, de la realización de deseos reprimidos", "correct": true },
+      { "text": "Son el resultado de la actividad, aleatoria y carente de sentido, de las neuronas del tronco del encéfalo durante el sueño" },
+      { "text": "Tienen el mismo sustrato neurofisiológico que los brotes psicóticos" }
+    ]
+  },
+  {
+    "text": "La narcolepsia con cataplexia se debe a:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Una obstrucción de las vías respiratorias" },
+      { "text": "Un adelanto del ciclo circadiano" },
+      { "text": "Un deterioro del sistema orexinérgico", "correct": true }
+    ]
+  },
+  {
+    "text": "¿Cuál es el gen responsable de la determinación testicular en humanos?",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Y" },
+      { "text": "SRY", "correct": true },
+      { "text": "XY" }
+    ]
+  },
+  {
+    "text": "En su forma completa, el síndrome de insensibilidad a los andrógenos (SIA) produce un fenotipo",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "De varón" },
+      { "text": "De mujer", "correct": true },
+      { "text": "De varón en la infancia y de mujer a partir de la adolescencia" }
+    ]
+  },
+  {
+    "text": "¿Qué tipo de información sensorial integra el núcleo ventromedial del hipotálamo (VMH) para controlar la lordosis?",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Olfatoria y somatosensorial", "correct": true },
+      { "text": "Visual y auditiva" },
+      { "text": "Gustativa y propioceptiva" }
+    ]
+  },
+  {
+    "text": "La incongruencia que se produce en algunas personas entre su sexo biólogico y el sentimiento de pertenecer al otro sexo",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Se denomina 'bisexualidad'" },
+      { "text": "Comienza en la niñez y a veces revierte en la adolescencia", "correct": true },
+      { "text": "Se desarrolla sin la implicación de variables genéticas, hormonales, cerebrales y sociales" }
+    ]
+  },
+  {
+    "text": "En relación con la ingesta, el principal elemento utilizado por las células para obtener energía es la:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Insulina" },
+      { "text": "Glucosa", "correct": true },
+      { "text": "Leptina" }
+    ]
+  },
+  {
+    "text": "Wren y sus colaboradores (2000) comprobaron que la administración intraperitoneal o intracerebroventricular de grelina:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Producía un incremento de la cantidad de comida ingerida por los animales", "correct": true },
+      { "text": "Producía una disminución de la cantidad de comida ingerida por los animales" },
+      { "text": "No tenía ningún efecto en la cantidad de comida ingerida por los animales" }
+    ]
+  },
+  {
+    "text": "¿Se ha demostrado la existencia de una relación directa entre los péptidos implicados en el control de la ingesta y los centros de recompensa cerebrales?",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "No se ha estudiado esta posibilidad" },
+      { "text": "Los estudios sobre esta cuestión no han sido concluyentes" },
+      { "text": "Sí, entre otros resultados, algunos autores han demostrado que la grelina, en su acción orexígena, puede influir en la actividad dopaminérgica modificando la organización de las aferencias que llegan al área tegmental ventral (ATV)", "correct": true }
+    ]
+  },
+  {
+    "text": "Al nacimiento, los pesos muy altos o muy bajos",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Podrían determinar una mayor susceptibilidad a padecer obesidad en la etapa adulta" },
+      { "text": "Podrían determinar una mayor susceptibilidad a padecer anorexia nerviosa en la etapa adulta" },
+      { "text": "Las alternativas A y B son correctas", "correct": true }
+    ]
+  },
+  {
+    "text": "James y Lange (1884) propusieron:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La primera teoría fisiológica de la emoción", "correct": true },
+      { "text": "La principal teoría anatómica de la emoción" },
+      { "text": "Que las emociones primarias son universales" }
+    ]
+  },
+  {
+    "text": "Los trabajos realizados por LeDoux permiten concluir que:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Las dos vías, rápida y lenta, del procesamiento de la información sensorial son necesarias y útiles para el organismo y que cumplen funciones complementarias.", "correct": true },
+      { "text": "La vía rápida del procesamiento de la información sensorial es más necesaria y útil para el organismo y que cumple una función antagónica a la vía lenta" },
+      { "text": "Las dos vías, rápida y lenta, del procesamiento de la información sensorial son necesarias y útiles para el organismo y cumplen funciones antagónicas" }
+    ]
+  },
+  {
+    "text": "La hipótesis del marcador somático (Damasio y cols. 2013) propone que",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Los sentimientos son experiencias mentales de los estados corporales.", "correct": true },
+      { "text": "Los sentimientos no están influidos por los estados corporales." },
+      { "text": "Los estados corporales no varían en función de la emoción." }
+    ]
+  },
+  {
+    "text": "Los diferentes mecanismos neurobiológicos que subyacen a la parálisis facial intencional y a la parálisis facial emocional:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Muestran que la expresión emocional no puede controlarse voluntariamente nunca." },
+      { "text": "Permiten concluir que los mecanismos que controlan la expresión voluntaria y la expresión involuntaria de los músculos faciales son diferentes.", "correct": true },
+      { "text": "Ponen de manifiesto que los mecanismos que controlan la expresión voluntaria y la expresión involuntaria de los músculos faciales son los mismos." }
+    ]
+  },
+  {
+    "text": "Las personas afectadas por afasia de Broca:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Tienen preservada la comprensión del lenguaje en lo que se refiere a frases pasivas." },
+      { "text": "Utilizan un lenguaje con palabras de contenido, pero no de función.", "correct": true },
+      { "text": "No muestran dificultades con respecto a la repetición de palabras." }
+    ]
+  },
+  {
+    "text": "La ruta dorsal en el modelo de lenguaje de doble ruta de Hickok y Poeppel (2007):",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Es la ruta en la cual sus estructuras conectadas a través del fascículo arqueado.", "correct": true },
+      { "text": "Es conocida como la ruta 'del qué', es decir del sentido del lenguaje." },
+      { "text": "Anatómicamente, no incluye a las regiones premotoras (AB6) y motoras (AB4)." }
+    ]
+  },
+  {
+    "text": "Los niños que aprenden a leer en un idioma trasparente:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "No muestran diferencias en el tiempo que tardan en aprender a leer con respecto a los niños que aprenden en idiomas opacos." },
+      { "text": "Son más precisos y rápidos en la lectura durante toda la infancia que los niños que aprenden en idiomas opacos.", "correct": true },
+      { "text": "Aprenden a leer, al igual que los niños que aprenden en idiomas opacos, mediante el método de conversión de grafema a fonema." }
+    ]
+  },
+  {
+    "text": "La potenciación a largo plazo (PLP) es un buen modelo para explicar las bases celulares del aprendizaje y la memoria, y aunque la PLP ha sido estudiada principalmente en el hipocampo, se ha observado en otras áreas como:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La amígdala", "correct": true },
+      { "text": "El cuerpo calloso" },
+      { "text": "El núcleo supraquiasmático" }
+    ]
+  },
+  {
+    "text": "En relación con la potenciación a largo plazo (PLP) y a los cambios estructurales que tienen lugar en las sinapsis, podríamos afirmar que:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "La plasticidad sináptica depende en gran medida de los receptores de glutamato, los cuales se concentran en unas pequeñas protrusiones postsinápticas denominadas espinas dendríticas." },
+      { "text": "Las espinas dendríticas tienen una capacidad de remodelación constante ya que pueden cambiar de tamaño, forma, e incluso en el número, en respuesta a distintas situaciones como sería el caso de la plasticidad sináptica." },
+      { "text": "Las alternativas A y B son correctas.", "correct": true }
+    ]
+  },
+  {
+    "text": "El paciente H. M. (Henry Gustav Molaison), tras ser sometido a una lobectonnía (extirpación quirúrgica) bilateral de aproximadamente 8 centímetros de la corteza temporal medial (incluyendo el hipocampo):",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Padecía amnesia retrograda con gradiente temporal, es decir, los recuerdos del pasado más remoto estaban peor conservados que los más recientes." },
+      { "text": "Presentaba una amnesia anterógrada grave, ya que era incapaz de formar nuevos recuerdos.", "correct": true },
+      { "text": "La amnesia retrograda que presentaba el paciente afectaba especialmente a cualquier tipo de memoria implícita o no declarativa." }
+    ]
+  },
+  {
+    "text": "Aunque la mayor parte de la síntesis de proteínas relativas a procesos como la potenciación a largo plazo (PLP) tiene lugar en el soma de las neuronas, una síntesis de proteínas localizada fuera del soma, por ejemplo, en las espinas dendríticas, podría ser de gran importancia debido a:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      { "text": "Que una vez transportados los ARNm desde el soma a las espinas dendríticas, éstos podrían ser traducidos 'bajo demanda', es decir, en respuesta a la actividad sináptica específica, lo que facilitaría las alteraciones que tienen lugar durante la plasticidad neural.", "correct": true },
+      { "text": "Que formarían parte de un gran reservorio de proteínas neuronales que se acumulan en las espinas dendríticas, concretamente, en las denominadas densidades sinápticas." },
+      { "text": "La distinción entre sinapsis que experimentan potenciación a largo plazo (PLP) y las que experimentan depresión a largo plazo (DLP) radica la capacidad de traducir los micro ARN a proteínas como el receptor NMDA." }
+    ]
+  }
+]

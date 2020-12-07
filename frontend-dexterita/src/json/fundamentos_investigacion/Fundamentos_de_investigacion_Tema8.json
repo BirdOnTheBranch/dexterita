@@ -1,0 +1,233 @@
+[
+    {
+        "text": "¿Cuál de los siguientes muestreos no es probabilístico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por conglomerados"
+            },
+            {
+                "text": "Polietápico"
+            },
+            {
+                "text": "De conveniencia",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para que los resultados de una encuesta puedan ser generalizados al conjunto de la población, la muestra tiene que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ser no sesgada",
+                "correct": true
+            },
+            {
+                "text": "Tener distintas variables que la población"
+            },
+            {
+                "text": "Ser sesgada"
+            }
+        ]
+    },
+    {
+        "text": "Dentro del muestreo probabilística se encuentra el muestreo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Polietápico",
+                "correct": true
+            },
+            {
+                "text": "Estratégico"
+            },
+            {
+                "text": "Accidental"
+            }
+        ]
+    },
+    {
+        "text": "Cuando cada elemento de la población tiene una probabilidad conocida de ser seleccionado, el método de muestreo utilizado es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No probabilístico"
+            },
+            {
+                "text": "Estratégico"
+            },
+            {
+                "text": "Probabilístico",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La validez interna en un diseño de encuestas depende de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los objetivos de la investigación"
+            },
+            {
+                "text": "La calidad de la encuesta (errores en el procedimiento)",
+                "correct": true
+            },
+            {
+                "text": "La representatividad de la muestra"
+            }
+        ]
+    },
+    {
+        "text": "Para realizar una investigación con metodología de encuesta se deberá, entre otras cosas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Elegir o construir un instrumento de recogida de datos"
+            },
+            {
+                "text": "Formular objetivos e hipótesis"
+            },
+            {
+                "text": "Ambas son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La prevalencia en estudios de encuesta epidemiológicos hace referencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A un diseño longitudinal de cohortes"
+            },
+            {
+                "text": "A la frecuencia actual de un determinado trastorno",
+                "correct": true
+            },
+            {
+                "text": "Al número de casos nuevos de una enfermedad que se producen en una determinada población en un tiempo determinado"
+            }
+        ]
+    },
+    {
+        "text": "En las encuestas de panel, se recoge información en puntos sucesivos del tiempo de sujetos pertenecientes a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Distintas muestras"
+            },
+            {
+                "text": "La misma muestra",
+                "correct": true
+            },
+            {
+                "text": "Distintas poblaciones"
+            }
+        ]
+    },
+    {
+        "text": "Un cuestionario:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede recoger datos subjetivos",
+                "correct": true
+            },
+            {
+                "text": "Necesita una persona especializada para aclarar a los encuestados las preguntas con varias interpretaciones"
+            },
+            {
+                "text": "Para que sea objetivo tiene que construirse antes de conocerse los objetivos de la investigación"
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de encuestas transversales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permiten un estudio explicativo de las relaciones causales entre las variables"
+            },
+            {
+                "text": "Estudian analíticamente el cambio de una población a lo largo del tiempo"
+            },
+            {
+                "text": "Se llaman estudios epidemiológicos cuando estudian la prevalencia o frecuencia actual de un trastorno",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La validez externa en la metodología de encuestas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "8",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Depende del tipo de pregunta"
+            },
+            {
+                "text": "Se ve afectada por los errores en el muestreo",
+                "correct": true
+            },
+            {
+                "text": "Es equivalente al concepto de calidad de la encuesta"
+            }
+        ]
+    }
+]

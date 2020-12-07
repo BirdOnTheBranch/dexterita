@@ -1,0 +1,1514 @@
+[
+    {
+        "text": "El objeto de la actitud puede ser:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Exclusivamente una cosa u objeto físico."
+            },
+            {
+                "text": "Exclusivamente una persona o grupo de personas."
+            },
+            {
+                "text": "Prácticamente cualquier cosa, idea, concepto, acción o ser vivo, incluido uno mismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si hemos tenido que decidir entre dos opciones altamente atractivas para nosotros, ¿cuál de los siguientes procedimientos contribuye a reducir la disonancia que puede surgir a raíz de dicha elección?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Dar mucha importancia a la decisión tomada."
+            },
+            {
+                "text": "Aumentar el número de elementos positivos consonantes con la elección.",
+                "correct": true
+            },
+            {
+                "text": "Considerar que el resultado final al que lleva cualquiera de las dos alternativas es muy diferente."
+            }
+        ]
+    },
+    {
+        "text": "Que la intensidad de las actitudes sea mayor o menor depende de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Su valencia positiva o negativa."
+            },
+            {
+                "text": "La importancia de esa actitud para la persona.",
+                "correct": true
+            },
+            {
+                "text": "La escala tipo Likert que se emplee."
+            }
+        ]
+    },
+    {
+        "text": "Según el paradigma de la libre elección, es de esperar que se reduzca la disonancia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Disminuyendo tanto la importancia de los elementos consonantes con la elección como la de los relativos a la opción rechazada."
+            },
+            {
+                "text": "Aumentando la importancia de los elementos consonantes con la elección y disminuyendo la de los relativos a la opción rechazada.",
+                "correct": true
+            },
+            {
+                "text": "Disminuyendo la importancia de los elementos consonantes con la elección y aumentando la importancia de los relativos a la opción rechazada."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes medidas de actitudes se considera explícita?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "Diferencial semántico.",
+                "correct": true
+            },
+            {
+                "text": "Electromiograma."
+            },
+            {
+                "text": "Observación de conductas no verbales."
+            }
+        ]
+    },
+    {
+        "text": "En general, las actitudes que se basan más en creencias que en afectos, como las relacionadas con los valores sociales o la ideología política,",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se forman y se cambian sobre todo a través de la propia experiencia personal."
+            },
+            {
+                "text": "Son ambivalentes por naturaleza."
+            },
+            {
+                "text": "Se forman y se cambian sobre todo a través de agentes de socialización.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El siguiente enunciado incluido en un estudio de medición de actitudes “Por favor, indique su grado de acuerdo o desacuerdo con las siguientes afirmaciones acerca del uso del transporte público, teniendo en cuenta que 1 significa totalmente en desacuerdo y 6 significa totalmente de acuerdo” sería característico de una escala tipo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 207-208)",
+        "responses": [
+            {
+                "text": "Diferencial semántico."
+            },
+            {
+                "text": "Likert.",
+                "correct": true
+            },
+            {
+                "text": "Priming."
+            }
+        ]
+    },
+    {
+        "text": "Las escalas de tipo Likert se han usado tradicionalmente para:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "Medidas implícitas de la actitud."
+            },
+            {
+                "text": "Tanto para medidas explícitas como implícitas de la actitud."
+            },
+            {
+                "text": "Medidas explícitas de la actitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La disonancia que sigue a la elección de una alternativa frente a otra alternativa se puede reducir mediante el procedimiento de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 228-229)",
+        "responses": [
+            {
+                "text": "Considerar que el resultado final al que lleva cualquiera de las dos alternativas es distinto."
+            },
+            {
+                "text": "Dar mucha importancia a la decisión tomada."
+            },
+            {
+                "text": "Cambiar el atractivo de ambas alternativas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la acción planificada, el control percibido influiría sobre la conducta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Indirectamente, a través de las actitudes."
+            },
+            {
+                "text": "Indirectamente, a través de la intención de conducta, y directamente.",
+                "correct": true
+            },
+            {
+                "text": "Indirectamente, a través de las actitudes y de la norma subjetiva."
+            }
+        ]
+    },
+    {
+        "text": "Las actitudes basadas en creencias, como las que tienen que ver con la religión o la política, habitualmente:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "No se pueden conocer utilizando medidas explícitas."
+            },
+            {
+                "text": "Se forman a través de procesos de socialización y no de la experiencia.",
+                "correct": true
+            },
+            {
+                "text": "Cumplen una función de conocimiento."
+            }
+        ]
+    },
+    {
+        "text": "Juan cree que el tabaco es perjudicial para su salud, pero le produce un gran placer fumar, sobre todo cuando está con sus amigos, que también fuman. Con estos datos, podemos afirmar que está sufriendo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 205)",
+        "responses": [
+            {
+                "text": "Ignorancia pluralista."
+            },
+            {
+                "text": "Ambivalencia actitudinal.",
+                "correct": true
+            },
+            {
+                "text": "Disonancia cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación que es FALSA:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Las medidas implícitas de las actitudes son más sutiles que las explícitas."
+            },
+            {
+                "text": "La actitud se puede inferir a través de las respuestas que dan las personas a un objeto de actitud."
+            },
+            {
+                "text": "La actitud se puede observar a través de las respuestas que dan las personas a un objeto de actitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una persona tiene una actitud positiva hacia el reciclado de residuos, porque cree que es bueno para el medio ambiente, pero le molesta profundamente tener que llevar el papel que desecha a un contenedor que está a quinientos metros de distancia de su casa. Esta persona presenta hacia el reciclado de papel",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Disonancia actitudinal."
+            },
+            {
+                "text": "Ambivalencia actitudinal.",
+                "correct": true
+            },
+            {
+                "text": "Disonancia cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de priming para medir actitudes raciales hacia personas blancas y negras, podemos concluir que una persona presenta actitudes negativas hacia las personas negras si",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Tarda más en clasificar como buenos los adjetivos positivos cuando se ha preactivado una fotografía de una persona blanca que cuando se ha preactivado una fotografía de una persona negra."
+            },
+            {
+                "text": "Tardar más en clasificar como malos los adjetivos negativos cuando se ha preactivado una fotografía de una persona negra que cuando se ha preactivado una fotografía de una persona blanca."
+            },
+            {
+                "text": "Tarda más en clasificar como buenos los adjetivos positivos cuando se ha preactivado una fotografía de una persona negra que cuando se ha preactivado una fotografía de una persona blanca.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El siguiente comentario “Los trabajadores inmigrantes deben tener los mismos derechos que los autóctonos”, formulado por una persona en un grupo que rechaza a los inmigrantes, cumpliría una función actitudinal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Instrumental."
+            },
+            {
+                "text": "De expresión de valores.",
+                "correct": true
+            },
+            {
+                "text": "De ajuste social."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la disonancia cognitiva trata de explicar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 227)",
+        "responses": [
+            {
+                "text": "Cómo las actitudes influyen en la conducta."
+            },
+            {
+                "text": "Cómo se forman las actitudes."
+            },
+            {
+                "text": "Cómo la conducta influye en las actitudes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación correcta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 213-214-216)",
+        "responses": [
+            {
+                "text": "Una actitud únicamente puede servir para una función a una misma persona."
+            },
+            {
+                "text": "El condicionamiento evaluativo es pasajero y se extingue fácilmente."
+            },
+            {
+                "text": "Algunas actitudes tienen su origen en mecanismos innatos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El elemento definitorio del concepto de actitud en Psicología Social es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Su carácter ambivalente."
+            },
+            {
+                "text": "Su carácter evaluativo.",
+                "correct": true
+            },
+            {
+                "text": "Su carácter innato."
+            }
+        ]
+    },
+    {
+        "text": "La valencia de una actitud es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 206)",
+        "responses": [
+            {
+                "text": "El grado de extremosidad de la evaluación."
+            },
+            {
+                "text": "El carácter positivo o negativo de la evaluación.",
+                "correct": true
+            },
+            {
+                "text": "El grado de accesibilidad de la evaluación."
+            }
+        ]
+    },
+    {
+        "text": "La disonancia se caracteriza por ser un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 227)",
+        "responses": [
+            {
+                "text": "Motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Cognitivo."
+            },
+            {
+                "text": "Conductual."
+            }
+        ]
+    },
+    {
+        "text": "Imagine esta situación: una persona que normalmente tiene una actitud positiva hacia el sindicalismo se ve atrapada en un atasco debido al caos circulatorio creado por una manifestación convocada por los sindicatos para demandar mejoras laborales. Preguntado en ese momento por su actitud hacia los sindicatos, la actitud de esta persona es peor que de costumbre. Esto estaría poniendo de manifiesto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Que las actitudes pueden variar en función del contexto.",
+                "correct": true
+            },
+            {
+                "text": "Un efecto de disonancia cognitiva."
+            },
+            {
+                "text": "El cinismo de esta persona, ya que las actitudes no suelen venir influidas por el contexto."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes teorías puede potencialmente explicar la forma en que las actitudes se modifican a raíz de la conducta realizada?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La teoría de la acción planificada."
+            },
+            {
+                "text": "La teoría de la acción razonada."
+            },
+            {
+                "text": "La teoría de la disonancia cognitiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto de mera exposición a un estímulo describe:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 215)",
+        "responses": [
+            {
+                "text": "El aumento de la favorabilidad hacia un estímulo negativo al aumentar la exposición repetida al mismo."
+            },
+            {
+                "text": "El aumento de la favorabilidad hacia un estímulo neutro al aumentar la exposición repetida al mismo.",
+                "correct": true
+            },
+            {
+                "text": "Un proceso basado en el condicionamiento operante."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la acción razonada, el principal factor psicológico que hay que predecir, como antecedente inmediato del comportamiento, es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 222)",
+        "responses": [
+            {
+                "text": "El control percibido."
+            },
+            {
+                "text": "Las actitudes hacia la conducta."
+            },
+            {
+                "text": "La intención de conducta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones sobre la teoría de la disonancia cognitiva es verdadera:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 227-228)",
+        "responses": [
+            {
+                "text": "Cuando cambiamos actitudes como resultado de la disonancia lo hacemos por una necesidad de ser lógicos."
+            },
+            {
+                "text": "La disonancia no es un factor motivacional sino cognitivo."
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de reducir el malestar psicológico producido por la disonancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los componentes conductual, cognitivo y emocional de una actitud:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 205)",
+        "responses": [
+            {
+                "text": "Siempre han de ser consistentes entre sí."
+            },
+            {
+                "text": "Pueden, en ocasiones, ser contradictorios entre sí.",
+                "correct": true
+            },
+            {
+                "text": "Nunca son consistentes entre sí."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una persona decide entre dos alternativas, es más probable que experimente una fuerte disonancia tras elegir una de ellas si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 229)",
+        "responses": [
+            {
+                "text": "La decisión no es relevante."
+            },
+            {
+                "text": "Si las dos alternativas acarrean consecuencias muy distintas.",
+                "correct": true
+            },
+            {
+                "text": "La alternativa rechazada es poco atractiva."
+            }
+        ]
+    },
+    {
+        "text": "El planteamiento teórico que afirma que las actitudes pueden influir en la conducta a través de un procesamiento espontáneo o de un procesamiento elaborado corresponde a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 220-221)",
+        "responses": [
+            {
+                "text": "La Teoría de la disonancia."
+            },
+            {
+                "text": "La Teoría de la acción razonada."
+            },
+            {
+                "text": "El Modelo MODE.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación verdadera:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 209)",
+        "responses": [
+            {
+                "text": "Las actitudes son observables, puesto que son las respuestas que se dan ante el objeto de actitud."
+            },
+            {
+                "text": "Las actitudes no se forman o cambian por condicionamiento clásico, solamente por condicionamiento operante."
+            },
+            {
+                "text": "Algunas actitudes se pueden medir a partir de la observación de conductas no verbales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que, a menudo, cuando se nos pide una evaluación sobre temas socialmente sensibles respondemos en función de lo que está socialmente mejor aceptado y no en función de lo que realmente pensamos, es una de las razones que llevó a los psicólogos sociales a desarrollar",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Diferenciales semánticos."
+            },
+            {
+                "text": "Medidas implícitas de la actitud.",
+                "correct": true
+            },
+            {
+                "text": "Medidas de actitud de autoinforme."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios transculturales en torno a la disonancia cognitiva han puesto de manifiesto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "No existe experiencia de disonancia en la cultura nipona."
+            },
+            {
+                "text": "La cultura determina en qué situaciones se activa o no la disonancia.",
+                "correct": true
+            },
+            {
+                "text": "No es un fenómeno universal ni adaptativo para nuestra especie."
+            }
+        ]
+    },
+    {
+        "text": "Si le piden que cumplimente un cuestionario en el que tiene que evaluar su grado de acuerdo o desacuerdo con una serie de ítems que tratan sobre el consumo de alcohol, dicho cuestionario mide sus actitudes hacia el consumo del alcohol:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "De forma explícita mediante una escala tipo Likert.",
+                "correct": true
+            },
+            {
+                "text": "De forma implícita mediante un procedimiento de priming."
+            },
+            {
+                "text": "De forma explícita mediante un diferencial semántico."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la disonancia cognitiva, ¿en qué situación sería más fácil que una persona alcohólica cambie su actitud hacia el consumo de ese tipo de bebidas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Si se amenaza con despedirla del empleo si no asiste a las reuniones de alcohólicos anónimos."
+            },
+            {
+                "text": "Si se le da una cantidad importante de dinero por asistir a las reuniones de alcohólicos anónimos."
+            },
+            {
+                "text": "Si se consigue que vaya una vez a la reunión de alcohólicos anónimos mediante un pequeño incentivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Con respecto a las medidas explícitas e implícitas de las actitudes:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Hay certeza de que en realidad miden fenómenos diferentes."
+            },
+            {
+                "text": "Existe consenso en cuanto a que son dos formas diferentes de medir el mismo fenómeno psicológico."
+            },
+            {
+                "text": "Existe un debate académico sobre si miden fenómenos diferentes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes anuncios se basa en una autoridad legítima?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 229 Manual)",
+        "responses": [
+            {
+                "text": "El tenista Rafa Nadal anunciando pelotas de tenis.",
+                "correct": true
+            },
+            {
+                "text": "El corredor de Fórmula 1 Fernando Alonso anunciando un modelo de reloj Certina."
+            },
+            {
+                "text": "El jugador de baloncesto Pau Gasol pidiendo que se contribuya a ayudar a Save the Children."
+            }
+        ]
+    },
+    {
+        "text": "Cuando las actitudes sirven para obtener refuerzos o evitar castigos, cumplen una función:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 212)",
+        "responses": [
+            {
+                "text": "Defensiva del yo."
+            },
+            {
+                "text": "Expresiva de valores."
+            },
+            {
+                "text": "Instrumental.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dos aspectos clave nos interesan especialmente cuando tratamos de medir actitudes?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Potencia y emotividad."
+            },
+            {
+                "text": "Valencia e intensidad.",
+                "correct": true
+            },
+            {
+                "text": "Accesibilidad y resistencia al cambio."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una actitud hacia un objeto cambia debido a que la persona detecta que obtiene un beneficio si mejora su actitud hacia dicho objeto, estamos ante un ejemplo de cambio de actitudes por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 216)",
+        "responses": [
+            {
+                "text": "Condicionamiento operante.",
+                "correct": true
+            },
+            {
+                "text": "Condicionamiento clásico."
+            },
+            {
+                "text": "Condicionamiento vicario."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones expresa más claramente una actitud?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 204-206)",
+        "responses": [
+            {
+                "text": "Creo que las chicas que estudian carreras técnicas son muy inteligentes.",
+                "correct": true
+            },
+            {
+                "text": "Por su forma de hablar y comportarse, María se parece a la típica chica que estudia una carrera técnica, así que supongo que debe de estar matriculada en alguna de ellas."
+            },
+            {
+                "text": "María estudia Telecomunicaciones porque sus padres la han presionado para que elija esa carrera."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de la acción planificada, la percepción que tiene la persona de lo fácil o difícil que le resultará realizar un comportamiento es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El control conductual percibido.",
+                "correct": true
+            },
+            {
+                "text": "La actitud hacia la conducta."
+            },
+            {
+                "text": "La norma social subjetiva."
+            }
+        ]
+    },
+    {
+        "text": "Tener una actitud negativa hacia un grupo social minoritario al que culpamos de alguno de nuestros males es un ejemplo de la función actitudinal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "De conocimiento."
+            },
+            {
+                "text": "Defensiva del yo.",
+                "correct": true
+            },
+            {
+                "text": "Instrumental."
+            }
+        ]
+    },
+    {
+        "text": "Una actitud implica siempre:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 204-205)",
+        "responses": [
+            {
+                "text": "Cierta ambivalencia."
+            },
+            {
+                "text": "La existencia de creencias favorables o desfavorables sobre el objeto actitudinal."
+            },
+            {
+                "text": "Una expresión de cierto grado de evaluación positiva o negativa.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique la afirmación que es FALSA, de acuerdo con los postulados de la Teoría de la disonancia cognitiva.",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "La disonancia es un factor cognitivo, no motivacional.",
+                "correct": true
+            },
+            {
+                "text": "La disonancia tiene un componente de activación fisiológica que origina malestar."
+            },
+            {
+                "text": "Cuando la disonancia está presente, la persona evita activamente las situaciones que pudieran aumentarla."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la acción planificada, la norma social subjetiva",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Tiene un componente de activación fisiológica del que depende su magnitud."
+            },
+            {
+                "text": "Consta de un componente cognitivo y uno motivacional."
+            },
+            {
+                "text": "Influye en la conducta tanto directa como indirectamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Mediante la función expresiva de valores, las actitudes:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Nos ayudan a comprender nuestro entorno y a darle significado."
+            },
+            {
+                "text": "Sirven para obtener refuerzos o para evitar castigos."
+            },
+            {
+                "text": "Sirven para reafirmar aspectos importantes del auto-concepto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la acción razonada, para predecir si una persona va a realizar o no un determinado comportamiento hay que conocer, sobre todo,",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Su actitud hacia esa conducta y lo que cree que piensan de esa conducta otras personas que son importantes para él o ella.",
+                "correct": true
+            },
+            {
+                "text": "Su motivación para realizar la conducta y si tiene la oportunidad de analizar los pros y los contras de llevarla a cabo."
+            },
+            {
+                "text": "Sus actitudes hacia comportamientos similares y su capacidad para llevar a cabo la conducta en cuestión."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una mujer es maltratada por su marido, ¿cuál de las siguientes conductas contribuiría a reducir la disonancia que le producirá tener una pareja afectiva que la maltrata y a seguir manteniendo una actitud hacia él que le impida romper la relación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 239)",
+        "responses": [
+            {
+                "text": "Culparle de los conflictos en la pareja y no autoinculparse."
+            },
+            {
+                "text": "Justificar la conducta de él y minimizar la gravedad del maltrato.",
+                "correct": true
+            },
+            {
+                "text": "Reconocer que su pareja es un maltratador."
+            }
+        ]
+    },
+    {
+        "text": "Desarrollar una actitud positiva hacia aquello que nos reporta beneficio demuestra la función actitudinal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Instrumental.",
+                "correct": true
+            },
+            {
+                "text": "Expresiva de valores."
+            },
+            {
+                "text": "Defensiva del yo."
+            }
+        ]
+    },
+    {
+        "text": "El condicionamiento de las actitudes, o condicionamiento evaluativo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Sólo se puede adquirir tras repetidas asociaciones entre estímulos."
+            },
+            {
+                "text": "Se extingue rápidamente."
+            },
+            {
+                "text": "No es necesario que la persona sea consciente de la asociación entre estímulos para que se produzca.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una persona con una actitud positiva hacia el reciclaje se deshace de unas baterías eléctricas echándolas al cubo de la basura ordinaria, en vez de llevándolas al contenedor específico para este tipo de desechos instalado por el ayuntamiento a varias manzanas de distancia de su domicilio. De acuerdo con la teoría de la disonancia cognitiva, es más probable que la actitud de esta persona hacia el reciclaje empeore si la razón por la cual no llevó las baterías al contenedor apropiado fue una razón:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Trivial, poco importante.",
+                "correct": true
+            },
+            {
+                "text": "Muy importante, de mucho peso."
+            },
+            {
+                "text": "De importancia intermedia."
+            }
+        ]
+    },
+    {
+        "text": "La publicidad a menudo está basada en un intento de mejorar las actitudes del público hacia el objeto del anuncio a través de un proceso basado en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "La ambigüedad actitudinal."
+            },
+            {
+                "text": "La función defensiva del yo."
+            },
+            {
+                "text": "El condicionamiento clásico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes aspectos es el que, por definición, ha de estar siempre presente en cualquier actitud?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 204-205)",
+        "responses": [
+            {
+                "text": "El conductual hacia el objeto de actitud."
+            },
+            {
+                "text": "El emocional hacia el objeto de actitud."
+            },
+            {
+                "text": "El evaluativo (positivo vs. negativo) hacia el objeto de actitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Imagine esta situación: una persona decide hacer huelga en contra de una medida tomada por su empresa, si bien antes de hacer la huelga no está muy segura de hasta qué punto se opone o no a la medida en cuestión. Según el paradigma de la complacencia inducida, ¿cuál de las siguientes opciones podría contribuir a que, pasada la huelga, la actitud de esta persona hacia la medida tomada por la empresa sea más positiva que la que tenía antes de la huelga?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Que a esta persona no le importase demasiado hacer o no hacer huelga."
+            },
+            {
+                "text": "Que se respetase plenamente entre los compañeros a quienes deciden no hacer huelga."
+            },
+            {
+                "text": "Que esta persona tuviese miedo a posibles represalias por parte de los compañeros si no hiciese la huelga.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El que los individuos cambien sus actitudes hacia un objeto tras realizar conductas costosas es la base del paradigma:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "De la justificación del esfuerzo.",
+                "correct": true
+            },
+            {
+                "text": "De la desconfirmación de creencias."
+            },
+            {
+                "text": "De la complacencia inducida."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio emblemático para poner a prueba la teoría de la disonancia cognitiva, Festinger y Carlsmith (1959) comprobaron qué sucede cuando una persona se ve forzada a hacer algo en contra de su actitud. Teniendo en cuenta los resultados dentro del paradigma de la complacencia inducida, si a un adolescente no le gusta estudiar, ¿cuál de las siguientes conductas de los padres sería mejor para que cambiara de actitud hacia el estudio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 230)",
+        "responses": [
+            {
+                "text": "Darle 1 euro cada vez que dedique una hora a estudiar.",
+                "correct": true
+            },
+            {
+                "text": "Prometerle que se le hará un regalo muy caro y deseado si estudia una hora diaria durante diez días."
+            },
+            {
+                "text": "Darle 15 euros cada vez que dedique una hora a estudiar."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la disonancia cognitiva:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 227-228)",
+        "responses": [
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de reducir el malestar psicológico.",
+                "correct": true
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de ser lógicos."
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de tener control sobre nuestras conductas."
+            }
+        ]
+    },
+    {
+        "text": "El “sesgo de invulnerabilidad”, aplicado a la influencia de los medios de comunicación, se asocia al:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 246 Manual)",
+        "responses": [
+            {
+                "text": "Efecto de mera exposición."
+            },
+            {
+                "text": "Efecto tercera persona.",
+                "correct": true
+            },
+            {
+                "text": "Efecto espectador."
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación correcta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 206-210)",
+        "responses": [
+            {
+                "text": "La actitud se puede observar a través de las respuestas que dan las personas a un objeto de actitud."
+            },
+            {
+                "text": "La actitud se puede inferir a través de las respuestas que dan las personas a un objeto de actitud.",
+                "correct": true
+            },
+            {
+                "text": "Las medidas explícitas de las actitudes son más sutiles que las implícitas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes variables NO influye en la intensidad o fuerza de una actitud?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 207)",
+        "responses": [
+            {
+                "text": "El conocimiento del objeto de actitud."
+            },
+            {
+                "text": "La accesibilidad de la actitud."
+            },
+            {
+                "text": "La valencia de la actitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estos factores contribuye a aumentar el grado de disonancia de acuerdo con el paradigma de la libre elección?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 228)",
+        "responses": [
+            {
+                "text": "Que la alternativa rechazada sea poco atractiva."
+            },
+            {
+                "text": "Que se piense que las alternativas posibles producirán resultados muy diferentes entre sí.",
+                "correct": true
+            },
+            {
+                "text": "Que la decisión carezca de importancia para el individuo."
+            }
+        ]
+    },
+    {
+        "text": "Si en una investigación sobre actitudes cuantificamos con un aparato reacciones musculares faciales, estamos tomando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Diferenciales semánticos."
+            },
+            {
+                "text": "Medidas explícitas."
+            },
+            {
+                "text": "Medidas implícitas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones referentes a las actitudes es correcta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 206)",
+        "responses": [
+            {
+                "text": "La valencia de los diferentes componentes de una actitud hacia un objeto puede ser distinta.",
+                "correct": true
+            },
+            {
+                "text": "Para que la valoración de un objeto cualquiera se considere una actitud en Psicología Social debe constar de tres componentes: cognitivo, afectivo y conductual."
+            },
+            {
+                "text": "Las medidas explícitas de las actitudes se suelen utilizar para medir el componente cognitivo, mientras que el componente afectivo hay que medirlo con procedimientos implícitos."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones sobre la teoría de la disonancia cognitiva es FALSA:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Esta teoría demuestra que los castigos no siempre sirven para cambiar las actitudes, sino que muchas veces las mantienen."
+            },
+            {
+                "text": "La disonancia no es un factor cognitivo sino motivacional."
+            },
+            {
+                "text": "Esta teoría plantea la búsqueda de la consistencia entre actitudes como una necesidad humana de racionalidad y lógica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La norma social subjetiva:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Es uno de los predictores de la intención de conducta.",
+                "correct": true
+            },
+            {
+                "text": "Es un antecedente de la actitud."
+            },
+            {
+                "text": "Es el producto de dos factores: actitud por importancia."
+            }
+        ]
+    },
+    {
+        "text": "Las investigaciones transculturales que han comparado a personas de culturas asiáticas orientales (japoneses) y de culturas occidentales (mayoritariamente norteamericanos) han puesto de manifiesto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "El fenómeno de la disonancia no se limita a las sociedades occidentales.",
+                "correct": true
+            },
+            {
+                "text": "No existe la experiencia de disonancia cognitiva en los japoneses."
+            },
+            {
+                "text": "La cultura no influye en cuándo y cómo se activa la disonancia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se conoce con el nombre de diferencial semántico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "Un tipo particular de ambivalencia actitudinal."
+            },
+            {
+                "text": "Una escala bipolar de medida definida por dos características opuestas.",
+                "correct": true
+            },
+            {
+                "text": "El componente cognitivo de una actitud."
+            }
+        ]
+    },
+    {
+        "text": "Una actitud es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. 204)",
+        "responses": [
+            {
+                "text": "La evaluación que hacemos de un objeto, viéndolo de forma favorable o desfavorable.",
+                "correct": true
+            },
+            {
+                "text": "Un atajo mental que facilita el proceso de inferencia cuando no tenemos información suficiente."
+            },
+            {
+                "text": "Una estructura cognitiva donde almacenamos información sobre un objeto."
+            }
+        ]
+    },
+    {
+        "text": "Una persona con una actitud favorable a que se prohíba utilizar el móvil mientras se conduce, durante un viaje en carretera lo usa en varias ocasiones y se justifica delante de su acompañante diciendo que está esperando una llamada muy importante. Esa justificación",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Constituye un elemento disonante con la conducta de hablar por el móvil conduciendo."
+            },
+            {
+                "text": "Provocará que cambie su actitud hacia la prohibición del uso de los móviles mientras se conduce."
+            },
+            {
+                "text": "Contribuirá a evitar la disonancia provocada por realizar una conducta inconsistente con su actitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si a un niño no le gusta estudiar y evita hacerlo a pesar de la insistencia de sus padres, de acuerdo con la teoría de la disonancia cognitiva, ¿cuál de las siguientes conductas de los padres sería mejor para que cambiara de actitud hacia el estudio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p.)",
+        "responses": [
+            {
+                "text": "Darle 1 euro para la hucha cada vez que dedique una hora a estudiar.",
+                "correct": true
+            },
+            {
+                "text": "Prometerle que se le regalará un juguete muy caro y deseado si estudia una hora diaria durante diez días."
+            },
+            {
+                "text": "Darle 15 euros para la hucha cada vez que dedique una hora a estudiar."
+            }
+        ]
+    },
+    {
+        "text": "Si quisiéramos predecir cuál va a ser el comportamiento de los integrantes de un equipo hacia un nuevo miembro, que es inmigrante y de otro grupo étnico, a partir de sus actitudes, ¿qué estrategia sería la MENOS adecuada?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Medir las creencias de los miembros del equipo sobre lo que piensan sus compañeros de la integración del inmigrante, y el grado en que están dispuestos a acatar esa opinión."
+            },
+            {
+                "text": "Medir las actitudes de los integrantes del equipo hacia los inmigrantes en general, con una escala tipo Likert.",
+                "correct": true
+            },
+            {
+                "text": "Medir las creencias de los miembros del equipo acerca de la integración de un inmigrante, y la valoración de las consecuencias de esa integración para el equipo."
+            }
+        ]
+    },
+    {
+        "text": "El carácter positivo o negativo de la valoración que se hace del objeto de actitud, constituye:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La valencia de esa actitud.",
+                "correct": true
+            },
+            {
+                "text": "La ambivalencia actitudinal."
+            },
+            {
+                "text": "La intensidad de la actitud."
+            }
+        ]
+    }
+]

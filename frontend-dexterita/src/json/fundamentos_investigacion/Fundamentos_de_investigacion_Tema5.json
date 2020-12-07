@@ -1,0 +1,338 @@
+[
+    {
+        "text": "El tratamiento puede afectar a la serie de registros tomada en la línea base cambiando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los ciclos de medida"
+            },
+            {
+                "text": "El nivel y la tendencia",
+                "correct": true
+            },
+            {
+                "text": "La reversibilidad de la conducta"
+            }
+        ]
+    },
+    {
+        "text": "En un diseño A-B-A-B:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Para comprobar si el tratamiento ha tenido efecto, éste se retira antes de conseguir la consolidación",
+                "correct": true
+            },
+            {
+                "text": "Se dan cuatro fases diferentes: tratamiento, retirada de línea base, nueva intervención"
+            },
+            {
+                "text": "No es necesario controlar las amenazas a la validez interna"
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de línea base múltiple entre conductas, el tratamiento se aplica secuencialmente a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Conductas independientes de un mismo sujeto",
+                "correct": true
+            },
+            {
+                "text": "La misma conducta de varios sujetos"
+            },
+            {
+                "text": "La misma conducta de un mismo sujeto en situaciones distintas"
+            }
+        ]
+    },
+    {
+        "text": "Los diseños de línea base múltiple:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Están recomendados en los casos en que es preciso introducir el tratamiento desde el principio porque no se puede establecer una línea base antes del tratamiento"
+            },
+            {
+                "text": "Consideran que el tratamiento ha tenido efecto cuando tras su aplicación provoca un cambio en la conducta tratada, mientras que el resto de las conductas permanecen relativamente estables",
+                "correct": true
+            },
+            {
+                "text": "Están considerados como diseños de reversión"
+            }
+        ]
+    },
+    {
+        "text": "La estabilidad de la conducta, la evaluación continuada y el establecimiento de la línea base son algunos aspectos que se estudian en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los diseños de caso único",
+                "correct": true
+            },
+            {
+                "text": "Los diseños ex post-facto"
+            },
+            {
+                "text": "La metodología de encuestas"
+            }
+        ]
+    },
+    {
+        "text": "En el diseño B-A-B de retirada:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La fase de tratamiento dura hasta que se consigue alcanzar un criterio preestablecido y lograr la estabilidad"
+            },
+            {
+                "text": "Se aplica a los sujetos dos tratamientos diferentes"
+            },
+            {
+                "text": "Se evalúa el efecto del tratamiento cuando éste está en marcha",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se pretende disminuir una determinada conducta mediante la utilización de refuerzos, el diseño de caso único más adecuado es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De cambio de criterio",
+                "correct": true
+            },
+            {
+                "text": "A-B-A"
+            },
+            {
+                "text": "A-B-A-BC-A"
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de replicación intrasujeto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Interesa el registro sucesivo a lo largo del tiempo de la conducta de un caso único antes, durante y, algunas veces, tras la retirada de tratamiento, en situaciones muy controladas",
+                "correct": true
+            },
+            {
+                "text": "Se parte de la lógica de que lo que le ocurre a un sujeto se puede generalizar a cualquier población"
+            },
+            {
+                "text": "No se pueden generar nuevas hipótesis a partir de los resultados encontrados en un estudio concreto"
+            }
+        ]
+    },
+    {
+        "text": "Un requisito necesario en el diseño de línea base múltiple es que las conductas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sean susceptibles de regresar al mismo nivel de la fase de línea base"
+            },
+            {
+                "text": "No sean sensibles a las mismas variables"
+            },
+            {
+                "text": "Sean independientes",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diseño A-B-A:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se considera de reversión debido a que el tratamiento se introduce y posteriormente se retira",
+                "correct": true
+            },
+            {
+                "text": "Se considera de no reversión porque sólo hay una fase B"
+            },
+            {
+                "text": "Tiene menos validez interna que el diseño A-B"
+            }
+        ]
+    },
+    {
+        "text": "El diseño A-B:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Plantea problemas con respecto a la validez interna",
+                "correct": true
+            },
+            {
+                "text": "Sólo se aplica en la clínica y no se puede extender"
+            },
+            {
+                "text": "Es el modelo básico de inversión del diseño de caso único"
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de línea base múltiple entre situaciones, se aplica el tratamiento sucesivamente a la misma conducta de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Diferentes sujetos en situaciones distintas"
+            },
+            {
+                "text": "Un mismo sujeto en situaciones distintas e independientes",
+                "correct": true
+            },
+            {
+                "text": "Varios sujetos en la misma situación"
+            }
+        ]
+    },
+    {
+        "text": "La línea base (fase A) es el periodo en el que se toman una serie de observaciones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En presencia del tratamiento"
+            },
+            {
+                "text": "En ausencia del tratamiento",
+                "correct": true
+            },
+            {
+                "text": "Cuando se ha estabilizado el efecto del tratamiento"
+            }
+        ]
+    },
+    {
+        "text": "En un diseño de caso único cuando la fase de línea base muestra tendencia, puede introducirse el tratamiento si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La dirección del a tendencia en la línea base coincide con la prevista por el efecto del tratamiento"
+            },
+            {
+                "text": "Se espera que el efecto del mismo va a hacer cambiar el sentido de la tendencia",
+                "correct": true
+            },
+            {
+                "text": "Si se deja transcurrir un tiempo hasta que muestre un patrón cíclico con tendencia ascendente y descendente"
+            }
+        ]
+    },
+    {
+        "text": "Un criterio que permite clasificar los diseños de caso único es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tipo de tendencia que caracteriza a una conducta"
+            },
+            {
+                "text": "El nivel de la conducta registrado durante la línea base"
+            },
+            {
+                "text": "La reversibilidad de la conducta",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En Psicología clínica, los diseños de N=1 posibilitan el estudio de la conducta del sujeto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por la facilidad para encontrar sujetos que tengan el mismo problema clínico"
+            },
+            {
+                "text": "Porque investigan las causas que afectan a su variabilidad",
+                "correct": true
+            },
+            {
+                "text": "Porque no controlan las variables extrañas"
+            }
+        ]
+    }
+]

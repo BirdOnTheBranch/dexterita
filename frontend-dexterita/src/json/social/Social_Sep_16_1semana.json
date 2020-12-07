@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Cuál de los siguientes anuncios se basa en una autoridad legítima?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 156-158 Cuaderno y 229 Manual)",
+        "responses": [
+            {
+                "text": "El tenista Rafa Nadal anunciando pelotas de tenis.",
+                "correct": true
+            },
+            {
+                "text": "El corredor de Fórmula 1 Fernando Alonso anunciando un modelo de reloj Certina."
+            },
+            {
+                "text": "El jugador de baloncesto Pau Gasol pidiendo que se contribuya a ayudar a Save the Children."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características de la conducta social es más típica en culturas individualistas que en culturas colectivistas?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Comunicación y contacto con muchas personas y grupos.",
+                "correct": true
+            },
+            {
+                "text": "Contacto físico muy cercano."
+            },
+            {
+                "text": "Conducta muy diferente hacia miembros del endogrupo y hacia miembros del exogrupo."
+            }
+        ]
+    },
+    {
+        "text": "El objeto de la actitud puede ser:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 204)",
+        "responses": [
+            {
+                "text": "Exclusivamente una persona o grupo de personas."
+            },
+            {
+                "text": "Exclusivamente una cosa u objeto físico."
+            },
+            {
+                "text": "Prácticamente cualquier cosa, idea, concepto, acción o ser vivo, incluido uno mismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una empresa de informática con tiendas en toda España oferta un descuento del 50% en un modelo de ordenador, si se compra en un día concreto, y solo para 100 unidades. Son conscientes de que la demanda será mucho mayor que su oferta. Una vez que han vendido los 4 ejemplares de oferta existentes en cada tienda, a los siguientes clientes les ofrecen el mismo ordenador con un descuento del 15%. ¿Qué táctica de influencia están utilizando?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 257-258)",
+        "responses": [
+            {
+                "text": "La táctica del “portazo en la cara”."
+            },
+            {
+                "text": "La táctica de la “bola baja”.",
+                "correct": true
+            },
+            {
+                "text": "La táctica de “esto no es todo”."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría tiene como supuesto básico y principal que, a la hora de construir nuestro autoconcepto, nos evaluamos en una serie de características y atributos tomando como referencia las características de los demás?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 182)",
+        "responses": [
+            {
+                "text": "La teoría del “yo espejo”."
+            },
+            {
+                "text": "La teoría de la comparación social.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la autoafirmación."
+            }
+        ]
+    },
+    {
+        "text": "Pedro ha suspendido el examen de matemáticas. Es la primera vez que Pedro suspende en matemáticas y nunca ha suspendido un examen de ninguna materia. El resto de su clase también ha suspendido ese examen. En términos del modelo de covariación de Kelley, con estos datos, la información que maneja un observador se corresponde con una configuración basada en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 138-142)",
+        "responses": [
+            {
+                "text": "Alto consenso, baja distintividad, baja consistencia."
+            },
+            {
+                "text": "Bajo consenso, alta distintividad, alta consistencia."
+            },
+            {
+                "text": "Alto consenso, alta distintividad, baja consistencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que lleva a las personas a buscar la aceptación por parte de los demás se conoce como:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Motivo de potenciación personal."
+            },
+            {
+                "text": "Motivo de confianza."
+            },
+            {
+                "text": "Motivo de pertenencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre la autopresentación es falsa?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 192-193)",
+        "responses": [
+            {
+                "text": "Las estrategias de autopresentación que permiten causar una buena impresión dependen del contexto."
+            },
+            {
+                "text": "La autopresentación se considera una predisposición a la hipocresía, porque la gente suele mentir sobre sus cualidades cuando se presenta a los demás.",
+                "correct": true
+            },
+            {
+                "text": "Validar el autoconcepto es uno de los objetivos de la autopresentación."
+            }
+        ]
+    },
+    {
+        "text": "Siguiendo la tipología de Cialdini y sus colaboradores en el estudio del Parque Natural del Bosque Petrificado, señale las características del siguiente mensaje en cuanto al tipo de norma en el que se basa y el tono del contenido del mensaje (positivo o negativo): “La mayoría de los jóvenes se inicia en el consumo de alcohol a los trece años, con peligrosas consecuencias para su salud”:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 161 Cuaderno)",
+        "responses": [
+            {
+                "text": "Prescriptivo/positivo."
+            },
+            {
+                "text": "Prescriptivo/negativo."
+            },
+            {
+                "text": "Descriptivo/negativo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la disonancia cognitiva:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 227-228)",
+        "responses": [
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de reducir el malestar psicológico.",
+                "correct": true
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de ser lógicos."
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de tener control sobre nuestras conductas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones encaja mejor con la postura que defiende el psicólogo social Roy Baumeister (y que está ampliamente aceptada en la disciplina) sobre las características distintivas del ser humano como especie animal?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "El ser humano es claramente la especie en la que la cultura ha alcanzado un mayor nivel de complejidad.",
+                "correct": true
+            },
+            {
+                "text": "El ser humano es claramente la especie más social de la naturaleza."
+            },
+            {
+                "text": "La capacidad humana para la cultura NO es algo natural, lo cual distingue al ser humano del resto de los animales."
+            }
+        ]
+    },
+    {
+        "text": "La autoestima:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp.184-186)",
+        "responses": [
+            {
+                "text": "Cuando es baja, favorece la iniciativa."
+            },
+            {
+                "text": "Se ve afectada por las comparaciones sociales.",
+                "correct": true
+            },
+            {
+                "text": "No se relaciona con la pertenencia grupal."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios realizados sobre sesgos perceptivos en testigos muestran que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 68 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "La memoria es una fuente de datos fidedigna de nuestras percepciones."
+            },
+            {
+                "text": "La memoria no se ve afectada por el razonamiento retrospectivo."
+            },
+            {
+                "text": "Reconstruimos los recuerdos en el momento de la recuperación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La saliencia estimular se ha relacionado con el proceso denominado:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "Atención selectiva.",
+                "correct": true
+            },
+            {
+                "text": "Inconsciencia."
+            },
+            {
+                "text": "Recuerdo independiente del estado de ánimo."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos referentes a la formación de impresiones, el enfoque de combinación lineal:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 125)",
+        "responses": [
+            {
+                "text": "Plantea que los rasgos centrales influyen en el significado de los demás rasgos y organizan la imagen que tenemos del otro."
+            },
+            {
+                "text": "Es aplicable sobre todo a situaciones en las que es necesario realizar un juicio rápido sobre otra persona."
+            },
+            {
+                "text": "Considera que los rasgos que describen a una persona son independientes entre sí.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un niño que no tiene en casa las circunstancias ideales para el estudio consigue habitualmente resultados muy brillantes. El hecho de que no tenga en casa las circunstancias ideales para estudiar, probablemente contribuirá a que se produzca:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 145-146)",
+        "responses": [
+            {
+                "text": "El efecto actor/observador."
+            },
+            {
+                "text": "Una atribución externa."
+            },
+            {
+                "text": "El principio atributivo de aumento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría clásica de la atribución pone el acento en el análisis que el observador hace de los efectos de la acción que atribuimos?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Inferencias correspondientes, de Jones y Davis.",
+                "correct": true
+            },
+            {
+                "text": "Psicología ingenua, de Heider."
+            },
+            {
+                "text": "Covariación, de Kelley."
+            }
+        ]
+    },
+    {
+        "text": "La sociabilidad en el ser humano se caracteriza por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Desarrollarse al margen de la situación social que viva el individuo."
+            },
+            {
+                "text": "Manifestarse en la primera infancia pero no en la edad adulta."
+            },
+            {
+                "text": "Ser una tendencia innata.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El sesgo “primus inter pares” implica:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 64 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Un proceso de autoensalzamiento por el que la persona niega tener características negativas."
+            },
+            {
+                "text": "Exclusivamente un proceso de auto-ensalzamiento en el que la persona se atribuye características positivas."
+            },
+            {
+                "text": "Un proceso de comparación en el que la persona se ensalza en relación con los demás.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Normalmente las personas conocemos el procedimiento básico que debemos seguir desde que llegamos a un restaurante hasta que lo abandonamos (reserva de mesa, selección del menú, degustación del primer y segundo plato, selección y degustación del postre, café o infusión, sobremesa, petición y abono de la cuenta). ¿Con qué nombre se conoce a este tipo de estructura cognitiva?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Esquema de rol."
+            },
+            {
+                "text": "Guión de acción.",
+                "correct": true
+            },
+            {
+                "text": "Ejemplar de situación."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría atributiva de Weiner, las atribuciones que hacemos de nuestros éxitos y fracasos provocan diferentes emociones que afectan a nuestra motivación posterior. Teniendo en cuenta este planteamiento y las dimensiones en las que Weiner clasifica las atribuciones, indique cuál de las siguientes afirmaciones es cierta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 152-153)",
+        "responses": [
+            {
+                "text": "La dimensión de estabilidad tiene que ver sobre todo con las expectativas de cara al futuro y con sentimientos de esperanza o desánimo.",
+                "correct": true
+            },
+            {
+                "text": "La dimensión de controlabilidad implica que las emociones serán positivas cuando la atribución es controlable y negativas cuando es incontrolable."
+            },
+            {
+                "text": "Las atribuciones internas, estables y controlables garantizan un aumento de la autoestima y la motivación."
+            }
+        ]
+    },
+    {
+        "text": "La publicidad a menudo está basada en un intento de mejorar las actitudes del público hacia el objeto del anuncio a través de un proceso basado en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 215-216)",
+        "responses": [
+            {
+                "text": "La ambigüedad actitudinal."
+            },
+            {
+                "text": "La función defensiva del yo."
+            },
+            {
+                "text": "El condicionamiento clásico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el marco de la teoría de la categorización del yo, el proceso de despersonalización se produce cuando una persona:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 177-178)",
+        "responses": [
+            {
+                "text": "Ve debilitada su identidad debido a alguna circunstancia traumática o patológica."
+            },
+            {
+                "text": "Focaliza su autoconcepto en el nivel más particular del yo posible."
+            },
+            {
+                "text": "Focaliza el autoconcepto en una categoría grupal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de probabilidad de elaboración, si empleamos la ruta periférica nuestro procesamiento cognitivo del mensaje persuasivo será:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 274-275)",
+        "responses": [
+            {
+                "text": "Muy elaborado."
+            },
+            {
+                "text": "Poco elaborado.",
+                "correct": true
+            },
+            {
+                "text": "Reflexivo y costoso."
+            }
+        ]
+    },
+    {
+        "text": "Los componentes conductual, cognitivo y emocional de una actitud:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 205)",
+        "responses": [
+            {
+                "text": "Siempre han de ser consistentes entre sí."
+            },
+            {
+                "text": "Nunca son consistentes entre sí."
+            },
+            {
+                "text": "Pueden, en ocasiones, ser contradictorios entre sí.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el momento de recuperar información que se tiene almacenada en la memoria, el estado emocional tiende a ser congruente con:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "El heurístico de representatividad."
+            },
+            {
+                "text": "La valencia (positiva o negativa) de la información.",
+                "correct": true
+            },
+            {
+                "text": "La atención selectiva."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos individuales que estudia la Psicología Social se caracterizan por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Ser sencillos y simples."
+            },
+            {
+                "text": "No tener un referente social."
+            },
+            {
+                "text": "Tener lugar en el interior del individuo aunque su origen es social.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las escalas de tipo Likert se han usado tradicionalmente para:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "Medidas implícitas de la actitud."
+            },
+            {
+                "text": "Tanto para medidas explícitas como implícitas de la actitud."
+            },
+            {
+                "text": "Medidas explícitas de la actitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo o teoría de la persuasión hace hincapié en que la exposición a mensajes persuasivos pocas veces origina un procesamiento activo de la información?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 273)",
+        "responses": [
+            {
+                "text": "El modelo del aprendizaje del mensaje."
+            },
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde la perspectiva que considera al ser humano un “estratega motivado”, el proceso de inferencia:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2016",
+            "modelo": "1"
+        },
+        "feedback": "(p. 87)",
+        "responses": [
+            {
+                "text": "Depende de que se consiga integrar la información disponible en ese momento con la mayor exactitud."
+            },
+            {
+                "text": "Se ve influido por las metas que guían la conducta en cada situación.",
+                "correct": true
+            },
+            {
+                "text": "Consiste en revisar exhaustivamente toda la información existente en cada situación."
+            }
+        ]
+    }
+]

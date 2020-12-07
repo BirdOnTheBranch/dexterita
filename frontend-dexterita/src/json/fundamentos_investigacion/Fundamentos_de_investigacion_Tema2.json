@@ -1,0 +1,527 @@
+[
+    {
+        "text": "¿La hipótesis nula y la hipótesis alternativa son excluyentes?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son independientes."
+            },
+            {
+                "text": "Si",
+                "correct": true
+            },
+            {
+                "text": "No"
+            }
+        ]
+    },
+    {
+        "text": "El código ético de la investigación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Considera que el “engaño” en ningún caso se puede utilizar como recurso en una investigación psicológica"
+            },
+            {
+                "text": "Considera que cuando se tenga que recurrir al engaño, se informará a los sujetos al finalizar la sesión o la investigación",
+                "correct": true
+            },
+            {
+                "text": "No se ocupa expresamente de la investigación y la docencia, aunque se puede intuir"
+            }
+        ]
+    },
+    {
+        "text": "Según el código ético en la investigación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La investigación y la docencia no tienen por qué estar sometidas a principios éticos"
+            },
+            {
+                "text": "No resulta ético, en ningún caso, ocultar información al sujeto"
+            },
+            {
+                "text": "Se debe garantizar la privacidad de los datos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el objetivo final de toda investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El conocimiento del fenómeno objeto de estudio",
+                "correct": true
+            },
+            {
+                "text": "Que genere nuevos interrogantes"
+            },
+            {
+                "text": "Plantear una hipótesis"
+            }
+        ]
+    },
+    {
+        "text": "El apartado de discusión de un informe científico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Describe los instrumentos de medida utilizados"
+            },
+            {
+                "text": "Se hace referencia a las hipótesis de investigación",
+                "correct": true
+            },
+            {
+                "text": "Contiene todas las tablas necesarias para interpretar los resultados"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son algunos ejemplos de los distintos tipos de preguntas de investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De existencia, de descripción y clasificación, de composición, de relación, descriptivo-comparativas y de causalidad",
+                "correct": true
+            },
+            {
+                "text": "De existencia, de descripción y clasificación, de composición, de asociación, de relación, descriptivo-comparativas y de causalidad"
+            },
+            {
+                "text": "De existencia, de descripción y clasificación, de covariación, de relación, descriptivo-comparativas y de causalidad"
+            }
+        ]
+    },
+    {
+        "text": "¿La correlación entre dos variables puede ser....?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La correlación entre dos variables solo puede ser positiva, siempre se relacionan en sentido directo"
+            },
+            {
+                "text": "Positiva, ambas se relacionan en sentido directo y Negativa, su relación se da en sentido inverso",
+                "correct": true
+            },
+            {
+                "text": "Manipulativa; podemos modificar las variables y No Manipulativa; no se pueden modificar variables"
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo puede ser definida la hipótesis?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Como una predicción sobre los resultados concretos que esperamos encontrar",
+                "correct": true
+            },
+            {
+                "text": "Como el proceso mediante el que podemos determinar si las predicciones son congruentes"
+            },
+            {
+                "text": "Como cualquier pregunta que surge en torno a un tema concreto"
+            }
+        ]
+    },
+    {
+        "text": "Identifica cuál de los siguientes ejemplos es un problema de investigación",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El grupo tratado con la nueva intervención psicoterapéutica reducirá en mayor medida su nivel de estrés percibido que el tratado con la intervención clásica"
+            },
+            {
+                "text": "Los participantes que toman el nuevo fármaco obtendrán una puntuación en la escala Hamilton menos que la de los participantes que han tomado un placebo"
+            },
+            {
+                "text": "¿Las técnicas de relajación mejoran los resultados de un programa de pérdida de peso?",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De dónde provienen los problemas de investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De fuentes como las investigaciones previas realizadas sobre la misma temática en la que estamos interesados",
+                "correct": true
+            },
+            {
+                "text": "De fuentes como las investigaciones previas realizadas sobre diferentes temáticas "
+            },
+            {
+                "text": "De la nada"
+            }
+        ]
+    },
+    {
+        "text": "En el informe de investigación, en el apartado de diseño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se debe especificar cuáles son las variables del estudio y sus diferentes niveles",
+                "correct": true
+            },
+            {
+                "text": "Se presentan los datos obtenidos y los cálculos estadísticos aplicados"
+            },
+            {
+                "text": "Hay que conseguir resumir las conclusiones más relevantes del trabajo"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué trata de establecer el objetivo explicativo de una investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Examinar un problema de investigación poco estudiado"
+            },
+            {
+                "text": "Qué variables contribuyen a la aparición del fenómeno objeto de estudio",
+                "correct": true
+            },
+            {
+                "text": "Conocer el fenómeno de estudio, cómo es y cómo se manifiesta"
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se puede definir el término 'variable'?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualquier característica que no se pueda modificar o cambiar"
+            },
+            {
+                "text": "Relación causante o responsable de los cambios"
+            },
+            {
+                "text": "Cualquier característica susceptible de cambiar, por lo que, al menos, presenta dos valores distintos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué determina una hipótesis?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Determina tanto la manera en qué mediremos las variables como el análisis estadístico"
+            },
+            {
+                "text": "Determina tanto el procedimiento a seguir para la recogida de datos, como la manera en qué mediremos las variables que en ella se reflejan y también en el análisis estadístico",
+                "correct": true
+            },
+            {
+                "text": "Solo determina el procedimiento para la recogida de datos"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significa una relación de covariación entre variables?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que una de las variables es la causante de los cambios en la otra"
+            },
+            {
+                "text": "Que ninguna de las variables puede ser claramente identificada como causa de la otra",
+                "correct": true
+            },
+            {
+                "text": "Que son las que establecemos al emplear estrategias de investigación manipulativas"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significan las relaciones causales?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que una de las variables es causante de los cambios en la otra",
+                "correct": true
+            },
+            {
+                "text": "Que ninguna de las variables puede ser claramente identificada como causa de la otra"
+            },
+            {
+                "text": "Que las variables se relacionan en sentido inverso"
+            }
+        ]
+    },
+    {
+        "text": "Un artículo, como informe de una investigación, debe guiarse por las ideas o tesis del autor, por tanto, en el apartado de resultados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo debe reflejar los datos empíricos que apoyen su tesis"
+            },
+            {
+                "text": "Debe incluir una selección de análisis y resultados que contrastan las hipótesis de trabajo, omitiendo los irrelevantes",
+                "correct": true
+            },
+            {
+                "text": "Debe reflejar los resultados de aplicar todos los análisis estadísticos posibles a los datos"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué entendemos por problema de investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Entendido como cualquier pregunta que surge en torno a un tema concreto sobre el cual queremos ampliar conocimientos",
+                "correct": true
+            },
+            {
+                "text": "Entendido como cualquier pregunta que surja de la naturaleza"
+            },
+            {
+                "text": "Entendido como cualquier pregunta sobre cualquier tema, que no tiene especial importancia"
+            }
+        ]
+    },
+    {
+        "text": "¿En todas las investigaciones se formulan hipótesis?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si, obligatoriamente una investigación tiene que tener de base una hipótesis"
+            },
+            {
+                "text": "No, en los estudios cuyo objetivo es descriptivo, no se suelen plantear hipótesis",
+                "correct": true
+            },
+            {
+                "text": "Si, tanto en las investigaciones explicativas como en las descriptivas"
+            }
+        ]
+    },
+    {
+        "text": "La ética de la investigación científica es una normativa específica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que regula la compensación que debe recibir un sujeto experimental por su participación en una investigación"
+            },
+            {
+                "text": "Sobre las cuestiones tolerables en pro de la ciencia, destinada a proteger a los investigadores de las posibles denuncias de los participantes en la investigación"
+            },
+            {
+                "text": "Que protege los derechos de los sujetos como participantes en una investigación",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significa la Hipótesis Nula?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es la afirmación sobre la no existencia de relación entre variables o que, de existir, esta se debe solo al azar",
+                "correct": true
+            },
+            {
+                "text": "Determina el procedimiento a seguir"
+            },
+            {
+                "text": "Se identifica normalmente con la Hipótesis de trabajo, ya que solemos realizar investigaciones para poner a prueba la existencia de relaciones entre variables"
+            }
+        ]
+    },
+    {
+        "text": "¿Es el problema de investigación un componente fundamental?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si, porque es habitual formular los problemas en términos interrogativos"
+            },
+            {
+                "text": "No, es un componente sin importancia"
+            },
+            {
+                "text": "Si, ya que será el origen de la investigación, la primera fase de todo el proceso investigador",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De qué otra manera es conocida la hipótesis de investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hipótesis nula"
+            },
+            {
+                "text": "Hipótesis de trabajo",
+                "correct": true
+            },
+            {
+                "text": "Hipótesis alternativa"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los principales objetivos de la investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Descriptivo (o exploratorio) y Explicativo (o confirmatorio)",
+                "correct": true
+            },
+            {
+                "text": "Exploratorio y descriptivo"
+            },
+            {
+                "text": "Descriptivo (o confirmatorio) y Explicativo (o exploratorio)"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué persigue el objetivo descriptivo de una investigación?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Trata de conocer el fenómeno de estudio, cómo es y cómo se manifiesta",
+                "correct": true
+            },
+            {
+                "text": "Trata de establecer qué variables contribuyen a la aparición del fenómeno objeto de estudio"
+            },
+            {
+                "text": "Trata de establecer relaciones entre las variables, tanto causales como de covariación"
+            }
+        ]
+    }
+]

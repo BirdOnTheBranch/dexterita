@@ -1,0 +1,1981 @@
+[
+    {
+        "text": "¿Qué división del esquema pertenece al SN Somático?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_05.jpg",
+        "responses": [
+            {
+                "text": "4.",
+                "correct": true
+            },
+            {
+                "text": "5."
+            },
+            {
+                "text": "2."
+            },
+            {
+                "text": "3."
+            }
+        ]
+    },
+    {
+        "text": "La barrera hematoencefálica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Impide que se produzcan cambios en la composición del líquido que baña las neuronas"
+            },
+            {
+                "text": "Es consecuencia de las especiales características de las células endoteliales de los capilares del SNC"
+            },
+            {
+                "text": "Mantiene el SN aislado de cambios transitorios en la composición de la sangre"
+            },
+            {
+                "text": "Todas las opciones son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los astrocitos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tienen como función suministrar nutrientes a las neuronas del SNP"
+            },
+            {
+                "text": "Tienen, entre otras funciones, la de producir la mielina de los axones del SNC"
+            },
+            {
+                "text": "Son neuronas del SNP"
+            },
+            {
+                "text": "Tienen, entre otras funciones, la de suministrar nutrientes a las neuronas del SNC",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique qué señalan los números 1,4,6 y 10 en las neuronas de la figura:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_03.jpg",
+        "responses": [
+            {
+                "text": "Dendritas primarias, membrana neuronal, vaina de mielina, célula postsináptica.",
+                "correct": true
+            },
+            {
+                "text": "Dendritas terminales, núcleo neuronal, nódulo de Ranvier, célula presináptica."
+            },
+            {
+                "text": "Dendritas terminales, cuerpo celular, botón terminal, célula postsináptica."
+            },
+            {
+                "text": "Dendritas primarias, núcleo neuronal, axón amielínico, célula presinaptica."
+            }
+        ]
+    },
+    {
+        "text": "No forma/n parte del SN Periférico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las fibras aferentes somáticas"
+            },
+            {
+                "text": "Los nervios espinales"
+            },
+            {
+                "text": "La médula espinal",
+                "correct": true
+            },
+            {
+                "text": "El SN Autónomo"
+            }
+        ]
+    },
+    {
+        "text": "Nervios que parten del encéfalo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Nervios craneales",
+                "correct": true
+            },
+            {
+                "text": "Nervios espinales"
+            }
+        ]
+    },
+    {
+        "text": "Los elementos del citoesqueleto que más abundan en las neuronas son",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Neurofilamentos",
+                "correct": true
+            },
+            {
+                "text": "Microtúbulos"
+            }
+        ]
+    },
+    {
+        "text": "La médula espinal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tiene una importante función en procesos psicológicos superiores, como la motivación"
+            },
+            {
+                "text": "Tiene una función predominantemente sensorial y no motora"
+            },
+            {
+                "text": "Sólo ejecuta respuestas motoras estereotipadas"
+            },
+            {
+                "text": "Está en constante interacción con el SNP",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En las investigaciones neurocientíficas se utilizan técnicas de trazado retrógrado para identificar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las neuronas que proyectan sus axones a un núcleo determinado del SN",
+                "correct": true
+            },
+            {
+                "text": "La cantidad de espinas dendríticas de las neuronas"
+            },
+            {
+                "text": "Todas las sinapsis que establece una neurona."
+            },
+            {
+                "text": "La dimensión y organización de los árboles dendríticos"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué nervios craneales no se insertan en el tronco del encefálo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "El óptimo y el oculomotor"
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "El olfatorio y el óptico",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El diencéfalo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Forma, junto con el telencéfalo, el prosencéfalo."
+            },
+            {
+                "text": "Forma parte del SNC."
+            },
+            {
+                "text": "Se halla entre el telencéfalo y el mesencéfalo."
+            },
+            {
+                "text": "Lo dicho en las tres opciones anteriores es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los botones terminales del axón son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El terminal presináptico de la neurona",
+                "correct": true
+            },
+            {
+                "text": "El terminal postsináptico"
+            },
+            {
+                "text": "Lo que se conoce como espinas dendríticas"
+            },
+            {
+                "text": "Las vesículas sinápticas"
+            }
+        ]
+    },
+    {
+        "text": "¿Que tipo de corte representa la figura?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_08.jpg",
+        "responses": [
+            {
+                "text": "Sagital."
+            },
+            {
+                "text": "Frontal."
+            },
+            {
+                "text": "Coronal."
+            },
+            {
+                "text": "Horizontal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El encéfalo anterior está constituido por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El mesencéfalo y los hemisferios cerebrales."
+            },
+            {
+                "text": "El diencéfalo y los hemisferios cerebrales.",
+                "correct": true
+            },
+            {
+                "text": "El diencéfalo y el cerebelo."
+            },
+            {
+                "text": "La corteza cerebral y el diencéfalo."
+            }
+        ]
+    },
+    {
+        "text": "La médula espinal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo interviene en respuestas motoras estereotipadas."
+            },
+            {
+                "text": "Tiene una importante función en procesos psicológicos superiores, como la motivación."
+            },
+            {
+                "text": "Está en constante interacción con el SNP.",
+                "correct": true
+            },
+            {
+                "text": "Tiene una función predominantemente sensorial y no motora."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones NO es correcta?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hay tantos botones terminales como extremos de ramificaciones axónicas "
+            },
+            {
+                "text": "Los axones pueden tener ramificaciones colaterales en su terminación"
+            },
+            {
+                "text": "El número de axones de una neurona se relaciona directamente con la cantidad de neuronas a las que trasmite la información ",
+                "correct": true
+            },
+            {
+                "text": "La integración neuronal se realiza en el cono  axónico "
+            }
+        ]
+    },
+    {
+        "text": "Nervios craneales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Pertenecen todos al SN autónomo."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "La mayoría proporcionan inervación sensorial y motora a estructuras de la cabeza y cuello.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Usted acude a una revisión neurológica y entre las diferentes exploraciones que se realizan, el médico observa la posición y el movimiento de sus ojos cuando le pide que mire a la derecha y a la izquierda, arriba y abajo, siguiendo el movimiento del dedo índice. De esta manera se está explorando el correcto funcionamiento de los nervios craneales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Óptico (II)"
+            },
+            {
+                "text": "Oculomotor (III), troclear (IV) y abducens o motor ocular externo (VI).",
+                "correct": true
+            },
+            {
+                "text": "Facial (VII)"
+            },
+            {
+                "text": "Trigémino (V) y vago (X)"
+            }
+        ]
+    },
+    {
+        "text": "Las granulaciones aracnoideas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Forman una extensa red en el espacio subaracnoideo"
+            },
+            {
+                "text": "Son invaginaciones de la aracnoides y la piamadre que penetran en muchas cisuras hemisféricas"
+            },
+            {
+                "text": "Son redes de capilares que fabrican la mayor parte del LCR (líquido cefalorraquídeo)"
+            },
+            {
+                "text": "Están formadas por vellosidades",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El citoesqueleto neuronal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Confiere la misma forma a todas las neuronas"
+            },
+            {
+                "text": "Interviene en el transporte de moléculas entre el soma y las prolongaciones neuronales",
+                "correct": true
+            },
+            {
+                "text": "Es una estructura rígida inalterable por cambios fisiológicos o ambientales"
+            },
+            {
+                "text": "Determina el transporte de señales nerviosas desde las dendritas al soma neuronal"
+            }
+        ]
+    },
+    {
+        "text": "Si quisiéramos saber donde están los cuerpos celulares de neuronas que proyectan a un determinado núcleo del cerebelo, emplearíamos una técnica de trazado que, aprovechando el transporte de sustancias que se produce en el interior neural, permite conocer su localización empleando sustancias que reaccionan en el interior de la neurona y que pueden ser marcadas para visualizar su trayectoria. ¿Cómo sería el transporte que permite su localización?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Retrógrado",
+                "correct": true
+            },
+            {
+                "text": "Flujo axónico lento"
+            },
+            {
+                "text": "Anterógrado"
+            },
+            {
+                "text": "Transporte rápido en el cerebelo"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes células constituye la mielina en el SNC?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Oligodendrocitos",
+                "correct": true
+            },
+            {
+                "text": "Microgía"
+            },
+            {
+                "text": "Astrocitos"
+            },
+            {
+                "text": "Células de Schwann"
+            }
+        ]
+    },
+    {
+        "text": "La más externa de las meninges es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Duramadre.",
+                "correct": true
+            },
+            {
+                "text": "Piamadre."
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "El axón es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Una prolongación del soma neuronal,generalmente más delgada y larga que las dendritas.",
+                "correct": true
+            },
+            {
+                "text": "Centro metabólico donde se fabrican las moléculas y realizan las actividades fundamentales para mantener la vida y las funciones de la célula nerviosa."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "Células que recubren los vasos sanguíneos cerebrales y participan en el mantenimiento de la barrera hematoencefálica.",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Oligondendrocitos"
+            },
+            {
+                "text": "Astrocitos",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones indican los cuatro grandes componentes del diencéfalo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_07.jpg",
+        "responses": [
+            {
+                "text": "2, 4, 9 y 12."
+            },
+            {
+                "text": "2, 4, 7 y 10."
+            },
+            {
+                "text": "2, 4, 6 y 9."
+            },
+            {
+                "text": "4, 6, 9 y 10.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los axones que conducen la información motora desde el SN central hacia el resto del organismo se denominan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Vías rostrales"
+            },
+            {
+                "text": "Vías aferentes"
+            },
+            {
+                "text": "Fibras ipsilaterales"
+            },
+            {
+                "text": "Vías eferentes",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las neuronas se diferencian de otras células en que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tienen menor actividad metabólica"
+            },
+            {
+                "text": "Tienen más material genético"
+            },
+            {
+                "text": "Carecen de orgánulos citoplasmáticos"
+            },
+            {
+                "text": "Su membrana plasmática está especializada en generar y transmitir potenciales eléctricos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación a la barrera hematoencefálica sabemos que",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debe fundamentalmente al aislamiento que proporcionan las células endoteliales que revisten los capilares del SN central.",
+                "correct": true
+            },
+            {
+                "text": "Unicamente está presente en los órganos circunventriculares."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "El citoesqueleto neuronal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una prolongación del soma neuronal con forma de árbol."
+            },
+            {
+                "text": "Proporciona un mecanismo de transporte de moléculas en el interior neuronal.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Significa que los lados derecho e izquierdo del SNC tienen las mismas estructuras:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Principio general de simetría bilateral",
+                "correct": true
+            },
+            {
+                "text": "Teoría neuronal"
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Un ejemplo de plasticidad neural lo constituye:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La posibilidad de que aparezcan mutaciones en el genoma de las neuronas"
+            },
+            {
+                "text": "El hecho de que todas las neuronas se reproduzcan durante toda la vida del individuo"
+            },
+            {
+                "text": "La demostración de que los árboles dendríticos de las neuronas se vean modificados por factores ambientales",
+                "correct": true
+            },
+            {
+                "text": "La demostración de que existen dos tipos de transporte a lo largo del axón de las neuronas, anterógrado y retrógrado"
+            }
+        ]
+    },
+    {
+        "text": "Agrupaciones de células nerviosas que se localizan fuera del SNC",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nervios"
+            },
+            {
+                "text": "Ganglios"
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Ambas son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde la muerte del científico Albert Einstein, los investigadores diseccionaron su cerebro en busca de pistas sobre su genialidad. No encontraron nada especial en el número de las neuronas. Sin embargo, en la corteza de asociación, responsable de la cognición de alto nivel, hallaron una cifra elevadísima de células ...",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la glía",
+                "correct": true
+            },
+            {
+                "text": "Piramidales"
+            },
+            {
+                "text": "De Schwann"
+            },
+            {
+                "text": "De Purkinje"
+            }
+        ]
+    },
+    {
+        "text": "Si tuviera que describir la situación respecto al neuroeje de la estructura cerebral señalada en la figura con el 5, diría que ésta se encuentra:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_01.jpg",
+        "responses": [
+            {
+                "text": "Rostral al diencéfalo."
+            },
+            {
+                "text": "Dorsal al tronco del encéfalo.",
+                "correct": true
+            },
+            {
+                "text": "Caudal a la médula espinal."
+            },
+            {
+                "text": "Ventral al bulbo raquídeo."
+            }
+        ]
+    },
+    {
+        "text": "El SN simpático pertenece al:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "SN somático"
+            },
+            {
+                "text": "Sistema activador ascendente"
+            },
+            {
+                "text": "SN central"
+            },
+            {
+                "text": "SN periférico",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Captan información del entorno recibida a través de los órganos de los sentidos y la conducen al SNC",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Neuronas sensoriales",
+                "correct": true
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Neuronas motoras"
+            }
+        ]
+    },
+    {
+        "text": "El SN somático",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Forma parte del SN periférico, de modo que la información que envía o recibe es transmitida por los nervios espinales y craneales",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Transmite información procedente de las vísceras y órganos internos"
+            }
+        ]
+    },
+    {
+        "text": "El encéfalo anterior está formado por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Diencéfalo y hemisferios cerebrales.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Mesencéfalo,Puente y Bulbo Raquídeo"
+            }
+        ]
+    },
+    {
+        "text": "Los límites rostral y caudal del hipotálamo los forman, respectivamente, las estructuras señaladas en la figura con los números:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_07.jpg",
+        "responses": [
+            {
+                "text": "2 y 10."
+            },
+            {
+                "text": "2 y 12.",
+                "correct": true
+            },
+            {
+                "text": "8 y 10."
+            },
+            {
+                "text": "7 y 6."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a las características que presentan las neuronas, se sabe que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La elevada presencia de sustancia de Nissl en el soma evidencia la intensa actividad de síntesis de proteínas",
+                "correct": true
+            },
+            {
+                "text": "Las dendritas son el centro metabólico fundamental de la célula"
+            },
+            {
+                "text": "El axón es la principal área receptora de información procedente de otras neuronas"
+            },
+            {
+                "text": "El segmento del axón más próximo al soma se denomina botón terminal"
+            }
+        ]
+    },
+    {
+        "text": "El núcleo sexodimórfico del área preóptica (NSD):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "(P. 11 )",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ninguna es correcta."
+            },
+            {
+                "text": "Es mucho mayor en machos que en hembras.",
+                "correct": true
+            },
+            {
+                "text": "En humanos se han encontrado dos y se denominan núcleos intersticiales del hipotálamo anterior (NIHA)."
+            }
+        ]
+    },
+    {
+        "text": "El neurocientífico español S.Ramón y Cajal estableció que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cada neurona dispone de un campo receptivo que es el axón"
+            },
+            {
+                "text": "La comunicación entre neuronas se establece al azar sin que existan puntos especializados de contacto."
+            },
+            {
+                "text": "Cada neurona es una entidad bien definida y separada de las demás.",
+                "correct": true
+            },
+            {
+                "text": "Existe una continuidad citoplasmática entre las neuronas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de células forma la capa de mielina que recubre los axones que se agrupan en la columna dorsal de la médula espinal?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Células de Schawn."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Oligodentrocitos.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes tipos celulares no se encuentra en el interior del SNC?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Oligodendrocitos"
+            },
+            {
+                "text": "Células de Schwann",
+                "correct": true
+            },
+            {
+                "text": "Neuronas de proyección"
+            },
+            {
+                "text": "Células de Purkinje"
+            }
+        ]
+    },
+    {
+        "text": "Cuando el transporte se realiza desde el soma hasta el terminal se denomina..",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Anterógrado",
+                "correct": true
+            },
+            {
+                "text": "Retrógrado"
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a las prolongaciones neuronales sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La cantidad de dendritas y la complejidad de sus ramificaciones determinan la cantidad de señales que recibe la neurona",
+                "correct": true
+            },
+            {
+                "text": "El axón carece de ramificaciones y termina en un cono axónico"
+            },
+            {
+                "text": "En los botones terminales del axón se integran las señales que llegan a la neurona"
+            },
+            {
+                "text": "Las dendritas son más delgadas y largas que los axones"
+            }
+        ]
+    },
+    {
+        "text": "El nervio vago(X):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Interviene en funciones tanto somaticas como viscerales."
+            },
+            {
+                "text": "Se localiza en el bulbo raquídeo."
+            },
+            {
+                "text": "Recoge información sensorial de gran parte de las vísceras del tórax y del abdomen."
+            },
+            {
+                "text": "Todas las opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se sabe que entre las funciones de un determinado tipo de células gliales del SNC se encuentra el suministro de nutrientes a las neuronas a las que proporcionan soporte estructural, la reparación y regeneración del daño al tejido nervioso y la captación de transmisores químicos. Recientemente se ha descubierto que además son capaces de modular la excitabilidad neuronal y la transmisión sináptica, nos estamos refiriendo a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los oligodendrocitos"
+            },
+            {
+                "text": "Las células de Schwann"
+            },
+            {
+                "text": "Los astrocitos",
+                "correct": true
+            },
+            {
+                "text": "La microglía"
+            }
+        ]
+    },
+    {
+        "text": "El término cono axónico hace referencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A la zona terminal del axón."
+            },
+            {
+                "text": "Al segmento del axón que lleva a cabo la integración de la información recibida por la neurona.",
+                "correct": true
+            },
+            {
+                "text": "A la zona de la neurona donde se lleva a cabo la síntesis de las proteínas."
+            },
+            {
+                "text": "Al segmento del axón más cercano a la soma neuronal encargado de liberar neurotransmisores."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a los botones terminales puede decirse que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Contienen vesículas sinápticas que liberan los neurotransmisores al espacio extracelular.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "En ellos tiene lugar la síntesis de proteínas."
+            }
+        ]
+    },
+    {
+        "text": "Identífique en la figura la situación de los polos rostral y caudal del encéfalo anterior y las estructuras indicadas por los números:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_02.jpg",
+        "responses": [
+            {
+                "text": "2 Tálamo 5 médula espinal 6 cerebelo 7 polo rostral."
+            },
+            {
+                "text": "1 Polo caudal 3 Puente 4 Médula espinal 6 cerebelo."
+            },
+            {
+                "text": "2 Mesencéfalo 3 Puente 7 Polo caudal 8 Hemisferio cerebral derecho.",
+                "correct": true
+            },
+            {
+                "text": "1 Polo rostral 3 Bulbo raquídeo 8 Hemisferio cerebral izquiero 9 Tálamo."
+            }
+        ]
+    },
+    {
+        "text": "Suministran nutrientes a la neurona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Astrocitos.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Microglía."
+            }
+        ]
+    },
+    {
+        "text": "El botón terminal, las espinas y el núcleo de las neuronas se localizan respectivamente en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Axón, las dendritas y el soma.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Dendritas, el cono axónico y el soma."
+            }
+        ]
+    },
+    {
+        "text": "La médula espinal y los ganglios espinales de la raíz dorsal pertenecen:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Al sistema nervioso periférico y sistema nervioso central, respectivamente"
+            },
+            {
+                "text": "Al SN central y SN periférico, respectivamente",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Identifique el plano de la sección de RMN mostrada en la figura:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_01.jpg",
+        "responses": [
+            {
+                "text": "Sagital.",
+                "correct": true
+            },
+            {
+                "text": "Coronal."
+            },
+            {
+                "text": "Horizontal."
+            },
+            {
+                "text": "Rostral."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes componentes neuronales está correctamente asociado a su función?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Espinas dendríticas-recepción de señales que llegan a la neurona",
+                "correct": true
+            },
+            {
+                "text": "Microtúbulos-trasporte de sustancias entre el interior y el exterior celular"
+            },
+            {
+                "text": "Cono axónico-conducción de señales al cuerpo neuronal"
+            },
+            {
+                "text": "Botón terminal-integración de la información que llega a la neurona"
+            }
+        ]
+    },
+    {
+        "text": "En el SN periférico, los nervios:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Reciben también el nombre de raíces dorsales"
+            },
+            {
+                "text": "Sólo transmiten información motora hacia los órganos periféricos"
+            },
+            {
+                "text": "Se originan únicamente en la médula espinal"
+            },
+            {
+                "text": "Están constituidos por fibras aferentes y eferentes",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las vías que conducen la información sensorial desde los órganos receptores hacia el SN central se denominan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Fibras motoras."
+            },
+            {
+                "text": "Vías eferentes."
+            },
+            {
+                "text": "Vias aferentes.",
+                "correct": true
+            },
+            {
+                "text": "Vias ipsilaterales."
+            }
+        ]
+    },
+    {
+        "text": "El Sistema Nervioso Simpático y el Sistema Nervioso Parasimpático se encuentran en el:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sistema Nervioso Somático"
+            },
+            {
+                "text": "Ambas son incorrectas."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Sistema Nervioso Autónomo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando hablamos de raíces dorsales sabemos que nos estamos refiriendo a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los nervios espinales motores"
+            },
+            {
+                "text": "El SNC"
+            },
+            {
+                "text": "Los nervios espinales motores"
+            },
+            {
+                "text": "Fibras sensoriales",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con las sustancia de Nissl que presentan las neuronas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se corresponde con el retículo endoplasmático rugoso y presenta una intensa actividad de síntesis de proteínas.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Se localiza por igual en el soma, las dendritas y el axón."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "NO pertenece a los hemisferios cerebrales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La corona radiada."
+            },
+            {
+                "text": "El neoestriado."
+            },
+            {
+                "text": "El hipotálamo.",
+                "correct": true
+            },
+            {
+                "text": "La allocorteza."
+            }
+        ]
+    },
+    {
+        "text": "El transporte de sustancias desde el soma neuronal hasta el terminal axónico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es esencial para que los factores de crecimiento nervioso alcancen el soma neuronal"
+            },
+            {
+                "text": "Es anterógrado",
+                "correct": true
+            },
+            {
+                "text": "Es retrógrado"
+            },
+            {
+                "text": "No depende de la funcionalidad del citoesqueleto"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los cortes del encéfalo humano de la figura es un corte coronal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_04.jpg",
+        "responses": [
+            {
+                "text": "3."
+            },
+            {
+                "text": "2.",
+                "correct": true
+            },
+            {
+                "text": "Ninguno."
+            },
+            {
+                "text": "1."
+            }
+        ]
+    },
+    {
+        "text": "El lóbulo límbico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Incluye la circunvolución del hipocampo y está implicado en los procesos emocionales y motivacionales.",
+                "correct": true
+            },
+            {
+                "text": "Forma parte de la neocorteza."
+            },
+            {
+                "text": "Es una zona de corteza cerebral que bordea el cuerpo calloso desde el lóbulo temporal al occipital."
+            },
+            {
+                "text": "Se denomina también lóbulo de la ínsula y no es visible desde el exterior."
+            }
+        ]
+    },
+    {
+        "text": "Hemisferios cerebrales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Constituyen, junto al mielencéfalo, el cerebro anterior."
+            },
+            {
+                "text": "Están separados por la cisura longitudinal.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué células gliales intervienen en la reparación del tejido nervioso tras una lesión?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La microglía"
+            },
+            {
+                "text": "Los astrocitos"
+            },
+            {
+                "text": "Las células de Schawnn "
+            },
+            {
+                "text": "Todas las opciones",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la consulta del neurólogo y tras las pruebas oportunas le dicen que el pequeño coágulo que le han descubierto en la arteria basilar dificulta el riego sanguíneo a una parte del encéfalo y que sus consecuencias no han sido más graves gracias al aporte sanguíneo mantenido por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las arterias cerebrales posteriores"
+            },
+            {
+                "text": "La barrera hematoencefálica"
+            },
+            {
+                "text": "Las arterias vertebrales"
+            },
+            {
+                "text": "El polígono de Willis",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones NO puede decirse de los nervios craneales?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se denominan también raquídeos.",
+                "correct": true
+            },
+            {
+                "text": "Están formados por fibras aferentes y/o eferentes."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "En términos generales sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El SN mantiene toda la vida del individuo la capacidad de experimentar modificaciones en su organización anatómica y funcional",
+                "correct": true
+            },
+            {
+                "text": "Las neuronas no se comunican con otras neuronas en puntos especializados de contacto sináptico"
+            },
+            {
+                "text": "Hay continuidad citoplasmática entre neuronas"
+            },
+            {
+                "text": "La comunicación entre neuronas se establece sin polaridad alguna, en cualquier dirección"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué términos sustituyen los números en el esquema de la figura?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_05.jpg",
+        "responses": [
+            {
+                "text": "1 encéfalo 2 médula espinal 3 sistema periférico 4 sistema nervioso somático 5 sistema nervioso autónomo 6 sistema nervioso parasimpático.",
+                "correct": true
+            },
+            {
+                "text": "1 corteza cerebral 2 tronco de encéfalo 3 sistema nervioso periférico 4 sistema nervioso autónomo 5 sistema nervioso vegetativo 6 sistema nervioso parasimpático."
+            },
+            {
+                "text": "1 encéfalo 2 médula espinal 3 sistema nervioso ganglionar 4 sistema nervioso autónomo 5 sistema nervioso somático 6 sistema nervioso parasimpático."
+            },
+            {
+                "text": "1 encéfalo 2 tronco de encéfalo 3 sistema nervioso ganglionar 4 sistema nervioso autónomo 5 sistema nervioso somático 6 sistema nervioso parasimpático."
+            }
+        ]
+    },
+    {
+        "text": "Sobre la barrera hematoencefálica puede decirse que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Abarca todo el encéfalo"
+            },
+            {
+                "text": "Consiste únicamente en el filtrado que realizan los astrocitos para aportar los nutrientes del plasma sanguíneo a las neuronas"
+            },
+            {
+                "text": "Está formada por oligodendrocitos"
+            },
+            {
+                "text": "No existe en los llamados órganos circunventriculares",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes componentes NO forma parte del SN periférico?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nervios craneales"
+            },
+            {
+                "text": "Médula espinal",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "La barrera hematoencéfalica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es permeable al oxígeno pero la glucosa requiere un sistema de transporte para atravesarla",
+                "correct": true
+            },
+            {
+                "text": "Aísla totalmente el SN Central de la circulación sanguínea"
+            },
+            {
+                "text": "Está formada por las granulaciones aracnoideas que revisten los capilares"
+            },
+            {
+                "text": "Se localiza fundamentalmente en los órganos circunventriculares "
+            }
+        ]
+    },
+    {
+        "text": "En relación con el transporte de proteínas a través del axón sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El transporte anterógrado es el responsable del movimiento desde el terminal sináptico al cuerpo celular "
+            },
+            {
+                "text": "Los componentes del citoesqueleto del axón son los encargados de este transporte",
+                "correct": true
+            },
+            {
+                "text": "El transporte retrógrado se realiza desde el soma hasta el terminal axónico "
+            },
+            {
+                "text": "Todas las opciones son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "Sobre la vaina de mielina sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Facilita la conducción del impulso nervioso.",
+                "correct": true
+            },
+            {
+                "text": "Está formada por astrocitos en el SN central."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "El sistema nervioso (SN) autónomo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Regula el funcionamiento de las glándulas y órganos internos y tiene dos divisiones principales: el SN simpático y el SN parasimpático.",
+                "correct": true
+            },
+            {
+                "text": "Pertenece al SNA."
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son incorrectas."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a los diferentes tipos de neuronas, se sabe que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las neuronas de proyección procesan información localmente, de forma que sus axones no salen de la agrupación celular de la que forman parte"
+            },
+            {
+                "text": "Las neuronas multipolares presentan sólo dos prolongaciones que emergen del soma"
+            },
+            {
+                "text": "Las neuronas multipolares presentan varios axones"
+            },
+            {
+                "text": "Las neuronas bipolares son normalmente neuronas sensoriales",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con los oligodendrocitos sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ingieren y digieren restos de neuronas destruidas"
+            },
+            {
+                "text": "Se enrollan alrededor de los axones formando la mielina ",
+                "correct": true
+            },
+            {
+                "text": "Participan en la barrera hematoencefálica"
+            },
+            {
+                "text": "Intervienen en la reparación y regeneración del tejido nervioso"
+            }
+        ]
+    },
+    {
+        "text": "Las fibras eferentes del sistema nervioso periférico somático:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se agrupan formando ganglios"
+            },
+            {
+                "text": "Son las prolongaciones periféricas de los ganglios de la raíz ventral de la médula espinal"
+            },
+            {
+                "text": "Están formadas por los axones de las neuronas motoras localizadas en el SNC",
+                "correct": true
+            },
+            {
+                "text": "Transportan la información desde los receptores sensoriales hasta el SNC"
+            }
+        ]
+    },
+    {
+        "text": "El sistema ventricular está representado en la figura por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "6"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema6_06.jpg",
+        "responses": [
+            {
+                "text": "A/ Acueducto cerebral B/ tercer ventrículo C/ cuarto ventrículo D/ ventrículos laterales."
+            },
+            {
+                "text": "A/ ventrículo lateral B/ tercer ventrículo C/ acueducto cerebral D/ cuarto ventrículo."
+            },
+            {
+                "text": "A/ Tercer ventrículo B/ cuarto ventrículo C/ Acueducto cerebral D/ ventrículo lateral."
+            },
+            {
+                "text": "A/ ventrículo lateral B/ tercer ventrículo C/ cuarto ventrículo D/ acueducto cerebral.",
+                "correct": true
+            }
+        ]
+    }
+]

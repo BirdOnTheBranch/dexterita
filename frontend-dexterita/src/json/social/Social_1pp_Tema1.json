@@ -1,0 +1,1199 @@
+[
+    {
+        "text": "Una característica de la Psicología Social que la distingue de la Sociología es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Su interés por el funcionamiento de los grupos."
+            },
+            {
+                "text": "Su consideración del contexto social como fuente de influencia fundamental en los procesos psicológicos que estudia.",
+                "correct": true
+            },
+            {
+                "text": "La importancia que concede al contexto social."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de Richman y Leary, cuando una persona se siente rechazada o ve amenazada su necesidad de pertenencia, su reacción emocional predominante es",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Los sentimientos heridos.",
+                "correct": true
+            },
+            {
+                "text": "Una mezcla de tristeza y cólera."
+            },
+            {
+                "text": "Tristeza."
+            }
+        ]
+    },
+    {
+        "text": "La influencia que ejercen las normas y valores culturales en la conducta de los jóvenes hacia los ancianos es un ejemplo de proceso psicosocial",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Grupal."
+            },
+            {
+                "text": "Societal.",
+                "correct": true
+            },
+            {
+                "text": "Interpersonal."
+            }
+        ]
+    },
+    {
+        "text": "Las investigaciones correlacionales se caracterizan por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 28-29)  ",
+        "responses": [
+            {
+                "text": "Manipular la variable dependiente."
+            },
+            {
+                "text": "Manipular variables independientes."
+            },
+            {
+                "text": "Comprobar la asociación existente entre variables.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El proceso por el que incluimos en nuestro autoconcepto a otras personas cuando percibimos y aceptamos que pertenecemos a una misma categoría social se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Sociabilidad."
+            },
+            {
+                "text": "Interdependencia."
+            },
+            {
+                "text": "Identificación social.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones define más acertadamente a la Psicología Social como disciplina?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 4-5)",
+        "responses": [
+            {
+                "text": "Aplica el sentido común de forma rigurosa para describir los fenómenos sociales de la vida cotidiana."
+            },
+            {
+                "text": "Se ocupa de los procesos que tienen que ver con la capacidad y necesidad que tiene el ser humano de relacionarse con los demás.",
+                "correct": true
+            },
+            {
+                "text": "Se centra prioritariamente en el análisis del contexto social."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos individuales que estudia la Psicología Social se caracterizan por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "No tener un referente social."
+            },
+            {
+                "text": "Tener lugar en el interior del individuo aunque su origen es social.",
+                "correct": true
+            },
+            {
+                "text": "Ser sencillos y simples."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué metodología es capaz de abarcar numerosas variables a la vez y de estudiarlas en las situaciones reales en las que ocurren?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El cuasi-experimento."
+            },
+            {
+                "text": "El experimento de laboratorio."
+            },
+            {
+                "text": "La metodología correlacional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que muchas personas disfruten en un concierto multitudinario y sin embargo tengan una desagradable sensación de hacinamiento en un vagón de metro igualmente abarrotado es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "El impacto de la densidad de población sobre los individuos."
+            },
+            {
+                "text": "Ambivalencia actitudinal."
+            },
+            {
+                "text": "Los efectos de la realidad construida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la opción correcta",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando en Psicología Social se habla de “situación” se suele hacer referencia a la presencia de otras personas.",
+                "correct": true
+            },
+            {
+                "text": "A la hora de explicar la conducta de las personas, la Psicología Social da más importancia a sus características de personalidad que a la situación en la que se encuentran."
+            },
+            {
+                "text": "La sociabilidad es una tendencia innata en el ser humano que se manifiesta en los primeros años de vida y poco a poco va desapareciendo."
+            }
+        ]
+    },
+    {
+        "text": "La Psicología Social se ocupa, fundamentalmente:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 25, 26, 29)",
+        "responses": [
+            {
+                "text": "De cómo se articulan los procesos individuales con el contexto social.",
+                "correct": true
+            },
+            {
+                "text": "De procesos no relacionados con el contexto inmediato, sino societal y/o grupal."
+            },
+            {
+                "text": "De la capacidad humana de adaptación."
+            }
+        ]
+    },
+    {
+        "text": "La influencia de los demás:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 6-7)",
+        "responses": [
+            {
+                "text": "No siempre es explícita.",
+                "correct": true
+            },
+            {
+                "text": "Tiene lugar únicamente cuando los demás interactúan con nosotros."
+            },
+            {
+                "text": "Es siempre unidireccional, ya que somos el blanco de la influencia de los demás."
+            }
+        ]
+    },
+    {
+        "text": "El “isomorfismo de metas”",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Tiene lugar cuando los miembros del grupo compiten entre sí por un mismo objetivo (un recurso, el estatus o imponer su visión de la realidad)."
+            },
+            {
+                "text": "Hace referencia a la compatibilidad de las metas del grupo con las de cada uno de sus miembros.",
+                "correct": true
+            },
+            {
+                "text": "Se consigue sólo si todos los miembros de un grupo persiguen un mismo tipo de metas."
+            }
+        ]
+    },
+    {
+        "text": "Una discusión acalorada mantenida entre dos amigos, simpatizantes respectivamente de cada uno de los dos equipos de fútbol locales, sobre los resultados de esos equipos en el último partido que han jugado, reflejaría procesos de naturaleza",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Interpersonal."
+            },
+            {
+                "text": "Grupal.",
+                "correct": true
+            },
+            {
+                "text": "Cultural."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes factores es necesario para que se produzca la influencia de los demás en nuestros pensamientos, emociones o comportamientos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 6-7)",
+        "responses": [
+            {
+                "text": "Que los otros estén interactuando con nosotros."
+            },
+            {
+                "text": "Que vivamos en un medio social.",
+                "correct": true
+            },
+            {
+                "text": "Que los otros tengan intención de influirnos."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la comparación social:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 261, 182, 16)",
+        "responses": [
+            {
+                "text": "La disonancia tiene un origen cognitivo basado en la comparación."
+            },
+            {
+                "text": "Necesitamos evaluar lo adecuado de nuestro comportamiento validándolo socialmente.",
+                "correct": true
+            },
+            {
+                "text": "El refuerzo negativo aumenta la probabilidad de que realicemos comparaciones sociales."
+            }
+        ]
+    },
+    {
+        "text": "Señale la respuesta verdadera:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La Psicología Social se centra en el estudio de la influencia de la realidad social objetiva sobre el pensamiento racional de las personas."
+            },
+            {
+                "text": "La Psicología Social se puede considerar como la versión científica del sentido común."
+            },
+            {
+                "text": "La influencia de los demás se produce incluso cuando estamos solos y no pensamos en nadie concreto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones recoge un aspecto que tienen en común los modelos de Fiske, de Levine y Kerr y de Richman y Leary sobre los motivos sociales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 14-17)",
+        "responses": [
+            {
+                "text": "Los tres conceden una importancia primordial al motivo de pertenencia.",
+                "correct": true
+            },
+            {
+                "text": "Los tres modelos tipifican las respuestas que las personas dan para afrontar el ostracismo."
+            },
+            {
+                "text": "Los tres se basan en la idea de que la valoración negativa por  parte de los demás produce en el individuo una batalla intrapsíquica entre las necesidades fundamentales."
+            }
+        ]
+    },
+    {
+        "text": "La premisa de que no es la realidad objetiva sino la realidad construida lo que influye en la forma de pensar, sentir y comportarse de las personas implica que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "Es muy difícil llegar a una visión compartida de la realidad puesto que cada persona la interpreta a su manera."
+            },
+            {
+                "text": "Sólo es posible estudiar el comportamiento social de las personas utilizando métodos subjetivos."
+            },
+            {
+                "text": "La realidad nos afectará de una forma u otra según cómo la interpretemos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando un psicólogo social tiene que explicar por qué una persona se comporta hacia otra de una determinada manera en un momento concreto, ¿en cuál de los siguientes factores se centra fundamentalmente?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 5-6)",
+        "responses": [
+            {
+                "text": "En la naturaleza biológica heredada del ser humano."
+            },
+            {
+                "text": "En los rasgos de personalidad de ese individuo."
+            },
+            {
+                "text": "En la influencia de los demás sobre sus procesos psicológicos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si un psicólogo tuviera que analizar desde una perspectiva psicosocial el acoso escolar en un determinado instituto, con vistas a una posterior intervención, ¿cuál de los siguientes fenómenos sería más probablemente el foco de su investigación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 5-6)",
+        "responses": [
+            {
+                "text": "La dinámica que tiene lugar en el grupo al que pertenecen el acosador y la víctima, con objeto de diseñar una intervención que reduzca el apoyo activo y pasivo al acosador por parte de los compañeros.",
+                "correct": true
+            },
+            {
+                "text": "Las características sociodemográficas del barrio donde está ubicado el centro, con objeto de diseñar políticas sociales que favorezcan la integración de todos sus habitantes."
+            },
+            {
+                "text": "Los rasgos de personalidad del acosador y de la víctima, con objeto de diseñar un programa de entrenamiento en habilidades sociales individualizado para cada uno."
+            }
+        ]
+    },
+    {
+        "text": "Un tipo de metas que los individuos pueden buscar al unirse a un grupo es lo que se conoce como “metas de conocimiento”, que se refieren a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 23)",
+        "responses": [
+            {
+                "text": "La necesidad de conocer su valor relacional."
+            },
+            {
+                "text": "La necesidad de obtener información sobre el mundo y la realidad.",
+                "correct": true
+            },
+            {
+                "text": "El conocimiento del propio yo a través de la comparación con los demás."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias puede evitar o reducir el efecto de las expectativas, que supone una amenaza a la validez de los resultados de una investigación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "Que la persona que recoge los datos no sepa a qué condición experimental ha sido asignado cada participante.",
+                "correct": true
+            },
+            {
+                "text": "Utilizar un cuestionario post-experimental."
+            },
+            {
+                "text": "Garantizar a los participantes que sus respuestas serán confidenciales."
+            }
+        ]
+    },
+    {
+        "text": "La premisa de que no es la realidad objetiva sino la realidad construida lo que influye en la forma de pensar, sentir y comportarse de las personas implica que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "La realidad nos afectará de una forma u otra según cómo la interpretemos.",
+                "correct": true
+            },
+            {
+                "text": "Es muy difícil llegar a una visión compartida de la realidad puesto que cada persona la interpreta a su manera."
+            },
+            {
+                "text": "Sólo es posible estudiar el comportamiento social de las personas utilizando métodos subjetivos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones recoge un aspecto que tienen en común los modelos de Fiske, de Levine y Kerr y de Richman y Leary sobre los motivos sociales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 14-17)",
+        "responses": [
+            {
+                "text": "Los tres se basan en la idea de que la valoración negativa por parte de los demás produce en el individuo una batalla intrapsíquica entre las necesidades fundamentales."
+            },
+            {
+                "text": "Los tres conceden una importancia primordial al motivo de pertenencia.",
+                "correct": true
+            },
+            {
+                "text": "Los tres modelos tipifican las respuestas que las personas dan para afrontar el ostracismo."
+            }
+        ]
+    },
+    {
+        "text": "En un diseño cuasi-experimental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se analiza la influencia de la variable independiente experimental sobre la dependiente.",
+                "correct": true
+            },
+            {
+                "text": "Los participantes son asignados aleatoriamente a cada condición experimental."
+            },
+            {
+                "text": "No se manipula ninguna variable experimental."
+            }
+        ]
+    },
+    {
+        "text": "Si en un experimento se presentan a los participantes estímulos diferentes en función de la condición experimental a la que se les ha asignado y, posteriormente, se les pide que emitan un juicio a partir de ellos, estaríamos recurriendo a una manipulación",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Social."
+            },
+            {
+                "text": "Mediante instrucciones."
+            },
+            {
+                "text": "Ambiental.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La sociabilidad en el ser humano se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Manifestarse en la primera infancia pero no en la edad adulta."
+            },
+            {
+                "text": "Ser una tendencia innata.",
+                "correct": true
+            },
+            {
+                "text": "Desarrollarse al margen de la situación social que viva el individuo."
+            }
+        ]
+    },
+    {
+        "text": "Para los psicólogos sociales actuales, el pensamiento no racional:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Apenas interviene en los procesos cognitivos de las personas y, cuando lo hace, las consecuencias para el comportamiento son siempre negativas."
+            },
+            {
+                "text": "Se basa en impulsos subconscientes que nos mueven a actuar de determinada manera ante la presencia de otras personas."
+            },
+            {
+                "text": "Es un procesamiento mental intuitivo al que recurrimos muy a menudo sin darnos cuenta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes ejemplos sería un caso de influencia de la presencia implícita?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 8-9)",
+        "responses": [
+            {
+                "text": "Un bailarín que imita a Michael Jackson."
+            },
+            {
+                "text": "Una muchedumbre exaltada por la arenga revolucionaria de un líder."
+            },
+            {
+                "text": "Los católicos practicantes que van a misa todos los domingos porque es un mandamiento de la iglesia católica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones define más acertadamente a la Psicología Social como disciplina?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 4-5)",
+        "responses": [
+            {
+                "text": "Se centra prioritariamente en el análisis del contexto social."
+            },
+            {
+                "text": "Se ocupa de los procesos que tienen que ver con la capacidad y necesidad que tiene el ser humano de relacionarse con los demás.",
+                "correct": true
+            },
+            {
+                "text": "Aplica el sentido común de forma rigurosa para describir los fenómenos sociales de la vida cotidiana."
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo de Richman y Leary, ¿en cuál de las siguientes situaciones es más probable que los sentimientos heridos, incitados por la amenaza al motivo de pertenencia, provoquen reacciones antisociales y/o de evitación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 18-19)",
+        "responses": [
+            {
+                "text": "Cuanto más haya invertido la persona rechazada en la relación causante de esos sentimientos."
+            },
+            {
+                "text": "Cuando la relación con la fuente del rechazo se considere muy valiosa."
+            },
+            {
+                "text": "Cuando la persona cree que el rechazo que ha sufrido lleva a una ruptura definitiva del vínculo con la fuente del rechazo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando vamos a comprar un regalo sorpresa para un amigo y nos preocupamos de elegir algo que sabemos le va a gustar, estamos siendo influidos por su presencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Imaginada.",
+                "correct": true
+            },
+            {
+                "text": "Implícita."
+            },
+            {
+                "text": "Real o física."
+            }
+        ]
+    },
+    {
+        "text": "Una de las desventajas del método correlacional es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p.29)",
+        "responses": [
+            {
+                "text": "No permite establecer relaciones de causa-efecto.",
+                "correct": true
+            },
+            {
+                "text": "No permite estudiar la conducta en situaciones naturales."
+            },
+            {
+                "text": "Permite estudiar pocas variables simultáneamente."
+            }
+        ]
+    },
+    {
+        "text": "El envío de ayuda económica a un niño de otro país con una cultura muy diferente, al que no se conoce personalmente, constituye un ejemplo de proceso de naturaleza",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Societal."
+            },
+            {
+                "text": "Interpersonal.",
+                "correct": true
+            },
+            {
+                "text": "Intercultural."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es, según el modelo de Fiske, el motivo social fundamental, aquel en torno al cual se organizan los otros motivos sociales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Comprensión."
+            },
+            {
+                "text": "Pertenencia.",
+                "correct": true
+            },
+            {
+                "text": "Potenciación personal."
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo de Richman y Leary, los sentimientos heridos, incitados por la amenaza al motivo de pertenencia, pueden provocar reacciones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 17-19)",
+        "responses": [
+            {
+                "text": "Que no dependen de cómo construya el individuo la situación de rechazo sino de su personalidad."
+            },
+            {
+                "text": "Tanto de deseo de aumentar los contactos sociales como de huir de ellos.",
+                "correct": true
+            },
+            {
+                "text": "Que son independientes de cómo valore la persona la relación que ha provocado esos sentimientos."
+            }
+        ]
+    },
+    {
+        "text": "La influencia que ejercen las revistas de moda en nuestra forma de vestir es un ejemplo de procesos psicosociales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 10)",
+        "responses": [
+            {
+                "text": "Intergrupales."
+            },
+            {
+                "text": "Societales.",
+                "correct": true
+            },
+            {
+                "text": "Controlados."
+            }
+        ]
+    },
+    {
+        "text": "Para los psicólogos sociales actuales, el pensamiento no racional",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se basa en impulsos subconscientes que nos mueven a actuar de determinada manera ante la presencia de otras personas."
+            },
+            {
+                "text": "Apenas interviene en los procesos cognitivos de las personas y, cuando lo hace, las consecuencias para el comportamiento son siempre negativas."
+            },
+            {
+                "text": "Es un procesamiento mental intuitivo al que recurrimos muy a menudo sin darnos cuenta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo de Richman y Leary, ¿en cuál de las siguientes situaciones es más probable que los sentimientos heridos, incitados por la amenaza al motivo de pertenencia, provoquen reacciones prosociales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 18-19)",
+        "responses": [
+            {
+                "text": "Cuando la relación con la fuente del rechazo se considere poco valiosa."
+            },
+            {
+                "text": "Cuanto más haya invertido la persona rechazada en la relación causante de esos sentimientos.",
+                "correct": true
+            },
+            {
+                "text": "Cuando la persona considere que el rechazo que ha sufrido lleva a una ruptura definitiva del vínculo con la fuente del rechazo."
+            }
+        ]
+    },
+    {
+        "text": "La Psicología Social se ocupa, fundamentalmente:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 3 y 4)",
+        "responses": [
+            {
+                "text": "De procesos no relacionados con el contexto inmediato, sino societal y/o grupal."
+            },
+            {
+                "text": "De cómo se relacionan los procesos psicológicos con el contexto social.",
+                "correct": true
+            },
+            {
+                "text": "De la capacidad humana de adaptación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias puede evitar o reducir el efecto de las expectativas, que supone una amenaza a la validez de los resultados de una investigación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Garantizar a los participantes que sus respuestas serán confidenciales."
+            },
+            {
+                "text": "Utilizar un cuestionario post-experimental."
+            },
+            {
+                "text": "Que la persona que recoge los datos no sepa a qué condición experimental ha sido asignado cada participante.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los grupos psicológicos contribuyen al desarrollo de la sociabilidad y a los vínculos sociales del ser humano a través de dos tipos de procesos grupales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Motivaciones de pertenencia y control."
+            },
+            {
+                "text": "Interdependencia e identificación social.",
+                "correct": true
+            },
+            {
+                "text": "Las metas de conocimiento y las utilitarias."
+            }
+        ]
+    },
+    {
+        "text": "El proceso por el que incluimos en nuestro autoconcepto a otras personas cuando percibimos y aceptamos que pertenecemos a una misma categoría social se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Interdependencia."
+            },
+            {
+                "text": "Identificación social.",
+                "correct": true
+            },
+            {
+                "text": "Sociabilidad."
+            }
+        ]
+    },
+    {
+        "text": "La Psicología Social:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 3 y 4)",
+        "responses": [
+            {
+                "text": "Estudia las relaciones entre procesos psicológicos y contexto social.",
+                "correct": true
+            },
+            {
+                "text": "No explica, sino que describe, cómo son los contextos sociales."
+            },
+            {
+                "text": "Se fundamenta en la experiencia personal adquirida por los psicólogos en relación con su entorno."
+            }
+        ]
+    },
+    {
+        "text": "Tal como la entienden los psicólogos sociales, la sociabilidad:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Es una necesidad que se manifiesta sobre todo en los primeros años de vida, cuando el ser humano es más vulnerable y necesita más a los demás."
+            },
+            {
+                "text": "Es una tendencia innata a relacionarnos con los demás que se va desarrollando en la interacción con otras personas.",
+                "correct": true
+            },
+            {
+                "text": "Es una característica de personalidad que se manifiesta sobre todo en las relaciones interpersonales."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre las diferencias entre la Psicología Social y el sentido común es verdadera?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 4)",
+        "responses": [
+            {
+                "text": "La Psicología Social emplea el sesgo retrospectivo para estudiar la realidad, mientras que el sentido común suele basarse en nuestra propia experiencia o en la de nuestros conocidos."
+            },
+            {
+                "text": "La Psicología Social explica los resultados cuando ya se han producido, mientras que el sentido común predice los fenómenos antes de que ocurran."
+            },
+            {
+                "text": "El sentido común a menudo describe cómo son las cosas, mientras la Psicología Social intenta explicarlas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El proceso por el que incluimos en nuestro autoconcepto a otras personas cuando percibimos y aceptamos que pertenecemos a una misma categoría social se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Sociabilidad."
+            },
+            {
+                "text": "Identificación social.",
+                "correct": true
+            },
+            {
+                "text": "Interdependencia."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos individuales que estudia la Psicología Social se caracterizan por",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Estar menos sujetos a la influencia del contexto que otros procesos psicosociales."
+            },
+            {
+                "text": "Tener lugar en el interior del individuo aunque con un referente social.",
+                "correct": true
+            },
+            {
+                "text": "Ser independientes de los procesos sociales."
+            }
+        ]
+    },
+    {
+        "text": "Una estrategia que contribuye a mejorar el bienestar de personas que pertenecen a un grupo estigmatizado es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Buscar apoyo en otros grupos."
+            },
+            {
+                "text": "Encontrar pistas que les ayuden a reparar la relación."
+            },
+            {
+                "text": "Identificarse con su propio grupo estigmatizado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones define la característica esencial de la Psicología Social?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 5)",
+        "responses": [
+            {
+                "text": "Su objetivo es analizar la interacción entre rasgos biológicos y cultura."
+            },
+            {
+                "text": "Estudia la influencia de los otros en la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Se centra prioritariamente en el estudio de procesos sociales."
+            }
+        ]
+    },
+    {
+        "text": "Si un psicólogo tuviera que analizar desde una perspectiva psicosocial el acoso escolar en un determinado instituto, con vistas a una posterior intervención, ¿cuál de los siguientes fenómenos sería más probablemente el foco de su investigación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 5-6)",
+        "responses": [
+            {
+                "text": "La dinámica que tiene lugar en el grupo al que pertenecen el acosador y la víctima, con objeto de diseñar una intervención que reduzca el apoyo activo y pasivo al acosador por parte de los compañeros.",
+                "correct": true
+            },
+            {
+                "text": "Los rasgos de personalidad del acosador y de la víctima, con objeto de diseñar un programa de entrenamiento en habilidades sociales individualizado para cada uno."
+            },
+            {
+                "text": "Las características sociodemográficas del barrio donde está ubicado el centro, con objeto de diseñar políticas sociales que favorezcan la integración de todos sus habitantes."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la pertenencia de una persona a un determinado grupo le proporciona un mejor conocimiento de su yo, ya que le sirve para evaluar sus opiniones y capacidades, podemos afirmar que el grupo contribuye a lograr metas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 22-23)",
+        "responses": [
+            {
+                "text": "De conocimiento."
+            },
+            {
+                "text": "Utilitarias."
+            },
+            {
+                "text": "De identidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una discusión acalorada mantenida entre dos amigos simpatizantes de los dos equipos de fútbol locales, sobre los resultados de esos equipos en el último partido que han jugado reflejaría procesos de naturaleza:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Interpersonal."
+            },
+            {
+                "text": "Grupal.",
+                "correct": true
+            },
+            {
+                "text": "Cultural."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre el contexto o realidad social, tal como lo entienden los psicólogos sociales, es correcta?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El contexto o realidad social es un factor objetivo que influye directamente sobre nuestro comportamiento."
+            },
+            {
+                "text": "El contexto o realidad social influye a todas las personas de la misma forma."
+            },
+            {
+                "text": "Todos somos parte del contexto social para otros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la respuesta verdadera::",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 4)",
+        "responses": [
+            {
+                "text": "La influencia de los demás no se produce cuando estamos solos, a no ser que pensemos en alguien concreto."
+            },
+            {
+                "text": "La Psicología Social se centra en el estudio de la influencia que ejerce la realidad social objetiva en el pensamiento racional de las personas."
+            },
+            {
+                "text": "El sentido común a menudo describe cómo son las cosas, mientras la Psicología Social intenta explicarlas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias se suele utilizar para contrarrestar la amenaza a la validez de los resultados de investigación conocida como “efecto de las expectativas”?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "1",
+            "modelo": "1"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "Se emplean medidas implícitas para que los participantes no tengan control consciente sobre sus respuestas."
+            },
+            {
+                "text": "Se oculta a los participantes las hipótesis y el objetivo real del estudio."
+            },
+            {
+                "text": "La persona que recoge los datos desconoce a qué condición experimental han sido asignados los participantes.",
+                "correct": true
+            }
+        ]
+    }
+]

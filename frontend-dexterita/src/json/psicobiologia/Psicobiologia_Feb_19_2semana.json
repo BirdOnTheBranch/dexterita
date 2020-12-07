@@ -1,0 +1,722 @@
+[
+    {
+        "text": "En la parte dorsal del bulbo raquídeo hay unas estructuras características que son:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los tubérculos cuadrigéminos."
+            },
+            {
+                "text": "Las pirámides."
+            },
+            {
+                "text": "Las columnas blancas dorsales.",
+                "correct": true
+            },
+            {
+                "text": "Las prominencias de la oliva."
+            }
+        ]
+    },
+    {
+        "text": "Se ha descubierto que la ataxia episódica, enfermedad que da lugar a movimientos musculares involuntarios, se debe a una mutación en uno de los genes que codifican los canales de potasio (K+) dependientes de voltaje. Como consecuencia de esta mutación se produce una disminución de la corriente de K+ hacia el exterior celular, lo que afecta fundamentalmente a:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La acción de los neurotransmisores."
+            },
+            {
+                "text": "La fase de despolarización o ascendente del potencial de acción."
+            },
+            {
+                "text": "Al funcionamiento de la bomba de sodio- potasio."
+            },
+            {
+                "text": "La fase de repolarización o fase descendente del potencial de acción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si la correlación obtenida entre gemelos monocigóticos en determinado rasgo conductual es de 0.4, ¿cuál podría ser el valor aproximado de la heredabilidad de dicho rasgo?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.2."
+            },
+            {
+                "text": "0.4.",
+                "correct": true
+            },
+            {
+                "text": "0.8."
+            },
+            {
+                "text": "1."
+            }
+        ]
+    },
+    {
+        "text": "Las células endoteliales de los capilares sanguíneos tienen uniones estrechas entre sus membranas externas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En el encéfalo, la médula espinal y el SN periférico."
+            },
+            {
+                "text": "En el encéfalo y en la médula espinal.",
+                "correct": true
+            },
+            {
+                "text": "En el encéfalo, la médula espinal, el SN periférico y en el sistema arterial sanguíneo que da acceso al encéfalo."
+            },
+            {
+                "text": "Sólo en el encéfalo."
+            }
+        ]
+    },
+    {
+        "text": "Algunas fibras eferentes del SN autónomo proporcionan información para el control de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los órganos de los sentidos."
+            },
+            {
+                "text": "La musculatura esquelética."
+            },
+            {
+                "text": "La musculatura cardíaca.",
+                "correct": true
+            },
+            {
+                "text": "Los receptores localizados en la piel."
+            }
+        ]
+    },
+    {
+        "text": "En la conducción saltadora del potencial de acción a través de los axones mielínicos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el flujo de iones sodio el que provoca la despolarización necesaria para que se regenere el potencial de acción en el siguiente nódulo de Ranvier."
+            },
+            {
+                "text": "La vaina de mielina impide que el potencial de acción se regenere punto a punto a lo largo de todo el axón."
+            },
+            {
+                "text": "El potencial de acción se regenera punto a punto (en la región inmediatamente contigua) a lo largo de todo el axón."
+            },
+            {
+                "text": "Es el flujo de iones sodio el que provoca la despolarización necesaria para que se regenere el potencial de acción en el siguiente nódulo de Ranvier y la vaina de mielina impide que el potencial de acción se regenere punto a punto a lo largo de todo el axón.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los mecanismos desencadenadores innatos, concepto acuñado por Lorenz y Tinbergen:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explican la conexión entre estímulos desencadenadores innatos y pautas de acción fija."
+            },
+            {
+                "text": "Hacen referencia al conjunto de estructuras orgánicas y mecanismos fisiológicos que procesan la estimulación y coordinan los movimientos de respuesta que constituyen las pautas de acción fija."
+            },
+            {
+                "text": "Son objeto de estudio de la Neuroetología."
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se ha descubierto que determinados polimorfismos de un solo nucleótido ocurren en secuencias no codificantes pero asociadas a la transcripción de ARNs reguladores. El hecho de que muchos de estos polimorfismos sean equilibrados aboga por:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una interpretación seleccionista de las mutaciones.",
+                "correct": true
+            },
+            {
+                "text": "Una clara falta de función de estos polimorfismos."
+            },
+            {
+                "text": "Una frecuencia muy escasa de polimorfismos."
+            },
+            {
+                "text": "Una interpretación neutralista de las mutaciones."
+            }
+        ]
+    },
+    {
+        "text": "Una apariencia externa saludable, pulcra y lustrosa es un claro índice de estar libre de parásitos y ello depende de la dotación genética que permite al individuo tener una buena respuesta inmunológica. La elección de pareja basada en este hecho es un planteamiento de la:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ley de Hamilton."
+            },
+            {
+                "text": "Teoría de la reparación genética."
+            },
+            {
+                "text": "Ley de Bateman."
+            },
+            {
+                "text": "Teoría de la reina roja.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una razón por la que a veces no se cumple la ley de la combinación independiente de Mendel es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heterocigosis."
+            },
+            {
+                "text": "La homocigosis."
+            },
+            {
+                "text": "La recombinación."
+            },
+            {
+                "text": "El ligamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con la farmacología de la sinapsis química sabemos que hay sustancias psicoactivas que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Impiden la liberación del neurotransmisor."
+            },
+            {
+                "text": "Impiden la recaptación del neurotransmisor."
+            },
+            {
+                "text": "Actúan como agonistas sobre el receptor postsináptico facilitando la acción del neurotransmisor."
+            },
+            {
+                "text": "Todas las opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La especiación que ocurre en aquellas poblaciones que han ido experimentando una transformación paulatina y tan grande durante generaciones que ya no pueden considerarse pertenecientes a la misma especie, se denomina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Anagénesis.",
+                "correct": true
+            },
+            {
+                "text": "Simpátrica."
+            },
+            {
+                "text": "Cladogénesis."
+            },
+            {
+                "text": "Alopátrica."
+            }
+        ]
+    },
+    {
+        "text": "Cuando para un rasgo cualquiera se dice que un sujeto es homocigótico recesivo, se está queriendo decir que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porta dos alelos iguales en su genotipo.",
+                "correct": true
+            },
+            {
+                "text": "El fenotipo manifestado tendrá un valor intermedio del de sus progenitores."
+            },
+            {
+                "text": "Necesariamente es un híbrido."
+            },
+            {
+                "text": "Los alelos de su genotipo ocupan loci diferentes."
+            }
+        ]
+    },
+    {
+        "text": "Darwin consideró que los individuos cuya descendencia representa el mayor porcentaje de la población en la generación siguiente eran los más aptos. Este hecho se relaciona directamente con el concepto de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuello de botella."
+            },
+            {
+                "text": "Sobredominancia."
+            },
+            {
+                "text": "Esterilidad del híbrido."
+            },
+            {
+                "text": "Eficacia biológica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El concepto de umbral de la poliginia explica:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El hecho de que algunas hembras aceptan ser la segunda hembra en un territorio pobre en recursos para la crianza."
+            },
+            {
+                "text": "Por qué en especies supuestamente monógamas se da en algunas ocasiones poliginia.",
+                "correct": true
+            },
+            {
+                "text": "Que el macho siempre colabora en la crianza."
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que la falta de expresión del gen SOX9 determine generalmente la aparición de un fenotipo femenino independientemente de la presencia o no de dos cromosomas X en el genoma, apunta a que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El fenotipo sexual, masculino o femenino, depende del grado de actividad del gen SOX9.",
+                "correct": true
+            },
+            {
+                "text": "El fenotipo femenino está determinado única y exclusivamente por la ausencia del gen SRY."
+            },
+            {
+                "text": "Todas son ciertas."
+            },
+            {
+                "text": "Todos los genes que determinan el fenotipo sexual masculino o femenino se hallan en los cromosomas sexuales."
+            }
+        ]
+    },
+    {
+        "text": "El periodo refractario absoluto que ocurre durante el potencial de acción es consecuencia de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inactivación de los canales de sodio dependientes de voltaje.",
+                "correct": true
+            },
+            {
+                "text": "La salida de iones potasio."
+            },
+            {
+                "text": "La hiperpolarización que se produce al final del impulso nervioso."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los conceptos básicos de la genética cuantitativa es que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las leyes de Mendel sólo son aplicables a la transmisión de rasgos poligénicos pero no monogénicos."
+            },
+            {
+                "text": "Los rasgos cualitativos son siempre poligénicos."
+            },
+            {
+                "text": "Los rasgos cuantitativos están determinados normalmente por varios genes.",
+                "correct": true
+            },
+            {
+                "text": "Las leyes de Mendel sólo se aplican a rasgos cuantitativos pero no cualitativos."
+            }
+        ]
+    },
+    {
+        "text": "El concepto de altruismo recíproco planteado por Trivers se caracteriza por:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estar basado en el parentesco genético."
+            },
+            {
+                "text": "Explicar la cooperación que a menudo se observa entre congéneres, por ejemplo, en el cuidado de las crías.",
+                "correct": true
+            },
+            {
+                "text": "Ser una conducta social que no afecta a la aptitud inclusiva."
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas."
+            }
+        ]
+    },
+    {
+        "text": "En relación con las sinapsis químicas sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son más rápidas que las sinapsis eléctricas."
+            },
+            {
+                "text": "Las corrientes iónicas fluyen fácilmente de la neurona presináptica a la postsináptica."
+            },
+            {
+                "text": "La información es transmitida en un solo sentido.",
+                "correct": true
+            },
+            {
+                "text": "Permiten la sincronización de la actividad de varias neuronas."
+            }
+        ]
+    },
+    {
+        "text": "Si en un estudio de familias sobre un determinado rasgo psicológico se obtiene que la correlación entre gemelos dicigóticos es la misma que entre gemelos monocigóticos, en ambos casos criados por separado ¿qué conclusión podemos obtener?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que la heredabilidad del rasgo es muy alta."
+            },
+            {
+                "text": "Que la variabilidad del rasgo es de origen genético."
+            },
+            {
+                "text": "Que los genes no son relevantes en este rasgo.",
+                "correct": true
+            },
+            {
+                "text": "Ninguna."
+            }
+        ]
+    },
+    {
+        "text": "Los denominados periodos críticos son tramos temporales en los que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Determinados factores ambientales pueden producir efectos poco reversibles sobre el desarrollo del SN.",
+                "correct": true
+            },
+            {
+                "text": "El SN es poco susceptible a la acción de factores epigenéticos y el SN carece de plasticidad neural."
+            },
+            {
+                "text": "El SN es poco susceptible a la acción de factores epigenéticos."
+            },
+            {
+                "text": "El SN carece de plasticidad neural."
+            }
+        ]
+    },
+    {
+        "text": "El modelo del operón es una demostración de que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La regulación de la expresión de los genes estructurales nunca depende de la expresión de ningún gen regulador."
+            },
+            {
+                "text": "Los genes reguladores sólo actúan a largo plazo."
+            },
+            {
+                "text": "El promotor y el operador son genes reguladores."
+            },
+            {
+                "text": "En la regulación a corto plazo de la expresión génica pueden estar implicadas sustancias ajenas al propio organismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Durante la realización de este examen que está haciendo usted ahora, es posible que algunas de sus regiones cerebrales estén más activadas y que sus neuronas precisen de un mayor aporte sanguíneo. Las células nerviosas que desempeñan una función esencial en el aumento local del flujo sanguíneo son:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los oligodendrocitos."
+            },
+            {
+                "text": "Los astrocitos.",
+                "correct": true
+            },
+            {
+                "text": "La microglía."
+            },
+            {
+                "text": "Las neuronas de proyección."
+            }
+        ]
+    },
+    {
+        "text": "Una madre y su hija van caminando por el bosque una mañana de verano. La niña contempla interesada cómo un pájaro come una semilla bastante grande para su tamaño. La niña le pregunta a su madre: 'Mamá, a los pájaros como este ¿les salieron estos picos tan grandes para poder comer mejor su comida?'. La madre, enternecida por la curiosidad de su hija le contesta: 'Hija, algunos tenían picos más pequeños, pero no les servían tan bien para comer las semillas como estos tan grandes, por lo que al final, ganaron los de pico grande y son los que ves ahora en este bosque'. La explicación de la madre es, claramente:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Transformacionista."
+            },
+            {
+                "text": "Darwinista.",
+                "correct": true
+            },
+            {
+                "text": "Creacionista."
+            },
+            {
+                "text": "Lamarckista."
+            }
+        ]
+    },
+    {
+        "text": "Las estructuras constituidas por muchos capilares organizados en red, rodeados por un epitelio y situados en la pared de los ventrículos se denominan:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tubérculos cuadrigéminos."
+            },
+            {
+                "text": "Plexos coroideos.",
+                "correct": true
+            },
+            {
+                "text": "Órganos cincunventriculares."
+            },
+            {
+                "text": "Granulaciones aracnoideas."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que un rasgo fenotípico está determinado por dos genes (C y D) con dos alelos aditivos cada uno (C1, C2, D1, D2). Los valores que cada alelo aporta al fenotipo son C1=2, C2=1 ,D1=3, D2=0. Del cruce de dos progenitores genotípicamente heterocigotos para ambos genes ¿cuál será el mayor valor genotípico que presenten los descendientes?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "7."
+            },
+            {
+                "text": "8."
+            },
+            {
+                "text": "9."
+            },
+            {
+                "text": "10.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis de Lyon guarda relación con:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El fenotipo en mosaico de las hembras."
+            },
+            {
+                "text": "La actividad del gen XIST."
+            },
+            {
+                "text": "La inactivación al azar de uno de los dos cromosomas X en las hembras."
+            },
+            {
+                "text": "Todas son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El sistema receptor kappa opiode (KOR, en inglés), está implicado en las consecuencias aversivas y pro-depresivas del estrés, la facilitación del miedo condicionado y la ansiedad. Knoll et al. (2011, Biol Psychiatry., 1, 70, 425—433) realizaron una investigación con ratas macho a las que indujeron niveles similares de miedo condicionado en una fase de entrenamiento en el test de sobresalto potenciado por el miedo. Seguidamente les implantaron cánulas bilaterales a través de las cuales administraron microinfusiones locales del antagonista JDTic de KOR (3—10.0 ug / lado) o el vehículo del antagonista (normalmente se utiliza suero fisiológico) en estructuras subcorticales. A dos grupos se les administró el antagonista en los núcleos 1. basolateral y 2. central de la amígdala. Un grupo control, 3. recibió la microinfusión del antagonista en el cuerpo estriado. 24 horas después de la administración del antagonista (periodo de máximo efecto) pasaron a los grupos un protocolo completo del test de sobresalto potenciado por el miedo.<br>A otros tres grupos se les administró la microinfusión del antagonista en las mismas estructuras indicadas y se les sometió a una prueba de ansiedad incondicionada en un laberinto elevado. Sus resultados indicaron que el antagonismo del KOR en el núcleo basolateral y en el núcleo central de la amígdala disminuía el miedo condicionado en el paradigma de sobresalto potenciado por el miedo, mientras que sólo el antagonismo de KOR en el núcleo basolateral de la amígdala produjo efectos ansiol íticos en el laberinto elevado. ¿Cuáles son las variables dependientes de esta investigación y en qué disciplina psicobiológica la encuadraría?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "VD: la microinfusión del antagonista de KOR y el test de sobresalto potenciado por el miedo; Psicofisiología."
+            },
+            {
+                "text": "VD: el miedo condicionado en el entrenamiento y las cánulas implantadas; Neuropsicología."
+            },
+            {
+                "text": "VD: el miedo condicionado y los efectos ansiolíticos; Psicología Fisiológica.",
+                "correct": true
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "De la conducta de lordosis exhibida por las ratas hembra, sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La estimulación táctil de zonas concretas del cuerpo actúa como estímulo-signo.",
+                "correct": true
+            },
+            {
+                "text": "La principal estructura nerviosa integradora de esta conducta se sitúa en la médula espinal."
+            },
+            {
+                "text": "Es una conducta aprendida."
+            },
+            {
+                "text": "No depende de factores hormonales."
+            }
+        ]
+    }
+]

@@ -1,0 +1,724 @@
+[
+    {
+        "text": "En relación con el sentido y velocidad del transporte de sustancias a través del axón sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El transporte retrógrado sólo puede ser lento."
+            },
+            {
+                "text": "El transporte retrógrado puede ser lento y rápido."
+            },
+            {
+                "text": "El transporte axónico lento tiene lugar en ambos sentidos."
+            },
+            {
+                "text": "El transporte axónico rápido puede ser anterógrado y retrógrado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Analizando el pedigrí de la Figura (cuadrado: varón. círculo: hembra. blanco: sano. negro: afectado) podemos asegurar que el alelo que hace que haya individuos afectados es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb18_1semana_1.jpg",
+        "responses": [
+            {
+                "text": "Dominante y ligado al sexo."
+            },
+            {
+                "text": "Recesivo.",
+                "correct": true
+            },
+            {
+                "text": "Dominante."
+            },
+            {
+                "text": "Ligado al sexo."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se produce el denominado efecto de cuello de botella por un cambio desfavorable en las condiciones ambientales para una especie:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede aumentar la endogamia y, en consecuencia, la incidencia de enfermedades letales asociadas a alelos recesivos."
+            },
+            {
+                "text": "Por un proceso de deriva genética puede favorecer un cambio evolutivo al alterar las frecuencias génicas."
+            },
+            {
+                "text": "Disminuye su variabilidad genética."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Phineas Gage sufrió en 1848 un grave accidente trabajando en el ferrocarril, donde una barra de hierro le atravesó el cráneo, lesionándole gravemente la corteza cerebral anterior (corteza prefrontal). Al parecer, y según los que le conocían de antes del accidente, se observó que su personalidad cambió drásticamente: de ser una persona autónoma y eficiente en su trabajo pasó a ser descuidado, inconstante, desinhibido e impulsivo. El análisis de este caso compete de modo especial a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La Psicofisiología."
+            },
+            {
+                "text": "La Neuropsicología.",
+                "correct": true
+            },
+            {
+                "text": "La Psicología Fisiológica."
+            },
+            {
+                "text": "La Ecología del comportamiento."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes células participa en la formación de la vaina de mielina?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las células de Schwann."
+            },
+            {
+                "text": "Los astrocitos."
+            },
+            {
+                "text": "Las células de Schwann y los oligodendrocitos.",
+                "correct": true
+            },
+            {
+                "text": "Los oligodendrocitos."
+            }
+        ]
+    },
+    {
+        "text": "En la fase ascendente del potencial de acción:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se cierran canales de K+ dependientes de voltaje que permanecían abiertos en estado de reposo."
+            },
+            {
+                "text": "La apertura de canales de Na+ dependientes de voltaje provoca una entrada masiva de Na+ al interior neuronal.",
+                "correct": true
+            },
+            {
+                "text": "La fuerza de difusión impulsa al Na+ y al K+ hacia el interior neuronal."
+            },
+            {
+                "text": "Se produce un equilibrio entre la cantidad de Na+ que entra a la neurona y la cantidad de K+ que la abandona."
+            }
+        ]
+    },
+    {
+        "text": "Algo que se puede decir de la Psicobiología es que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tiene por único objetivo el estudio de los procesos mentales humanos."
+            },
+            {
+                "text": "Afirma que los procesos mentales no guardan ninguna relación con la selección natural."
+            },
+            {
+                "text": "Considera que los procesos mentales no forman parte del complejo adaptativo."
+            },
+            {
+                "text": "Considera que tanto los procesos mentales como la conducta son fenómenos biológicos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes pares craneales tiene una función mixta (sensorial y motora)?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Trigémino."
+            },
+            {
+                "text": "Vago."
+            },
+            {
+                "text": "Trigémino y vago.",
+                "correct": true
+            },
+            {
+                "text": "Troclear."
+            }
+        ]
+    },
+    {
+        "text": "Los experimentos de John García sobre aversión condicionada pusieron de manifiesto:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inexistencia de las llamadas pautas de acción fija."
+            },
+            {
+                "text": "Que el aprendizaje animal sólo puede abordarse desde una estrategia conductista."
+            },
+            {
+                "text": "La existencia de formas de aprendizaje biológicamente preparadas.",
+                "correct": true
+            },
+            {
+                "text": "La existencia del instinto."
+            }
+        ]
+    },
+    {
+        "text": "En relación al código genético sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El orden de las bases del ADN guarda relación con el orden de los aminoácidos en las proteínas."
+            },
+            {
+                "text": "Cada aminoácido está codificado por un triplete."
+            },
+            {
+                "text": "Algunos aminoácidos pueden estar codificados por más de un codón."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes números del esquema de la Figura, correspondería al SN simpático?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb18_1semana_2.jpg",
+        "responses": [
+            {
+                "text": "1."
+            },
+            {
+                "text": "3."
+            },
+            {
+                "text": "2."
+            },
+            {
+                "text": "4.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la acetilcolina sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se localiza prioritariamente en el SNC."
+            },
+            {
+                "text": "Es una catecolamina."
+            },
+            {
+                "text": "Se une a receptores muscarínicos y nicotínicos.",
+                "correct": true
+            },
+            {
+                "text": "Actúa siempre como un neurotransmisor excitador."
+            }
+        ]
+    },
+    {
+        "text": "Cuando existe pleiotropismo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "También se produce epistasia."
+            },
+            {
+                "text": "Un mismo alelo puede ser dominante en un rasgo y recesivo en otro rasgo en el que también está involucrado.",
+                "correct": true
+            },
+            {
+                "text": "Siempre se da herencia intermedia."
+            },
+            {
+                "text": "La manifestación fenotípica de los alelos de un gen depende del genotipo del sujeto en otro gen diferente."
+            }
+        ]
+    },
+    {
+        "text": "¿Quién planteó que las especies extintas eran sólo antepasados imperfectos de los organismos actuales que evolucionan en la búsqueda de la perfección?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lamarck.",
+                "correct": true
+            },
+            {
+                "text": "Newton."
+            },
+            {
+                "text": "Wallace."
+            },
+            {
+                "text": "Darwin."
+            }
+        ]
+    },
+    {
+        "text": "El análisis genético de la conducta humana pone de manifiesto que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Existe variabilidad en el ciclo vigilia/sueño asociada a variantes alélicas de genes involucrados en la regulación del ritmo circadiano.",
+                "correct": true
+            },
+            {
+                "text": "La expresión del gen SRY es responsable del fenotipo femenino."
+            },
+            {
+                "text": "Todos los casos de obesidad obedecen a factores ambientales."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un genotipo dado para un gen concreto impide que se manifieste el fenotipo esperado para otro gen, estamos ante un caso de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Epistasia.",
+                "correct": true
+            },
+            {
+                "text": "Alelos aditivos."
+            },
+            {
+                "text": "Ambiente compartido."
+            },
+            {
+                "text": "Cría selectiva."
+            }
+        ]
+    },
+    {
+        "text": "La Teoría Modular de la Mente hay que relacionarla de modo específico con:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La ecología del comportamiento."
+            },
+            {
+                "text": "La Psicología Evolucionista.",
+                "correct": true
+            },
+            {
+                "text": "La sociobiología."
+            },
+            {
+                "text": "Ninguna es cierta."
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de Williams:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se debe a una deleción.",
+                "correct": true
+            },
+            {
+                "text": "Es una monosomía."
+            },
+            {
+                "text": "Es una trisomía."
+            },
+            {
+                "text": "Es un caso de impresión genómica."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de receptores desencadena la producción de segundos mensajeros al activarse por la unión del neurotransmisor?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los autorreceptores."
+            },
+            {
+                "text": "Los receptores metabotrópicos."
+            },
+            {
+                "text": "Los autorreceptores y los receptores metabotrópicos.",
+                "correct": true
+            },
+            {
+                "text": "Los receptores ionotrópicos."
+            }
+        ]
+    },
+    {
+        "text": "En una neurona en reposo en la que en un momento dado se generan en la zona del árbol dendrítico más alejada del axón tres potenciales postsinápticos de +5mV, +15mV y +10mV y en el soma próximo al axón se genera un potencial postsináptico de -15mV:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estos potenciales se propagarán de modo activo hasta alcanzar el cono axónico."
+            },
+            {
+                "text": "Estos potenciales disminuirán gradualmente su magnitud antes de alcanzar el cono axónico.",
+                "correct": true
+            },
+            {
+                "text": "Como resultado de la integración neural, sin duda en el cono axónico se disparará un potencial de acción."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "A la selección natural que preserva los alelos beneficiosos favoreciendo el éxito reproductivo, se le denomina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Depuradora."
+            },
+            {
+                "text": "Codominante."
+            },
+            {
+                "text": "Sexual."
+            },
+            {
+                "text": "Diversificadora.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estados motivacionales:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son procesos ontogenéticos."
+            },
+            {
+                "text": "Son causas próximas de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Forman parte del componente R del esquema E-O-R."
+            },
+            {
+                "text": "Son causas lejanas de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "Según las investigaciones más modernas, la heredabilidad del cociente de inteligencia (Cl) evaluada a partir de estudios de gemelos monocigóticos criados por separado es de alrededor de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,75.",
+                "correct": true
+            },
+            {
+                "text": "0,15."
+            },
+            {
+                "text": "O."
+            },
+            {
+                "text": "1."
+            }
+        ]
+    },
+    {
+        "text": "El concepto de heredabilidad responde a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La proporción de la media de un determinado rasgo que puede atribuirse a factores genéticos."
+            },
+            {
+                "text": "La proporción de la variabilidad de un determinado rasgo que se puede atribuir a diferencias genéticas.",
+                "correct": true
+            },
+            {
+                "text": "Los efectos del ambiente sobre un determinado rasgo que se heredan a través de los genes."
+            },
+            {
+                "text": "La proporción de la puntuación directa en un determinado rasgo que se explica por la genética."
+            }
+        ]
+    },
+    {
+        "text": "El líquido cefalorraquídeo es secretado en su mayor parte por:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La duramadre."
+            },
+            {
+                "text": "Todas las opciones son ciertas."
+            },
+            {
+                "text": "Los plexos coroideos.",
+                "correct": true
+            },
+            {
+                "text": "Las células endoteliales."
+            }
+        ]
+    },
+    {
+        "text": "Cuando dos especies distintas que viven en el mismo hábitat no pueden engendrar descendencia por no coincidir sus períodos de fertilidad o maduración sexual se está dando un mecanismo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aislamiento estacional.",
+                "correct": true
+            },
+            {
+                "text": "Aislamiento ecológico."
+            },
+            {
+                "text": "Aislamiento postcigótico."
+            },
+            {
+                "text": "Reducción de la viabilidad del híbrido."
+            }
+        ]
+    },
+    {
+        "text": "Al potencial de reposo de la membrana neuronal contribuye el que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La membrana neuronal es impermeable a los aniones orgánicos (A-) y mucho más permeable al K+ que a cualquier otro ión.",
+                "correct": true
+            },
+            {
+                "text": "La presión electrostática atrae a los aniones orgánicos (A-) hacia el interior y provoca que se acumulen a este lado de la membrana un exceso de cargas negativas."
+            },
+            {
+                "text": "La tendencia del K+ a salir al exterior celular por difusión no está contrarrestada por su tendencia a entrar empujado por la fuerza electrostática."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "La eusocialidad:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está directamente relacionada con la selección por parentesco (kin selection).",
+                "correct": true
+            },
+            {
+                "text": "Sólo se da en especies haplodiploides."
+            },
+            {
+                "text": "Sólo se da en especies poliploides."
+            },
+            {
+                "text": "Es sinónimo de la promiscuidad."
+            }
+        ]
+    },
+    {
+        "text": "La utilidad biológica se ha de medir en último extremo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por la cantidad de recursos a los que se consigue tener acceso."
+            },
+            {
+                "text": "Por el número de apareamientos."
+            },
+            {
+                "text": "Según el principio de los rendimientos decrecientes."
+            },
+            {
+                "text": "En términos de aptitud.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se obtiene la heredabilidad a partir de la correlación entre padre/madre e hijo/a, en realidad estamos calculando:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heredabilidad en sentido estricto.",
+                "correct": true
+            },
+            {
+                "text": "Los efectos de la heredabilidad aditiva y de la cría selectiva."
+            },
+            {
+                "text": "La heredabilidad en sentido amplio."
+            },
+            {
+                "text": "La epistasia y el efecto del ambiente no compartido."
+            }
+        ]
+    }
+]

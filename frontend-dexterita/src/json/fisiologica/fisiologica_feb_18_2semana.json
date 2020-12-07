@@ -1,0 +1,482 @@
+[
+    {
+        "text": "El origen de la Psicología Fisiológica tiene lugar en:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El primer tercio del siglo XVII."
+            },
+            {
+                "text": "La segunda mitad del siglo XVIII."
+            },
+            {
+                "text": "El último tercio del siglo XIX.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El conjunto de registros de EEG, EMG, EOG, temperatura corporal, frecuencia cardíaca y respiratoria en los estudios de sueño se denomina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Electroencefalografía."
+            },
+            {
+                "text": "Polisomnografía.",
+                "correct": true
+            },
+            {
+                "text": "Electromioculografía"
+            }
+        ]
+    },
+    {
+        "text": "Se ha observado que los cetáceos muestran sueño de la fase:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "REM en un solo hemisferio que se alterna."
+            },
+            {
+                "text": "NREM en un solo hemisferio que se alterna.",
+                "correct": true
+            },
+            {
+                "text": "NREM en ambos hemisferios simultáneamente y REM en uno solo que se alterna."
+            }
+        ]
+    },
+    {
+        "text": "La onda PGO registrada durante la fase REM se han considerado la causa de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Las alucinaciones visuales de los sueños.",
+                "correct": true
+            },
+            {
+                "text": "La atonía muscular."
+            },
+            {
+                "text": "El olvido al despertar de lo soñado, salvo que se haga el esfuerzo de recordarlo."
+            }
+        ]
+    },
+    {
+        "text": "Las pesadillas nocturnas son una parasomnia de la fase:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "N2."
+            },
+            {
+                "text": "N3."
+            },
+            {
+                "text": "REM.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Donald A. Dewsbury utilizó cuatro criterios dicótomos para clasificar la conducta de cópula de varias especies de mamíferos; en concreto, el concepto de traba se refiere:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Al cierre mecánico que fija el pene en la vagina durante la cópula.",
+                "correct": true
+            },
+            {
+                "text": "A la falta de respuesta sexual de la hembra durante el diestro."
+            },
+            {
+                "text": "A la falta de motivación en los machos que se aparean estacionalmente."
+            }
+        ]
+    },
+    {
+        "text": "Los síndromes de hiperplasia adrenal congénita y de insensibilidad para los andrógenos sugieren que la ausencia de testosterona:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es esencial para el desarrollo y diferenciación del cerebro y la conducta heterosexual femenina.",
+                "correct": true
+            },
+            {
+                "text": "Es esencial para la diferenciación de la conducta ginefílica en la mujer."
+            },
+            {
+                "text": "Induce la asexualidad en la mujer."
+            }
+        ]
+    },
+    {
+        "text": "El núcleo ventromedial del hipotálamo controla la lordosis durante la condición neuroendocrina del estro (celo). Su acción se ve facilitada por los impulsos que le llegan:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Del septum lateral."
+            },
+            {
+                "text": "Del área preóptica medial."
+            },
+            {
+                "text": "De la amígdala medial y el núcleo de la estría terminal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios con resonancia magnética muestran que en el cerebro de las mujeres transexuales (MT) las medidas son:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Todas masculinas."
+            },
+            {
+                "text": "Todas femeninas."
+            },
+            {
+                "text": "Algunas masculinas, otras femeninas y otras desmasculinizadas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La hormona secretada por el páncreas durante la fase de ayuno y cuya acción permite la transformación de glucógeno a glucosa es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La insulina."
+            },
+            {
+                "text": "El glucagón.",
+                "correct": true
+            },
+            {
+                "text": "La leptina."
+            }
+        ]
+    },
+    {
+        "text": "La grelina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tiene efectos orexígenos y es liberada principalmente por el estómago.",
+                "correct": true
+            },
+            {
+                "text": "Tiene efectos orexígenos y es liberada principalmente por el tejido adiposo."
+            },
+            {
+                "text": "Promueve el cese de la ingesta si se inyecta intraperitonealmente pero no si se administra a través de los ventrículos cerebrales."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la ingesta, las neuronas situadas en el núcleo arqueado (ARQ) [arcuato (ARC), en la versión del libro de 2016] que señalizan el cese de la ingesta",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Contienen los péptidos NPY y PRAG, principalmente."
+            },
+            {
+                "text": "Se activan cuando los niveles de leptina e insulina que llegan desde la periferia son especialmente bajos."
+            },
+            {
+                "text": "Secretan la hormona estimulante de los melanocitos (a-MSH).",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El tratamiento de la obesidad mediante la administración de leptina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Incrementa la ingesta y consecuentemente el peso de personas que presentan obesidad debida a una mutación en el gen que codifica la leptina."
+            },
+            {
+                "text": "Es eficaz cuando las personas obesas tienen una mutación en el gen que codifica la leptina.",
+                "correct": true
+            },
+            {
+                "text": "No es eficaz en ningún caso."
+            }
+        ]
+    },
+    {
+        "text": "LeDoux describió:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Que la información la información sensorial, que advierte de un peligro inminente, llega hasta la amígdala través de una sola vía."
+            },
+            {
+                "text": "Propuso dos vías, una a la que denominó lenta y otra a la que llamó rápida a través de las cuales la información sensorial, que advierte de un peligro inminente, llega hasta la amígdala.",
+                "correct": true
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "La parálisis facial intencional:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es producida por una lesión en la corteza motora primaria en la que está representada la cara o en las conexiones de esta zona con el núcleo motor del nervio facial.",
+                "correct": true
+            },
+            {
+                "text": "Se puede producir por lesiones de diferentes estructuras cerebrales, como la corteza de la ínsula, de la sustancia blanca subcortical del lóbulo frontal o de regiones del tálamo."
+            },
+            {
+                "text": "Se produce por una alteración emocional denominada alexitimia."
+            }
+        ]
+    },
+    {
+        "text": "Sato y cois. (2015) demostraron que las personas que se describían a sí mismas como felices:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Tenían una mayor cantidad de materia gris en el precúneo (o precuña) con respecto a las que se describían como menos felices.",
+                "correct": true
+            },
+            {
+                "text": "Tenían una menor cantidad de materia gris en el precúneo (o precuña) con respecto a las que se describían como menos felices."
+            },
+            {
+                "text": "No mostraban diferencias con respecto a la cantidad de materia gris en el precúneo (o precuña) con respecto a las que se describían como menos felices."
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis de la retroalimentación facial interpersonal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "En los contextos interpersonales cara a cara, el tono hedónico facial que un sujeto muestra imitando a otro puede influir en el afecto que el primero pueda sentir hacia aquel que imita.",
+                "correct": true
+            },
+            {
+                "text": "En los contextos interpersonales cara a cara, el tono hedónico facial que un sujeto muestra imitando a otro nunca puede llegar a influir en el afecto que el primero pueda sentir hacia aquel que imita."
+            },
+            {
+                "text": "La percepción del tono hedónico facial no influye sobre el sujeto que lo percibe."
+            }
+        ]
+    },
+    {
+        "text": "Una de las características del habla de las personas con afasia de Broca es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El uso de palabras de contenido.",
+                "correct": true
+            },
+            {
+                "text": "Ser un habla gramaticalmente correcta."
+            },
+            {
+                "text": "El uso de palabras de función."
+            }
+        ]
+    },
+    {
+        "text": "En los experimentos de M. Gazzaniga en pacientes con el cerebro dividido, si se proyectaba el estímulo visual al campo visual izquierdo, el paciente:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "No podía nombrar pero si seleccionar dicho estímulo visual.",
+                "correct": true
+            },
+            {
+                "text": "Podía nombrar y seleccionar dicho estímulo visual."
+            },
+            {
+                "text": "No podría nombrar dicho estímulo ni seleccionarlo."
+            }
+        ]
+    },
+    {
+        "text": "En la lectura, la activación de la vía subléxica implica la activación del fascículo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Inferior longitudinal."
+            },
+            {
+                "text": "Inferior occipitofrontal."
+            },
+            {
+                "text": "Arqueado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La conciencia fonológica:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es la capacidad de articular sonidos del habla."
+            },
+            {
+                "text": "Es la habilidad para comprender y manipular diferentes elementos del lenguaje oral.",
+                "correct": true
+            },
+            {
+                "text": "Sirve de predictor en la recuperación de los trastornos específicos del lenguaje (TEL)."
+            }
+        ]
+    },
+    {
+        "text": "Para que el receptor de NMDA permita el flujo de Ca2+ imprescindible para el desarrollo de la PLP, se requiere:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Que la estimulación presináptica induzca la despolarización de la neurona postsináptica a través de los receptores AMPA.",
+                "correct": true
+            },
+            {
+                "text": "Que el Mg2+ desocupe el canal del receptor AMPA."
+            },
+            {
+                "text": "La presencia de co-agonistas como la serina o la glicina y que interactúen con el receptor AMPA."
+            }
+        ]
+    },
+    {
+        "text": "En relación a la memoria declarativa y no declarativa:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Ambos tipos de recuerdos son captados o procesados de forma consciente."
+            },
+            {
+                "text": "Las memorias declarativas son difíciles de adquirir, pero una vez adquiridas, son muy difíciles de olvidar."
+            },
+            {
+                "text": "Las memorias no declarativas requieren práctica y son muy difíciles de olvidar.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que las marcas epigenéticas sean vulnerables a factores extrínsecos (estrés o malnutrición) a lo largo del tiempo pone de manifiesto:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Que tienen por objetivo permitir una mejor adaptación a lo largo de la vida."
+            },
+            {
+                "text": "Que podrían desencadenar la patogénesis de distintos trastornos mentales."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    }
+]

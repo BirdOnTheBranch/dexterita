@@ -1,0 +1,1178 @@
+[
+    {
+        "text": "¿Quiénes tienden a experimentar normalmente estados de ánimo más polarizados ante el éxito y el fracaso? Las personas con una complejidad del yo…",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Alta."
+            },
+            {
+                "text": "Media."
+            },
+            {
+                "text": "Baja.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La creencia 'soy una persona muy miedosa' es un ejemplo de la dimensión del autoconcepto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 168)",
+        "responses": [
+            {
+                "text": "Implícita."
+            },
+            {
+                "text": "Social."
+            },
+            {
+                "text": "Emocional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autopercepción (Bem, 1972), elaboramos nuestro autoconcepto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p.181)",
+        "responses": [
+            {
+                "text": "Observando nuestro comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "Mediante la comparación social."
+            },
+            {
+                "text": "Reflexionando sobre nuestros pensamientos y estados psicológicos."
+            }
+        ]
+    },
+    {
+        "text": "Una persona piensa de sí misma que es poco trabajadora. además, cree que aquellas personas a las que considera sus referentes opinan que debería ser más trabajador. Siente vergüenza por ello. ¿Qué teoría de las :",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "La teoría de la categorización del yo."
+            },
+            {
+                "text": "La teoría de las metas regulatorias."
+            },
+            {
+                "text": "La teoría de la autodiscrepancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autoverificación, en general, queremos que la idea que se formen los otros de nosotros sea",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Lo más ajustada a como nos vemos nosotros mismos, incluyendo nuestras limitaciones.",
+                "correct": true
+            },
+            {
+                "text": "Lo más positiva posible, aunque sea irreal."
+            },
+            {
+                "text": "Un poco mejor que como nos vemos nosotros mismos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina la teoría según la cual construimos un concepto de nosotros mismos haciendo atribuciones internas de nuestro comportamiento?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Teoría de la autopercepción.",
+                "correct": true
+            },
+            {
+                "text": "Teoría de la autodiscrepancia."
+            },
+            {
+                "text": "Teoría de la autoverificación."
+            }
+        ]
+    },
+    {
+        "text": "Las predicciones que pueden hacerse basándonos en la motivación de autoensalzamiento y en la de autoverificación coinciden cuando la persona tiene:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 191)",
+        "responses": [
+            {
+                "text": "Un autoconcepto positivo.",
+                "correct": true
+            },
+            {
+                "text": "Un autoconcepto complejo."
+            },
+            {
+                "text": "Una autoestima baja."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autodiscrepancia de Higgins, el impulso que nos motiva a modificar nuestra forma de ser es, principalmente, de naturaleza:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "Cognitiva."
+            },
+            {
+                "text": "Existencial."
+            },
+            {
+                "text": "Emocional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde la motivación de autoverificación, una persona con alta autoestima buscará evaluaciones positivas por parte de los demás con el objetivo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 191)",
+        "responses": [
+            {
+                "text": "Causar una buena impresión."
+            },
+            {
+                "text": "Confirmar su autoconcepto positivo.",
+                "correct": true
+            },
+            {
+                "text": "Aumentar su autoestima."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estas características suelen enfatizar más las personas con autoconcepto independiente cuando se definen a sí mismas?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Su estatus social."
+            },
+            {
+                "text": "Ser indirectos en la comunicación."
+            },
+            {
+                "text": "Los aspectos internos, como habilidades, pensamientos y sentimientos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el marco de la teoría de la categorización del yo, ¿cómo denominamos el proceso por el cual la gente deja de considerarse y de considerar a otros como personas únicas, para verse y verles como miembros de un grupo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 177-178)",
+        "responses": [
+            {
+                "text": "Yo interdependiente."
+            },
+            {
+                "text": "Despersonalización.",
+                "correct": true
+            },
+            {
+                "text": "Descategorización."
+            }
+        ]
+    },
+    {
+        "text": "Según lo que conocemos sobre las motivaciones relacionadas con la evaluación del yo, si pidiésemos a una muestra amplia y representativa de personas de una cultura individualista que valorasen en una escala de 0 a 10 (donde 0 es “muy malo” y 10 es “excelente”) sus atributos y características personales, ¿cuál sería el promedio de las valoraciones que con más probabilidad obtendríamos?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Un promedio igual a 5, que es el punto medio de la escala."
+            },
+            {
+                "text": "Un promedio por debajo de 5."
+            },
+            {
+                "text": "Un promedio por encima de 5.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las diferencias entre el conocimiento que tenemos del yo y el que tenemos de otras personas es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 180)",
+        "responses": [
+            {
+                "text": "El conocimiento de los demás se almacena en la memoria fundamentalmente en esquemas y el del yo se almacena sobre todo en ejemplares."
+            },
+            {
+                "text": "El conocimiento del yo puede obtenerse mediante introspección pero el de los demás no.",
+                "correct": true
+            },
+            {
+                "text": "El conocimiento del yo suele ser explícito y el de los demás es más bien implícito."
+            }
+        ]
+    },
+    {
+        "text": "Elija la opción que complete correctamente la siguiente frase: “De acuerdo con la teoría de la categorización del yo, ________________ determina qué identidad social será más prominente en cada momento.”:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 177)",
+        "responses": [
+            {
+                "text": "El contexto.",
+                "correct": true
+            },
+            {
+                "text": "La voluntad personal."
+            },
+            {
+                "text": "El motivo de pertenencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estos tres enunciados resume mejor la teoría de la categorización del yo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Las personas podemos considerarnos a nosotros mismos, según las circunstancias, como individuos o como miembros de un grupo.",
+                "correct": true
+            },
+            {
+                "text": "El autoconcepto es el resultado de los roles que desempeñamos."
+            },
+            {
+                "text": "El autoconcepto es el resultado de la categorización que hacemos de nuestros intereses sociales."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué predicción se ajusta mejor a los postulados generales de la teoría de la autoverificación? Si me considero una persona con un nivel cultural bajo, voy a preferir relacionarme con personas que me consideren",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Muy culto/a."
+            },
+            {
+                "text": "De un nivel cultural medio."
+            },
+            {
+                "text": "Poco culto/a.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría tiene como supuesto básico y principal que, a la hora de construir nuestro autoconcepto, nos evaluamos en una serie de características y atributos tomando como referencia las características de los demás?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 182)",
+        "responses": [
+            {
+                "text": "La teoría de la comparación social.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la autoafirmación."
+            },
+            {
+                "text": "La teoría del “yo espejo”."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la disonancia cognitiva trata de explicar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cómo se forman las actitudes."
+            },
+            {
+                "text": "Cómo las actitudes influyen en la conducta."
+            },
+            {
+                "text": "Cómo la conducta influye en las actitudes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre la autopresentación es falsa?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La autopresentación se considera una predisposición a la hipocresía, porque la gente suele mentir sobre sus cualidades cuando se presenta a los demás.",
+                "correct": true
+            },
+            {
+                "text": "Las estrategias de autopresentación que permiten causar una buena impresión dependen del contexto."
+            },
+            {
+                "text": "Validar el autoconcepto es uno de los objetivos de la autopresentación."
+            }
+        ]
+    },
+    {
+        "text": "Complete el siguiente enunciado lógico para que la frase resultante refleje correctamente la diferencia entre autoestima y autoconcepto: “La autoestima es a autoconcepto como…”",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "… conocimiento es a valoración."
+            },
+            {
+                "text": "... cognición es a evaluación."
+            },
+            {
+                "text": "… valoración es a conocimiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La representación del yo que refleja el conocimiento sobre uno mismo del que se tiene consciencia en un momento concreto se denomina",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Almacenada y global."
+            },
+            {
+                "text": "Yo activo.",
+                "correct": true
+            },
+            {
+                "text": "Yo implícito."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es el “efecto de sobrejusticiación”?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 181)",
+        "responses": [
+            {
+                "text": "La tendencia a intentar justificar ante los demás nuestros actos, aunque seamos conscientes de que éstos hayan sido dañinos para los otros."
+            },
+            {
+                "text": "La tendencia a que las motivaciones intrínsecas disminuyan en aquellas actividades que se asocian con algún tipo de refuerzo externo.",
+                "correct": true
+            },
+            {
+                "text": "La tendencia a recordar mejor la información relevante para el autoconcepto que cualquier otro tipo de información."
+            }
+        ]
+    },
+    {
+        "text": "El término “yo espejo”, acuñado por Cooley (1902), ilustra la idea de que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 182-183)",
+        "responses": [
+            {
+                "text": "El yo es un reflejo de lo que cada persona aprende sobre cómo le ven los demás.",
+                "correct": true
+            },
+            {
+                "text": "Proyectamos nuestras características personales al propio grupo."
+            },
+            {
+                "text": "Evaluamos a los demás utilizando nuestro yo como criterio para hacer juicios."
+            }
+        ]
+    },
+    {
+        "text": "Señale la respuesta correcta.:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 170)",
+        "responses": [
+            {
+                "text": "En la construcción del yo no se emplean esquemas."
+            },
+            {
+                "text": "Autoconcepto y autoestima son dos términos que se refieren al mismo concepto en Psicología."
+            },
+            {
+                "text": "Se denomina “yo activo” a la representación sobre uno mismo de la que se tiene consciencia en un momento determinado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones es falsa en relación con la teoría de la autodiscrepancia de Higgins?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 173-174)",
+        "responses": [
+            {
+                "text": "El malestar psicológico que se origina en los individuos cuando sus creencias sobre sí mismos no son coherentes es un aspecto central de la teoría."
+            },
+            {
+                "text": "Esta teoría descarta que la presencia imaginada de los otros pueda tener un papel relevante en la representación mental que la persona tiene de sí misma.",
+                "correct": true
+            },
+            {
+                "text": "Esta teoría contempla que las personas tenemos tres tipos de autoesquemas en los que acumulamos conocimiento de nosotros mismos."
+            }
+        ]
+    },
+    {
+        "text": "En el marco de la teoría de la categorización del yo, el proceso de despersonalización se produce cuando una persona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 177-178)",
+        "responses": [
+            {
+                "text": "Focaliza el autoconcepto en una categoría grupal.",
+                "correct": true
+            },
+            {
+                "text": "Ve debilitada su identidad debido a alguna circunstancia traumática o patológica."
+            },
+            {
+                "text": "Focaliza su autoconcepto en el nivel más particular del yo posible."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la autodiscrepancia, el yo responsable abarca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 173)",
+        "responses": [
+            {
+                "text": "Las características que creemos que otras personas nos asignan."
+            },
+            {
+                "text": "Las creencias sobre cómo les gustaría a nuestros referentes que fuéramos."
+            },
+            {
+                "text": "Las creencias sobre cómo nuestros referentes piensan que deberíamos ser.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La variedad y complejidad del autoconcepto hacen necesario el uso de estrategias cognitivas para lograr la coherencia cuando existen discordancias entre elementos. De las siguientes opciones hay una que NO se relaciona con alguna de esas estrategias. ¿Cuál es?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 167-168 y 179-180)",
+        "responses": [
+            {
+                "text": "La organización del autoconocimiento en esquemas.",
+                "correct": true
+            },
+            {
+                "text": "Las atribuciones de la propia conducta a la situación."
+            },
+            {
+                "text": "El autoconcepto activo."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué depende, según las teorías de la identidad social y de la categorización del yo, que una persona se categorice en un nivel social o en uno individual?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 177)",
+        "responses": [
+            {
+                "text": "Del contexto o la situación.",
+                "correct": true
+            },
+            {
+                "text": "De la complejidad del autoconcepto."
+            },
+            {
+                "text": "De la coherencia del autoconcepto."
+            }
+        ]
+    },
+    {
+        "text": "Señale la opción FALSA:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 167-170-171)",
+        "responses": [
+            {
+                "text": "El conocimiento que las personas tienen del “yo” se construye sin utilizar para ello esquemas o episodios.",
+                "correct": true
+            },
+            {
+                "text": "El conocimiento del yo puede obtenerse mediante introspección."
+            },
+            {
+                "text": "La complejidad del autoesquema en una dimensión concreta del autoconcepto aumenta en función de la importancia de esa dimensión."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones NO sería cierta a la vista de las conclusiones que parecen derivarse de la investigación realizada sobre el autoensalzamiento?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 189-190)",
+        "responses": [
+            {
+                "text": "La alta autoestima predice el alto rendimiento académico.",
+                "correct": true
+            },
+            {
+                "text": "En todas las culturas se produce, de una manera u otra, el autoensalzamiento."
+            },
+            {
+                "text": "La mayoría de la gente se considera por encima de la media en cuanto a capacidades y habilidades sociales."
+            }
+        ]
+    },
+    {
+        "text": "El yo se puede describir como un conjunto de autoesquemas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p.167)",
+        "responses": [
+            {
+                "text": "Que abarca creencias sobre uno mismo relativas a distintas dimensiones y facetas.",
+                "correct": true
+            },
+            {
+                "text": "Que son más imprecisos que los esquemas que tenemos sobre otras personas."
+            },
+            {
+                "text": "Que incluyen únicamente los rasgos de personalidad y las características que se aplican por igual en todos los contextos."
+            }
+        ]
+    },
+    {
+        "text": "Existen diversas estrategias para validar la propia identidad personal y social. ¿Cuál de las siguientes opciones NO tiene ese objetivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 192-194)",
+        "responses": [
+            {
+                "text": "Expresar públicamente las propias actitudes y valores."
+            },
+            {
+                "text": "Buscar la interacción con personas que confirmen nuestro autoconcepto."
+            },
+            {
+                "text": "Aumentar el número de facetas del autoconcepto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué afirmación refleja mejor los resultados de la investigación sobre la aparente contradicción entre el motivo de autoensalzamiento y el de autoverificación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 191)",
+        "responses": [
+            {
+                "text": "La autoverificación prima cuando la autoestima es baja."
+            },
+            {
+                "text": "La autoverificación siempre prima."
+            },
+            {
+                "text": "El autoensalzamiento prima cuando el riesgo de rechazo es alto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La representación mental del yo basada en aquella información sobre uno mismo de la que se tiene consciencia en un momento determinado, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 170)",
+        "responses": [
+            {
+                "text": "Autoconcepto espontáneo o activo.",
+                "correct": true
+            },
+            {
+                "text": "Autoconocimiento implícito."
+            },
+            {
+                "text": "Yo real."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autodiscrepancia, ¿qué experimentamos cuando creemos que no hemos cumplido los deseos y expectativas que nuestros referentes tenían sobre nosotros?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Inseguridad y culpa."
+            },
+            {
+                "text": "Vergüenza y ansiedad.",
+                "correct": true
+            },
+            {
+                "text": "Desánimo y frustración."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría propone que aumentando la autoestima en cualquier faceta del yo se puede restaurar la imagen de uno mismo como persona valiosa?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 184)",
+        "responses": [
+            {
+                "text": "La teoría de la autoafirmación.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la identidad social."
+            },
+            {
+                "text": "La teoría de la autopercepción."
+            }
+        ]
+    },
+    {
+        "text": "Los aspectos del yo sobre los que no somos conscientes:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p.171)",
+        "responses": [
+            {
+                "text": "Forman parte del autoconocimiento implícito.",
+                "correct": true
+            },
+            {
+                "text": "Son aquellos que se forman antes de la adquisición del lenguaje."
+            },
+            {
+                "text": "No afectan a nuestra vida."
+            }
+        ]
+    },
+    {
+        "text": "En el marco de la teoría de la autopercepción, la reducción de la motivación intrínseca debido a la presencia de castigos o recompensas se conoce como el efecto de",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Autodiscrepancia."
+            },
+            {
+                "text": "Autoverificación."
+            },
+            {
+                "text": "Sobrejustificación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El autoconocimiento activo es la información sobre uno mismo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 170)",
+        "responses": [
+            {
+                "text": "Que no surge de forma espontánea, sino cuando se reflexiona sobre el yo."
+            },
+            {
+                "text": "A la que no le influyen las características de la situación."
+            },
+            {
+                "text": "De la que se tiene consciencia en un momento determinado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de estas tres ideas es un postulado básico de la teoría de la identidad social?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El ser humano es social por naturaleza."
+            },
+            {
+                "text": "Toda identidad es colectiva."
+            },
+            {
+                "text": "Nuestro autoconcepto viene en parte determinado por los grupos a los que pertenecemos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la categorización del yo, cuando una persona se define a sí misma como miembro de un grupo, ¿en qué nivel jerárquico de abstracción se situaría?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 176)",
+        "responses": [
+            {
+                "text": "En el más particular e individual."
+            },
+            {
+                "text": "En el más abstracto y general."
+            },
+            {
+                "text": "En uno intermedio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones describe un proceso básico para la formación del autoconcepto según la teoría de la categorización del yo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 176)",
+        "responses": [
+            {
+                "text": "Resolver la divergencia cognitiva entre el yo-ideal y el yo-real."
+            },
+            {
+                "text": "Comparar la idea que tengo de mí mismo con la idea que tienen los demás."
+            },
+            {
+                "text": "Determinar la similitud que tengo con unos individuos y la diferencia con otros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes procesos NO contribuye al autoconocimiento?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El autoensalzamiento.",
+                "correct": true
+            },
+            {
+                "text": "La introspección."
+            },
+            {
+                "text": "La comparación social."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es, según la teoría de la autodiscrepancia, un motor fundamental que motiva a una persona a cambiar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "Una motivación extrínseca de satisfacer a los otros relevantes."
+            },
+            {
+                "text": "Reducir el malestar psicológico que generan las diferencias entre el yo real y otros yoes que nos sirven como guías.",
+                "correct": true
+            },
+            {
+                "text": "Conseguir el bienestar psicológico que aporta superarse a sí mismo."
+            }
+        ]
+    },
+    {
+        "text": "La autoestima es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 183)",
+        "responses": [
+            {
+                "text": "Una autoatribución."
+            },
+            {
+                "text": "Una actitud.",
+                "correct": true
+            },
+            {
+                "text": "Un autoesquema"
+            }
+        ]
+    },
+    {
+        "text": "El contenido de los autoesquemas se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 167)  ",
+        "responses": [
+            {
+                "text": "La posibilidad de ser aplicable a un determinado contexto y no a otros.",
+                "correct": true
+            },
+            {
+                "text": "Ser menos preciso que el de los esquemas sobre otras personas."
+            },
+            {
+                "text": "Incluir creencias relacionadas exclusivamente con rasgos de personalidad."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué afirmación refleja mejor los resultados de la investigación transcultural sobre el motivo de autoensalzamiento?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se da en ambas culturas, pero a través de estrategias diferentes.",
+                "correct": true
+            },
+            {
+                "text": "Se da en ambas culturas de forma similar."
+            },
+            {
+                "text": "Es un motivo característico de las culturas individualistas, y no tanto de las colectivistas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características, referidas al autoconcepto, sería teóricamente errónea?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 167-168)",
+        "responses": [
+            {
+                "text": "Todos los aspectos del yo siguen una estructura de esquemas.",
+                "correct": true
+            },
+            {
+                "text": "Se trata de un modelo jerárquico y multidimensional."
+            },
+            {
+                "text": "Tenemos más esquemas sobre nosotros que sobre otras personas."
+            }
+        ]
+    },
+    {
+        "text": "El conocimiento que las personas tienen del “yo” se construye:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 167-170-171)",
+        "responses": [
+            {
+                "text": "De forma abstracta, sin basarse en episodios concretos."
+            },
+            {
+                "text": "De modo similar a como se desarrollan impresiones sobre los demás.",
+                "correct": true
+            },
+            {
+                "text": "Sin utilizar para ello esquemas."
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis de que la autoestima actúa como un “sociómetro” postula que existe una tendencia universal a buscar una valoración positiva del yo, porque esa evaluación positiva",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Nos permite conocer nuestro estado de ánimo (positivo o negativo)."
+            },
+            {
+                "text": "Sirve como medida al individuo de si será aceptado por el grupo.",
+                "correct": true
+            },
+            {
+                "text": "Correlaciona con la autoverificación."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría tiene como uno de sus postulados básicos la idea de que el conocimiento que tenemos sobre los grupos a los que pertenecemos, junto con el significado emocional y valorativo asociado a dicha pertenencia, constituye una parte fundamental de nuestra identidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 176-7)",
+        "responses": [
+            {
+                "text": "Teoría de la identidad social.",
+                "correct": true
+            },
+            {
+                "text": "Teoría de la autodiscrepancia."
+            },
+            {
+                "text": "Teoría de la autoverificación."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autopercepción, ¿cuál de los siguientes factores hace más probable que una conducta afecte a nuestro autoconcepto?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. 181)",
+        "responses": [
+            {
+                "text": "Que la conducta obedezca a una motivación intrínseca.",
+                "correct": true
+            },
+            {
+                "text": "Que la conducta sea incentivada mediante algún premio."
+            },
+            {
+                "text": "Que la no realización de la conducta sea desincentivada con algún castigo."
+            }
+        ]
+    },
+    {
+        "text": "La autoestima:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(pp. 192-193)",
+        "responses": [
+            {
+                "text": "No se relaciona con la pertenencia grupal."
+            },
+            {
+                "text": "Cuando es baja, favorece la iniciativa."
+            },
+            {
+                "text": "Se ve afectada por las comparaciones sociales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Elija la opción que complete correctamente la siguiente afirmación: “Los sucesos negativos que involucran el autoconcepto afectan ______1______ a las personas que tienen _______2_____ complejidad del yo”.",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "1 = más, 2 = baja.",
+                "correct": true
+            },
+            {
+                "text": "1 = menos, 2 = baja."
+            },
+            {
+                "text": "1 = más, 2 = alta."
+            }
+        ]
+    },
+    {
+        "text": "La complejidad del autoesquema en una dimensión concreta del autoconcepto",
+        "fecha": {
+            "mes": "Tema",
+            "year": "5",
+            "modelo": "5"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Es un buen predictor de baja autoestima."
+            },
+            {
+                "text": "Aumenta en función de la importancia de esa dimensión.",
+                "correct": true
+            },
+            {
+                "text": "Es menor que la correspondiente al esquema de otra persona."
+            }
+        ]
+    }
+]

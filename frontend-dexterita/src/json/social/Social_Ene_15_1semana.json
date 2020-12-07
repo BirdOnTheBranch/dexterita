@@ -1,0 +1,632 @@
+[
+    {
+        "text": "¿Cuál de las siguientes características NO sería definitoria del pensamiento heurístico?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 88 y 254)",
+        "responses": [
+            {
+                "text": "Se basa en reglas que permiten hacer inferencias rápidamente."
+            },
+            {
+                "text": "Ayuda a simplificar procesos cognitivos complejos."
+            },
+            {
+                "text": "Se basa en un conjunto de procesos preconscientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Heider (1958), el primer autor que estudió el proceso atributivo desde la Psicología Social:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 132-133)",
+        "responses": [
+            {
+                "text": "Las personas actúan como “psicólogos ingenuos” que construyen teorías de sentido común sobre las causas del comportamiento.",
+                "correct": true
+            },
+            {
+                "text": "El grado de responsabilidad que se atribuye al actor depende principalmente de su capacidad."
+            },
+            {
+                "text": "Las personas tienden a explicar las causas del comportamiento en función de factores externos ignorando las causas personales."
+            }
+        ]
+    },
+    {
+        "text": "Las tácticas de influencia social descritas por Cialdini son un ejemplo del funcionamiento de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 254 y tema 3)",
+        "responses": [
+            {
+                "text": "Los heurísticos.",
+                "correct": true
+            },
+            {
+                "text": "La profecía autocumplida."
+            },
+            {
+                "text": "El procesamiento controlado."
+            }
+        ]
+    },
+    {
+        "text": "El efecto que consiste en resaltar las semejanzas percibidas entre los miembros de una misma categoría y las diferencias entre categorías distintas se conoce en Psicología Social como:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 79)",
+        "responses": [
+            {
+                "text": "Favoritismo endogrupal."
+            },
+            {
+                "text": "Efecto de homogeneidad relativa del exogrupo."
+            },
+            {
+                "text": "Principio de acentuación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un tipo de metas que los individuos pueden buscar al unirse a un grupo es lo que se conoce como “metas de conocimiento”, que se refieren a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 23)",
+        "responses": [
+            {
+                "text": "La necesidad de conocer su valor relacional."
+            },
+            {
+                "text": "La necesidad de obtener información sobre el mundo y la realidad.",
+                "correct": true
+            },
+            {
+                "text": "El conocimiento del propio yo a través de la comparación con los demás."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos de combinación lineal sobre la formación de impresiones, el modelo promedio sostiene que, si queremos causar una impresión positiva en otra persona, deberemos mencionar:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 173)",
+        "responses": [
+            {
+                "text": "Cuantos más rasgos positivos mejor, aunque sean de poco valor."
+            },
+            {
+                "text": "Rasgos que sean importantes en ese contexto concreto."
+            },
+            {
+                "text": "Pocos rasgos pero muy positivos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La variedad y complejidad del autoconcepto hacen necesario el uso de estrategias cognitivas para lograr la coherencia cuando existen discordancias entre elementos. De las siguientes opciones hay una que NO se relaciona con alguna de esas estrategias. ¿Cuál es?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 167-168 y 179-180)",
+        "responses": [
+            {
+                "text": "La organización del autoconocimiento en esquemas.",
+                "correct": true
+            },
+            {
+                "text": "El autoconcepto activo."
+            },
+            {
+                "text": "Las atribuciones de la propia conducta a la situación."
+            }
+        ]
+    },
+    {
+        "text": "La motivación afecta a la cognición:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 105)",
+        "responses": [
+            {
+                "text": "En todas las fases del proceso cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "Solamente cuando las metas son de dirección."
+            },
+            {
+                "text": "Solamente en la fase de atención."
+            }
+        ]
+    },
+    {
+        "text": "Una de las diferencias entre el conocimiento que tenemos del yo y el que tenemos de otras personas es que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 180)",
+        "responses": [
+            {
+                "text": "El conocimiento del yo suele ser explícito y el de los demás es más bien implícito."
+            },
+            {
+                "text": "El conocimiento de los demás se almacena en la memoria fundamentalmente en esquemas y el del yo se almacena sobre todo en ejemplares."
+            },
+            {
+                "text": "El conocimiento del yo puede obtenerse mediante introspección pero el de los demás no.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si le piden que cumplimente un cuestionario en el que tiene que evaluar su grado de acuerdo o desacuerdo con una serie de ítems que tratan sobre el consumo de alcohol, dicho cuestionario mide sus actitudes hacia el consumo del alcohol:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 207-208)",
+        "responses": [
+            {
+                "text": "De forma explícita mediante una escala tipo Likert.",
+                "correct": true
+            },
+            {
+                "text": "De forma implícita mediante un procedimiento de priming."
+            },
+            {
+                "text": "De forma explícita mediante un diferencial semántico."
+            }
+        ]
+    },
+    {
+        "text": "Schmitt, Branscombe y Postmes (2003) estudiaron las consecuencias que tenían para la autoestima y el bienestar psicológico las atribuciones que realizaban las participantes cuando recibían una mala evaluación en un proceso de selección. Los resultados de este estudio mostraron que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46 Cuaderno)",
+        "responses": [
+            {
+                "text": "La percepción de que existe discriminación generalizada sirve como amortiguador y protege el bienestar psicológico de las personas frente a las malas evaluaciones."
+            },
+            {
+                "text": "Si una mala evaluación se atribuye al prejuicio de un evaluador concreto, esa creencia no afecta a la autoestima.",
+                "correct": true
+            },
+            {
+                "text": "Quienes atribuían una mala evaluación al prejuicio general de los evaluadores presentaban una autoestima más alta que quienes atribuían la mala evaluación a causas externas."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la autodiscrepancia, el yo responsable abarca:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 173)",
+        "responses": [
+            {
+                "text": "Las creencias sobre cómo les gustaría a nuestros referentes que fuéramos."
+            },
+            {
+                "text": "Las creencias sobre cómo nuestros referentes piensan que deberíamos ser.",
+                "correct": true
+            },
+            {
+                "text": "Las características que creemos que otras personas nos asignan."
+            }
+        ]
+    },
+    {
+        "text": "Una actitud es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 204)",
+        "responses": [
+            {
+                "text": "Un atajo mental que facilita el proceso de inferencia cuando no tenemos información suficiente."
+            },
+            {
+                "text": "La evaluación que hacemos de un objeto, viéndolo de forma favorable o desfavorable.",
+                "correct": true
+            },
+            {
+                "text": "Una estructura cognitiva donde almacenamos información sobre un objeto."
+            }
+        ]
+    },
+    {
+        "text": "Según el enfoque del Modelo Hipodérmico, los medios de comunicación:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 96 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Pueden producir efectos inmediatos y masivos en una población.",
+                "correct": true
+            },
+            {
+                "text": "Apenas tienen efecto sobre la población."
+            },
+            {
+                "text": "Producen efectos sobre la población a través de mecanismos sutiles que tienen influencia solamente a largo plazo."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la categorización del yo, cuando una persona se define a sí misma como miembro de un grupo, ¿en qué nivel jerárquico de abstracción se situaría?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 176)",
+        "responses": [
+            {
+                "text": "En uno intermedio.",
+                "correct": true
+            },
+            {
+                "text": "En el más particular e individual."
+            },
+            {
+                "text": "En el más abstracto y general."
+            }
+        ]
+    },
+    {
+        "text": "La percepción social:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 118-119)",
+        "responses": [
+            {
+                "text": "Es dinámica y depende de la interacción.",
+                "correct": true
+            },
+            {
+                "text": "Es de carácter reactivo, no activo."
+            },
+            {
+                "text": "Se ve influida por ejemplares concretos no por esquemas previos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes teorías se centra fundamentalmente en las autoatribuciones?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 151)",
+        "responses": [
+            {
+                "text": "La teoría de las inferencias correspondientes de Jones y Davis."
+            },
+            {
+                "text": "El modelo de covariación de Kelley."
+            },
+            {
+                "text": "La teoría atributiva de Weiner.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según las investigaciones sobre cómo influyen las variables del mensaje, para conseguir persuadir a un receptor con baja motivación y capacidad de elaboración deberíamos emplear mensajes que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 280)",
+        "responses": [
+            {
+                "text": "Contengan pocos argumentos y que no sean novedosos."
+            },
+            {
+                "text": "Contengan muchos argumentos, y los más fuertes al final.",
+                "correct": true
+            },
+            {
+                "text": "Faciliten al receptor sacar sus propias conclusiones."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el postulado básico del modelo de probabilidad de elaboración de Petty y Cacciopo?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 274)",
+        "responses": [
+            {
+                "text": "Los mensajes pueden llegar a persuadir a través de dos rutas de pensamiento: central o periférica.",
+                "correct": true
+            },
+            {
+                "text": "El cambio de actitudes depende del número de automensajes generados y del balance entre los pensamientos a favor y en contra de la posición defendida por el mensaje."
+            },
+            {
+                "text": "Se procesan claves de la persuasión por medio de esquemas o reglas de decisión que las personas han aprendido por experiencias previas y por observación."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre las diferencias entre la Psicología Social y el sentido común es verdadera?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 4)",
+        "responses": [
+            {
+                "text": "La Psicología Social explica los resultados cuando ya se han producido, mientras que el sentido común predice los fenómenos antes de que ocurran."
+            },
+            {
+                "text": "La Psicología Social emplea el sesgo retrospectivo para estudiar la realidad, mientras que el sentido común suele basarse en nuestra propia experiencia o en la de nuestros conocidos."
+            },
+            {
+                "text": "El sentido común a menudo describe cómo son las cosas, mientras la Psicología Social intenta explicarlas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La influencia de los demás:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 6-7)",
+        "responses": [
+            {
+                "text": "Tiene lugar únicamente cuando los demás interactúan con nosotros."
+            },
+            {
+                "text": "No siempre es explícita.",
+                "correct": true
+            },
+            {
+                "text": "Es siempre unidireccional, ya que somos el blanco de la influencia de los demás."
+            }
+        ]
+    },
+    {
+        "text": "Indique la afirmación que es FALSA, de acuerdo con los postulados de la Teoría de la disonancia cognitiva:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 227)",
+        "responses": [
+            {
+                "text": "La disonancia es un factor cognitivo, no motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Cuando la disonancia está presente, la persona evita activamente las situaciones que pudieran aumentarla."
+            },
+            {
+                "text": "La disonancia tiene un componente de activación fisiológica que origina malestar."
+            }
+        ]
+    },
+    {
+        "text": "Los hombres, comparados con las mujeres, cuando hacen atribuciones relacionadas con tareas estereotipadamente masculinas, tienden a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 40 Cuaderno)",
+        "responses": [
+            {
+                "text": "Cometer más sesgos autoprotectores.",
+                "correct": true
+            },
+            {
+                "text": "Cometer menos sesgos autoensalzadores."
+            },
+            {
+                "text": "Dar más explicaciones internas y estables de sus fracasos."
+            }
+        ]
+    },
+    {
+        "text": "Juan cree que el tabaco es perjudicial para su salud, pero le produce un gran placer fumar, sobre todo cuando está con sus amigos, que también fuman. Con estos datos, podemos afirmar que está sufriendo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 205)",
+        "responses": [
+            {
+                "text": "Ambivalencia actitudinal.",
+                "correct": true
+            },
+            {
+                "text": "Disonancia cognitiva."
+            },
+            {
+                "text": "Ignorancia pluralista."
+            }
+        ]
+    },
+    {
+        "text": "Según la perspectiva de la selección multinivel, la selección natural favoreció los rasgos y conductas que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 44)",
+        "responses": [
+            {
+                "text": "Aumentaban al máximo la eficacia biológica inclusiva fundamentalmente a través de la competición con otros miembros del grupo."
+            },
+            {
+                "text": "Permitían y facilitaban la adaptación del individuo a la vida en grupo.",
+                "correct": true
+            },
+            {
+                "text": "Fomentaban la reproducción de los individuos por encima de su supervivencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se conoce como esquema de rol en el ámbito de la cognición social?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Conocimiento que tenemos sobre determinados tipos de individuos o grupos, de cómo son y cómo se comportan."
+            },
+            {
+                "text": "Conocimiento que tenemos sobre cómo son y cómo se comportan las personas que ocupan una determinada posición en el grupo o la sociedad.",
+                "correct": true
+            },
+            {
+                "text": "Conocimiento sobre la secuencia típica de acciones a realizar en un contexto determinado."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias se suele utilizar para contrarrestar la amenaza a la validez de los resultados de investigación conocida como “efecto de las expectativas”?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "La persona que recoge los datos desconoce a qué condición experimental han sido asignados los participantes.",
+                "correct": true
+            },
+            {
+                "text": "Se emplean medidas implícitas para que los participantes no tengan control consciente sobre sus respuestas."
+            },
+            {
+                "text": "Se oculta a los participantes las hipótesis y el objetivo real del estudio."
+            }
+        ]
+    },
+    {
+        "text": "Si queremos convencer a alguien de que haga algo utilizando la táctica del “pie en la puerta”, ¿cuál de las siguientes opciones nos funcionaría mejor?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 256-257)",
+        "responses": [
+            {
+                "text": "Hacer una petición inicial que no requiera mucho esfuerzo.",
+                "correct": true
+            },
+            {
+                "text": "Decir a la persona que es de las pocas que han accedido a esa primera petición."
+            },
+            {
+                "text": "Pagar a la persona para que acceda a la primera petición y así lograr su compromiso."
+            }
+        ]
+    },
+    {
+        "text": "Ante la pregunta “¿Quién eres tú?”, ¿cuál de las siguientes respuestas es más probable encontrar en culturas colectivistas en comparación con culturas individualistas?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(p. 57)",
+        "responses": [
+            {
+                "text": "“Soy una Corleone. Mi familia es una de las más respetadas en mi país. Yo soy el miembro más joven de la familia.”.",
+                "correct": true
+            },
+            {
+                "text": "“Tengo 35 años, soy sociable y trabajador. Me gusta viajar y conocer gente nueva”."
+            },
+            {
+                "text": "“Tengo 35 años, soy informático. Me considero inteligente, pero algo tímido. Me interesa el cine y la literatura.”"
+            }
+        ]
+    },
+    {
+        "text": "El motivo que impulsa a las personas a sentirse competentes al tratar con el ambiente social y consigo mismas es el motivo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2015",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Pertenencia."
+            },
+            {
+                "text": "Confianza."
+            },
+            {
+                "text": "Control.",
+                "correct": true
+            }
+        ]
+    }
+]

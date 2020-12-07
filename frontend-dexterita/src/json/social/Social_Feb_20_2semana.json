@@ -1,0 +1,632 @@
+[
+    {
+        "text": "“En un experimento se indujo un estado de ánimo positivo o negativo a los participantes presentándoles unas fotografías (de comics vs. de accidentes de coches) que encontraban dentro de un sobre. A continuación, alguien les pedía un favor de forma poco amable. Se encontró que se producía una mayor resistencia a ayudar por parte de aquellos a los que se les había inducido el estado de ánimo negativo”. Marque el tipo de proceso que se evidencia en el estudio:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(P. 70)",
+        "responses": [
+            {
+                "text": "Dependiente de la meta."
+            },
+            {
+                "text": "Postconsciente.",
+                "correct": true
+            },
+            {
+                "text": "Preconsciente."
+            }
+        ]
+    },
+    {
+        "text": "El efecto boomerang relativo a la persuasión hace referencia a que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 197)",
+        "responses": [
+            {
+                "text": "La exposición a mensajes persuasivos pocas veces origina un procesamiento activo y con abundancia de pensamientos."
+            },
+            {
+                "text": "Los pensamientos en contra generados ante un mensaje persuasivo llevan a un rechazo mayor de la propuesta que antes de exponerse al mensaje.",
+                "correct": true
+            },
+            {
+                "text": "El éxito persuasivo del mensaje depende de la influencia de las variables sobre la recepción y aceptación."
+            }
+        ]
+    },
+    {
+        "text": "Desde el enfoque evolucionista sobre las diferencias sexuales en los celos se sostiene que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 25-26 del cuaderno)",
+        "responses": [
+            {
+                "text": "Los hombres y las mujeres experimentarán con igual intensidad celos ante las mismas situaciones."
+            },
+            {
+                "text": "Las mujeres experimentarán una mayor intensidad de celos ante una infidelidad emocional.",
+                "correct": true
+            },
+            {
+                "text": "Los hombres experimentarán una mayor intensidad de celos ante una infidelidad emocional."
+            }
+        ]
+    },
+    {
+        "text": "Según Lewin (1952) la conducta es función de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 9)",
+        "responses": [
+            {
+                "text": "Del contexto social."
+            },
+            {
+                "text": "La persona y del ambiente.",
+                "correct": true
+            },
+            {
+                "text": "La naturaleza biológica del individuo y de su personalidad."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes teorías, al explicar el cambio de actitudes, centra su interés en la necesidad de justificar o racionalizar las inconsistencias?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p.164)",
+        "responses": [
+            {
+                "text": "Teoría de la disonancia cognitiva de Festinger.",
+                "correct": true
+            },
+            {
+                "text": "Teoría del equilibrio de Heider."
+            },
+            {
+                "text": "Teoría de la congruencia de Osgood y Tannenbaum."
+            }
+        ]
+    },
+    {
+        "text": "Desde la perspectiva biosocial (Eagly y Wood, 2002) se propone que las diferencias psicológicas entre los sexos se deben a:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 4 del Cuaderno)",
+        "responses": [
+            {
+                "text": "Adaptaciones heredadas producto de la selección natural."
+            },
+            {
+                "text": "La necesidad de repartir el trabajo entre los miembros del grupo.",
+                "correct": true
+            },
+            {
+                "text": "Adaptaciones heredadas producto de la selección sexual."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios sobre persuasión indican que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 204)",
+        "responses": [
+            {
+                "text": "El medio impreso es más eficaz para mensajes largos.",
+                "correct": true
+            },
+            {
+                "text": "La transmisión oral es más eficaz cuando la información es compleja."
+            },
+            {
+                "text": "El contacto directo reduce las posibilidades de influencia."
+            }
+        ]
+    },
+    {
+        "text": "Al estado aversivo e incómodo de malestar que se produce en una persona cuando se comporta de forma inconsistente con su forma de pensar, se le llama:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(165)",
+        "responses": [
+            {
+                "text": "Ambivalencia actitudinal."
+            },
+            {
+                "text": "Autoafirmación del autoconcepto."
+            },
+            {
+                "text": "Disonancia cognitiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estudios correlacionales:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 19)",
+        "responses": [
+            {
+                "text": "No permiten establecer relaciones de causalidad.",
+                "correct": true
+            },
+            {
+                "text": "No permiten medir muchas variables al mismo tiempo."
+            },
+            {
+                "text": "Implican la manipulación de al menos una variable independiente."
+            }
+        ]
+    },
+    {
+        "text": "Según el error último de atribución, las conductas positivas del endogrupo se atribuirían a causas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 111)",
+        "responses": [
+            {
+                "text": "Internas y estables.",
+                "correct": true
+            },
+            {
+                "text": "Externas e inestables."
+            },
+            {
+                "text": "Externas y estables."
+            }
+        ]
+    },
+    {
+        "text": "Yo me definiría como una persona a la que le gusta la gente y prefiere realizar todo tipo de actividades en compañía de otros. Esta autodefinición:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 129)",
+        "responses": [
+            {
+                "text": "Hace referencia a la identidad social."
+            },
+            {
+                "text": "No puede clasificarse como una identidad personal ni como una identidad social porque no informa de los aspectos afectivos que permitirían diferenciar un tipo u otro de identidad."
+            },
+            {
+                "text": "Hace referencia a la identidad personal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que nos impulsa a sentirnos competentes y eficaces al tratar con el ambiente social y con nosotros mismos es el:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 32)",
+        "responses": [
+            {
+                "text": "Motivo de control.",
+                "correct": true
+            },
+            {
+                "text": "Motivo de comprensión compartida."
+            },
+            {
+                "text": "Motivo de potenciación personal."
+            }
+        ]
+    },
+    {
+        "text": "Si una persona dice que no va a vacunarse contra la gripe, puesto que nunca se pone enfermo, puede ser un ejemplo de la siguiente función de las actitudes:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 155)",
+        "responses": [
+            {
+                "text": "Expresiva de valores."
+            },
+            {
+                "text": "Defensiva del yo.",
+                "correct": true
+            },
+            {
+                "text": "Instrumental."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la inversión parental propone que el sexo que elige pareja será:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 3 del Cuaderno)",
+        "responses": [
+            {
+                "text": "El que más invierte en la descendencia.",
+                "correct": true
+            },
+            {
+                "text": "Los machos."
+            },
+            {
+                "text": "Las hembras."
+            }
+        ]
+    },
+    {
+        "text": "El término continuidad evolutiva se refiere a que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 28)",
+        "responses": [
+            {
+                "text": "Las especies han evolucionado de forma independiente."
+            },
+            {
+                "text": "Todas las especies provienen de un tronco común.",
+                "correct": true
+            },
+            {
+                "text": "Unas especies son más evolucionadas que otras y, por tanto, más perfectas."
+            }
+        ]
+    },
+    {
+        "text": "En la teoría de la acción razonada, la suma de la actitud y la norma social subjetiva predicen directamente:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 161-163)",
+        "responses": [
+            {
+                "text": "El control conductual percibido del objeto de actitud."
+            },
+            {
+                "text": "La intención de conducta hacia un determinado objeto de actitud.",
+                "correct": true
+            },
+            {
+                "text": "La probabilidad de realizar una determinada conducta."
+            }
+        ]
+    },
+    {
+        "text": "Seleccione la afirmación correcta:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 121)",
+        "responses": [
+            {
+                "text": "La imagen que tenemos sobre nosotros en tan compleja que aún no se han podido clasificar los tipos de procesos psicológicos implicados."
+            },
+            {
+                "text": "La evaluación positiva o negativa del yo, es decir, la actitud que tenemos hacia nosotros mismos, es lo que se denomina autoconcepto."
+            },
+            {
+                "text": "Las creencias y pensamientos de un individuo sobre su persona, sobre sus características y cualidades, tanto físicas como de personalidad, así como todas las representaciones de uno mismo vinculadas a sus relaciones sociales, forman parte de lo que denominamos autoconcepto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre la cognición social encaja mejor con la metáfora del “estratega motivado”?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 76-77)",
+        "responses": [
+            {
+                "text": "El ser humano se comporta como un científico ingenuo a la hora de percibir la realidad social."
+            },
+            {
+                "text": "La forma en la que percibimos la realidad social está altamente influida por nuestras metas y estados afectivos.",
+                "correct": true
+            },
+            {
+                "text": "Las personas somos esencialmente racionales en nuestra percepción de la realidad social."
+            }
+        ]
+    },
+    {
+        "text": "Los esquemas de roles:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Recogen información sobre secuencias de conductas en situaciones concretas."
+            },
+            {
+                "text": "Recogen información sobre ejemplos particulares de líderes, profesores, amas de casa, etc."
+            },
+            {
+                "text": "Se activan más fácilmente en las culturas colectivistas que en las individualistas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale, según el modelo de Kelley, la atribución lógica a la siguiente acción observada: En el recreo del colegio, Luis ha puesto la zancadilla a Juan, se sabe que Juan le había quitado el almuerzo, que otros niños no se han enfrentado a Juan y que Luis no había agredido, nunca antes a Juan, ni a ningún otro compañero:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 99-100, Cuadro 4.2)",
+        "responses": [
+            {
+                "text": "A la persona."
+            },
+            {
+                "text": "A las circunstancias.",
+                "correct": true
+            },
+            {
+                "text": "Al estímulo."
+            }
+        ]
+    },
+    {
+        "text": "Los defensores de diferenciar la Psicología cognitiva y la Cognición social, argumentan para su defensa que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 53-54)",
+        "responses": [
+            {
+                "text": "Estas disciplinas tienen diferente objeto de estudio.",
+                "correct": true
+            },
+            {
+                "text": "Estas disciplinas aplican diferentes métodos de investigación."
+            },
+            {
+                "text": "Solo la cognición social analiza procesos de inferencia."
+            }
+        ]
+    },
+    {
+        "text": "Cuando el receptor de un mensaje persuasivo ha sido advertido de las intenciones de la fuente:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 205)",
+        "responses": [
+            {
+                "text": "Se es más proclive a aceptar las demandas de los demás."
+            },
+            {
+                "text": "Está menos motivado para elaborar argumentos en contra del mensaje."
+            },
+            {
+                "text": "Es más difícil que sea persuadido.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un estudio emblemático para poner a prueba la teoría de la disonancia cognitiva, Festinger y Carlsmith (1959) comprobaron qué sucede cuando una persona se ve forzada a hacer algo en contra de su actitud. Teniendo en cuenta los resultados dentro del paradigma de la complacencia inducida, si a un adolescente no le gusta estudiar, ¿cuál de las siguientes conductas de los padres sería mejor para que cambiara de actitud hacia el estudio?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 230-231)",
+        "responses": [
+            {
+                "text": "Darle 1 euro para la hucha cada vez que dedique una hora a estudiar.",
+                "correct": true
+            },
+            {
+                "text": "Prometerle que se le regalará un juguete muy caro y deseado si estudia una hora diaria durante diez días."
+            },
+            {
+                "text": "Darle 15 euros para la hucha cada vez que dedique una hora a estudiar."
+            }
+        ]
+    },
+    {
+        "text": "Entre las motivaciones relacionadas con el yo, “la motivación que enaltece los aspectos positivos del autoconcepto, mitiga los negativos, es muy fuerte y está orientada a proteger y aumentar la autoestima” es lo que denominamos motivo de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 137)",
+        "responses": [
+            {
+                "text": "Autoensalzamiento.",
+                "correct": true
+            },
+            {
+                "text": "Autopresentación."
+            },
+            {
+                "text": "Autoexpansión."
+            }
+        ]
+    },
+    {
+        "text": "Indique el tipo de culturas que favorecen la pertenencia del individuo a más endogrupos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 43)",
+        "responses": [
+            {
+                "text": "Individualistas.",
+                "correct": true
+            },
+            {
+                "text": "Colectivistas."
+            },
+            {
+                "text": "Con alta evitación de incertidumbre."
+            }
+        ]
+    },
+    {
+        "text": "Percibir a los miembros del exogrupo como más homogéneos de lo que se percibe a los miembros del endogrupo es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 56, Cuadro 3.2)",
+        "responses": [
+            {
+                "text": "Lo que denominamos principio de anclaje y ajuste."
+            },
+            {
+                "text": "La definición del “efecto de homogeneidad relativa del exogrupo”.",
+                "correct": true
+            },
+            {
+                "text": "Lo que denominamos “principio de acentuación”."
+            }
+        ]
+    },
+    {
+        "text": "Señale qué motivo universal nos permite predecir la realidad social:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 31)",
+        "responses": [
+            {
+                "text": "Compresión compartida.",
+                "correct": true
+            },
+            {
+                "text": "Pertenencia."
+            },
+            {
+                "text": "Potenciación personal."
+            }
+        ]
+    },
+    {
+        "text": "Entre los modelos de combinación lineal en la formación de impresiones, el modelo que permite la consideración del contexto en el que se produce, es el modelo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 89-90)",
+        "responses": [
+            {
+                "text": "Promedio."
+            },
+            {
+                "text": "Suma."
+            },
+            {
+                "text": "Media ponderada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría clásica de la atribución pone el acento en el análisis que el observador hace de los efectos de la acción que atribuimos?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 135)",
+        "responses": [
+            {
+                "text": "Covariación, de Kelley."
+            },
+            {
+                "text": "Psicología ingenua, de Heider."
+            },
+            {
+                "text": "Inferencias correspondientes, de Jones y Davis.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El principio de influencia del que habla Cialdini en su modelo, que puede ser explicado desde la teoría de la disonancia cognitiva de Festinger, es el principio de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2020",
+            "modelo": "2"
+        },
+        "feedback": "(p. 185)",
+        "responses": [
+            {
+                "text": "Reciprocidad."
+            },
+            {
+                "text": "Coherencia.",
+                "correct": true
+            },
+            {
+                "text": "Validación social."
+            }
+        ]
+    }
+]

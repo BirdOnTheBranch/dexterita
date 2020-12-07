@@ -1,0 +1,21 @@
+[
+  {
+    "id":"hist-19-jun-1week",
+    "name":"Historia de la Psicología",
+    "course":"Primero",
+    "course_dg":"1",
+    "subject":"historia",
+    "year": 19,
+    "month": "june",
+    "rating": 19,
+    "questions": 25,
+    "plusScore": 0.45,
+    "minusScore": 0.2,
+    "minutes": 30,
+    "color":"#b7b583",
+    "slogan":"Junio 2019",
+    "verified": false,
+    "logo":"#logo6",
+    "keywords":["historia","filosofia","emulation"]
+  }
+]

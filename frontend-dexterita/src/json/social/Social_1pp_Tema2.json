@@ -1,0 +1,1367 @@
+[
+    {
+        "text": "La correlación entre el tamaño relativo del neocórtex y la complejidad de las relaciones sociales de la especie:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 40)",
+        "responses": [
+            {
+                "text": "Depende de la necesidad de cooperar, no de manipular a otros."
+            },
+            {
+                "text": "Se asocia a una madurez tardía de los individuos de esa especie.",
+                "correct": true
+            },
+            {
+                "text": "No se ha estudiado en especies animales."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio sobre la percepción de testigos de un suceso (Buckhout, 1977) se comprobó que los testigos sobreestimaban la duración del suceso, así como la altura y el peso del asaltante. Este resultado refleja:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 59)",
+        "responses": [
+            {
+                "text": "Un efecto de “primus inter pares”."
+            },
+            {
+                "text": "Un sesgo de ignorancia pluralista, ya que se sobreestimaron varias claves del contexto."
+            },
+            {
+                "text": "Una percepción adaptativa, ya que se sobreestimaron aspectos relacionados con el peligro de la situación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La tendencia a creer que tenemos menos posibilidades que la media de ser víctimas de una enfermedad grave como el cáncer se relaciona con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 60)",
+        "responses": [
+            {
+                "text": "La ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "La ignorancia pluralista."
+            },
+            {
+                "text": "El optimismo ilusorio."
+            }
+        ]
+    },
+    {
+        "text": "En tiempos ancestrales, ¿cuál de los siguientes factores habrá sido más necesario para la supervivencia de los individuos que vivían en climas muy fríos, comparados con los que habitaban climas tropicales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "Tener iniciativa y recursos tecnológicos.",
+                "correct": true
+            },
+            {
+                "text": "Disponer de normas rígidas que favorecieran la coordinación entre individuos del grupo."
+            },
+            {
+                "text": "La cooperación con el grupo."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la hipótesis del cerebro social, se ha comprobado que",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El tamaño relativo del neocórtex condiciona el número de relaciones que un individuo puede mantener simultáneamente a lo largo del tiempo.",
+                "correct": true
+            },
+            {
+                "text": "Cuanto más tienen que aprender los individuos de una especie, más corto es el periodo de inmadurez y mayor es el neocórtex."
+            },
+            {
+                "text": "Las especies con periodos de crecimiento cerebral más largos antes del nacimiento tienen mayor el neocórtex."
+            }
+        ]
+    },
+    {
+        "text": "Según la perspectiva de la selección multinivel, la selección natural favoreció los rasgos y conductas que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 44)",
+        "responses": [
+            {
+                "text": "Aumentaban al máximo la eficacia biológica inclusiva fundamentalmente a través de la competición con otros miembros del grupo."
+            },
+            {
+                "text": "Permitían y facilitaban la adaptación del individuo a la vida en grupo.",
+                "correct": true
+            },
+            {
+                "text": "Fomentaban la reproducción de los individuos por encima de su supervivencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones completa mejor la siguiente afirmación referida a una de las ideas fundamentales del modelo de Matsumoto, expuesto en el Capítulo 2, sobre evolución, cultura y contexto social? “Los procesos mentales y las conductas sociales de las personas dependen de…:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 58)",
+        "responses": [
+            {
+                "text": "… el contexto social objetivamente representado, el cual es independiente de la interpretación que de dicho contexto haga la persona”."
+            },
+            {
+                "text": "… las características de personalidad fraguadas por la cultura, y no del contexto social”."
+            },
+            {
+                "text": "… la interpretación que hacen del contexto social en el que se encuentran en un momento dado, lo que a su vez viene influido por la cultura y la evolución”.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las culturas individualistas favorecen la pertenencia del individuo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "A pocos endogrupos y un alto apego a cada uno."
+            },
+            {
+                "text": "A pocos endogrupos y un bajo apego a cada uno."
+            },
+            {
+                "text": "A muchos endogrupos y un bajo apego a cada uno.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Ante la pregunta “¿Quién eres tú?”, ¿cuál de las siguientes respuestas es más probable encontrar en culturas colectivistas en comparación con culturas individualistas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 57)",
+        "responses": [
+            {
+                "text": "“Soy una Corleone. Mi familia es una de las más respetadas en mi país. Yo soy el miembro más joven de la familia”.",
+                "correct": true
+            },
+            {
+                "text": "“Tengo 35 años, soy informático. Me considero inteligente, pero algo tímido. Me interesa el cine y la literatura”."
+            },
+            {
+                "text": "“Tengo 35 años, soy sociable y trabajador. Me gusta viajar y conocer gente nueva”."
+            }
+        ]
+    },
+    {
+        "text": "La territorialidad en los seres humanos se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 60)",
+        "responses": [
+            {
+                "text": "Tratar de proteger el espacio personal que rodea a la persona."
+            },
+            {
+                "text": "Ser de naturaleza física y simbólica.",
+                "correct": true
+            },
+            {
+                "text": "No verse afectada por la cultura."
+            }
+        ]
+    },
+    {
+        "text": "En el caso de los seres humanos, la territorialidad se caracteriza por",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Aplicarse estrictamente a espacios físicos."
+            },
+            {
+                "text": "Adquirir una naturaleza simbólica que excede sus propiedades físicas.",
+                "correct": true
+            },
+            {
+                "text": "Aplicarse exclusivamente a aspectos ideológicos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características de la conducta social es más típica en culturas individualistas que en culturas colectivistas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Conducta muy diferente hacia miembros del endogrupo y hacia miembros del exogrupo."
+            },
+            {
+                "text": "Comunicación y contacto con muchas personas y grupos.",
+                "correct": true
+            },
+            {
+                "text": "Contacto físico muy cercano."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referentes al contexto situacional es FALSA?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El contexto es el conjunto de factores interpersonales que influyen directamente en nuestra conducta.",
+                "correct": true
+            },
+            {
+                "text": "Algunos contextos evocan respuestas similares en todos los individuos, independientemente de la cultura a la que pertenezcan."
+            },
+            {
+                "text": "La influencia del contexto se produce a través de la interpretación que hacemos de él."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones encaja mejor con la postura que defiende el psicólogo social Roy Baumeister (y que está ampliamente aceptada en la disciplina) sobre las características distintivas del ser humano como especie animal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "La capacidad humana para la cultura NO es algo natural, lo cual distingue al ser humano del resto de los animales."
+            },
+            {
+                "text": "El ser humano es claramente la especie más social de la naturaleza."
+            },
+            {
+                "text": "El ser humano es claramente la especie en la que la cultura ha alcanzado un mayor nivel de complejidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones completa mejor la siguiente afirmación referida a una de las ideas fundamentales del modelo de Matsumoto, expuesto en el Capítulo 2, sobre evolución, cultura y contexto social? “Los procesos mentales y las conductas sociales de las personas dependen de…:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 58)",
+        "responses": [
+            {
+                "text": "… el contexto social objetivamente representado, el cual es independiente de la interpretación que de dicho contexto haga la persona”."
+            },
+            {
+                "text": "… las características de personalidad fraguadas por la cultura, y no del contexto social.”"
+            },
+            {
+                "text": "… la interpretación que hacen del contexto social en el que se encuentran en un momento dado, lo que a su vez viene influido por la cultura y la evolución”.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los motivos sociales universales que propone Fiske:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 43)",
+        "responses": [
+            {
+                "text": "Explican el origen evolutivo de los grupos humanos."
+            },
+            {
+                "text": "Impulsan a las personas a vivir con otros y a funcionar de forma adecuada en las relaciones.",
+                "correct": true
+            },
+            {
+                "text": "Quedan eclipsados por la diversidad cultural a medida que los individuos reciben la influencia implícita de otros."
+            }
+        ]
+    },
+    {
+        "text": "La indefensión aprendida se produce cuando una persona tiene repetidas experiencias negativas de las que no puede escapar haga lo que haga. Como resultado, adopta una actitud pasiva que lleva a la inacción, incluso cuando sí existe la posibilidad de cambiar la situación. ¿Cuál de los cinco motivos sociales universales propuestos por Fiske (2002) se ve siempre afectado cuando se adquiere indefensión aprendida?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46).",
+        "responses": [
+            {
+                "text": "El motivo de control.",
+                "correct": true
+            },
+            {
+                "text": "El motivo de confianza."
+            },
+            {
+                "text": "El motivo de pertenencia."
+            }
+        ]
+    },
+    {
+        "text": "Roy Baumeister (2005) propuso sustituir la denominación de “animal social” por la de “animal cultural” para referirse al ser humano debido a que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "Ninguna otra especie ha desarrollado cultura."
+            },
+            {
+                "text": "Además de motivaciones sociales, tenemos fuertes motivaciones individuales."
+            },
+            {
+                "text": "Dependemos de la cultura para sobrevivir más que cualquier otra especie.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale cuál de las siguientes afirmaciones sobre la cultura es FALSA:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 50-51)",
+        "responses": [
+            {
+                "text": "La cultura surge de la adaptación a ambientes físicos y sociales concretos."
+            },
+            {
+                "text": "La cultura explica por qué todos los seres humanos tienen una serie de mecanismos y procesos psicológicos comunes.",
+                "correct": true
+            },
+            {
+                "text": "La cultura influye en las respuestas de un grupo humano a su ambiente durante generaciones."
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis sobre la inteligencia social, en el desarrollo del cerebro humano, ha sido probada analizando, en diferentes especies animales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "La capacidad para defenderse de otras especies."
+            },
+            {
+                "text": "El tamaño relativo del neocórtex.",
+                "correct": true
+            },
+            {
+                "text": "La similitud de su conducta con la humana."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de la hipótesis de la inteligencia social podemos distinguir dos versiones: la inteligencia social y la inteligencia maquiavélica. El enfoque de la inteligencia maquiavélica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 43)",
+        "responses": [
+            {
+                "text": "Pone el énfasis en la supervivencia de los individuos hasta que estos puedan reproducirse."
+            },
+            {
+                "text": "No contempla la posibilidad de que se produzcan conductas prosociales."
+            },
+            {
+                "text": "Se basa fundamentalmente en que cada individuo tenderá a hacer lo posible para lograr mayor éxito reproductivo que otros.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde la perspectiva evolucionista, y de acuerdo con el principio de continuidad evolutiva, podemos afirmar que la conducta social humana demuestra",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Que la evolución es un progreso lineal, existiendo unas especies más evolucionadas que otras."
+            },
+            {
+                "text": "La adaptación que la especie humana ha tenido al medio.",
+                "correct": true
+            },
+            {
+                "text": "La perfección a la que ha llegado nuestra especie en comparación con otras."
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento del animal cultural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 47-48)",
+        "responses": [
+            {
+                "text": "La cultura no es más que un barniz que modera nuestros impulsos innatos."
+            },
+            {
+                "text": "La capacidad para la cultura es parte de la naturaleza humana.",
+                "correct": true
+            },
+            {
+                "text": "La naturaleza humana dejó de influir en nuestra mente y nuestra conducta con la aparición de la cultura."
+            }
+        ]
+    },
+    {
+        "text": "El sentimiento de ofensa que surge cuando alguien ataca nuestra ideología es una expresión de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 60)",
+        "responses": [
+            {
+                "text": "Territorialidad.",
+                "correct": true
+            },
+            {
+                "text": "Tolerancia a la incertidumbre."
+            },
+            {
+                "text": "Rechazo producido por la invasión del espacio personal."
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que impulsa a sentirse especial, a aceptarse uno mismo y a desarrollar las propias capacidades es el motivo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Potenciación personal.",
+                "correct": true
+            },
+            {
+                "text": "Confianza."
+            },
+            {
+                "text": "Pertenencia."
+            }
+        ]
+    },
+    {
+        "text": "Las culturas individualistas favorecen",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La pertenencia del individuo a menos endogrupos."
+            },
+            {
+                "text": "La pertenencia del individuo a más endogrupos.",
+                "correct": true
+            },
+            {
+                "text": "Una mayor diferenciación entre los miembros del grupo según su estatus."
+            }
+        ]
+    },
+    {
+        "text": "Según la perspectiva de la selección multinivel, la selección natural favoreció los rasgos y conductas que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Aumentaban al máximo la eficacia biológica inclusiva fundamentalmente a través de la competición con otros miembros del grupo."
+            },
+            {
+                "text": "Permitían y facilitaban la adaptación del individuo a la vida en grupo.",
+                "correct": true
+            },
+            {
+                "text": "Fomentaban la reproducción de los individuos por encima de su supervivencia."
+            }
+        ]
+    },
+    {
+        "text": "La definición del autoconcepto (del “yo”) en términos de pertenencia grupal y de relaciones sociales es más característica de las culturas que",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Centran la percepción de uno mismo en situaciones específicas y factores contextuales.",
+                "correct": true
+            },
+            {
+                "text": "Valoran el placer, la autonomía y el intercambio equitativo."
+            },
+            {
+                "text": "Explican los comportamientos como consecuencia de rasgos personales internos."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la clasificación que hace Fiske de los motivos sociales universales, el motivo de potenciación personal se refiere a la necesidad de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Conocerse a sí mismo para superar a los demás."
+            },
+            {
+                "text": "Sentirse especial y desarrollar las capacidades propias.",
+                "correct": true
+            },
+            {
+                "text": "Controlar la eficacia de nuestra conducta y sus resultados."
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento del animal cultural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 47-48)",
+        "responses": [
+            {
+                "text": "La cultura no es más que un barniz que modera nuestros impulsos innatos."
+            },
+            {
+                "text": "La capacidad para la cultura es parte de la naturaleza humana.",
+                "correct": true
+            },
+            {
+                "text": "La naturaleza humana dejó de influir en nuestra mente y nuestra conducta con la aparición de la cultura."
+            }
+        ]
+    },
+    {
+        "text": "La cultura",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Se transmite genéticamente."
+            },
+            {
+                "text": "Evoluciona dependiendo de contextos concretos.",
+                "correct": true
+            },
+            {
+                "text": "Es una característica exclusiva de la especie humana."
+            }
+        ]
+    },
+    {
+        "text": "La explicación de los propios éxitos por causas internas y estables y de los propios fracasos por causas externas e inestables es característica de las personas pertenecientes a culturas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Individualistas.",
+                "correct": true
+            },
+            {
+                "text": "Colectivistas."
+            },
+            {
+                "text": "De alta evitación de la incertidumbre"
+            }
+        ]
+    },
+    {
+        "text": "En comparación con las culturas colectivistas, en las culturas individualistas es más probable que las personas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 56-57)",
+        "responses": [
+            {
+                "text": "Se definan a sí mismas en función de los roles que ocupan dentro del grupo."
+            },
+            {
+                "text": "Muestren un sesgo egocéntrico en sus atribuciones.",
+                "correct": true
+            },
+            {
+                "text": "Juzguen a los demás por sus afiliaciones."
+            }
+        ]
+    },
+    {
+        "text": "La idea de “continuidad evolutiva”, según Darwin, significaba que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Las especies actuales se sitúan en un continuo que va de las menos evolucionadas a las más evolucionadas, en cuyo extremo se encuentra el ser humano."
+            },
+            {
+                "text": "Todas las especies actuales, incluyendo la humana, proceden de un tronco común y han evolucionado a partir de especies ancestrales por un proceso de selección natural.",
+                "correct": true
+            },
+            {
+                "text": "La evolución es un continuo progreso lineal que tiene como fin el perfeccionamiento de las especies."
+            }
+        ]
+    },
+    {
+        "text": "La existencia de diferencias entre culturas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 50 y 64)",
+        "responses": [
+            {
+                "text": "Demuestra que en el ser humano no existen procesos psicológicos universales."
+            },
+            {
+                "text": "Se debe a la necesidad de adaptación a medios con diferentes exigencias.",
+                "correct": true
+            },
+            {
+                "text": "Se conoce como culturocentrismo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones completa mejor la siguiente afirmación referida a una de las ideas fundamentales del modelo de Matsumoto, expuesto en el Capítulo 2, sobre evolución, cultura y contexto social? “ Los procesos mentales y las conductas sociales de la sociedad personas dependen de ...",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "… el contexto social objetivamente representado, el cual es independiente de la interpretación que de dicho contexto haga la persona."
+            },
+            {
+                "text": "… la interpretación que hacen del contexto social en el que se encuentran en un momento dado, lo que a su vez viene influido por la cultura y la evolución.",
+                "correct": true
+            },
+            {
+                "text": "… las características de personalidad fraguadas por la cultura, y no del contexto social."
+            }
+        ]
+    },
+    {
+        "text": "En tiempos pasados, como consecuencia de la relación existente entre contexto ecológico y cultura, en los climas más fríos, debido a la menor densidad de población:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 47 – 48)",
+        "responses": [
+            {
+                "text": "Se hizo más necesaria la conformidad a las normas y la cooperación, lo que propició el carácter colectivista de las culturas."
+            },
+            {
+                "text": "La supervivencia dependía sobre todo de las iniciativas personales, reforzándose así el carácter individualista de la cultura.",
+                "correct": true
+            },
+            {
+                "text": "Se concedía más importancia a la defensa de los recursos frente a otros grupos que a las habilidades personales."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué dimensión cultural capta el modo en que las personas de distintas culturas se enfrentan al miedo a lo desconocido?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 53)",
+        "responses": [
+            {
+                "text": "La orientación temporal."
+            },
+            {
+                "text": "La evitación de la incertidumbre.",
+                "correct": true
+            },
+            {
+                "text": "El individualismo-colectivismo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones recoge características de las culturas humanas que son comunes a todas ellas?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Eficacia biológica inclusiva."
+            },
+            {
+                "text": "Selección por parentesco."
+            },
+            {
+                "text": "Diferenciación de roles y especialización.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En comparación con otras especies animales, el ser humano:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 51-52)",
+        "responses": [
+            {
+                "text": "Innova sin retroceso en mayor medida y con mucha más rapidez.",
+                "correct": true
+            },
+            {
+                "text": "Es el único con capacidad para conformarse a las normas culturales."
+            },
+            {
+                "text": "Es el único con capacidad para crear cultura."
+            }
+        ]
+    },
+    {
+        "text": "Estudios psicosociales han encontrado repetidamente que los estadounidenses en general encuentran más estimulante que les elogien por sus éxitos, mientras que los japoneses prefieren que les hagan ver sus fallos. Si para explicar estos resultados aludiésemos a la motivación de todo individuo de ser un buen miembro dentro de la sociedad y cultura en la que vive, estaríamos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p.  )",
+        "responses": [
+            {
+                "text": "Eligiendo un nivel de análisis más local para explicar fenómenos universales."
+            },
+            {
+                "text": "Cometiendo el error conocido como “culturocentrismo”."
+            },
+            {
+                "text": "Dando una explicación universal a un fenómeno psicosocial que se expresa de forma diferente en distintas culturas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los motivos sociales universales que propone Fiske",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Explican el origen evolutivo de los grupos humanos."
+            },
+            {
+                "text": "Quedan eclipsados por la diversidad cultural a medida que los individuos reciben la influencia implícita de otros."
+            },
+            {
+                "text": "Impulsan a las personas a vivir con otros y a funcionar de forma adecuada en las relaciones.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la opción correcta en relación con las dos afirmaciones siguientes?: “Las personas necesitan a los demás para sobrevivir”. “Las personas necesitan un cierto grado de privacidad para sentirse bien”:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "La primera es cierta sólo para las culturas colectivistas y la segunda sólo para las individualistas."
+            },
+            {
+                "text": "Cada persona se inclina por una u otra tendencia según tenga un autoconcepto interdependiente o independiente."
+            },
+            {
+                "text": "Aunque son necesidades opuestas, es posible lograr un equilibrio entre ambas regulando la interacción con los demás.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones respecto a la cultura es FALSA?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 49-50)",
+        "responses": [
+            {
+                "text": "La cultura surge del individuo.",
+                "correct": true
+            },
+            {
+                "text": "La cultura es transmitida de unos a otros"
+            },
+            {
+                "text": "La cultura consiste en elementos compartidos."
+            }
+        ]
+    },
+    {
+        "text": "En comparación con las culturas colectivistas, las personas en las culturas individualistas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Valoran más la equidad y el contacto con personas y grupos es más extenso.",
+                "correct": true
+            },
+            {
+                "text": "Valoran más el sentido del deber y se dejan llevar más por las normas sociales."
+            },
+            {
+                "text": "Valoran más la obediencia y diferencian más entre la conducta dirigida a miembros del exogrupo y la dirigida a miembros del endogrupo."
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento del animal cultural",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Las culturas individualistas muestran un nivel de evolución más avanzado que las culturas colectivistas."
+            },
+            {
+                "text": "La capacidad para la cultura ha evolucionado en los seres humanos porque favorecía la supervivencia y la reproducción.",
+                "correct": true
+            },
+            {
+                "text": "Las capacidades y procesos sociocognitivos que son comunes a todas las culturas sólo existen en la especie humana."
+            }
+        ]
+    },
+    {
+        "text": "El contexto social modela los procesos psicológicos y la conducta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 57, 58 y 61)",
+        "responses": [
+            {
+                "text": "A través de la interpretación subjetiva que hacemos de él.",
+                "correct": true
+            },
+            {
+                "text": "A través del clima o de la densidad de población."
+            },
+            {
+                "text": "Independientemente de los significados culturales."
+            }
+        ]
+    },
+    {
+        "text": "Se ha comprobado que existe una correlación positiva entre el tamaño relativo del neocórtex y el periodo de inmadurez de la especie. Señale el argumento por el que se ha explicado esta relación.:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 40)",
+        "responses": [
+            {
+                "text": "Las especies como la humana, que se crían en grupos pequeños, desarrollan más el neocórtex debido a que su periodo de inmadurez es muy corto."
+            },
+            {
+                "text": "Las especies como la humana, que maduran muy pronto, desarrollan menos el neocórtex en relación con el volumen del resto del cerebro."
+            },
+            {
+                "text": "Cuanto más hay que aprender, más largo es el proceso de inmadurez y mayor es el tamaño relativo del neocórtex.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El psicólogo social Roy Baumeister (2005) propuso sustituir la denominación de “animal social”, referida a los seres humanos, por la de “animal cultural” porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "La sociabilidad no forma parte de la naturaleza humana, pero la capacidad para la cultura sí."
+            },
+            {
+                "text": "Los seres humanos dependen de la cultura para sobrevivir.",
+                "correct": true
+            },
+            {
+                "text": "La especie humana es la única que tiene capacidad para la cultura."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes estrategias sería más útil como incentivo en una cultura colectivista?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Pasar por alto los fracasos."
+            },
+            {
+                "text": "Elogiar los éxitos."
+            },
+            {
+                "text": "Animar al que ha fallado para que se supere a sí mismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referentes a la relación entre evolución y cultura NO es un error?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La existencia de diferencias culturales en la manifestación de los procesos psicosociales demuestra que no existen mecanismos psicológicos universales, sino que todo lo humano es atribuible a la cultura."
+            },
+            {
+                "text": "El cerebro ha evolucionado para adaptarse al ambiente, y la cultura ha favorecido una evolución más rápida de nuestro cerebro.",
+                "correct": true
+            },
+            {
+                "text": "Cuando se realiza un estudio psicosocial experimental con una muestra concreta de un país determinado, sus resultados deberán ser siempre extrapolables a cualquier ser humano, puesto que todos pertenecemos a la misma especie."
+            }
+        ]
+    },
+    {
+        "text": "El motivo que impulsa a las personas a sentirse competentes al tratar con el ambiente social y consigo mismas es el motivo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Control.",
+                "correct": true
+            },
+            {
+                "text": "Confianza."
+            },
+            {
+                "text": "Pertenencia."
+            }
+        ]
+    },
+    {
+        "text": "El psicólogo social Roy Baumeister (2005) propuso sustituir la denominación de “animal social”, referida a los seres humanos, por la de “animal cultural” porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 47)",
+        "responses": [
+            {
+                "text": "Los seres humanos dependen de la cultura para sobrevivir.",
+                "correct": true
+            },
+            {
+                "text": "La sociabilidad no forma parte de la naturaleza humana, pero la capacidad para la cultura sí."
+            },
+            {
+                "text": "La especie humana es la única que tiene capacidad para la cultura."
+            }
+        ]
+    },
+    {
+        "text": "Para responder a la pregunta “¿Quién soy yo?”, los miembros de culturas individualistas se referirán con mayor probabilidad que los miembros de culturas colectivistas a",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Sus grupos de pertenencia."
+            },
+            {
+                "text": "Los roles que desempeñan."
+            },
+            {
+                "text": "Rasgos personales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La búsqueda de seguridad mediante la aplicación de un gran número de normas es una característica de las culturas",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Individualistas."
+            },
+            {
+                "text": "Permisivas y con baja distancia jerárquica."
+            },
+            {
+                "text": "Con alta evitación de la incertidumbre.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El sesgo de falsa singularidad:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 63)",
+        "responses": [
+            {
+                "text": "Es más fuerte cuando la comparación yo-otros se establece con personas a las que se conoce muy bien."
+            },
+            {
+                "text": "Es la tendencia a creer que conocemos los pensamientos y actitudes de los demás."
+            },
+            {
+                "text": "Se relaciona con los motivos sociales básicos de pertenencia y de potenciación personal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde la perspectiva que defiende la selección multinivel, la selección natural favorecería la propagación genética de aquellos individuos",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Que mejor se adaptan a la vida en grupo.",
+                "correct": true
+            },
+            {
+                "text": "Que tienen conductas prosociales solamente con sus parientes."
+            },
+            {
+                "text": "Que no cooperan con otros miembros del grupo sino que buscan su propio beneficio para sobrevivir."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características es más frecuente en las personas que pertenecen a culturas individualistas, comparadas con las de culturas colectivistas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Valoran más la obediencia y el cumplir las normas sociales."
+            },
+            {
+                "text": "Su conducta hacia los miembros del endogrupo es muy diferente de la que muestran hacia miembros del exogrupo."
+            },
+            {
+                "text": "Valoran más la equidad y el contacto con personas y grupos es más extenso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referentes a la comparación entre las culturas individualistas y las colectivistas es cierta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "En las culturas individualistas hay menos comunicación directa y explícita."
+            },
+            {
+                "text": "En las culturas colectivistas hay más diferencias entre las conductas que se dirigen hacia miembros del endogrupo y las que se dirigen hacia miembros del exogrupo.",
+                "correct": true
+            },
+            {
+                "text": "En las culturas individualistas hay más contacto físico."
+            }
+        ]
+    },
+    {
+        "text": "El motivo social universal que lleva a las personas a buscar la aceptación por parte de los demás se conoce como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "Motivo de confianza."
+            },
+            {
+                "text": "Motivo de pertenencia.",
+                "correct": true
+            },
+            {
+                "text": "Motivo de potenciación personal."
+            }
+        ]
+    },
+    {
+        "text": "La conducta normativa es lo que se espera en general que hagan las personas cuando se encuentran en una determinada situación. ¿Cuál de las siguientes afirmaciones es correcta respecto a este tipo de conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 54)",
+        "responses": [
+            {
+                "text": "Se basa en la atribución de significados a los contextos, que es compartida por los miembros de una misma cultura.",
+                "correct": true
+            },
+            {
+                "text": "Es más característica de las culturas con baja evitación de la incertidumbre."
+            },
+            {
+                "text": "Es un claro ejemplo de influencia de la presencia imaginada de los demás."
+            }
+        ]
+    },
+    {
+        "text": "La influencia de la selección natural en la mente y la conducta humanas se refleja",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Sobre todo en nuestras tendencias competitivas y egoístas (la cooperación es un rasgo cultural posterior)."
+            },
+            {
+                "text": "Sobre todo en nuestras tendencias cooperativas (la competición surgió en épocas más recientes)."
+            },
+            {
+                "text": "En la coexistencia de tendencias cooperativas y competitivas que nos permiten adaptarnos a situaciones diferentes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Ross y sus colaboradores comprobaron en un experimento que el 75,6% de los participantes que autorizaban que sus declaraciones aparecieran en el vídeo de un anuncio sobre un supermercado creían que sus compañeros también lo autorizarían. Entre los que se negaron a autorizar la proyección de sus declaraciones, el porcentaje de los que manifestaron esa creencia fue significativamente menor. Este resultado refleja un sesgo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 63)",
+        "responses": [
+            {
+                "text": "Ignorancia pluralista."
+            },
+            {
+                "text": "Falso consenso.",
+                "correct": true
+            },
+            {
+                "text": "Falsa singularidad."
+            }
+        ]
+    },
+    {
+        "text": "En tiempos ancestrales, ¿cuál de los siguientes factores habrá sido más necesario para la supervivencia de los individuos que vivían en climas muy fríos, comparados con los que habitaban climas tropicales?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Disponer de normas rígidas que favorecieran la coordinación entre individuos del grupo."
+            },
+            {
+                "text": "Tener iniciativa y recursos tecnológicos.",
+                "correct": true
+            },
+            {
+                "text": "La cooperación con el grupo."
+            }
+        ]
+    },
+    {
+        "text": "En los estudios de Dunbar en los que se comparó el tamaño relativo del neocórtex cerebral de varias especies, se encontró apoyo para la hipótesis de que el aumento del cerebro se produjo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Por la necesidad de resolver problemas técnicos."
+            },
+            {
+                "text": "Por la necesidad de resolver problemas sociales.",
+                "correct": true
+            },
+            {
+                "text": "Por la necesidad de explorar grandes territorios."
+            }
+        ]
+    }
+]

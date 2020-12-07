@@ -1,0 +1,1556 @@
+[
+    {
+        "text": "En el condicionamiento de segundo orden se emplea:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 92)",
+        "responses": [
+            {
+                "text": "Como El un EC de un condicionamiento anterior.",
+                "correct": true
+            },
+            {
+                "text": "Un mismo reforzador para la adquisición de distintas conductas."
+            },
+            {
+                "text": "Un estímulo neutro con connotaciones cognitivas que quedan vinculadas al reforzador."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la selección natural, ¿cuál es el comportamiento más elemental en la lucha por la supervivencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 26)",
+        "responses": [
+            {
+                "text": "El adquirido por condicionamiento clásico."
+            },
+            {
+                "text": "El reflejo."
+            },
+            {
+                "text": "El instintivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el elemento motivador en el condicionamiento operante? El estímulo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "Discriminativo."
+            },
+            {
+                "text": "Señal."
+            },
+            {
+                "text": "Reforzador.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De qué depende que un estímulo actúe como reforzador?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 116)",
+        "responses": [
+            {
+                "text": "De que se dispense en todos los ensayos."
+            },
+            {
+                "text": "De la historia previa del sujeto y sus necesidades biológicas y motivacionales.",
+                "correct": true
+            },
+            {
+                "text": "De que garantice el aprendizaje de conductas propias de la especie."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué estímulo posee la capacidad motivacional de suscitar la RC en el condicionamiento clásico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 88)",
+        "responses": [
+            {
+                "text": "El En."
+            },
+            {
+                "text": "El EC.",
+                "correct": true
+            },
+            {
+                "text": "El EI."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el aspecto motivador del reforzador?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 126)",
+        "responses": [
+            {
+                "text": "El incentivo.",
+                "correct": true
+            },
+            {
+                "text": "El drive."
+            },
+            {
+                "text": "El impulso."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se considera la motivación desde los distintos posicionamientos teóricos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 6)",
+        "responses": [
+            {
+                "text": "Como lo determinante para la adquisición de comportamientos por parte del individuo.",
+                "correct": true
+            },
+            {
+                "text": "Como un rasgo de personalidad."
+            },
+            {
+                "text": "Como una variable que hay que controlar al encontrarse determinada directamente por el aprendizaje."
+            }
+        ]
+    },
+    {
+        "text": "En el patrón de acción modal, la respuesta consumatoria:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 44)",
+        "responses": [
+            {
+                "text": "Puede variar con la experiencia.",
+                "correct": true
+            },
+            {
+                "text": "Es aprendida."
+            },
+            {
+                "text": "Constituye el dispositivo especial de recepción del estímulo índice."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué se encarga el mecanismo desencadenador innato del patrón de acción modal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 43)",
+        "responses": [
+            {
+                "text": "De la rigidez de la respuesta consumatoria."
+            },
+            {
+                "text": "De provocar la conducta en la secuencia correcta.",
+                "correct": true
+            },
+            {
+                "text": "De establecer la pauta fija de acción."
+            }
+        ]
+    },
+    {
+        "text": "En relación al número de ensayos ejecutados, ¿qué ocurre cuando se realizan muchos entrenamientos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 140)",
+        "responses": [
+            {
+                "text": "Que la respuesta se dejará de emitir puesto que ya se ha adquirido."
+            },
+            {
+                "text": "Que la conducta se verá más afectada por los cambios en el nivel de motivación."
+            },
+            {
+                "text": "Que la conducta se verá menos afectada por los cambios en el nivel de motivación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se ha observado en la respuesta emocional condicionada?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 95)",
+        "responses": [
+            {
+                "text": "Que los cambios emocionales, provocan cambios en la motivación.",
+                "correct": true
+            },
+            {
+                "text": "Que se produce aunque el intervalo EC-EI sea muy largo."
+            },
+            {
+                "text": "Que la conducta de acercarse a estímulos, provoca respuestas emocionales condicionadas a la situación."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se produce en el caso del condicionamiento operante?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 109)",
+        "responses": [
+            {
+                "text": "La contigüidad temporal entre el estímulo y la respuesta."
+            },
+            {
+                "text": "La contingencia entre la conducta y sus consecuencias.",
+                "correct": true
+            },
+            {
+                "text": "Una asociación entre estímulos del ambiente."
+            }
+        ]
+    },
+    {
+        "text": "Para el psicoanálisis la pulsión:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 61)",
+        "responses": [
+            {
+                "text": "Se encuentra externamente al individuo."
+            },
+            {
+                "text": "Es el esfuerzo que se provoca para aliviar la tensión.",
+                "correct": true
+            },
+            {
+                "text": "Es cualquier cosa que sirva para satisfacer."
+            }
+        ]
+    },
+    {
+        "text": "Desde el campo de los condicionamientos, ¿qué paradigma propició caminos útiles en el estudio de la motivación? El paradigma:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 119)",
+        "responses": [
+            {
+                "text": "Psicodinámico."
+            },
+            {
+                "text": "Cognitivista de la mente."
+            },
+            {
+                "text": "Hulliano del impulso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué lleva al animal a actuar por primera vez en una situación, según la psicología del aprendizaje?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "El reforzador."
+            },
+            {
+                "text": "El motivo."
+            },
+            {
+                "text": "El impulso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo consideró Pavlov los reflejos condicionados? Como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76)",
+        "responses": [
+            {
+                "text": "Hechos innatos."
+            },
+            {
+                "text": "Un principio activo que determinaba la conducta."
+            },
+            {
+                "text": "La base refleja de la conciencia psicológica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación a las teorías evolucionistas, las investigaciones modernas han demostrado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 30)",
+        "responses": [
+            {
+                "text": "Que el aislamiento geográfico puede justificar la existencia de las diferentes especies."
+            },
+            {
+                "text": "Que la selección natural puede tener efectos radicales incluso a corto plazo.",
+                "correct": true
+            },
+            {
+                "text": "Que la conducta motivada nunca puede estar genéticamente determinada."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles eran los factores determinantes de la evolución según Lamarck?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Los ecológicos y los genéticos.",
+                "correct": true
+            },
+            {
+                "text": "La interacción mecánica organismo-ambiente y el origen del patrón."
+            },
+            {
+                "text": "La lucha por la supervivencia y las variaciones al azar."
+            }
+        ]
+    },
+    {
+        "text": "Conforme los planteamientos hullianos del aprendizaje, la motivación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 131)",
+        "responses": [
+            {
+                "text": "Obedecía a aspectos internos del organismo que al no poderse observar, no debería ser objeto de estudio."
+            },
+            {
+                "text": "Pasaba a tener tanta importancia como el aprendizaje en explicación de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Que actuaba a través de la respuesta fraccionaria o anticipatoria de meta no precisaba contigüidad con la respuesta final."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué sucede en el condicionamiento clásico inhibitorio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 91)",
+        "responses": [
+            {
+                "text": "El sujeto emite una respuesta de defensa."
+            },
+            {
+                "text": "El sujeto aprende que un estímulo señala la ausencia del EI.",
+                "correct": true
+            },
+            {
+                "text": "La emisión de la respuesta provoca la aparición de un estímulo aversivo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina al condicionamiento en el que un EC produce una RC por ser emparejado con otro cuyas propiedades motivacionales son adquiridas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 93)",
+        "responses": [
+            {
+                "text": "Condicionamiento de segundo orden.",
+                "correct": true
+            },
+            {
+                "text": "Condicionamiento observacional."
+            },
+            {
+                "text": "Condicionamiento instrumental."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste la respuesta operante? Es aquella que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 111)",
+        "responses": [
+            {
+                "text": "Se asocia a la respuesta refleja."
+            },
+            {
+                "text": "Se desea adquirir y el sujeto se encuentra motivado a realizar.",
+                "correct": true
+            },
+            {
+                "text": "El sujeto adquiere al haberla observado en otro."
+            }
+        ]
+    },
+    {
+        "text": "En relación al patrón de acción modal, ¿qué es un estímulo índice?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "El que indica la respuesta condicionada."
+            },
+            {
+                "text": "El dispositivo especial de recepción."
+            },
+            {
+                "text": "El que desencadena la respuesta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo definió operacionalmente la fuerza del hábito Hull?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 124)",
+        "responses": [
+            {
+                "text": "Por las horas de privación."
+            },
+            {
+                "text": "Por una función incremental de la necesidad fisiológica."
+            },
+            {
+                "text": "Por el número de ensayos de aprendizaje previos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina al periodo de tiempo en el que se establece la impronta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "Intervalo neonato."
+            },
+            {
+                "text": "Periodo crítico.",
+                "correct": true
+            },
+            {
+                "text": "Periodo vulnerable."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo está la conducta menos afectada por los cambios en el nivel motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 140)",
+        "responses": [
+            {
+                "text": "Al ejecutar pocos ensayos."
+            },
+            {
+                "text": "Al modificar la calidad del reforzador."
+            },
+            {
+                "text": "Al realizar entrenamiento prolongados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el objetivo principal de la impronta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 51)",
+        "responses": [
+            {
+                "text": "Que garantice el aprendizaje de conductas propias de la especie.",
+                "correct": true
+            },
+            {
+                "text": "Que cada especie responda de manera secuencial."
+            },
+            {
+                "text": "Que se emita la respuesta muy rápidamente."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ocurre con la conducta cuando se realiza un número prolongado de entrenamientos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 140)",
+        "responses": [
+            {
+                "text": "Que pasará a depender de los cambios motivacionales."
+            },
+            {
+                "text": "Que empezará a decrecer su fuerza."
+            },
+            {
+                "text": "Que se encontrará menos afectada por los cambios en el nivel de motivación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ha demostrado la técnica de la devaluación del reforzador con respecto al estado motivacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 140)",
+        "responses": [
+            {
+                "text": "Que no afecta a la ejecución de la respuesta."
+            },
+            {
+                "text": "Que influye a través del conocimiento de las propiedades de incentivo de la recompensa.",
+                "correct": true
+            },
+            {
+                "text": "Que no se codifican las propiedades sensoriales del reforzador."
+            }
+        ]
+    },
+    {
+        "text": "Según McDougall el instinto:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 57)",
+        "responses": [
+            {
+                "text": "Se debía considerar como una fuerza mecánica y no como un esfuerzo intencional o pulsión."
+            },
+            {
+                "text": "Se encontraba en la base del condicionamiento operante."
+            },
+            {
+                "text": "Se encontraba en la base de la experiencia subjetiva de dirigirse hacia una meta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué tipo de condicionamiento los hechos son independientes de la conducta del sujeto? En el condicionamiento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "Clásico.",
+                "correct": true
+            },
+            {
+                "text": "Observacional."
+            },
+            {
+                "text": "Operante."
+            }
+        ]
+    },
+    {
+        "text": "La principal crítica que se hace a la teoría de la reducción del impulso es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 137)",
+        "responses": [
+            {
+                "text": "La función activadora e inespecífica que se atribuye a los impulsos.",
+                "correct": true
+            },
+            {
+                "text": "Que considera que los impulsos establecen disposiciones específicas."
+            },
+            {
+                "text": "Que plantea que los impulsos aumentan la probabilidad de determinadas conductas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se podría predecir la motivación según la teoría de la reducción del impulso?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 121)",
+        "responses": [
+            {
+                "text": "En función del estímulo incondicionado."
+            },
+            {
+                "text": "En base a las condiciones ambientales antecedentes.",
+                "correct": true
+            },
+            {
+                "text": "Conforme sea la respuesta del sujeto."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se puede considerar al principio de la perfección según la teoría lamarckiana?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 20)",
+        "responses": [
+            {
+                "text": "Como un factor que enlentece la evolución."
+            },
+            {
+                "text": "Como un mecanismo motivador.",
+                "correct": true
+            },
+            {
+                "text": "Como el producto de la interacción mecánica organismo-ambiente."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se produce en el experimento clásico de Pavlov ante el sonido de la campana?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 75-88)",
+        "responses": [
+            {
+                "text": "La respuesta de apretar la palanca."
+            },
+            {
+                "text": "Una motivación generalizada."
+            },
+            {
+                "text": "La posibilidad de motivar la salivación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de Lamarck, la característica concreta consistente en que los miembros más usados son los que más contribuyen a la adaptación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 19)",
+        "responses": [
+            {
+                "text": "Depende de la lucha por la supervivencia."
+            },
+            {
+                "text": "Es aprendida."
+            },
+            {
+                "text": "Se puede transmitir genéticamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Conforme a las propiedades de incentivo de la recompensa, se ha comprobado una estrecha relación con el número de ensayos realizados dado que la conducta se encuentra menos afectada por los cambios en el nivel de motivación cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 140)",
+        "responses": [
+            {
+                "text": "Se ejecutan pocos ensayos."
+            },
+            {
+                "text": "Se presenta un solo ensayo."
+            },
+            {
+                "text": "Se realizan muchos entrenamientos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué defienden las teorías evolucionistas en la actualidad en relación al comportamiento humano?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 32)",
+        "responses": [
+            {
+                "text": "Que algunas conductas motivadas podrían estar genéticamente determinadas.",
+                "correct": true
+            },
+            {
+                "text": "La interacción mecanicista organismo-ambiente."
+            },
+            {
+                "text": "La importancia primordial del factor aislamiento geográfico para la explicación de las distintas especies."
+            }
+        ]
+    },
+    {
+        "text": "Situándonos en el condicionamiento clásico, ¿qué estímulo es el que inicialmente provoca efectos predecibles?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 81)",
+        "responses": [
+            {
+                "text": "El incondicionado.",
+                "correct": true
+            },
+            {
+                "text": "El condicionado."
+            },
+            {
+                "text": "El discriminativo."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la reducción del impulso, ¿cómo se condicionaban las respuestas fraccionarias y anticipatorias de meta con la respuesta final?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 133)",
+        "responses": [
+            {
+                "text": "Clásicamente por contigüidad.",
+                "correct": true
+            },
+            {
+                "text": "De forma operante."
+            },
+            {
+                "text": "Vicariamente."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué provoca la especificidad del estímulo índice?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "El descenso del umbral de respuesta."
+            },
+            {
+                "text": "La capacidad de emitir diversos tipos de respuesta."
+            },
+            {
+                "text": "La posibilidad de dar la respuesta muy rápidamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "A través del condicionamiento clásico se descubrió:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 75)",
+        "responses": [
+            {
+                "text": "La posibilidad de condicionar los reflejos.",
+                "correct": true
+            },
+            {
+                "text": "Que la conducta motivada se dispara automáticamente."
+            },
+            {
+                "text": "Que los estímulos que se presentan al sujeto dependen de su conducta."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina el dispositivo especial de recepción que se observa en el patrón de acción modal?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 43)",
+        "responses": [
+            {
+                "text": "Estímulo índice."
+            },
+            {
+                "text": "Mecanismo desencadenador innato.",
+                "correct": true
+            },
+            {
+                "text": "Mecanismo reflejo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la principal aportación de las teorías evolucionistas a la psicología de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 29)",
+        "responses": [
+            {
+                "text": "Plantear la motivación como un proceso que ha surgido al final de la escala evolutiva."
+            },
+            {
+                "text": "Ver la motivación como un mecanismo alternativo."
+            },
+            {
+                "text": "Considerar que la conducta motivada obedece a las necesidades del organismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Con qué se relacionaba el impulso desde los planteamientos conductistas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 70)",
+        "responses": [
+            {
+                "text": "Con los instintos innatos."
+            },
+            {
+                "text": "Con las necesidades biológicas.",
+                "correct": true
+            },
+            {
+                "text": "Con aspectos cognitivos."
+            }
+        ]
+    },
+    {
+        "text": "Los primeros modelos utilizados en el estudio de la psicología de la motivación se desarrollaron con una orientación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 55)",
+        "responses": [
+            {
+                "text": "Cognitiva."
+            },
+            {
+                "text": "Biológica.",
+                "correct": true
+            },
+            {
+                "text": "Conductual."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los elementos del condicionamiento operante, ¿cuál es el que tiene que ver con la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "El estímulo reforzador.",
+                "correct": true
+            },
+            {
+                "text": "La respuesta condicionada que sustituye a la respuesta incondicionada."
+            },
+            {
+                "text": "La situación discriminativa."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué dos sistemas de mediación para la retención de lo observado recurre la teoría social cognitiva? A los sistemas de mediación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 110)",
+        "responses": [
+            {
+                "text": "Cognitiva y emocional."
+            },
+            {
+                "text": "Imaginativa y verbal.",
+                "correct": true
+            },
+            {
+                "text": "Simbólica y perceptual."
+            }
+        ]
+    },
+    {
+        "text": "La denominación de instinto como patrón de acción modal, ¿en qué hace hincapié?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 40)",
+        "responses": [
+            {
+                "text": "En los aspectos modificables de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "En la rigidez de la conducta."
+            },
+            {
+                "text": "En que la conducta no tiene porqué estar presente en todos los miembros de una especie."
+            }
+        ]
+    },
+    {
+        "text": "Una de las características del patrón de acción modal es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 41)",
+        "responses": [
+            {
+                "text": "No se presenta de forma estereotipada."
+            },
+            {
+                "text": "Está presente en todos los miembros de una especie.",
+                "correct": true
+            },
+            {
+                "text": "Varía dentro de la misma especie."
+            }
+        ]
+    },
+    {
+        "text": "El valor de incentivo de un objeto para la teoría de la reducción del impulso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 126)",
+        "responses": [
+            {
+                "text": "Era el aspecto mentalista del reforzador."
+            },
+            {
+                "text": "Energizaba la conducta de forma difusa."
+            },
+            {
+                "text": "Solo podía ser definido operacionalmente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo denominaba Hull la secuencia de conductas simples de una actuación hacia un objetivo concreto?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 133)",
+        "responses": [
+            {
+                "text": "Respuesta discriminativa."
+            },
+            {
+                "text": "Respuesta incondicionada."
+            },
+            {
+                "text": "Respuesta anticipatoria de meta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denomina al impulso innato que poseen ciertas aves, consistente en seguir al nacer a la figura materna?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 49)",
+        "responses": [
+            {
+                "text": "Impronta.",
+                "correct": true
+            },
+            {
+                "text": "Instinto."
+            },
+            {
+                "text": "Periodo crítico."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo se produce una acción en vacío para los etólogos? Cuando por acumulación de energía excesiva:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 46)",
+        "responses": [
+            {
+                "text": "El animal cambia la respuesta consumatoria por cierta alteración en el mecanismo desencadenador innato."
+            },
+            {
+                "text": "Se ejecuta el comportamiento sin la presencia del estímulo índice.",
+                "correct": true
+            },
+            {
+                "text": "La respuesta consumatoria no se finaliza."
+            }
+        ]
+    },
+    {
+        "text": "Egún la teoría de la selección natural, ¿cómo se produce dicha selección?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 25)",
+        "responses": [
+            {
+                "text": "Por la modificación de las necesidades de los sujetos."
+            },
+            {
+                "text": "Por el principio del uso y el desuso de los órganos."
+            },
+            {
+                "text": "Por la interacción mecánica organismo-ambiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación al EC, ¿qué se pretende que suscite durante el condicionamiento clásico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 88)",
+        "responses": [
+            {
+                "text": "Que provoque la motivación necesaria para lograr la generalización de la respuesta."
+            },
+            {
+                "text": "Que motive al sujeto para emitir la respuesta que le dé acceso al reforzador."
+            },
+            {
+                "text": "Que posea la capacidad motivacional de suscitar la RC.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría propuso que los factores ecológicos y genéticos eran los determinantes de la evolución? La teoría:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 14)",
+        "responses": [
+            {
+                "text": "Sintética."
+            },
+            {
+                "text": "De la selección natural."
+            },
+            {
+                "text": "De la herencia de los caracteres adquiridos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo pasa a plantearse el instinto al ser considerado una parte de la conducta humana?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "Como un componente de la conducta aprendida."
+            },
+            {
+                "text": "Como un comportamiento similar a la conducta refleja."
+            },
+            {
+                "text": "Como una fuerza motivacional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Piense en el binomio motivación-aprendizaje, ¿en qué inciden prioritariamente las investigaciones actuales que se centran en los aspectos motivadores de la conducta aprendida?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. afín 138)",
+        "responses": [
+            {
+                "text": "En la investigación con humanos a los que se les ha privado de estimulación apetitiva."
+            },
+            {
+                "text": "En la naturaleza de las representaciones cognitivas subyacentes que se establecen cuando tienen lugar las relaciones asociativas.",
+                "correct": true
+            },
+            {
+                "text": "En la representación mental elaborada por un sujeto que ha observado a un modelo sin que sea preciso que realice la conducta ninguno de los dos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál era el motor motivacional para el psicoanálisis?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 59)",
+        "responses": [
+            {
+                "text": "La infancia."
+            },
+            {
+                "text": "El instinto."
+            },
+            {
+                "text": "La pulsión.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el elemento motivador del condicionamiento operante?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 115)",
+        "responses": [
+            {
+                "text": "La respuesta emitida."
+            },
+            {
+                "text": "El reforzador.",
+                "correct": true
+            },
+            {
+                "text": "El reflejo al que se asocia."
+            }
+        ]
+    },
+    {
+        "text": "Un proceso de condicionamiento clásico se establece:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 87)",
+        "responses": [
+            {
+                "text": "Al producirse una relación funcional EC-RC."
+            },
+            {
+                "text": "Al vincularse la situación a la respuesta y a la recompensa."
+            },
+            {
+                "text": "Al asociarse dos estímulos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué los estímulos que no controlamos conscientemente pueden determinar nuestra conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 77)",
+        "responses": [
+            {
+                "text": "Porque inconscientemente determinan nuestros patrones de acción modal."
+            },
+            {
+                "text": "Porque pueden provocarnos emociones antagónicas."
+            },
+            {
+                "text": "Por los estados motivacionales que nos suscitan.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El drive provoca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 129)",
+        "responses": [
+            {
+                "text": "Un estado de activación general.",
+                "correct": true
+            },
+            {
+                "text": "La dirección de la conducta."
+            },
+            {
+                "text": "Que el sujeto repita la acción."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se encuentra el sujeto ante la emisión de una respuesta operante?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 111)",
+        "responses": [
+            {
+                "text": "Motivado a realizarla.",
+                "correct": true
+            },
+            {
+                "text": "No consciente de la asociación establecida."
+            },
+            {
+                "text": "En actitud de alerta."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se produce el aprendizaje según la teoría de Hull?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 121)",
+        "responses": [
+            {
+                "text": "Por la adquisición de conductas filogenéticas."
+            },
+            {
+                "text": "Por el refuerzo que supone la reducción del impulso.",
+                "correct": true
+            },
+            {
+                "text": "Por contigüidad."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál fue la principal aportación del psicoanálisis al estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 66)",
+        "responses": [
+            {
+                "text": "Plantear la necesidad de que todas las motivaciones provenían de conductas instintivas previas."
+            },
+            {
+                "text": "Considerar que las motivaciones inconscientes constituían determinantes psíquicos fundamentales.",
+                "correct": true
+            },
+            {
+                "text": "Desterrar el concepto de pulsión."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se empezó a estudiar con el descubrimiento de los reflejos condicionados?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 76)",
+        "responses": [
+            {
+                "text": "La capacidad de los organismos de emitir respuestas voluntarias."
+            },
+            {
+                "text": "La posibilidad de alterar la frecuencia y dirección de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "La oportunidad de dar un papel central a los refuerzos como explicativos de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es lo fundamental en el condicionamiento clásico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "La observación por parte del sujeto de la conducta a realizar."
+            },
+            {
+                "text": "El reforzador empleado."
+            },
+            {
+                "text": "La relación de contigüidad entre los estímulos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De qué manera consideró McDougall a los instintos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 56)",
+        "responses": [
+            {
+                "text": "En cuanto a su similitud con las respuestas reflejas."
+            },
+            {
+                "text": "Fuentes irracionales y apremiantes de conducta.",
+                "correct": true
+            },
+            {
+                "text": "Como fuerzas mecánicas."
+            }
+        ]
+    },
+    {
+        "text": "¿A qué teoría evolucionista corresponde el principio del uso y del desuso?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 19)",
+        "responses": [
+            {
+                "text": "Teoría lamarckiana.",
+                "correct": true
+            },
+            {
+                "text": "Teoría evolucionista actual."
+            },
+            {
+                "text": "Teoría darwinista."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es lo que lleva a actuar al animal según la ley del efecto?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "El impulso.",
+                "correct": true
+            },
+            {
+                "text": "El motivo."
+            },
+            {
+                "text": "Operar sobre el ambiente."
+            }
+        ]
+    },
+    {
+        "text": "Considerando la relación entre la motivación y el aprendizaje por condicionamiento clásico, ¿en qué consiste la técnica de la devaluación del reforzador?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 138)",
+        "responses": [
+            {
+                "text": "En la reducción del valor de incentivo del reforzador una vez aprendida la conducta."
+            },
+            {
+                "text": "La disminución del valor motivacional del EI una vez conseguido el condicionamiento.",
+                "correct": true
+            },
+            {
+                "text": "En la reducción de la relación EC-EI."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste el condicionamiento clásico inhibitorio? En que el EC inhibitorio, como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "(p. 91)",
+        "responses": [
+            {
+                "text": "EC-EI, retiene una RC.",
+                "correct": true
+            },
+            {
+                "text": "R-reforzador, resultado del emparejamiento retiene una RC."
+            },
+            {
+                "text": "EC-respuesta vicaria, inhibe la imitación."
+            }
+        ]
+    }
+]

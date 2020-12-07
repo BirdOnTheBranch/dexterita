@@ -1,0 +1,2282 @@
+[
+    {
+        "text": "El aislamiento estacional es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aislamiento etológico."
+            },
+            {
+                "text": "Mecanismo de aislamiento reproductivo precigótico.",
+                "correct": true
+            },
+            {
+                "text": "Aptitud inclusiva."
+            },
+            {
+                "text": "Mecanismo de aislamiento postcigótico."
+            }
+        ]
+    },
+    {
+        "text": "El efecto fundador ocurre cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se establece una población a partir de muy pocos individuos.",
+                "correct": true
+            },
+            {
+                "text": "La eficacia biológica de un determinado genotipo es mayor que la del resto."
+            },
+            {
+                "text": "La mutación actúa generando nuevos alelos."
+            },
+            {
+                "text": "Las frecuencias génicas cambian como consecuencia de la selección natural."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes ideas no se ajusta a los planteamientos lamarckianos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El organismo es sujeto activo de la evolución al ser su propio adaptador al medio a través de actos volitivos"
+            },
+            {
+                "text": "La causa del cambio en las características orgánicas de cada individuo es el uso y el desuso"
+            },
+            {
+                "text": "Las especies no son estables a lo largo del tiempo, sino que se trasforman en otras nuevas en función de las condiciones ambientales"
+            },
+            {
+                "text": "La variabilidad natural que presentan las poblaciones hace posible la diferenciación paulatina que conducirá a la aparición de una nueva especie",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Hoy por hoy, se puede afirmar científicamente que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las especies tienen un deseo íntimo de alcanzar la perfección."
+            },
+            {
+                "text": "Los fijistas tenían razón."
+            },
+            {
+                "text": "Lamarck no era evolucionista."
+            },
+            {
+                "text": "La variabilidad es esencial para que pueda tener lugar la selección natural.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la evolución de Darwin indica que la selección natural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Origina la variabilidad existente en las poblaciones."
+            },
+            {
+                "text": "Actúa sobre la variabilidad genética existente en las poblaciones propiciando la aparición de nuevas especies.",
+                "correct": true
+            },
+            {
+                "text": "Elimina gran parte de la variabilidad existente en las poblaciones."
+            },
+            {
+                "text": "Impide la evolución de las especies más simples."
+            }
+        ]
+    },
+    {
+        "text": "El concepto biológico de especie:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Asume que cada especie es una entidad inmutale."
+            },
+            {
+                "text": "Se fundamenta en que dentro de cada especie no existen variaciones notables."
+            },
+            {
+                "text": "Señala que ésta es una población de organismos aislados reproductivamente de otras comunidades.",
+                "correct": true
+            },
+            {
+                "text": "Coincide con el concepto tipológico de especie de Linneo."
+            }
+        ]
+    },
+    {
+        "text": "En una población en la que hay equilibrio genético para un gen con dos alelos (A1 dominante, A2 recesivo) la frecuencia del alelo A1 es de 0,85 y la del alelo A2 es de 0,15 ¿cuál será la frecuencia del genotipo homocigoto dominante?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,255."
+            },
+            {
+                "text": "0,850."
+            },
+            {
+                "text": "0,722.",
+                "correct": true
+            },
+            {
+                "text": "0,425."
+            }
+        ]
+    },
+    {
+        "text": "La selección natural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Provoca cambios en la eficacia biológica.",
+                "correct": true
+            },
+            {
+                "text": "Es siempre estabilizadora."
+            },
+            {
+                "text": "No altera ni las frecuencias génicas ni las genotípicas."
+            },
+            {
+                "text": "Actúa sobre el grupo, población o especie, no sobre los individuos que los constituyen."
+            }
+        ]
+    },
+    {
+        "text": "Existen varios factores que conducen a la extinción de las especies. Uno muy importante es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El aumento de la variabilidad genética."
+            },
+            {
+                "text": "La especiación alopátrica."
+            },
+            {
+                "text": "La disminución de la variabilidad genética.",
+                "correct": true
+            },
+            {
+                "text": "La coevolución."
+            }
+        ]
+    },
+    {
+        "text": "En una población existe un gen con dos alelos, uno dominante (A) y otro recesivo (a). Si la frecuencia del genotipo homocigoto dominante (AA) es 0,5, la del homocigoto recesivo (aa) es 0,3 y la del heterocigoto 0,2 ¿Cuáles serán las frecuencias de cada uno de los alelos en esa población?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A = 0,7 y a = 0,3"
+            },
+            {
+                "text": "A = 0,5 y a = 0,3"
+            },
+            {
+                "text": "A = 0,6 y a = 0,4",
+                "correct": true
+            },
+            {
+                "text": "A = 0,8 y a = 0,2"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes evidencias o planteamientos potenció, a principios del siglo XIX, el estudio científico del origen de las especies?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En eras pasadas existieron seres vivos idénticos a los actuales."
+            },
+            {
+                "text": "La Biblia sólo recoge la última creación de Dios, aunque se demostró la existencia de creaciones previas seguidas de grandes catástrofes."
+            },
+            {
+                "text": "Los seres vivos, a pesar de su diversidad, presentaban características anatómicas y fisiológicas parecidas.",
+                "correct": true
+            },
+            {
+                "text": "Los restos fósiles encontrados no guardaban ninguna relación con las especies actuales."
+            }
+        ]
+    },
+    {
+        "text": "El denominado melanismo industrial es un ejemplo de selección:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estabilizadora."
+            },
+            {
+                "text": "Disruptiva."
+            },
+            {
+                "text": "Sexual."
+            },
+            {
+                "text": "Direccional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los principios de la herencia de los caracteres adquiridos y la “ley” del uso y desuso de Lamarck:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explican gran parte de la variabilidad genotípica existente en las poblaciones."
+            },
+            {
+                "text": "Lo indicado en todas las opciones es correcto."
+            },
+            {
+                "text": "Intentaron explicar erróneamente el origen de la variabilidad y su mantenimiento en las siguientes generaciones.",
+                "correct": true
+            },
+            {
+                "text": "Fueron un intento certero de explicar la causa de la evolución."
+            }
+        ]
+    },
+    {
+        "text": "La mutación:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En los organismos pluricelulares, siempre es transmitida a la siguiente generación"
+            },
+            {
+                "text": "No afecta a la variabilidad existente entre los seres vivos al no producirse en el material hereditario"
+            },
+            {
+                "text": "Es un factor de alteración de las frecuencias alélicas y, por tanto, genotípicas de una población",
+                "correct": true
+            },
+            {
+                "text": "Se produce para que los organismos puedan adaptarse a las condiciones ambientales"
+            }
+        ]
+    },
+    {
+        "text": "En una población de 10.000 habitantes en la que diversos indicadores mostraban que estaba en equilibrio genético, se observó que 25 personas padecían un defecto auditivo de herencia autosómica recesiva ¿Cuál es la frecuencia del alelo recesivo en dicha población?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,0025"
+            },
+            {
+                "text": "0,5"
+            },
+            {
+                "text": "0,05",
+                "correct": true
+            },
+            {
+                "text": "0,95"
+            }
+        ]
+    },
+    {
+        "text": "El mecanismo de especiación por el que de una población surgen dos poblaciones diferentes y reproductivamente aisladas se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selección natural."
+            },
+            {
+                "text": "Cladogénesis.",
+                "correct": true
+            },
+            {
+                "text": "Evolución filética."
+            },
+            {
+                "text": "Anagénesis."
+            }
+        ]
+    },
+    {
+        "text": "La superioridad de los heterocigotos explica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La deriva genética."
+            },
+            {
+                "text": "La especiación alopátrica."
+            },
+            {
+                "text": "La especiación simpátrica."
+            },
+            {
+                "text": "El mantenimiento de alelos que en homocigosis reducen la eficacia biológica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué afirmación de las expuestas a continuación NO refleja lo que actualmente sabemos sobre las mutaciones?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ocurren al azar."
+            },
+            {
+                "text": "Su carácter beneficioso o perjudicial es ajeno al origen de la propia mutación."
+            },
+            {
+                "text": "Se producen de manera aleatoria."
+            },
+            {
+                "text": "Ante un determinado ambiente, el organismo sería capaz de desencadenar cambios en su ADN para adaptarse mejor a dicho ambiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se dice que hay deriva genética cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ninguna de las anteriores."
+            },
+            {
+                "text": "Las frecuencias alélicas cambian por razones meramente aleatorias.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Las frecuencias genéticas cambian por razones no aleatorias."
+            }
+        ]
+    },
+    {
+        "text": "De los tres factores necesarios, según Darwin, para explicar la evolución, cuál cree usted que era el mejor explicado por el propio Darwin:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección natural.",
+                "correct": true
+            },
+            {
+                "text": "La trasmisión de la herencia biológica."
+            },
+            {
+                "text": "El origen de la variabilidad."
+            },
+            {
+                "text": "Ninguna de las opciones."
+            }
+        ]
+    },
+    {
+        "text": "Para que se dé el Equilibrio de Hardy-Weinberg:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tienen que darse movimientos migratorios en la población de estudio."
+            },
+            {
+                "text": "Debe haber un cambio continuo en los alelos de los loci de la población."
+            },
+            {
+                "text": "Debe haber cambios en la capacidad reproductora en las diferentes generaciones."
+            },
+            {
+                "text": "Los apareamientos deben ser al azar (panmícticos)",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El conjunto de individuos capaces de reproducirse entre sí y que no pueden hacerlo fuera de dicho conjunto es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una raza."
+            },
+            {
+                "text": "Un acervo genético."
+            },
+            {
+                "text": "Una especie.",
+                "correct": true
+            },
+            {
+                "text": "Una población."
+            }
+        ]
+    },
+    {
+        "text": "Cuando por efecto de la selección natural en una población va disminuyendo la frecuencia de los individuos que presentan una característica situada en uno de los extremos de la distribución fenotípica, el tipo de selección que ha estado actuando es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dependiente de frecuencia."
+            },
+            {
+                "text": "Direccional.",
+                "correct": true
+            },
+            {
+                "text": "Disruptiva"
+            },
+            {
+                "text": "Estabilizadora."
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones tienen un carácter:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Beneficioso por definición."
+            },
+            {
+                "text": "Preadaptativo.",
+                "correct": true
+            },
+            {
+                "text": "Postadaptativo."
+            },
+            {
+                "text": "Letal por definición."
+            }
+        ]
+    },
+    {
+        "text": "La poblaciones de pinzones de las islas Galápagos suponen un claro ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto fundador.",
+                "correct": true
+            },
+            {
+                "text": "Cuello de botella."
+            },
+            {
+                "text": "Ambas son falsas."
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Darwin observó que el origen de las distintas especies de pinzones estrechamente relacionadas que observó en las islas Galápagos era resultado de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El aislamiento geográfico."
+            },
+            {
+                "text": "La existencia de variaciones intraespecíficas que les permitieron adaptarse a nuevas condiciones ambientales."
+            },
+            {
+                "text": "La adaptación de nichos ecológicos vacíos."
+            },
+            {
+                "text": "Lo recogido en las anteriores es correcto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Tras analizar la altura de una población de primates a lo largo de 30 generaciones se observa que, si bien la talla media de los machos es de 35 cm, el 50% de ellos tiene una altura media de 50 cm y el otro 50% de 20 cm. Ante estos datos, podemos concluir que esa distribución fenotípica obedece a la acción de la selección:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Direccional"
+            },
+            {
+                "text": "Sexual"
+            },
+            {
+                "text": "Estabilizadora"
+            },
+            {
+                "text": "Disruptiva",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La selección natural de Darwin:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Propone un mecanismo natural que explica la evolución.",
+                "correct": true
+            },
+            {
+                "text": "Ofrece una respuesta a por qué existe la reproducción."
+            },
+            {
+                "text": "Explica el origen de las diferencias entre individuos y entre especies."
+            },
+            {
+                "text": "Explica la base genética de la evolución."
+            }
+        ]
+    },
+    {
+        "text": "Los datos actuales apuntan a que la variabilidad genética existente en las poblaciones se puede mantener:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porque es neutra y no aporta ventaja o desventaja alguna a la reproducción."
+            },
+            {
+                "text": "Por selección natural."
+            },
+            {
+                "text": "Por la aportación continua de alelos recesivos que hacen los heterocigotos."
+            },
+            {
+                "text": "Todas las aportaciones recogidas en las otras opciones son complementarias como explicación de la variabilidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los pilares que sustentan el origen de la evolución de los organismos son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Variabilidad."
+            },
+            {
+                "text": "Selección natural."
+            },
+            {
+                "text": "Herencia."
+            },
+            {
+                "text": "Las otras tres opciones son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La evolución convergente:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Origina dos o más poblaciones reproductivamente aisladas debido a la aparición de una divergencia genética."
+            },
+            {
+                "text": "Consiste en la interacción entre dos o más especies distintas, lo que desencadena una presión selectiva de unas sobre otras."
+            },
+            {
+                "text": "Se refiere al hecho de que diferentes especies pueden mostrar determinados parecidos funcionales sin que entre ellas exista un parentesco genético.",
+                "correct": true
+            },
+            {
+                "text": "Implica necesariamente la presencia de homologías."
+            }
+        ]
+    },
+    {
+        "text": "La Teoría de la Evolución por selección natural avala:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La idea de que la conducta no tiene nada que ver con la adaptación biológica, al menos en la especie humana."
+            },
+            {
+                "text": "La utilización de tests para pronosticar la conducta humana."
+            },
+            {
+                "text": "El uso de animales como modelos para comprender el comportamiento humano.",
+                "correct": true
+            },
+            {
+                "text": "El dato de que la especie humana es fruto de una creación divina especial, diferente de la de los demás seres vivos."
+            }
+        ]
+    },
+    {
+        "text": "El concepto de Coeficiente de Selección hace referencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al efecto de la selección natural sobre la eficacia biológica de un determinado genotipo.",
+                "correct": true
+            },
+            {
+                "text": "Al efecto de la eficacia biológica sobre un determinado carácter."
+            },
+            {
+                "text": "Al número de descendientes que aporta cada organismo a la siguiente generación."
+            },
+            {
+                "text": "Al valor adaptativo."
+            }
+        ]
+    },
+    {
+        "text": "Las mutaciones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aparecen para adaptar a los organismos a su medio ambiente."
+            },
+            {
+                "text": "Son uno de los factores de alteración de las frecuencias alélicas de una población.",
+                "correct": true
+            },
+            {
+                "text": "No se producen de manera aleatoria."
+            },
+            {
+                "text": "Son responsables de la enorme diversidad genética que aparece generación tras generación en las poblaciones con reproducción sexual."
+            }
+        ]
+    },
+    {
+        "text": "El médico británico Archibald E. Garrod (1857-1936) introdujo el término «errores metabólicos» (inborn errors of metabolism) para referirse a los fallos metabólicos de origen hereditario. Es considerado por ello el fundador de la genética bioquímica. En 1902 publicó su trabajo sobre la alcaptonuria (Garrod, Archibald E. (1902): The Incidence of Alkaptonuria: A Study in Chemical Individuality. Lancet, vol. 11, 1616-1620), enfermedad causada por una de las diversas alteraciones conocidas del metabolismo del aminoácido esencial fenilalanina (Figura). Concretamente, está originada por una mutación de carácter recesivo en el gen de la enzima homogentisato 1,2-dioxigenasa, encargada de transformar el ácido homogentísico en ácido maleiIacetoacético. La mutación hace que la enzima no funcione adecuadamente y que, por tanto, el ácido homogentísico se acumule anormalmente en los cartílagos, lo cual termina provocando artritis. Además, dado que el ácido homogentísico se oscurece con la luz solar, la orina de los pacientes se vuelve oscura, al igual que los cartílagos (pabellones auditivos, punta de la nariz y paladar). En un estudio realizado en una población europea en equilibrio, se encontró que la incidencia de la alcaptonuria era de una persona por cada millón de habitantes ¿Cuál será la frecuencia del genotipo homocigoto dominante, recesivo y heterocigoto en esa población?: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,998001; 0,000001 y 0,001998",
+                "correct": true
+            },
+            {
+                "text": "0,998001; 0,000001 y 0,000999"
+            },
+            {
+                "text": "0,999998000001; 0,000000000001 y 0,000001999998"
+            },
+            {
+                "text": "0,999; 0,001 y 0,001998"
+            }
+        ]
+    },
+    {
+        "text": "En relación con la variabilidad genética, que aparece en las poblaciones generación tras generación, actualmente sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se produce principalmente por mutación en el material hereditario de las células somáticas."
+            },
+            {
+                "text": "Se debe fundamentalmente a la herencia de los caracteres adquiridos."
+            },
+            {
+                "text": "No es imprescindible para que exista evolución."
+            },
+            {
+                "text": "Tiene su origen, entre otras causas, en la recombinación génica que ocurre durante la meiosis.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El aislamiento etológico es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto fundador."
+            },
+            {
+                "text": "Selección natural dependiente de frecuencia."
+            },
+            {
+                "text": "Mecanismo de aislamiento postcigótico."
+            },
+            {
+                "text": "Mecanismo de aislamiento reproductivo precigótico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que en una población que está en equilibrio el carácter recesivo (el que se manifiesta cuando el genotipo es homocigótico recesivo) aparece en uno de cada 10.000 nacimientos, dígase, suponiendo que la aparición de nuevas mutaciones de este gen es prácticamente nula ¿Qué porcentaje aproximado de portadores (heterocigóticos) hay en la población?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,01%"
+            },
+            {
+                "text": "1,98%",
+                "correct": true
+            },
+            {
+                "text": "98%"
+            },
+            {
+                "text": "0,1%"
+            }
+        ]
+    },
+    {
+        "text": "En una población en equilibrio un gen presenta dos alelos (A1 y A2). Si la frecuencia del genotipo A1A1 es de 0,49 ¿Cuál es la frecuencia del alelo A2?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,7"
+            },
+            {
+                "text": "0,3",
+                "correct": true
+            },
+            {
+                "text": "0,51"
+            },
+            {
+                "text": "1"
+            }
+        ]
+    },
+    {
+        "text": "En una población en equilibrio existe un locus con dos alelos: A1 y A2. Si la frecuencia del genotipo A2A2 es 0,25 ¿Cuál será la frecuencia del genotipo A1A1?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,05"
+            },
+            {
+                "text": "0,50"
+            },
+            {
+                "text": "0,75"
+            },
+            {
+                "text": "0,25",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los sistemas ABO y Rhesus (Rh) son los dos principales sistemas sanguíneos por las fuertes reacciones inmunológicas que provocan (una persona puede llegar a morir si recibe una transfusión de un grupo distinto al suyo), sin embargo, existen otros sistemas sanguíneos (más de veinte), denominados menores, que también pueden provocar reacciones inmunológicas severas. Uno de éstos es el sistema Diego, descubierto conjuntamente en Venezuela, en 1955, por Miguel Layrisse y Tulio Arends. El sistema Diego está formado por dos alelos autosómicos codominantes, el Dia y el Dib. El Dia se encuentra en amerindios y en general en la población de raza mongoloide, y está muy poco presente en la raza negroide y caucasoide, por lo que se considera un marcador genético de aquella raza. El descubrimiento, por tanto, además de su trascendencia médica y científica, tuvo también una gran importancia antropológica porque permitió establecer de una forma evidente el vínculo genético entre los mongoloides asiáticos y los indios americanos. En Costa Rica, los doctores Marín y Duarte (Marin Rojas, R.A. y Duarte Sibaja, M. O. (1997): Fenotipos, genotipos y genes del sistema Diego en Costa Rica. Revista Costarricense de Ciencias. Médicas.18 (3), 43-45), durante un período de cinco años, recogieron muestras de sangre de una población en equilibrio constituida por 554 personas. De las muestras analizadas, 6 fueron positivas para Dia y 548 negativas para ese antígeno ¿Cuál es la frecuencia del alelo Dia en Costa Rica? A la luz de estos datos ¿cree que la mayor parte de la población costarricense es de origen asiático?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,0039; si"
+            },
+            {
+                "text": "0,018; no"
+            },
+            {
+                "text": "0,9946; no"
+            },
+            {
+                "text": "0,0054; no",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Constituye un mecanismo de aislamiento postcigótico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El aislamiento mecánico"
+            },
+            {
+                "text": "La esterilidad del híbrido",
+                "correct": true
+            },
+            {
+                "text": "El aislamiento etológico"
+            },
+            {
+                "text": "El aislamiento gamético"
+            }
+        ]
+    },
+    {
+        "text": "La evolución es resultado de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la supervivencia diferencial de los individuos."
+            },
+            {
+                "text": "Del carácter lamarckiano de las mutaciones."
+            },
+            {
+                "text": "La heredabilidad de los caracteres adquiridos."
+            },
+            {
+                "text": "La reproducción diferencial de los individuos de la población.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La inviabilidad del cigoto híbrido es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mecanismo de aislamiento precigótico."
+            },
+            {
+                "text": "Ambas son falsas."
+            },
+            {
+                "text": "Mecanismo de aislamiento postcigótico.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "La selección natural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Actúa sobre los individuos.",
+                "correct": true
+            },
+            {
+                "text": "Actúa sobre grupos y no sobre individuos."
+            },
+            {
+                "text": "Es siempre estabilizadora."
+            },
+            {
+                "text": "Puede ser polimórfica o desequilibrada."
+            }
+        ]
+    },
+    {
+        "text": "En una población de 800 personas existe un gen con dos alelos (A:dominante, a:recesivo). De éstas, 400 personas muestran el genotipo homocigoto dominante y 200 el genotipo homocigoto recesivo. ¿Cuál es la frecuencia del alelo recesivo en esta población?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,25."
+            },
+            {
+                "text": "0,5."
+            },
+            {
+                "text": "0,375.",
+                "correct": true
+            },
+            {
+                "text": "0,3."
+            }
+        ]
+    },
+    {
+        "text": "Los polimorfismos equilibrados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No contribuyen al mantenimiento de la variabilidad genética."
+            },
+            {
+                "text": "Reducen drásticamente la variabilidad genética de una población."
+            },
+            {
+                "text": "Se originan y mantienen por mutaciones alélicas."
+            },
+            {
+                "text": "Son mantenidos activamente por la selección natural.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La selección natural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una explicación tautológica de la evolución."
+            },
+            {
+                "text": "Determina la producción de diferencias entre los individuos en el número de descendientes.",
+                "correct": true
+            },
+            {
+                "text": "No es una explicación plausible de la evolución."
+            },
+            {
+                "text": "Tiene como consecuencia única y exclusiva una mayor probabilidad de supervivencia en unos individuos."
+            }
+        ]
+    },
+    {
+        "text": "Para un determinado locus con dos alelos, la frecuencia del alelo dominante en una población en equilibrio es de 0,6 ¿cuál es la frecuencia del genotipo heterocigoto?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.36"
+            },
+            {
+                "text": "0.48",
+                "correct": true
+            },
+            {
+                "text": "0.16"
+            },
+            {
+                "text": "0.24"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de selección natural se ha apuntado como mecanismo para explicar la anagénesis:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sexual."
+            },
+            {
+                "text": "Disruptiva."
+            },
+            {
+                "text": "Estabilizadora."
+            },
+            {
+                "text": "Direccional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si una población permanece sin cambios en sus características fenotípicas a lo largo de un considerable período de tiempo, puede ser debido a que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se producen mutaciones."
+            },
+            {
+                "text": "Está actuando la selección natural estabilizadora.",
+                "correct": true
+            },
+            {
+                "text": "No se dan fenómenos migratorios."
+            },
+            {
+                "text": "Hay ausencia de selección natural."
+            }
+        ]
+    },
+    {
+        "text": "Todos los rasgos de la personalidad tienen herencia poligénica, pero suponga que la Franqueza fuera un rasgo regulado por un solo gen con dos alelos, F1 y F2, siendo F1 el dominante. Suponga también que tras un estudio hecho a gran escala en 2015 en una población española se determinó que 2,4 millones de personas tenían el genotipo homocigótico dominante, 3 millones el heterocigoto y 0,6 millones el homocigótico recesivo. Si esta población fuera de 6 millones de personas, ¿cuál será la frecuencia del alelo recesivo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,35",
+                "correct": true
+            },
+            {
+                "text": "0,55"
+            },
+            {
+                "text": "0,65"
+            },
+            {
+                "text": "0,1"
+            }
+        ]
+    },
+    {
+        "text": "Cuando en una población humana se da el fenómeno de selección natural dependiente de la frecuencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La eficacia biológica de los menos frecuentes disminuye."
+            },
+            {
+                "text": "La eficacia biológica del más raro aumenta.",
+                "correct": true
+            },
+            {
+                "text": "Aumenta el valor del coeficiente de selección para los menos comunes."
+            },
+            {
+                "text": "Los mas frecuentes tienen preferencia para el emparejamiento."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que se pueda encontrar entre los marsupiales especies más similares en términos de estrategias adaptativas a especies de mamíferos que a especies marsupiales (es el caso del lobo de Tasmania, un marsupial, que tenía una apariencia externa y un comportamiento mucho más parecido al del lobo (Canis lupus) que, por ejemplo al de los canguros, con los que comparte un ancestro más moderno), constituye un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Evolución filética."
+            },
+            {
+                "text": "Evolución paralela.",
+                "correct": true
+            },
+            {
+                "text": "Evolución divergente."
+            },
+            {
+                "text": "Coevolución."
+            }
+        ]
+    },
+    {
+        "text": "En su momento, una de las principales aportaciones de la genética de la Teoría Sintética de la Evolución fue la de señalar que la evolución se produce por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección en cada generación de los gametos más aptos."
+            },
+            {
+                "text": "Adaptaciones al ambiente de especies que sólo se reproducen entre sí."
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas."
+            },
+            {
+                "text": "Cambios en la frecuencia de los alelos de las poblaciones naturales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las frecuencias alélicas de una población pueden cambiar por efecto del azar, en ausencia de migración, mutación y selección natural, siempre que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tamaño de la población sea pequeño.",
+                "correct": true
+            },
+            {
+                "text": "El tamaño de la población sea grande."
+            },
+            {
+                "text": "Los emparejamientos entre los individuos de la población no sean aleatorios."
+            },
+            {
+                "text": "Los emparejamientos entre los individuos de la población sea aleatorios."
+            }
+        ]
+    },
+    {
+        "text": "La tasa de mutación de un determinado locus es de 10-5. Si han transcurrido 6000 generaciones desde que en ese locus aparecido por mutación un alelo (pasando el locus a tener dos alelos en la población), sin tener en cuenta otros factores  ¿cuál sería la frecuencia del nuevo alelo en la actualidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "6%.",
+                "correct": true
+            },
+            {
+                "text": "0,6%."
+            },
+            {
+                "text": "0,06%."
+            },
+            {
+                "text": "0,00001%."
+            }
+        ]
+    },
+    {
+        "text": "Darwin defendía que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los individuos con rasgos desfavorables para la lucha por la supervivencia tienden a dejar menos descendientes en la siguiente generación."
+            },
+            {
+                "text": "Los descendientes tienden a heredar las características de los progenitores."
+            },
+            {
+                "text": "La persistencia de unos rasgos favorables a lo largo de generaciones y la eliminación de los desfavorables puede contribuir a que aparezcan nuevas especies."
+            },
+            {
+                "text": "Lo recogido en las otras tres opciones es correcto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En 1952, Joshua Lederberg expuso distintas colonias de bacterias de la misma especie a un antibiótico y observó que, si bien muchas de las colonias morían, en algunas sobrevivían individuos que eran capaces de seguir reproduciéndose en presencia del antibiótico. En el marco de la teoría sintética de la evolución, estos resultados ponen de manifiesto que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El antibiótico hizo resistentes a las bacterias que sobrevivieron provocando una mutación en ellas."
+            },
+            {
+                "text": "Las bacterias que sobrevivieron lograron experimentar una mutación que las hizo resistentes al antibiótico."
+            },
+            {
+                "text": "Las bacterias que sobrevivieron fueron capaces de adaptarse activamente a las nuevas circunstancias ambientales."
+            },
+            {
+                "text": "Ya antes de la exposición al antibiótico existían bacterias resistentes al antibiótico que fueron las que sobrevivieron.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Considerada desde el punto de vista de la eficacia biológica, la selección sexual:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un caso especial de la selección disruptiva en lo relativo al tamaño corporal."
+            },
+            {
+                "text": "Es un tipo distinto de la selección natural."
+            },
+            {
+                "text": "Es un caso especial de la selección natural.",
+                "correct": true
+            },
+            {
+                "text": "Favorece el apareamiento entre los fenotipos más frecuentes."
+            }
+        ]
+    },
+    {
+        "text": "En una población de 200.000 habitantes se detectaron 20.000 afectados por una enfermedad autosómica dominante dependiente de un gen con dos alelos. Suponiendo que la población está en equilibrio ¿Cuál es la frecuencia del alelo recesivo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,81."
+            },
+            {
+                "text": "0,18."
+            },
+            {
+                "text": "√0,10."
+            },
+            {
+                "text": "√0,90.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La selección natural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un proceso totalmente diferente de la selección sexual."
+            },
+            {
+                "text": "Actúa siempre disminuyendo la eficacia biológica de los heterocigotos."
+            },
+            {
+                "text": "Puede mantener las distintas variantes de un rasgo dando lugar a la aparición de polimorfismos.",
+                "correct": true
+            },
+            {
+                "text": "Favorece siempre a individuos con fenotipo intermedio."
+            }
+        ]
+    },
+    {
+        "text": "La especiación simpátrica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es lo mismo que el aislamiento ecológico."
+            },
+            {
+                "text": "Se da sin necesidad de que haya separación física entre los individuos.",
+                "correct": true
+            },
+            {
+                "text": "Se pospone la alarma."
+            },
+            {
+                "text": "Disimula al pasar."
+            }
+        ]
+    },
+    {
+        "text": "Se sabe que en una población, para un carácter dependiente de un locus con dos alelos, la frecuencia del alelo dominante es de 0,30. ¿Cuál será la frecuencia del genotipo homocigoto recesivo para ese carácter si la población está en equilibrio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,16."
+            },
+            {
+                "text": "0,49.",
+                "correct": true
+            },
+            {
+                "text": "0,13."
+            },
+            {
+                "text": "0,70."
+            }
+        ]
+    },
+    {
+        "text": "Cuando, tras un proceso de especiación, los genes procedentes de un gen ancestral común siguen conservando la misma función en las nuevas especies, se les llama genes:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Anagénicos."
+            },
+            {
+                "text": "Cladogénicos."
+            },
+            {
+                "text": "Ortólogos.",
+                "correct": true
+            },
+            {
+                "text": "Parálogos."
+            }
+        ]
+    },
+    {
+        "text": "Se sabe que en la aparición de la esquizofrenia está implicado el neurotrasmisor dopamina y que dos de los alelos, de los varios posibles, relacionados con ese neirotrasmisor son los denominados D1 y D2 dopaminérgicos. Suponga que sólo esos dos alelos intervienen en esa patología, que la presencia del alelo D1 determinara la manifestación de síntomas psicóticos y que en la población se dieran 3 fenotipos claramente diferenciados: normales (N, genotipo D2D2), con síntomas psicóticos (SP, genotipo D1D2), y con esquizofrenia severa (ES, genotipo D1D1). Finalmente, suponga también que se hace un estudio en una localidad que tiene una población total de 5000 habitantes donde el número de personas con fenotipo SP es de 50 y el fenotipo ES es de 25. ¿Cuál será la frecuencia génica del alelo D2?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0.055"
+            },
+            {
+                "text": "0.0125"
+            },
+            {
+                "text": "0.01"
+            },
+            {
+                "text": "0.99",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El científico que, antes de Darwin, puso en evidencia que el concepto tipológico de especie era falso fue:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Linneo.",
+                "correct": true
+            },
+            {
+                "text": "Lamarck."
+            },
+            {
+                "text": "Ninguna de las anteriores."
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "La consecuencia más relevante de la evolución es la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Extinción."
+            },
+            {
+                "text": "Ninguna de las anteriores."
+            },
+            {
+                "text": "Especiación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto al equilibrio génico de una población sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es independiente del tamaño de la población."
+            },
+            {
+                "text": "Se mantiene siempre constante generación tras generación."
+            },
+            {
+                "text": "Se altera cuando aparecen nuevos alelos por mutación.",
+                "correct": true
+            },
+            {
+                "text": "Se mantiene por la diferente capacidad reproductora de los distintos genotipos."
+            }
+        ]
+    },
+    {
+        "text": "En una población de 40000 habitantes en la que el 4% padece una enfermedad autosómica recesiva producida por uno de los dos alelos de un gen ¿Cuántos individuos serán portadores de la enfermedad si la población está en equilibrio?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "34400."
+            },
+            {
+                "text": "800."
+            },
+            {
+                "text": "12800.",
+                "correct": true
+            },
+            {
+                "text": "1568."
+            }
+        ]
+    },
+    {
+        "text": "Los polimorfismos equilibrados son consecuencia de la selección:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Disruptiva."
+            },
+            {
+                "text": "Estabilizadora.",
+                "correct": true
+            },
+            {
+                "text": "Sexual."
+            },
+            {
+                "text": "Direccional."
+            }
+        ]
+    },
+    {
+        "text": "Si bien los procesos evolutivos suelen ser lentos, en determinadas circunstancias se produce una diversificación rápida que conduce a que una especie se diversifique como consecuencia de la ocupación de nichos ecológicos vacíos. A este proceso se le conoce con el nombre de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cladogénesis."
+            },
+            {
+                "text": "Evolución filética."
+            },
+            {
+                "text": "Radiación adaptativa.",
+                "correct": true
+            },
+            {
+                "text": "Diversificación evolutiva."
+            }
+        ]
+    },
+    {
+        "text": "Se dice que existe sobredominancia cuando la eficacia biológica del:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Homocigoto recesivo es menor que 1."
+            },
+            {
+                "text": "Cuando ocurre lo indicado en las otras tres opciones.",
+                "correct": true
+            },
+            {
+                "text": "Heterocigoto es 1."
+            },
+            {
+                "text": "Homocigoto dominante es menor que 1."
+            }
+        ]
+    },
+    {
+        "text": "La aparición de una nueva especie mediante el mecanismo de anagénesis necesita:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la selección de los individuos con fenotipos más claramente diferentes de la población original.<br>"
+            },
+            {
+                "text": "De transformación paulatina a lo largo del tiempo.",
+                "correct": true
+            },
+            {
+                "text": "Del aislamiento geográfico."
+            },
+            {
+                "text": "Del aislamiento de los nichos ecológicos de las poblaciones."
+            }
+        ]
+    },
+    {
+        "text": "El síndrome de Ellis Van Creveld o displasia condroectodérmica, es un síndrome polimalformativo que se caracteriza, entre otras alteraciones, por el acortamiento de las extremidades superiores e inferiores y la aparición de polidactilia postaxial (duplicación del pulgar). El responsable es un alelo recesivo situado en el cromosoma 4. En un estudio realizado en una población de un millón de habitantes, 4 personas presentan este síndrome y 3.992 resultaron ser portadores ¿Cuál es la frecuencia del alelo responsable de ese síndrome? ¿Está la población en equilibrio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,000004; si"
+            },
+            {
+                "text": "0,998; no"
+            },
+            {
+                "text": "0,001996; si"
+            },
+            {
+                "text": "0,002; si",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La diversidad que aparece en las poblaciones generación tras generación se debe fundamentalmente a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las mutaciones."
+            },
+            {
+                "text": "Las poliploidías."
+            },
+            {
+                "text": "Las deleciones de nucleótidos."
+            },
+            {
+                "text": "La recombinación génica.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se hace un estudio en una población de 80.000 habitantes sobre un cierto rasgo psicológico que está regulado por un solo gen con dos alelos y se comprueba que, estando dicha población en equilibrio, la frecuencia alélica del alelo recesivo es de 0,2. ¿Cuántos habitantes llevarán el alelo dominante?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "3.200"
+            },
+            {
+                "text": "54.400"
+            },
+            {
+                "text": "51.200"
+            },
+            {
+                "text": "76.800",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Lamarck, los cambios necesarios para la adaptación de los organismo eran originados por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son falsas,"
+            },
+            {
+                "text": "La variabilidad natural."
+            },
+            {
+                "text": "Los propios organismos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La contribución fundamental de Darwin fue proponer:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una taxonomía para clasificar el mundo orgánico."
+            },
+            {
+                "text": "Las leyes de la herencia."
+            },
+            {
+                "text": "La explicación del origen de la variabilidad."
+            },
+            {
+                "text": "El principio explicativo de la evolución.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para Charles Darwin:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las especies comienzan siendo variedades poco diferenciadas dentro de una especie preexistente, que con el tiempo pasan a ser variedades muy marcadas y, finalmente, nuevas especies.",
+                "correct": true
+            },
+            {
+                "text": "El deseo de perfeccionamiento era la causa de la aparición de nuevas especies."
+            },
+            {
+                "text": "Las especies son resultado de creaciones múltiples e independientes."
+            },
+            {
+                "text": "La variabilidad existente en las poblaciones no fue un pilar fundamental en el que sustentar su teoría de la evolución."
+            }
+        ]
+    },
+    {
+        "text": "La Teoría Sintética de la evolución:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Integra la visión bíblica del origen del hombre con las aportaciones de la teoría darwinista de le evolución."
+            },
+            {
+                "text": "Es una teoría alternativa a la ofrecida por Darwin para explicar la evolución."
+            },
+            {
+                "text": "Integra la visión malthusiana con los nuevos datos geológicos ofrecidos por Lyell respecto a la edad de la Tierra."
+            },
+            {
+                "text": "Complementa la teoría darwinista porque explica la base genética de la variabilidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La especiación alopátrica implica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Divergencia en el acervo genético de dos poblaciones."
+            },
+            {
+                "text": "Aislamiento reproductivo entre poblaciones."
+            },
+            {
+                "text": "Algún tipo de polimorfismo equilibrado."
+            },
+            {
+                "text": "Las respuestas 'aislamiento reproductivo entre poblaciones' y 'divergencia en el acervo genético de dos poblaciones' son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Forma ya parte de la Historia de la Ciencia la descripción de los distintos picos de los pinzones que encontró Darwin en las islas Galápagos. El origen de los diversos tipos de picos en esos animales puede explicarse por un tipo de selección:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Direccional."
+            },
+            {
+                "text": "Estabilizadora."
+            },
+            {
+                "text": "Dependiente de la frecuencia."
+            },
+            {
+                "text": "Disruptiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El aislamiento reproductivo es un factor esencial para explicar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los polimorfismos equilibrados."
+            },
+            {
+                "text": "La deriva genética."
+            },
+            {
+                "text": "La superioridad de los heterocigotos."
+            },
+            {
+                "text": "La especiación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La selección natural:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Actúa siempre contra los genotipos heterocigotos."
+            },
+            {
+                "text": "Reduce sistemáticamente la variabilidad."
+            },
+            {
+                "text": "Incrementa siempre los genotipos con frecuencias altas."
+            },
+            {
+                "text": "Puede mantener activamente los polimorfismos presentes en la población.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El mantenimiento de las mutaciones silenciosas en las poblaciones parece ser debido a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección natural."
+            },
+            {
+                "text": "Ninguna de las anteriores."
+            },
+            {
+                "text": "El azar.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que el alelo recesivo que ocasiona la anemia falciforme (o drepanocítica) se mantenga en determinadas poblaciones, se explica por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selección sexual."
+            },
+            {
+                "text": "Una selección dependiente de frecuencia."
+            },
+            {
+                "text": "Un equilibrio puntuado."
+            },
+            {
+                "text": "La superioridad del heterocigoto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El coeficiente de selección se relaciona inversamente con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Adaptación."
+            },
+            {
+                "text": "Eficacia inclusiva."
+            },
+            {
+                "text": "Eficacia biológica.",
+                "correct": true
+            },
+            {
+                "text": "Selección natural."
+            }
+        ]
+    },
+    {
+        "text": "Un hecho clave de la primera mitad del siglo XX para la consolidación definitiva de la Teoría de la Evolución por Selección Natural fue: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El postulado de que la variabilidad en las proteínas se mantiene por azar."
+            },
+            {
+                "text": "El redescubrimiento de las leyes de Mendel.",
+                "correct": true
+            },
+            {
+                "text": "El apoyo social que, pese a los críticos, consiguió ."
+            },
+            {
+                "text": "La demostración de la existencia de polimorfismos de nucleótidos simple."
+            }
+        ]
+    },
+    {
+        "text": "El proceso que conduce a la supervivencia diferencial de los individuos de una población se conoce como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Eficacia inclusiva."
+            },
+            {
+                "text": "Adaptación."
+            },
+            {
+                "text": "Selección natural.",
+                "correct": true
+            },
+            {
+                "text": "Eficacia biológica."
+            }
+        ]
+    },
+    {
+        "text": "En una población africana nacen 6.200 individuos que no presentan el alelo de la anemia falciforme, 3.200 que son portadores y 400 que son homocigotos para ese alelo. En la siguiente generación, los descendientes de estos tres grupos (genotipos) son, respectivamente, 5.952, 3.840 y 0 ¿Cómo está actuando la selección natural en esta población?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Manteniendo la eficacia biológica de los homocigotos para el alelo de la anemia falciforme."
+            },
+            {
+                "text": "Disminuyendo la eficacia biológica de los que no portan el alelo de la anemia falciforme en un 80%."
+            },
+            {
+                "text": "Disminuyendo la eficacia biológica de los que no portan el alelo de la anemia falciforme en un 20%.",
+                "correct": true
+            },
+            {
+                "text": "Aumentándo la eficacia biológica de los portadores en un 25%."
+            }
+        ]
+    },
+    {
+        "text": "Según Darwin, las diferencias entre especies se originaban por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El azar."
+            },
+            {
+                "text": "Pangénesis."
+            },
+            {
+                "text": "La selección natural.",
+                "correct": true
+            },
+            {
+                "text": "La acumulación de variaciones fortuitas."
+            }
+        ]
+    },
+    {
+        "text": "Si en una población la selección natural actúa contra los fenotipos que están en homocigosis:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Disminuye poco a poco la frecuencia de alelos dominante y recesivos."
+            },
+            {
+                "text": "Se da un aumento del polimorfismo.",
+                "correct": true
+            },
+            {
+                "text": "Ambas son correctas."
+            },
+            {
+                "text": "Ambas son falsas."
+            }
+        ]
+    },
+    {
+        "text": "En una población de 5.000.000 de habitantes se determinó que 50.000 padecían una enfermedad autosómica recesiva producida por un gen con dos alelos ¿Cuál será el número de heterocigotos para esta enfermedad si la población está en equilibrio genético?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "500.000"
+            },
+            {
+                "text": "900.000",
+                "correct": true
+            },
+            {
+                "text": "4.050.000"
+            },
+            {
+                "text": "90000"
+            }
+        ]
+    },
+    {
+        "text": "El proceso de deriva genética tiene consecuencias en las poblaciones naturales si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "4",
+            "modelo": "4"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son falsas."
+            },
+            {
+                "text": "El tamaño de la población es pequeño.",
+                "correct": true
+            },
+            {
+                "text": "El tamaño de la población es grande."
+            },
+            {
+                "text": "Ambas son correctas."
+            }
+        ]
+    }
+]

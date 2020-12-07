@@ -1,0 +1,632 @@
+[
+    {
+        "text": "En el estudio de Buss sobre las diferencias entre hombres y mujeres en la elección de pareja, la predicción era que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 6-7 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Las mujeres preferirán una pareja con buenas perspectivas económicas, y los hombres darán más importancia a la fidelidad.",
+                "correct": true
+            },
+            {
+                "text": "Tanto los hombres como las mujeres preferirán una pareja que dé muestras de capacidad reproductiva."
+            },
+            {
+                "text": "Las mujeres darán más importancia que los hombres a la fidelidad de su pareja."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones refleja fundamentalmente un proceso interpersonal?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 9-11)",
+        "responses": [
+            {
+                "text": "Una manifestación en favor de los derechos de los animales."
+            },
+            {
+                "text": "Un político defendiendo la postura de su partido frente a otro de un partido rival."
+            },
+            {
+                "text": "Un cliente regateando el precio de un producto con el vendedor.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Obtenga el valor numérico de la actitud, según la Teoría de la acción razonada, en el siguiente caso. Para conocer la actitud de Raquel hacia la realización de una dieta equilibrada, ésta responde a un cuestionario sobre las creencias respecto a las consecuencias de llevarla a cabo, dando las siguientes puntuaciones: probabilidad de encontrarse bien (6), probabilidad de adelgazar (5) y probabilidad de disfrutar la comida (3). Por otro lado, puntúa la importancia de esas consecuencias de la siguiente forma: encontrarse bien (6), adelgazar (6) y disfrutar de la comida (4). La actitud de Raquel hacia la realización de una dieta equilibrada es de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 222-223)",
+        "responses": [
+            {
+                "text": "97."
+            },
+            {
+                "text": "78.",
+                "correct": true
+            },
+            {
+                "text": "53."
+            }
+        ]
+    },
+    {
+        "text": "Un factor que, según el modelo de las inferencias correspondientes de Jones y Davis, aumenta la probabilidad de que se haga una inferencia correspondiente, es que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 135-136)",
+        "responses": [
+            {
+                "text": "La acción del actor sea indeseable o desconfirme las expectativas del observador.",
+                "correct": true
+            },
+            {
+                "text": "La conducta no tenga consecuencias positivas o negativas que afecten al perceptor."
+            },
+            {
+                "text": "La cantidad de efectos no comunes sea lo más grande posible."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autodiscrepancia de Higgins, ¿qué provocan las discrepancias entre el yo real y el yo ideal?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "Motivación para reducir la autodiscrepancia, que puede desembocar en un proceso de cambio personal.",
+                "correct": true
+            },
+            {
+                "text": "Sentimientos positivos de orgullo y satisfacción, que pueden desembocar en un proceso de cambio personal."
+            },
+            {
+                "text": "Desajustes psicopatológicos graves."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la automaticidad y al control, los procesos cognitivos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 97)",
+        "responses": [
+            {
+                "text": "Se consideran automáticos sólo si hay falta de control, y se consideran controlados sólo si hay consciencia."
+            },
+            {
+                "text": "Actúan de un modo completamente automático o completamente controlado, no hay puntos intermedios."
+            },
+            {
+                "text": "Se pueden situar en un continuo de máxima automaticidad a máximo control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teoría propone como supuesto básico que, a la hora de evaluar nuestras propias características y atributos, tomamos como base las características y atributos de los demás?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 182)",
+        "responses": [
+            {
+                "text": "Teoría de la autoverificación."
+            },
+            {
+                "text": "Teoría de la identidad social."
+            },
+            {
+                "text": "Teoría de la comparación social.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Seleccione la afirmación que es FALSA:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 77)",
+        "responses": [
+            {
+                "text": "De acuerdo con la teoría de los dos factores de la emoción, si, al sentir una activación y no ver un peligro, inferimos que sentimos ansiedad, estamos manifestando la influencia de la cognición en la emoción."
+            },
+            {
+                "text": "La información que provoca reacciones afectivas es más difícil de ignorar."
+            },
+            {
+                "text": "En el modelo del estratega motivado se entiende que, en general, los factores emocionales perjudican nuestra capacidad de dar sentido al mundo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el Test de Asociaciones Implícitas, como medida de las actitudes, la asociación entre estímulos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 209-210)",
+        "responses": [
+            {
+                "text": "Incluye medidas fisiológicas, como el electromiograma facial."
+            },
+            {
+                "text": "Se valora mediante medidas basadas en el tiempo de reacción.",
+                "correct": true
+            },
+            {
+                "text": "Demuestra ser fuerte cuando el tiempo de reacción de la persona es mayor."
+            }
+        ]
+    },
+    {
+        "text": "Necesitamos un frigorífico y acudimos a una tienda para comprarlo. El dependiente nos aconseja un modelo y nos dice que es el último que les queda en el almacén. ¿En qué principio de influencia se basaría esta técnica de venta?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 264)",
+        "responses": [
+            {
+                "text": "Simpatía."
+            },
+            {
+                "text": "Reciprocidad."
+            },
+            {
+                "text": "Escasez.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Aplicar un gran número de normas para buscar seguridad (como ocurre en Grecia y Portugal) es una estrategia que refleja:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 63)",
+        "responses": [
+            {
+                "text": "La dimensión cultural “evitación de la incertidumbre”.",
+                "correct": true
+            },
+            {
+                "text": "La dimensión cultural “distancia jerárquica”."
+            },
+            {
+                "text": "El motivo de potenciación cultural."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la ambigüedad atributiva, cuando una persona (que pertenece a un grupo estigmatizado) piensa que ha sido discriminada por el hecho de su pertenencia al grupo, su respuesta emocional ante el fracaso será de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 154)",
+        "responses": [
+            {
+                "text": "Ira.",
+                "correct": true
+            },
+            {
+                "text": "Vergüenza."
+            },
+            {
+                "text": "Culpa."
+            }
+        ]
+    },
+    {
+        "text": "Para poner a prueba la hipótesis de que la mayor igualdad de roles disminuye las diferencias psicológicas entre los sexos, Eagly y Wood se basaron en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 12 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Datos de entrevistas realizadas en diferentes culturas."
+            },
+            {
+                "text": "Datos de un estudio experimental."
+            },
+            {
+                "text": "Datos de archivo sobre índices internacionales de igualdad de género.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo MODE sobre la influencia de las actitudes sobre la conducta, el procesamiento espontáneo:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 220-221)",
+        "responses": [
+            {
+                "text": "Hace que la actitud funcione como un filtro para interpretar la información sobre el objeto.",
+                "correct": true
+            },
+            {
+                "text": "Depende de una alta motivación y oportunidad para llevarlo a cabo."
+            },
+            {
+                "text": "Se produce con actitudes muy poco accesibles a la memoria."
+            }
+        ]
+    },
+    {
+        "text": "En los modelos de combinación lineal sobre la formación de impresiones en la percepción de personas, los rasgos de mayor peso:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 125)",
+        "responses": [
+            {
+                "text": "Afectan al significado de los demás rasgos."
+            },
+            {
+                "text": "Son similares a los rasgos centrales de la propuesta gestáltica de Asch."
+            },
+            {
+                "text": "Son elementos informativos de mayor importancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un experimento de Cialdini y colaboradores (1975) pedía a sus participantes que se apuntaran para hacer actividades con un grupo de delincuentes. En una condición experimental les pedían primero que colaboraran durante un periodo de 2 años y, después de que los participantes se negaran, les pedían que fueran al zoológico con ellos, mientras que en otro grupo les pedían solamente que fueran con los delincuentes al zoológico. Los resultados mostraron que, tras rebajar la petición, se aceptaba en mayor medida ir al zoológico con delincuentes. Este experimento es un ejemplo de táctica de influencia basada en el principio de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 261)",
+        "responses": [
+            {
+                "text": "Reciprocidad.",
+                "correct": true
+            },
+            {
+                "text": "Escasez."
+            },
+            {
+                "text": "Compromiso y coherencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes términos designa el patrón de prácticas y significados compartidos y transmitidos que interactúan entre sí, influyendo en las respuestas de un grupo humano a su ambiente durante generaciones?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 50)",
+        "responses": [
+            {
+                "text": "Territorialidad."
+            },
+            {
+                "text": "Cultura.",
+                "correct": true
+            },
+            {
+                "text": "Inteligencia maquiavélica."
+            }
+        ]
+    },
+    {
+        "text": "El uso de “cómplices” es típico de los experimentos que utilizan:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 27)",
+        "responses": [
+            {
+                "text": "Manipulaciones mediante instrucciones."
+            },
+            {
+                "text": "Manipulaciones ambientales."
+            },
+            {
+                "text": "Manipulaciones sociales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Para la Teoría de la autoafirmación, la principal función de la reducción de la disonancia es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 236)",
+        "responses": [
+            {
+                "text": "Independiente de la visión del yo."
+            },
+            {
+                "text": "Restablecer la visión positiva del autoconcepto.",
+                "correct": true
+            },
+            {
+                "text": "Reducir la incoherencia entre conducta y actitudes."
+            }
+        ]
+    },
+    {
+        "text": "Seleccione la afirmación que es FALSA respecto a las dimensiones culturales de Hofstede:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 54)",
+        "responses": [
+            {
+                "text": "Se corresponden con las formas de afrontar los problemas universales a los que se enfrentan todas las personas."
+            },
+            {
+                "text": "Todas ellas reflejan la tensión por la independencia emocional respecto al grupo, las organizaciones y otros colectivos.",
+                "correct": true
+            },
+            {
+                "text": "Son dimensiones que capturan variabilidad cultural."
+            }
+        ]
+    },
+    {
+        "text": "Elija la opción que completa el siguiente enunciado de forma más exacta: “Nuestro autoconcepto suele ser una cognición:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 168)",
+        "responses": [
+            {
+                "text": "Inestable, en el sentido de que no existe una idea global de quiénes somos, sino que esta se adapta a cada circunstancia”."
+            },
+            {
+                "text": "Estable y unitaria, aunque multifácetica, lo cual permite que, por ejemplo, el autoconcepto sea sensible al contexto”.",
+                "correct": true
+            },
+            {
+                "text": "Global, donde no cabe un conocimiento específico para las distintas áreas de nuestra existencia”."
+            }
+        ]
+    },
+    {
+        "text": "Señale el heurístico que lleva a la siguiente conclusión: “Si me vienen a la mente muchos casos de un suceso o categoría, será porque ese suceso o categoría es muy frecuente o muy probable”:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 89)",
+        "responses": [
+            {
+                "text": "Heurístico de simulación."
+            },
+            {
+                "text": "Heurístico de disponibilidad.",
+                "correct": true
+            },
+            {
+                "text": "Heurístico de representatividad."
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de la psicología ingenua de Heider se establece un paralelismo entre:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 132-134)",
+        "responses": [
+            {
+                "text": "Los científicos y las personas en general.",
+                "correct": true
+            },
+            {
+                "text": "Las personas formadas y sin formación."
+            },
+            {
+                "text": "Los científicos y otros intelectuales."
+            }
+        ]
+    },
+    {
+        "text": "El carácter positivo o negativo de la valoración que se hace del objeto de actitud constituye:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 206)",
+        "responses": [
+            {
+                "text": "La magnitud de la disonancia."
+            },
+            {
+                "text": "La valencia de esa actitud.",
+                "correct": true
+            },
+            {
+                "text": "La intensidad de la actitud."
+            }
+        ]
+    },
+    {
+        "text": "Desde un punto de vista ético podemos concluir que la influencia:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 284)",
+        "responses": [
+            {
+                "text": "Es negativa puesto que se usa para campañas de venta."
+            },
+            {
+                "text": "Es positiva puesto que permite hacer campañas de marketing social."
+            },
+            {
+                "text": "Es una herramienta muy útil que depende del uso que se le dé.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique la respuesta correcta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(Cuaderno de Investigación, pp. 25-26)",
+        "responses": [
+            {
+                "text": "Desde la perspectiva evolucionista, los celos no son adaptativos para la especie, ya que interfieren con la reproducción."
+            },
+            {
+                "text": "Desde la perspectiva cultural, las diferencias entre hombres y mujeres en el tipo de infidelidad que suscita más celos se deberían a diferencias en el proceso de socialización.",
+                "correct": true
+            },
+            {
+                "text": "Desde la perspectiva cultural, no habrá diferencias entre hombres y mujeres en el tipo de infidelidad que provoca más celos, sino en los roles que unos y otras ocupan."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la categorización del yo, ¿qué ocurre cuando nos categorizamos a nosotros mismos en un nivel intermedio de abstracción?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 176).",
+        "responses": [
+            {
+                "text": "Nos hacemos conscientes de las similitudes que tenemos con los miembros de un grupo determinado y de las diferencias que tenemos con las personas que no forman parte de dicho grupo.",
+                "correct": true
+            },
+            {
+                "text": "Tendemos a maximizar las diferencias que tenemos con personas de nuestro propio grupo."
+            },
+            {
+                "text": "Nos hacemos conscientes de aquellas características que nos distinguen de todas las demás personas y que nos hacen únicos, al margen de cualquier grupo de pertenencia."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué depende, según el modelo de Richman y Leary, el tipo de reacción que predomine en una persona como resultado de unos sentimientos heridos?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 18)",
+        "responses": [
+            {
+                "text": "Del tipo de necesidad fundamental que se vea amenazada."
+            },
+            {
+                "text": "De cómo construya la persona el episodio de rechazo y su reacción a él.",
+                "correct": true
+            },
+            {
+                "text": "Del valor relacional que tenga la persona."
+            }
+        ]
+    },
+    {
+        "text": "En un instituto se está dando una charla sobre la importancia del uso de preservativos. La ponente está muy bien documentada y brinda argumentos muy poderosos para convencer a los adolescentes de la importancia de la utilización de este tipo de métodos de protección. ¿A qué tipo de alumno le parecerá MENOS persuasiva la charla?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 283)",
+        "responses": [
+            {
+                "text": "Un chico que escucha atentamente."
+            },
+            {
+                "text": "Un chico que está mandando mensajes por el móvil mientras escucha la ponencia.",
+                "correct": true
+            },
+            {
+                "text": "Dado que el mensaje persuasivo es ambivalente, ningún alumno cambiará su actitud."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una mujer se considera femenina en las relaciones con los demás y masculina en su actividad profesional, se trata de un ejemplo de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "(p. 24 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "El carácter flexible de la identidad de género.",
+                "correct": true
+            },
+            {
+                "text": "Un rasgo de personalidad tipificado como indiferenciado."
+            },
+            {
+                "text": "Una ambigüedad en el esquema del yo."
+            }
+        ]
+    }
+]

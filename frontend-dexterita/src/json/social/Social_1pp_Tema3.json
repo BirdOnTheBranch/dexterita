@@ -1,0 +1,1409 @@
+[
+    {
+        "text": "La saliencia estimular se ha relacionado con el proceso denominado:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "Atención selectiva.",
+                "correct": true
+            },
+            {
+                "text": "Recuerdo independiente del estado de ánimo."
+            },
+            {
+                "text": "Inconsciencia."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué se conoce como esquema de rol en el ámbito de la cognición social?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Conocimiento que tenemos sobre cómo son y cómo se comportan las personas que ocupan una determinada posición en el grupo o la sociedad.",
+                "correct": true
+            },
+            {
+                "text": "Conocimiento sobre la secuencia típica de acciones a realizar en un contexto determinado."
+            },
+            {
+                "text": "Conocimiento que tenemos sobre determinados tipos de individuos o grupos, de cómo son y cómo se comportan."
+            }
+        ]
+    },
+    {
+        "text": "El procesamiento cognitivo controlado se caracteriza por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 101)",
+        "responses": [
+            {
+                "text": "No ser compatible con el procesamiento automático."
+            },
+            {
+                "text": "Ser más consciente, más intencionado y consumir más recursos cognitivos que el procesamiento automático.",
+                "correct": true
+            },
+            {
+                "text": "Basarse fundamentalmente en heurísticos."
+            }
+        ]
+    },
+    {
+        "text": "Cuando pienso que un Ferrari es más seguro que otros coches basándome en los comentarios de sus propietarios, estoy recurriendo a información almacenada en forma de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 84 y 85)",
+        "responses": [
+            {
+                "text": "Ejemplares.",
+                "correct": true
+            },
+            {
+                "text": "Inferencia."
+            },
+            {
+                "text": "Esquemas."
+            }
+        ]
+    },
+    {
+        "text": "Normalmente las personas conocemos el procedimiento básico que debemos seguir desde que llegamos a un restaurante hasta que lo abandonamos (reserva de mesa, selección del menú, degustación del primer y segundo plato, selección y degustación del postre, café o infusión, sobremesa, petición y abono de la cuenta). ¿Con qué nombre se conoce a este tipo de estructura cognitiva?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Ejemplar de situación."
+            },
+            {
+                "text": "Guion de acción.",
+                "correct": true
+            },
+            {
+                "text": "Esquema de rol."
+            }
+        ]
+    },
+    {
+        "text": "La motivación afecta a la cognición:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 105)",
+        "responses": [
+            {
+                "text": "Solamente en la fase de atención."
+            },
+            {
+                "text": "En todas las fases del proceso cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "Solamente cuando las metas son de dirección."
+            }
+        ]
+    },
+    {
+        "text": "Una de las hipótesis básicas en Cognición social asume que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 75)",
+        "responses": [
+            {
+                "text": "El ser humano tiene una capacidad ilimitada de procesamiento."
+            },
+            {
+                "text": "El uso de estrategias como los heurísticos muestra que el ser humano nunca procesa de modo correcto la información social."
+            },
+            {
+                "text": "Las personas deben recurrir a estrategias de procesamiento para enfrentarse a la gran cantidad de información del entorno.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Su amigo ha jugado una quiniela. Le cuesta decidirse por una opción, que cambia constantemente. Primero pone una X y finalmente se decide por un 1. El resultado final fue de empate (X), por lo que si hubiera elegido esa opción podría haber alcanzado un premio. Su amigo no deja de lamentarse por ese cambio en la elección, y usted le explica que esto sucede por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 87-88)",
+        "responses": [
+            {
+                "text": "El pensamiento contrafáctico.",
+                "correct": true
+            },
+            {
+                "text": "El heurístico de disponibilidad."
+            },
+            {
+                "text": "La correlación ilusoria."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones es FALSA.:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 74-75)",
+        "responses": [
+            {
+                "text": "La cognición social aplica los métodos y teorías de la Psicología Cognitiva a la Psicología Social."
+            },
+            {
+                "text": "La “cognición caliente” tiene en cuenta la influencia de los factores emocionales en los procesos cognitivos."
+            },
+            {
+                "text": "El proceso de percepción de personas no es activo, sino reflejo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto de congruencia con el estado de ánimo se refiere al hecho de que",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando actuamos de acuerdo con nuestras creencias y valores, es decir, cuando somos congruentes, nuestro estado de ánimo se vuelve más positivo."
+            },
+            {
+                "text": "Nuestro estado de ánimo influye en cómo percibimos, interpretamos y recordamos la información que nos llega.",
+                "correct": true
+            },
+            {
+                "text": "Cuando nos encontramos de buen humor, es más fácil que recordemos información que procesamos y almacenamos en una situación anterior en la que teníamos un estado de ánimo similar."
+            }
+        ]
+    },
+    {
+        "text": "Si pongo como ejemplo a la cantante gitana Rosario Flores, para replicar las afirmaciones negativas que realiza un amigo sobre las personas gitanas, estoy recurriendo",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "A una información almacenada en la memoria en forma de ejemplares.",
+                "correct": true
+            },
+            {
+                "text": "Al heurístico de representatividad."
+            },
+            {
+                "text": "Al heurístico de accesibilidad."
+            }
+        ]
+    },
+    {
+        "text": "Si al ver a una persona sentimos miedo simplemente porque la etiquetamos como miembro de un grupo determinado, esta reacción de miedo sería un ejemplo de la influencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 104)",
+        "responses": [
+            {
+                "text": "De la cognición sobre el estado de ánimo.",
+                "correct": true
+            },
+            {
+                "text": "De la ambivalencia actitudinal."
+            },
+            {
+                "text": "Del estado de ánimo sobre la cognición."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones es un ejemplo de proceso postconsciente?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 99)",
+        "responses": [
+            {
+                "text": "La influencia inconsciente que una experiencia negativa tiene en nuestros juicios y en nuestra conducta posterior.",
+                "correct": true
+            },
+            {
+                "text": "El priming."
+            },
+            {
+                "text": "La supresión de pensamientos."
+            }
+        ]
+    },
+    {
+        "text": "Los esquemas de roles:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Se activan más fácilmente en las culturas colectivistas que en las individualistas.",
+                "correct": true
+            },
+            {
+                "text": "Recogen información sobre ejemplos particulares de líderes, profesores, amas de casa, etc."
+            },
+            {
+                "text": "Recogen información sobre secuencias de conductas en situaciones concretas."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo es más probable que lleve a error el empleo del heurístico de anclaje y ajuste para hacer inferencias?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 90-91)",
+        "responses": [
+            {
+                "text": "Cuando lo utilizamos para hacer juicios en situaciones ambiguas."
+            },
+            {
+                "text": "Cuando tomamos como referencia un punto de partida y después hacemos ajustes a partir de información adicional."
+            },
+            {
+                "text": "Cuando utilizamos un ancla y nos basamos en ella sin hacer ajustes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes argumentos NO sería adecuado para defender la necesidad de distinguir entre la cognición social y la cognición no social?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "La cognición social es cognición mutua; la de los objetos no."
+            },
+            {
+                "text": "Las personas nos parecemos más entre nosotros que a cualquier objeto, lo cual hace que los demás puedan proporcionarnos información sobre nosotros mismos."
+            },
+            {
+                "text": "La cognición social analiza estructuras y procesos cognitivos como la atención, percepción, memoria o inferencia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde el enfoque de la cognición social, el término atención selectiva hace alusión a que procesamos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "La información mediante el uso de heurísticos"
+            },
+            {
+                "text": "Grandes lotes de información."
+            },
+            {
+                "text": "Sólo aquellos estímulos que nos resultan salientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La denominada “cognición fría” se ha caracterizado por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 74 y 113)",
+        "responses": [
+            {
+                "text": "Incorporar los factores emocionales al estudio de la cognición social."
+            },
+            {
+                "text": "Prestar especial atención a los procesos de razonamiento.",
+                "correct": true
+            },
+            {
+                "text": "Centrarse en los procesos de influencia mutua del afecto y la cognición."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio de Tversky y Kahneman (1974), los investigadores preguntaban a los participantes qué palabras eran más frecuentes en el idioma inglés: las palabras que comenzaban con la letra “r” o las palabras que tenían la letra “r” en la tercera posición. A pesar de que en el idioma inglés la letra “r” es mucho más frecuente en la tercera posición que en la primera, la mayoría de los participantes respondieron lo contrario. Este resultado puede explicarse por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El heurístico de representatividad."
+            },
+            {
+                "text": "El heurístico de accesibilidad.",
+                "correct": true
+            },
+            {
+                "text": "La falacia de la conjunción."
+            }
+        ]
+    },
+    {
+        "text": "Cuando las personas, por falta de tiempo o de interés, elaboran juicios en función de sus metas, sacrificando la exactitud a cambio de la eficiencia, estamos ante un modelo de funcionamiento que ilustra al:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 87)",
+        "responses": [
+            {
+                "text": "Científico ingenuo."
+            },
+            {
+                "text": "Estratega motivado."
+            },
+            {
+                "text": "Indigente cognitivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El equipo docente de Psicología Social decide realizar un estudio sobre cognición social. Para ello asigna aleatoriamente a los alumnos a dos grupos. En el grupo A los alumnos deben indicar en una escala de 0 a 50 cuántas horas creen que el Equipo Docente dedica semanalmente a la atención de foros. En el grupo B los alumnos deben indicar lo mismo, pero en una escala de 0 a 20. A pesar de que no hubo diferencias en la dificultad que percibieron los alumnos en responder a esa pregunta, la media de horas que dedica el ED según el grupo A fue 18, mientras que la media de horas que indicó el grupo B fue 6. ¿Qué heurístico explicaría este resultado?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El heurístico de anclaje y ajuste.",
+                "correct": true
+            },
+            {
+                "text": "El heurístico de representatividad."
+            },
+            {
+                "text": "El heurístico de disponibilidad."
+            }
+        ]
+    },
+    {
+        "text": "Desde la perspectiva que considera al ser humano un “estratega motivado”, el proceso de inferencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 87)",
+        "responses": [
+            {
+                "text": "Consiste en revisar exhaustivamente toda la información existente en cada situación."
+            },
+            {
+                "text": "Se ve influido por las metas que guían la conducta en cada situación.",
+                "correct": true
+            },
+            {
+                "text": "Depende de que se consiga integrar la información disponible en ese momento con la mayor exactitud."
+            }
+        ]
+    },
+    {
+        "text": "Una de las hipótesis básicas en Cognición social asume que",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El uso de estrategias como los heurísticos muestra que el ser humano nunca procesa de modo correcto la información social."
+            },
+            {
+                "text": "Las personas deben recurrir a estrategias de procesamiento para enfrentarse a la gran cantidad de información del entorno.",
+                "correct": true
+            },
+            {
+                "text": "El ser humano tiene una capacidad ilimitada de procesamiento cognitivo."
+            }
+        ]
+    },
+    {
+        "text": "En relación con el proceso de inferencia, la perspectiva normativa del científico ingenuo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 85-86)",
+        "responses": [
+            {
+                "text": "Es un modelo normativo que establece una secuencia de pasos que deben seguirse para realizar una inferencia correcta.",
+                "correct": true
+            },
+            {
+                "text": "Sostiene que la mayoría de las veces priorizamos la eficiencia sobre la exactitud cuando realizamos inferencias."
+            },
+            {
+                "text": "Explica cómo las personas hacen realmente las inferencias en su vida cotidiana."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones es un ejemplo de proceso postconsciente?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 99)",
+        "responses": [
+            {
+                "text": "La influencia inconsciente que una experiencia negativa tiene en nuestros juicios y en nuestra conducta posterior.",
+                "correct": true
+            },
+            {
+                "text": "El priming."
+            },
+            {
+                "text": "La supresión de pensamientos."
+            }
+        ]
+    },
+    {
+        "text": "La percepción subliminal es un ejemplo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp.102-103)",
+        "responses": [
+            {
+                "text": "Proceso controlado."
+            },
+            {
+                "text": "Proceso preconsciente.",
+                "correct": true
+            },
+            {
+                "text": "Pensamiento postconsciente."
+            }
+        ]
+    },
+    {
+        "text": "Ana entrena al tenis seis horas a la semana. Cuando juzga la conducta de Juan, que sólo entrena tres, piensa que éste se dedica poco al tenis. Por el contrario, Pedro, que entrena una hora semanal, piensa que la dedicación de Juan a ese deporte es bastante alta. En la diferencia de juicios entre Ana y Pedro se percibe la influencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 91)",
+        "responses": [
+            {
+                "text": "De la ignorancia pluralizada."
+            },
+            {
+                "text": "Del “efecto Pigmalión”."
+            },
+            {
+                "text": "Del heurístico de anclaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Supongamos que sabemos que en un pueblo sólo existe una bibliotecaria, mientras que el 70% de las mujeres trabaja en un taller de artesanía. Si, al decirnos que María es aficionada a leer y a escribir poesía, inferimos que es la bibliotecaria, estamos utilizando el heurístico de",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Simulación."
+            },
+            {
+                "text": "Anclaje y ajuste."
+            },
+            {
+                "text": "Representatividad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los esquemas de roles:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 76-77)",
+        "responses": [
+            {
+                "text": "Recogen información sobre ejemplos particulares de líderes, profesores, amas de casa, etc."
+            },
+            {
+                "text": "Recogen información sobre secuencias de conductas en situaciones concretas."
+            },
+            {
+                "text": "Se activan más fácilmente en las culturas colectivistas que en las individualistas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El proceso de inferencia consiste en",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Simplificar la información que hay que procesar."
+            },
+            {
+                "text": "Ir más allá de la información que recibimos del medio para hacer juicios y tomar decisiones.",
+                "correct": true
+            },
+            {
+                "text": "Percibir y evaluar la conducta de los demás."
+            }
+        ]
+    },
+    {
+        "text": "Señale la frase correcta.:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 97)",
+        "responses": [
+            {
+                "text": "Los procesos cognitivos automáticos y controlados son distintos e incompatibles entre sí."
+            },
+            {
+                "text": "Los procesos preconscientes no afectan a la elaboración de juicios ni a la conducta."
+            },
+            {
+                "text": "La mayor o menor automaticidad del pensamiento se sitúa a lo largo de un continuo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto que consiste en resaltar las semejanzas percibidas entre los miembros de una misma categoría y las diferencias entre categorías distintas se conoce en Psicología Social como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 79)",
+        "responses": [
+            {
+                "text": "Principio de acentuación.",
+                "correct": true
+            },
+            {
+                "text": "Efecto de homogeneidad relativa del exogrupo."
+            },
+            {
+                "text": "Favoritismo endogrupal."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características NO sería definitoria del pensamiento heurístico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 88 y 254)",
+        "responses": [
+            {
+                "text": "Ayuda a simplificar procesos cognitivos complejos."
+            },
+            {
+                "text": "Se basa en reglas que permiten hacer inferencias rápidamente."
+            },
+            {
+                "text": "Se basa en un conjunto de procesos preconscientes.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Imagine la siguiente situación. Se acercan las elecciones generales y el panorama político nos resulta descorazonador. Aparece entonces un nuevo líder con un discurso diferente y necesitamos decidir si votar a su partido o no. Para ello, nos fijamos en su forma de comportarse, y rápidamente nos hacemos una idea de cómo es. ¿Qué tipo de procesamiento cognitivo estamos realizando en este caso?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 100)",
+        "responses": [
+            {
+                "text": "Controlado."
+            },
+            {
+                "text": "Postconsciente."
+            },
+            {
+                "text": "Dependiente de metas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una persona tiene miedo a montar en avión porque cada cierto tiempo oye en las noticias que ha habido algún accidente mortal de aviación en algún lugar del mundo. En cambio, no le da ningún miedo llevar una vida sedentaria y una alimentación alta en grasas animales que, según los médicos, aumenta las probabilidades de que sufra del corazón. ¿Cuál de los siguientes heurísticos es más probable que esté en la base de esta aparente irracionalidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 88-95)",
+        "responses": [
+            {
+                "text": "El de representatividad."
+            },
+            {
+                "text": "El de accesibilidad.",
+                "correct": true
+            },
+            {
+                "text": "El de anclaje y ajuste."
+            }
+        ]
+    },
+    {
+        "text": "Por definición, la atención selectiva es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 77-78)",
+        "responses": [
+            {
+                "text": "Una de las formas de reducir la información que hay que procesar.",
+                "correct": true
+            },
+            {
+                "text": "Uno de los tipos de estructura de conocimiento que utilizamos para procesar información compleja."
+            },
+            {
+                "text": "Una de las formas de organizar la información que tenemos que procesar."
+            }
+        ]
+    },
+    {
+        "text": "Imagine que le piden que participe en un experimento que consiste en introducirle en una “máquina del tiempo”. Por un error de cálculo del experimentador, aparece usted en algún lugar de la tierra en el año 3210. Cuando mira a su alrededor se da cuenta de que hay mucha gente, seres humanos como usted, pero no entiende nada de lo que hacen y eso le produce desconcierto e inquietud. ¿Cuál de los siguientes argumentos explicaría mejor su estado de ánimo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Al no tener formado un guión o esquema de esa situación, no sabe qué esperar de los demás ni cómo comportarse.",
+                "correct": true
+            },
+            {
+                "text": "Se da cuenta de que no puede aplicar el efecto de falso consenso porque se encuentra entre gente extraña."
+            },
+            {
+                "text": "Está bajo los efectos del recuerdo congruente con el estado de ánimo porque esa situación le trae a la mente otras que le ocurrieron cuando se sentía igual."
+            }
+        ]
+    },
+    {
+        "text": "El que una mujer embarazada vea más mujeres embarazadas cuando va por la calle que antes de estarlo puede explicarse por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El efecto de congruencia con el estado de ánimo."
+            },
+            {
+                "text": "El heurístico de accesibilidad."
+            },
+            {
+                "text": "Atención selectiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el momento de recuperar información que se tiene almacenada en la memoria, el estado emocional tiende a ser congruente con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 103)",
+        "responses": [
+            {
+                "text": "La valencia (positiva o negativa) de la información.",
+                "correct": true
+            },
+            {
+                "text": "El heurístico de representatividad."
+            },
+            {
+                "text": "La atención selectiva."
+            }
+        ]
+    },
+    {
+        "text": "Cuando nuestro pensamiento es consciente, intencionado y controlado se trata de un proceso cognitivo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 96-97)",
+        "responses": [
+            {
+                "text": "Subliminal."
+            },
+            {
+                "text": "Deliberativo.",
+                "correct": true
+            },
+            {
+                "text": "Basado en heurísticos."
+            }
+        ]
+    },
+    {
+        "text": "Desde el enfoque de la cognición social, el término atención selectiva hace alusión a que procesamos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "La información mediante el uso de heurísticos"
+            },
+            {
+                "text": "Sólo aquellos estímulos que nos resultan salientes.",
+                "correct": true
+            },
+            {
+                "text": "Grandes lotes de información."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué aspecto tienen en común las rumiaciones, el pensamiento retrospectivo y el pensamiento contrafáctico?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Los tres procesos reflejan la influencia de la cognición sobre el estado afectivo.",
+                "correct": true
+            },
+            {
+                "text": "Los tres son procesos cognitivos controlados."
+            },
+            {
+                "text": "No tienen nada en común aparte de ser formas de pensamiento."
+            }
+        ]
+    },
+    {
+        "text": "El que una mujer embarazada vea más mujeres embarazadas cuando va por la calle que antes de estarlo puede explicarse por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 78)",
+        "responses": [
+            {
+                "text": "El heurístico de accesibilidad."
+            },
+            {
+                "text": "Atención selectiva.",
+                "correct": true
+            },
+            {
+                "text": "El efecto de congruencia con el estado de ánimo"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones sobre el proceso de inferencia es FALSA?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 85-87)",
+        "responses": [
+            {
+                "text": "Cuando tenemos tiempo o un interés especial en hacer juicios precisos, empleamos heurísticos para hacer inferencias.",
+                "correct": true
+            },
+            {
+                "text": "Los modelos de ser humano que mejor representan cómo hacemos normalmente las inferencias en nuestra vida diaria son el del “indigente cognitivo” y el del “estratega motivado”."
+            },
+            {
+                "text": "Las inferencias que hacemos suelen estar influidas por esquemas y ejemplares debido a las limitaciones de nuestra memoria a corto plazo."
+            }
+        ]
+    },
+    {
+        "text": "La influencia de la motivación en los procesos de cognición social",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Afecta a todas las fases del procesamiento cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "Se relaciona fundamentalmente con el motivo social básico de potenciación personal."
+            },
+            {
+                "text": "Se produce sobre todo a través de las metas de dirección."
+            }
+        ]
+    },
+    {
+        "text": "El efecto de congruencia con el estado de ánimo se refiere al hecho de que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 102-103)",
+        "responses": [
+            {
+                "text": "Nuestro estado de ánimo influye en la forma en que percibimos, interpretamos y recordamos la información.",
+                "correct": true
+            },
+            {
+                "text": "Seremos más vulnerables a las tácticas de influencia cuando nuestro estado de ánimo sea negativo."
+            },
+            {
+                "text": "Estaremos más dispuestos a elaborar cognitivamente un mensaje persuasivo cuando nos encontremos en un estado afectivo positivo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas mentales y los ejemplares es FALSA?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 84-85)",
+        "responses": [
+            {
+                "text": "Los esquemas mentales aportan una mayor flexibilidad en la cognición social que los ejemplares.",
+                "correct": true
+            },
+            {
+                "text": "Según el contexto, podemos activar diferentes subconjuntos de ejemplares para manejar una misma categoría social."
+            },
+            {
+                "text": "Lo más probable es que las personas utilicemos una mezcla de percepción por ejemplares y esquemas mentales en la cognición social."
+            }
+        ]
+    },
+    {
+        "text": "Basarse en reglas simples para hacer inferencias rápidamente es una de las características:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 88 y 254)",
+        "responses": [
+            {
+                "text": "Del procesamiento deliberado."
+            },
+            {
+                "text": "De los procesos preconscientes."
+            },
+            {
+                "text": "Del pensamiento heurístico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las diferencias entre la organización del conocimiento social en esquemas y la basada en ejemplares radica en que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 84-85)",
+        "responses": [
+            {
+                "text": "Los esquemas se basan en un conocimiento concreto, mientras que los ejemplares se basan en un conocimiento abstracto."
+            },
+            {
+                "text": "Los ejemplares sirven para hacer generalizaciones, mientras que los esquemas no."
+            },
+            {
+                "text": "Los ejemplares se almacenan a partir de la experiencia directa o indirecta con los estímulos particulares, mientras que los esquemas constituyen un conocimiento abstracto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Su amigo ha jugado una quiniela. Le cuesta decidirse por una opción, que cambia constantemente. Primero pone una X y finalmente se decide por un 1. El resultado final fue de empate, por lo que si hubiera elegido esa opción podría haber alcanzado un premio. Su amigo no deja de lamentarse por ese cambio en la elección, y usted le explica que esto sucede por",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El pensamiento contrafáctico.",
+                "correct": true
+            },
+            {
+                "text": "La correlación ilusoria."
+            },
+            {
+                "text": "El heurístico de disponibilidad."
+            }
+        ]
+    },
+    {
+        "text": "La sobreestimación del grado en que están relacionados dos sucesos o características (“correlaciones ilusorias”) se ha explicado por el heurístico de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 90)",
+        "responses": [
+            {
+                "text": "Falso consenso."
+            },
+            {
+                "text": "Disponibilidad.",
+                "correct": true
+            },
+            {
+                "text": "Optimismo ilusorio."
+            }
+        ]
+    },
+    {
+        "text": "Los heurísticos son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 83)",
+        "responses": [
+            {
+                "text": "Inferencias sobre los rasgos de personalidad del actor a partir de su conducta."
+            },
+            {
+                "text": "Reglas que utilizamos para hacer inferencias y juicios sin sobrecargar nuestro sistema cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "Conocimiento almacenado en la memoria que nos sirve para saber lo que podemos esperar de las personas y situaciones que nos rodean."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que un/a estudiante sienta más frustración por suspender un examen con un 4.9 que por suspenderlo con un 3 puede explicarse por",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "El heurístico de anclaje y ajuste."
+            },
+            {
+                "text": "La disminución de la autoestima."
+            },
+            {
+                "text": "El pensamiento contrafáctico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las diferencias entre la organización del conocimiento social en esquemas y la basada en ejemplares radica en que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 84-85)",
+        "responses": [
+            {
+                "text": "Los esquemas se basan en un conocimiento concreto, mientras que los ejemplares se basan en un conocimiento abstracto."
+            },
+            {
+                "text": "Los ejemplares sirven para hacer generalizaciones, mientras que los esquemas no."
+            },
+            {
+                "text": "Los ejemplares se almacenan a partir de la experiencia directa o indirecta con los estímulos particulares, mientras que los esquemas constituyen un conocimiento abstracto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas sociales es FALSA?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 82-83)",
+        "responses": [
+            {
+                "text": "Ayudan a hacernos conscientes de nuestros sesgos cognitivos, ya que normalmente operan en el nivel consciente.",
+                "correct": true
+            },
+            {
+                "text": "Se activan de forma espontánea cuando nos encontramos con un estímulo relacionado con ellos."
+            },
+            {
+                "text": "Una vez activados, dirigen nuestra atención hacia la información relevante."
+            }
+        ]
+    },
+    {
+        "text": "Indique la respuesta que es FALSA:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 74)",
+        "responses": [
+            {
+                "text": "La Psicología Social se ha interesado por los procesos cognitivos desde sus comienzos, a pesar de la influencia dominante del conductismo en el resto de la Psicología."
+            },
+            {
+                "text": "El objeto de análisis de la cognición social es diferente del objeto de la cognición “no social”."
+            },
+            {
+                "text": "Es más fácil comprobar la precisión de la cognición sobre personas que sobre objetos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Ante un estímulo social, la activación del esquema correspondiente",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Es un proceso cognitivo controlado."
+            },
+            {
+                "text": "Se organiza en torno a ejemplares concretos asociados a ese estímulo."
+            },
+            {
+                "text": "Se produce de forma automática y espontánea.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas sociales es FALSA?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 82)",
+        "responses": [
+            {
+                "text": "Los esquemas se activan de forma automática cuando nos encontramos con un estímulo relacionado con ellos."
+            },
+            {
+                "text": "Tendemos a recordar sobre todo la información que es consistente con nuestros esquemas."
+            },
+            {
+                "text": "La información claramente inconsistente con nuestros esquemas es procesada de forma más rápida y automática que la consistente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La influencia de la publicidad subliminal tiene lugar a través de lo que se ha denominado",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Proceso preconsciente.",
+                "correct": true
+            },
+            {
+                "text": "Proceso deliberativo."
+            },
+            {
+                "text": "Pensamiento postconsciente."
+            }
+        ]
+    },
+    {
+        "text": "La supresión de pensamientos no deseados",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Es siempre congruente con nuestras metas, porque nos lleva a pensar en lo que queremos pensar."
+            },
+            {
+                "text": "Implica un proceso controlado de vigilancia que busca muestras de pensamientos no deseados."
+            },
+            {
+                "text": "Puede producir un efecto rebote cuando el sistema operativo está sobrecargado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el planteamiento de Kruglanski (1980), las metas de dirección nos motivan para:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 105)",
+        "responses": [
+            {
+                "text": "Dirigirnos a la conclusión más acertada posible."
+            },
+            {
+                "text": "Llegar a la conclusión que más nos conviene.",
+                "correct": true
+            },
+            {
+                "text": "Poner en marcha un razonamiento lo más complejo y elaborado posible."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas mentales y los ejemplares es FALSA?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 84-85)",
+        "responses": [
+            {
+                "text": "Según el contexto, podemos activar diferentes subconjuntos de ejemplares para manejar una misma categoría social."
+            },
+            {
+                "text": "Los esquemas mentales aportan una mayor flexibilidad en la cognición social que los ejemplares.",
+                "correct": true
+            },
+            {
+                "text": "Lo más probable es que las personas utilicemos una mezcla de percepción por ejemplares y esquemas mentales en la cognición social."
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que, cuando estamos tristes, tendamos a verlo todo “negro” es un ejemplo de",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Proceso postconsciente.",
+                "correct": true
+            },
+            {
+                "text": "Proceso preconsciente."
+            },
+            {
+                "text": "Proceso controlado."
+            }
+        ]
+    },
+    {
+        "text": "Afirmar que la forma en la que percibimos la realidad social está altamente influida por nuestras metas y estados afectivos es propia del enfoque que considera al ser humano como un:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(pp. 76-77)",
+        "responses": [
+            {
+                "text": "“científico ingenuo”."
+            },
+            {
+                "text": "“tacaño cognitivo”."
+            },
+            {
+                "text": "“estratega motivado”.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo de ser humano pensante que considera que somos seres que buscan la racionalidad, y que cualquier proceso cognitivo que no sea lógico es un error en el que interfieren procesos irracionales (motivacionales o emocionales), refleja una visión de las personas semejantes a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Tacaños cognitivos."
+            },
+            {
+                "text": "Estrategas motivados."
+            },
+            {
+                "text": "Científicos ingenuos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes situaciones estaremos empleando el heurístico de anclaje y ajuste?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. )",
+        "responses": [
+            {
+                "text": "Cuando nos planteamos lo que podría haber ocurrido si hubiéramos actuado de forma diferente en una determinada situación."
+            },
+            {
+                "text": "Cuando atribuimos la causa de la conducta de alguien a sus características personales sin tener en cuenta las circunstancias.",
+                "correct": true
+            },
+            {
+                "text": "Cuando sobreestimamos la probabilidad de que un delincuente sea además inmigrante."
+            }
+        ]
+    },
+    {
+        "text": "El conocimiento almacenado que tenemos acerca de determinados tipos de individuos o grupos, de cómo son y cómo se comportan, es una definición de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "3"
+        },
+        "feedback": "(p. 76)",
+        "responses": [
+            {
+                "text": "Esquema de personas.",
+                "correct": true
+            },
+            {
+                "text": "Esquema de situaciones."
+            },
+            {
+                "text": "Ejemplar."
+            }
+        ]
+    }
+]

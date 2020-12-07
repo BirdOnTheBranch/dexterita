@@ -1,0 +1,722 @@
+[
+    {
+        "text": "Cuando decimos que la conducta es un factor esencial de la aptitud biológica y que el acervo conductual de cada especie forma parte del conjunto de adaptaciones de esa especie, estamos adoptando una perspectiva:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Adaptacionista.",
+                "correct": true
+            },
+            {
+                "text": "Inclusiva."
+            },
+            {
+                "text": "Exclusiva de la Sociobiología."
+            },
+            {
+                "text": "Que excluye cualquier intento de explicar la relación de la conducta con la aptitud biológica."
+            }
+        ]
+    },
+    {
+        "text": "Una alta heredabilidad en un rasgo psicológico:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Implica que no se ve afectado por los efectos del ambiente."
+            },
+            {
+                "text": "No implica que haya parecido alguno entre progenitores y descendencia en dicho rasgo."
+            },
+            {
+                "text": "Significa que ese rasgo desaparecerá en las siguientes tres generaciones."
+            },
+            {
+                "text": "No excluye que ese rasgo pueda ser afectado por el ambiente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las bombas iónicas presentes en la membrana neuronal:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mantienen la diferencia de potencial a través de la membrana de modo activo."
+            },
+            {
+                "text": "Son proteínas transportadoras específicas de iones contra su gradiente de concentración."
+            },
+            {
+                "text": "Gastan energía proporcionada por ATP."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si las frecuencias alélicas de dos poblaciones son distintas, los procesos de migración:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede aumentar la variabilidad genética de la población receptora."
+            },
+            {
+                "text": "Cambiarán las frecuencias génicas de la población receptora."
+            },
+            {
+                "text": "Pueden introducir nuevos alelos en la población receptora."
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las interneuronas transmiten información:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Entre diferentes estructuras del SNC."
+            },
+            {
+                "text": "Del SNC a los músculos."
+            },
+            {
+                "text": "A nivel local dentro de una asamblea celular o estructura.",
+                "correct": true
+            },
+            {
+                "text": "De los órganos de los sentidos al SNC."
+            }
+        ]
+    },
+    {
+        "text": "Cuando una mutación da lugar a la interrupción de un proceso biológico esencial para la vida, recibe el nombre de mutación:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puntual."
+            },
+            {
+                "text": "Sinónima."
+            },
+            {
+                "text": "Letal.",
+                "correct": true
+            },
+            {
+                "text": "Silenciosa."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes tipos de selección se ha propuesto como causante de la cladogénesis?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sexual."
+            },
+            {
+                "text": "Estabilizadora."
+            },
+            {
+                "text": "Direccional."
+            },
+            {
+                "text": "Disruptiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes rasgos, síndromes o enfermedades humanas NO es consecuencia de herencia monogénica?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inteligencia.",
+                "correct": true
+            },
+            {
+                "text": "La alteración de las capacidades lingüísticas unida a dificultades motoras orofaciales (dispraxia verbal) padecida por la familia KE."
+            },
+            {
+                "text": "El síndrome de X frágil."
+            },
+            {
+                "text": "La fenilcetonuria."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la historia de la Neurociencia ¿quién estableció la Teoría neuronal poniendo de manifiesto que la neurona es una entidad independiente, es decir, una célula y no una parte de una red continua?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Camilo Golgi."
+            },
+            {
+                "text": "Pío del Río Ortega."
+            },
+            {
+                "text": "Rudolf Virchow."
+            },
+            {
+                "text": "Santiago Ramón y Cajal.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El análisis genético de la conducta humana pone de manifiesto que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Existe variabilidad en el ciclo vigilia/sueño asociada a variantes alélicas de genes involucrados en la regulación del ritmo circadiano."
+            },
+            {
+                "text": "La inactivación del gen de la monoaminoxidasa A (MAOA) durante el desarrollo ocasiona trastornos conductuales (impulsividad, conductas violentas, etc.)."
+            },
+            {
+                "text": "Algunas variantes del gen que codifica el receptor D4 de dopamina se relacionan con el rasgo de personalidad tipificado como buscador de sensaciones y con el trastorno de déficit de atención con hiperactividad."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sobre la meiosis sabemos que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se forman gametos haploides a partir de células diploides.",
+                "correct": true
+            },
+            {
+                "text": "Es el proceso que convierte el zigoto en un organismo complejo."
+            },
+            {
+                "text": "En la meiosis I se separan las cromátidas y en la meiosis II los cromosomas homólogos."
+            },
+            {
+                "text": "En la meiosis II se produce el apareamiento de los cromosomas homólogos."
+            }
+        ]
+    },
+    {
+        "text": "El valor genotípico es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El valor aditivo de cada alelo multiplicado por el diferencial de selección."
+            },
+            {
+                "text": "La dosis génica multiplicada por la respuesta de selección."
+            },
+            {
+                "text": "La dosis génica multiplicada por el valor de epistasia de un gen."
+            },
+            {
+                "text": "La dosis génica multiplicada por el valor aditivo de cada alelo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A qué componente del esquema E-O-R corresponderían los mecanismos desencadenadores innatos (MDI)?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "R."
+            },
+            {
+                "text": "E."
+            },
+            {
+                "text": "A cualquiera de los tres por igual."
+            },
+            {
+                "text": "O.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La llamada ley de Hamilton:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Establece una relación entre el número de descendientes directos y la aptitud biológica."
+            },
+            {
+                "text": "Establece que el éxito reproductivo de los machos es más variable que el de las hembras."
+            },
+            {
+                "text": "Permite predecir el grado de altruismo entre dos individuos en función del grado de parentesco.",
+                "correct": true
+            },
+            {
+                "text": "Es una versión mucho más refinada de la ley de Bateman."
+            }
+        ]
+    },
+    {
+        "text": "¿Quién planteó por primera vez que la adaptación al ambiente era el origen de la diversidad de los seres vivos?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Darwin."
+            },
+            {
+                "text": "Wallace."
+            },
+            {
+                "text": "Lamarck.",
+                "correct": true
+            },
+            {
+                "text": "Newton."
+            }
+        ]
+    },
+    {
+        "text": "Los péptidos opioides endógenos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se unen a receptores ionotrópicos, como los AMPA."
+            },
+            {
+                "text": "Forman parte del sistema cannabinoide endógeno."
+            },
+            {
+                "text": "Carecen de receptores específicos."
+            },
+            {
+                "text": "Incluyen las encefalinas y beta-endorfinas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué acontecimiento ocurre en primer lugar tras la llegada del potencial de acción al terminal presináptico en las sinapsis químicas?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La síntesis del neurotransmisor y su almacenamiento en las vesículas sinápticas."
+            },
+            {
+                "text": "La apertura de canales iónicos controlados por neurotransmisores."
+            },
+            {
+                "text": "La fusión de las vesículas sinápticas con la membrana del terminal."
+            },
+            {
+                "text": "La apertura de canales de Ca2+ dependientes de voltaje.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Indique qué opción es FALSA en relación a la propagación del potencial de acción en los axones mielinizados:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El potencial de acción se regenera en la región mielinizada y salta de una a otra.",
+                "correct": true
+            },
+            {
+                "text": "La despolarización que se produce en los segmentos mielinizados es suficiente para activar los canales de Na+ dependientes de voltaje en el nódulo contiguo."
+            },
+            {
+                "text": "Las zonas mielinizadas propagan potenciales locales decrecientes de forma pasiva hasta el nódulo contiguo."
+            },
+            {
+                "text": "El potencial de acción se regenera en cada nódulo de Ranvier."
+            }
+        ]
+    },
+    {
+        "text": "Los loci de rasgos cuantitativos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Corresponden a los lugares del genoma en donde se encuentran los genes aditivos.",
+                "correct": true
+            },
+            {
+                "text": "No tienen relación alguna con los datos extraídos de los estudios de asociación genómica amplia."
+            },
+            {
+                "text": "Se localizan gracias a los estudios de ligamiento."
+            },
+            {
+                "text": "Determinan rasgos mendelianos discretos."
+            }
+        ]
+    },
+    {
+        "text": "En relación con las células gliales ¿cuál de las siguientes opciones es FALSA?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Algunos tipos intervienen en la defensa inmunitaria del SN."
+            },
+            {
+                "text": "Pueden participan en el procesamiento y transmisión de la información en el SNC."
+            },
+            {
+                "text": "Contribuyen a la reparación de daños en el SNC."
+            },
+            {
+                "text": "La función principal de todas ellas es dar soporte físico a las neuronas y/o aislar el axón neuronal para una mejor transmisión del impulso nervioso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los rasgos cuantitativos son por lo general:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mendelianos."
+            },
+            {
+                "text": "De escaso interés para la Psicología."
+            },
+            {
+                "text": "Monogénicos."
+            },
+            {
+                "text": "Poligénicos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se ha diseñado un experimento en el que la dirección de una empresa da 10€ a la mitad de los sujetos con la condición de que cada uno debe ofrecer (ofertante) a un compañero determinado previamente (receptor) una parte de esos 10€, de forma que si el receptor acepta la oferta, ambos se quedan con dinero, el receptor con lo que le han ofrecido y el ofertante con el resto, pero si el receptor no la acepta, ninguno de los dos recibe nada (esta situación se conoce con el nombre de juego del ultimátum). Los experimentadores instruyeron a los ofertantes de manera que la mitad de ellos ofrecería 5 € (oferta justa), mientras que la otra mitad ofrecería 1€ (oferta injusta). Se observó que los que recibían una oferta injusta presentaron una mayor activación en la ínsula anterior bilateral, en la corteza prefrontal dorsolateral y en la corteza cingulada anterior (basado en Sanfey y cols., 2003, Science 300, 1775-1778). De lo dicho podemos deducir que la variable dependiente fue:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La activación de determinadas regiones cerebrales.",
+                "correct": true
+            },
+            {
+                "text": "La oferta."
+            },
+            {
+                "text": "La oferta y la activación de determinadas regiones cerebrales."
+            },
+            {
+                "text": "Ninguna de las anteriores."
+            }
+        ]
+    },
+    {
+        "text": "La plasticidad neural y los períodos críticos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Forman parte del componente R en el esquema E-O-R propio de la Psicobiología."
+            },
+            {
+                "text": "Están relacionados con la acción de factores epigenéticos.",
+                "correct": true
+            },
+            {
+                "text": "Son ejemplos de causas lejanas de la conducta y forman parte del componente R en el esquema E-O-R propio de la Psicobiología."
+            },
+            {
+                "text": "Son ejemplos de causas lejanas de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "La presencia de un huevo de tamaño mucho mayor que el de la propia especie, en los alrededores del nido de una hembra de pájaro ostrero, constituye para esa hembra:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un mecanismo desencadenador innato."
+            },
+            {
+                "text": "Un estímulo irrelevante."
+            },
+            {
+                "text": "Un estímulo supernormal.",
+                "correct": true
+            },
+            {
+                "text": "Una pauta de acción fija."
+            }
+        ]
+    },
+    {
+        "text": "Se relaciona con la regulación génica a largo plazo:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inactivación génica por condensación."
+            },
+            {
+                "text": "Los genes homeobox."
+            },
+            {
+                "text": "La inactivación génica por metilación."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la opción que completa correctamente en el orden indicado los términos omitidos en el siguiente párrafo 'Durante la producción del potencial de acción la entrada de iones al provoca la de los canales de dependientes de voltaje y se genera un potencial de acción en esa zona de la membrana':",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Na+, terminal presináptico, inactivación, Na+."
+            },
+            {
+                "text": "K+, cono axónico, inactivación, K+."
+            },
+            {
+                "text": "K+, terminal presináptico, apertura, Na+."
+            },
+            {
+                "text": "Na+, cono axónico, apertura, Na+.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿cuál de los siguientes pares craneales tiene una función únicamente motora?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Troclear.",
+                "correct": true
+            },
+            {
+                "text": "Trigémino."
+            },
+            {
+                "text": "Vago."
+            },
+            {
+                "text": "Facial."
+            }
+        ]
+    },
+    {
+        "text": "El reemplazo de elementos que componen el citoplasma del axón se realiza gracias al transporte axónico:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Rápido retrógrado."
+            },
+            {
+                "text": "Lento anterógrado.",
+                "correct": true
+            },
+            {
+                "text": "Lento retrógrado."
+            },
+            {
+                "text": "Rápido anterógrado."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la aparición de un nuevo alelo puede aumentar la eficacia biológica de un heterocigoto en relación a los dos homocigotos, estamos hablando de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selección dependiente de frecuencia."
+            },
+            {
+                "text": "Selección codominante."
+            },
+            {
+                "text": "Selección contra el heterocigoto."
+            },
+            {
+                "text": "Sobredominancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El ambiente de adaptación evolutiva hay que relacionarlo de modo específico con:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La Psicología Evolucionista.",
+                "correct": true
+            },
+            {
+                "text": "La Sociobiología."
+            },
+            {
+                "text": "La Ecología del comportamiento."
+            },
+            {
+                "text": "Ninguna es cierta."
+            }
+        ]
+    }
+]

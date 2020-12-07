@@ -1,0 +1,502 @@
+[
+    {
+        "text": "La Psicología Fisiológica tiene como objeto el estudio de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los mecanismos cerebrales que gobiernan la conducta y la cognición en cualquier momento del ciclo vital del organismo.",
+                "correct": true
+            },
+            {
+                "text": "La genética del subconsciente en cualquier especie animal que pueda servir como modelo de la especie humana."
+            },
+            {
+                "text": "La dualidad neuro-espiritual en la conformación del psiquismo a lo largo de la historia evolutiva."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes variables fisiológicas se registra habitualmente en los estudios de sueño?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La tensión/distensión de la musculatura voluntaria.",
+                "correct": true
+            },
+            {
+                "text": "La concentración de glucosa en la sangre."
+            },
+            {
+                "text": "La conductancia eléctrica de la piel."
+            }
+        ]
+    },
+    {
+        "text": "Se ha encontrado sueño REM en:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Todos los animales que duermen."
+            },
+            {
+                "text": "Los vertebrados y los artrópodos."
+            },
+            {
+                "text": "Las aves y los mamíferos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis de la homeostasis sináptica sobre la función del sueño (Tononi y Cirelli, 2003 y 2014) defiende la idea de que mientras se duerme:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las eficiencias o los pesos de las sinapsis modificadas durante la vigilia por el aprendizaje se reducirían a una escala menor.",
+                "correct": true
+            },
+            {
+                "text": "Se encuentran activas las sinapsis orexinérgicas que impulsarían los procesos homeostáticos del organismo."
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo neurocognitivo de Domhoff (2001 y 2005), los contenidos de los sueños:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Representan deseos y son extravagantes con el fin de sortear al censor."
+            },
+            {
+                "text": "Generalmente son continuación de los asuntos que ocupan la vigilia.",
+                "correct": true
+            },
+            {
+                "text": "Son similares a brotes psicóticos por su incoherencia con la realidad."
+            }
+        ]
+    },
+    {
+        "text": "El sexo utilizado como refuerzo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "No sigue las leyes generales del aprendizaje."
+            },
+            {
+                "text": "Se comporta como otros reforzadores naturales.",
+                "correct": true
+            },
+            {
+                "text": "Únicamente sigue las leyes del condicionamiento clásico."
+            }
+        ]
+    },
+    {
+        "text": "El gen SRY se localiza:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "En el brazo largo del cromosoma Y."
+            },
+            {
+                "text": "En el brazo corto del cromosoma Y.",
+                "correct": true
+            },
+            {
+                "text": "En el centrómero del cromosoma Y."
+            }
+        ]
+    },
+    {
+        "text": "Por los estudios morfológicos del cerebro sabemos que el dimorfismo sexual del cerebro presenta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un único patrón macho>hembra (m>h)."
+            },
+            {
+                "text": "La combinación de patrón hembra>macho (h>m) y patrón isomorfo (m=h)."
+            },
+            {
+                "text": "La combinación de los patrones m>h, h>m y m=h.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los polibromofenilos, sustancias que se emplean en los plásticos y los pesticidas, se asocian a la criptorquidia por sus efectos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Antiandrogénicos.",
+                "correct": true
+            },
+            {
+                "text": "Facilitadores de la acción de la progesterona."
+            },
+            {
+                "text": "Agonistas de los receptores de andrógenos."
+            }
+        ]
+    },
+    {
+        "text": "Los componentes básicos de las proteínas son:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los hidratos de carbono."
+            },
+            {
+                "text": "Los ácidos grasos."
+            },
+            {
+                "text": "Los aminoácidos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La insulina y la leptina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Señalizan el cese de la ingesta.",
+                "correct": true
+            },
+            {
+                "text": "Controlan la ingesta a través del mismo mecanismo."
+            },
+            {
+                "text": "Llegan directamente al hipocampo donde ejercen su acción sobre la ingesta."
+            }
+        ]
+    },
+    {
+        "text": "Las neuronas situadas en el área perifornical/hipotálamo lateral (APF/HL) liberan en respuesta a las señales de las neuronas NPY/PRAG del núcleo arqueado [arcuato, en la versión del libro de 2016] del hipotálamo los péptidos orexígenos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Colecistoquinina (CCK) y orexina."
+            },
+            {
+                "text": "Orexina y hormona concentradora de melanina (HCM).",
+                "correct": true
+            },
+            {
+                "text": "Grelina y leptina."
+            }
+        ]
+    },
+    {
+        "text": "El experimento llevado a cabo por Lenoir y sus colaboradores (2007) puso de manifiesto que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Sustancias dulces como el azúcar o la sacarina poseen un mayor poder de recompensa que la cocaína.",
+                "correct": true
+            },
+            {
+                "text": "El azúcar, pero no la sacarina, posee un mayor poder de recompensa que la cocaína."
+            },
+            {
+                "text": "Ni el azúcar ni la sacarina poseen un mayor poder de recompensa que la cocaína."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de Cannon y Bard defiende que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La experiencia emocional señala que existe una correlación fiable entre la experiencia de una emoción y el estado fisiológico del cuerpo."
+            },
+            {
+                "text": "La experiencia emocional señala que no existe una correlación fiable entre la experiencia de una emoción y el estado fisiológico del cuerpo.",
+                "correct": true
+            },
+            {
+                "text": "Los cambios fisiológicos que producen las emociones son específicos de cada emoción."
+            }
+        ]
+    },
+    {
+        "text": "Según MacLean:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El cerebro humano actual es el resultado de tres grandes etapas de la evolución.",
+                "correct": true
+            },
+            {
+                "text": "El cerebro reptiliano ya no es funcional en los humanos."
+            },
+            {
+                "text": "Las respuestas emocionales solo tienen relación con el neocórtex."
+            }
+        ]
+    },
+    {
+        "text": "Los últimos trabajos de Ekman (2014) muestran:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Que es posible el aprendizaje de la expresión, inhibición y percepción de las emociones."
+            },
+            {
+                "text": "Que las emociones que deben y pueden ser comprendidas psicológica y evolutivamente (y comprendidas desde la teoría evolucionista), no son inmutables."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Coceara y cois. (2016) encontraron que los sujetos que padecían un desorden de episodios explosivos intermitentes tenían en comparación con los sujetos que no la padecían:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Una cantidad menor de materia gris en estructuras fronto-límbicas.",
+                "correct": true
+            },
+            {
+                "text": "Una cantidad mayor de materia gris en estructuras fronto-límbicas."
+            },
+            {
+                "text": "La misma cantidad de materia gris en estructuras fronto-límbicas."
+            }
+        ]
+    },
+    {
+        "text": "En el área de Brodmann 44 (AB44) existe una asimetría cerebral que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Es exclusiva del ser humano, debido a la implicación de dicha área en el lenguaje."
+            },
+            {
+                "text": "Está presente en los grandes simios y posibilita un amplio repertorio gestual en estas especies.",
+                "correct": true
+            },
+            {
+                "text": "Al contrario que en el ser humano, en los grandes simios el área de Brodmann 44 (AB44) del hemisferio derecho es mayor que su homologa en el hemisferio izquierdo."
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de Hickok y Poeppel (2007) sobre el procesamiento del lenguaje, la conectividad entre las estructuras que componen la corriente dorsal se realiza a través del fascículo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Unicinado."
+            },
+            {
+                "text": "Frontooccipital."
+            },
+            {
+                "text": "Arqueado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las características de la afasia de Wernicke es que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se produce apraxia del habla."
+            },
+            {
+                "text": "Se conserva la prosodia.",
+                "correct": true
+            },
+            {
+                "text": "El lenguaje que se emite tiene sentido."
+            }
+        ]
+    },
+    {
+        "text": "Según el estudio de Ripamonti y cois. (2014) realizado con pruebas de neuroimagen, la alexia pura está asociada a lesiones:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "De la ínsula izquierda."
+            },
+            {
+                "text": "Del giro fusiforme izquierdo.",
+                "correct": true
+            },
+            {
+                "text": "De la sustancia blanca."
+            }
+        ]
+    },
+    {
+        "text": "La PLP denominada tardía depende, a diferencia de la PLP temprana, de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La síntesis de ARN.",
+                "correct": true
+            },
+            {
+                "text": "Un incremento proporcional en la neurona presináptica en la concentración de calcio."
+            },
+            {
+                "text": "Los receptores tipo AMPA glutamaérgicos exclusivamente."
+            }
+        ]
+    },
+    {
+        "text": "La memoria de trabajo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Es un tipo de memoria no declarativa y a corto plazo."
+            },
+            {
+                "text": "Implica la activación de múltiples áreas cerebrales en las que se almacena temporalmente la información.",
+                "correct": true
+            },
+            {
+                "text": "Recae principalmente sobre el lóbulo temporal medial."
+            }
+        ]
+    },
+    {
+        "text": "La epigenética hace referencia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "A cambios reversibles en la secuencia del ADN."
+            },
+            {
+                "text": "A alteraciones en la expresión génica mediada por la remodelación de la cromatina.",
+                "correct": true
+            },
+            {
+                "text": "Principalmente a los genes implicados en el desarrollo del sistema nervioso."
+            }
+        ]
+    },
+    {
+        "text": "La secreción de BDNF a partir del terminal presináptico puede contribuir a la PLP temprana a través de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La modificación de proteínas ya existentes.",
+                "correct": true
+            },
+            {
+                "text": "La síntesis de novo de proteínas."
+            },
+            {
+                "text": "El incremento en el número de espinas dendríticas de forma directa."
+            }
+        ]
+    }
+]

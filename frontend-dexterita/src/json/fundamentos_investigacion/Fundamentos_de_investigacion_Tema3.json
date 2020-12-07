@@ -1,0 +1,317 @@
+[
+    {
+        "text": "La amenaza a la validez que tiene lugar cuando se produce un suceso diferente a la variable independiente, dentro o fuera de la situación experimental, que puede llegar a explicar los resultados, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selección"
+            },
+            {
+                "text": "Regresión estadística"
+            },
+            {
+                "text": "Historia",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La amenaza a la validez externa, selección x tratamiento",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se refiere a la posibilidad de generalizar los resultados a periodos de tiempo del pasado y del futuro"
+            },
+            {
+                "text": "Se produce cuando los sujetos que realizan un tratamiento no responden como lo harían otros sujetos de la población",
+                "correct": true
+            },
+            {
+                "text": "Se refiere a la posibilidad de generalizar los resultados obtenidos en un experimento a las condiciones naturales donde se desarrolla el comportamiento de los sujetos"
+            }
+        ]
+    },
+    {
+        "text": "La validez externa es el grado de confianza con el que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se pueden generalizar los resultados de la investigación",
+                "correct": true
+            },
+            {
+                "text": "Se asegura un efecto de maduración"
+            },
+            {
+                "text": "Se descarta el influjo de las variables extrañas en los resultados"
+            }
+        ]
+    },
+    {
+        "text": "Los experimentos que recrean el contexto de las condiciones naturales en las que se produce el comportamiento objeto de estudio, garantizan la validez",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ecológica",
+                "correct": true
+            },
+            {
+                "text": "Interna"
+            },
+            {
+                "text": "Histórica"
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que el sujeto se comporte, en una situación experimental, como cree que el experimentador espera y no como la tarea exige",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Constituye un buen indicio de que la situación está controlada"
+            },
+            {
+                "text": "Cumple una condición imprescindible en cualquier experimento"
+            },
+            {
+                "text": "Se convierte en una amenaza a la validez del experimento",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La mortalidad experimental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Influye en la equivalencia de los grupos",
+                "correct": true
+            },
+            {
+                "text": "No afecta cuando el número de sujetos de los grupos es pequeño"
+            },
+            {
+                "text": "Es una amenaza a la validez ecológica"
+            }
+        ]
+    },
+    {
+        "text": "Cuando la asignación de los participantes a las condiciones o tratamientos no se produce de forma aleatoria, o no se utilizan técnicas de control para obtener igualación entre los grupos, se produce la amenaza de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mortalidad experimental"
+            },
+            {
+                "text": "Regresión estadística"
+            },
+            {
+                "text": "Selección diferencial",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El tipo de validez que tiene relación con el error tipo I es la validez:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De conclusiones estadísticas",
+                "correct": true
+            },
+            {
+                "text": "Interna"
+            },
+            {
+                "text": "De constructo"
+            }
+        ]
+    },
+    {
+        "text": "Una pregunta clave en la investigación es conocer la naturaleza de la relación entre dos o más variables. Si nos preguntamos si ¿es causal o puede manifestarse una en ausencia de otra?, ésta cuestión se refiere a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La validez interna",
+                "correct": true
+            },
+            {
+                "text": "La validez externa"
+            },
+            {
+                "text": "La validez de conclusión estadística"
+            }
+        ]
+    },
+    {
+        "text": "La validez histórica se puede definir como el grado de confianza para poder generalizar los resultados a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Periodos de tiempo del pasado y del futuro",
+                "correct": true
+            },
+            {
+                "text": "Distintas generaciones de sujetos"
+            },
+            {
+                "text": "Acontecimientos históricos de igual relevancia"
+            }
+        ]
+    },
+    {
+        "text": "Los efectos reactivos de los dispositivos experimentales:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son debidos a la selección de los sujetos"
+            },
+            {
+                "text": "Tienen que ver con la validez de constructo",
+                "correct": true
+            },
+            {
+                "text": "Son debidos a la artificialidad de la situación experimental"
+            }
+        ]
+    },
+    {
+        "text": "En una investigación experimental, una posible fuente de error es la “regresión estadística” y hace referencia a",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La tendencia de los datos a volver hacia la media",
+                "correct": true
+            },
+            {
+                "text": "Que el experimentador tiene expectativas de que uno de los grupos supere la media"
+            },
+            {
+                "text": "La perdida de sujetos de forma que alguno de los grupos no llegue a la media necesaria"
+            }
+        ]
+    },
+    {
+        "text": "El error tipo II se comete cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A partir de los datos de la muestra, no se detecta relación entre las variables y en realidad si existe en la población",
+                "correct": true
+            },
+            {
+                "text": "A partir de los datos de una población, no se detecta relación entre las variables que si existen en otra población"
+            },
+            {
+                "text": "Se llega a la conclusión de que existe relación entre las variables y en realidad no existe tal relación"
+            }
+        ]
+    },
+    {
+        "text": "La validez interna depende de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La regresión estadística y la potencia estadística"
+            },
+            {
+                "text": "La instrumentación y la maduración",
+                "correct": true
+            },
+            {
+                "text": "La historia y el nivel alfa"
+            }
+        ]
+    },
+    {
+        "text": "Si las variables de una investigación no están operacionalizadas correctamente o están mal definidas",
+        "fecha": {
+            "mes": "Tema",
+            "year": "3",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Habrá que realizar una investigación cuasiexperimental"
+            },
+            {
+                "text": "El experimento carecerá de aleatoriedad"
+            },
+            {
+                "text": "Se produce una amenaza a la validez de constructo",
+                "correct": true
+            }
+        ]
+    }
+]

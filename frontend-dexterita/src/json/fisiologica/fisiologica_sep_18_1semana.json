@@ -1,0 +1,505 @@
+[
+    {
+        "text": "Los investigadores y estudiosos de la Psicología Fisiológica, al acercarse por primera vez a un tema, es lógico que, sobre ese tema, comiencen leyendo en primer lugar:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los artículos de investigación."
+            },
+            {
+                "text": "Las revisiones.",
+                "correct": true
+            },
+            {
+                "text": "Los libros de historia."
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis del drenaje glinfático, durante el sueño:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se contraen los ganglios linfáticos del cerebro."
+            },
+            {
+                "text": "Se facilita el drenaje cerebral de metabolitos tóxicos.",
+                "correct": true
+            },
+            {
+                "text": "Se incrementa el volumen de las células corticales."
+            }
+        ]
+    },
+    {
+        "text": "La deuda de sueño es un ejemplo de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Desajuste del reloj circadiano."
+            },
+            {
+                "text": "Trastorno del sueño."
+            },
+            {
+                "text": "Carga alostática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El núcleo dorsomedial del hipotálamo (DMH) envía sus proyecciones sobre:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un centro de la vigilia (hipotálamo lateral HL) y otro del sueño (núcleo ventrolateral del área preóptica VLPO).",
+                "correct": true
+            },
+            {
+                "text": "Las recles neurales homeostática (RNHS) y circadiana (RNCD)."
+            },
+            {
+                "text": "Las regiones ventral y dorsal de la zona subparaventricular (ZSPV)."
+            }
+        ]
+    },
+    {
+        "text": "En su obra La interpretación de los sueños (1900), Sigmund Freud defiende que estos siempre representan:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La realización de deseos.",
+                "correct": true
+            },
+            {
+                "text": "La interpretación por la corteza cerebral de la actividad neural automática generada en el tronco del encéfalo."
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "La rata hembra, una vez expulsadas las crías en el parto, inmediatamente realiza la siguiente conducta:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Estimula la región anogenital de las crías."
+            },
+            {
+                "text": "Ingiere la placenta (placentofagia).",
+                "correct": true
+            },
+            {
+                "text": "Limpia a las crías con la boca."
+            }
+        ]
+    },
+    {
+        "text": "En relación al síndrome de Turner, ¿cuál de estas afirmaciones es cierta?:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las pacientes con monosomía X son las que tienen un fenotipo más severo."
+            },
+            {
+                "text": "Consiste en la ausencia total o parcial de uno de los cromosomas X."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los estrógenos estimulan la hormona del crecimiento (GFI) por medio de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La serotonina de los núcleos del rafe."
+            },
+            {
+                "text": "Los receptores alfa y beta de estrógenos que se expresan en el hipotálamo y la adenohipófisis.",
+                "correct": true
+            },
+            {
+                "text": "Ninguna de las afirmaciones anteriores es cierta."
+            }
+        ]
+    },
+    {
+        "text": "Al estimular los flancos de las ratas de 6 días de edad, muestran lordosis:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Las hembras y los machos.",
+                "correct": true
+            },
+            {
+                "text": "Sólo los machos."
+            },
+            {
+                "text": "Sólo las hembras."
+            }
+        ]
+    },
+    {
+        "text": "A los aminoácidos y ácidos grasos que no puede sintetizar el organismo se les denomina:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Aminoácidos y ácidos grasos esenciales.",
+                "correct": true
+            },
+            {
+                "text": "Aminoácidos y ácidos grasos no esenciales."
+            },
+            {
+                "text": "El organismo puede sintetizar todos los aminoácidos y ácidos grasos necesarios para su funcionamiento celular."
+            }
+        ]
+    },
+    {
+        "text": "La leptina:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Tiene efectos orexígenos sobre la ingesta."
+            },
+            {
+                "text": "Es secretada por los adipocitos.",
+                "correct": true
+            },
+            {
+                "text": "No posee receptores en los núcleos arqueado [arcuato, en la versión del libro de 2016] y ventromedial del hipotálamo."
+            }
+        ]
+    },
+    {
+        "text": "Sobre el receptor de melanocortinas (MCR4) actúa como agonista:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El neuropéptido Y (NPY) produciendo efectos anorexígenos."
+            },
+            {
+                "text": "La hormona estimulante de los melanocitos (a-MSH) produciendo un efecto anorexígeno.",
+                "correct": true
+            },
+            {
+                "text": "El neuropéptido proopiomelanocortina (POM"
+            },
+            {
+                "text": "Produciendo efectos orexígenos."
+            }
+        ]
+    },
+    {
+        "text": "Algunos estudios sobre la aparición de la obesidad:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Han descartado que el peso al nacimiento pueda tener alguna influencia."
+            },
+            {
+                "text": "Avalan sin duda que este trastorno se debe a la mutación de un único gen, el gen del receptor 4 de melanocortinas (MCR-4)."
+            },
+            {
+                "text": "Han comprobado en ratas que la alimentación a las madres con una dieta rica en grasas durante el periodo de gestación resulta en un incremento de peso corporal en las crías.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La primera teoría fisiológica de la emoción fue propuesta por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "James y Lange.",
+                "correct": true
+            },
+            {
+                "text": "Cannon y Bard."
+            },
+            {
+                "text": "Selye."
+            }
+        ]
+    },
+    {
+        "text": "Según MacLean:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los procesos emocionales están regulados por el cerebro reptil ¡ano."
+            },
+            {
+                "text": "Todas las estructuras del cerebro humano evolucionaron simultáneamente."
+            },
+            {
+                "text": "Las estructuras del sistema límbico median la interacción entre los procesos emocionales corticales y subcorticales para producir las respuestas y las experiencias emocionales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la activación cognitiva propuesta por Schachtery Singer (1962):",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La emoción se produce como consecuencia de la evaluación inconsciente del potencial dañino o beneficioso de una situación."
+            },
+            {
+                "text": "La emoción se produce por una activación fisiológica inespecífica y por la valoración cognitiva de la situación en la que se produce esta activación.",
+                "correct": true
+            },
+            {
+                "text": "Tanto la emoción como el sentimiento se producen independientemente de las valoraciones conscientes o inconscientes."
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis de la retroalimentación facial interpersonal:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "En los contextos interpersonales cara a cara, el tono hedónico facial que un sujeto muestra imitando a otro puede influir en el afecto que el primero pueda sentir hacia aquel que imita.",
+                "correct": true
+            },
+            {
+                "text": "En los contextos interpersonales cara a cara, el tono hedónico facial que un sujeto muestra imitando a otro nunca puede llegar a influir en el afecto que el primero pueda sentir hacia aquel que imita."
+            },
+            {
+                "text": "La percepción del estado corporal no influye sobre la sensación emocional."
+            }
+        ]
+    },
+    {
+        "text": "En las dimensiones que presenta el lenguaje, el lexicón es un componente de la memoria que sirve como almacén de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los sonidos de las palabras."
+            },
+            {
+                "text": "Los significados de las palabras.",
+                "correct": true
+            },
+            {
+                "text": "Las marcas gramaticales de las palabras."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los síntomas de la afasia de Wernicke es que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La comprensión está conservada aunque hay dificultades de articulación."
+            },
+            {
+                "text": "No se conjugan los verbos ni se usan palabras de función."
+            },
+            {
+                "text": "Se conserva la entonación y la prosodia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de Hickok y Poeppel (2007) la ruta ventral:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Facilita la articulación del lenguaje."
+            },
+            {
+                "text": "Está organizada jerárquicamente.",
+                "correct": true
+            },
+            {
+                "text": "Está fuertemente lateralizada."
+            }
+        ]
+    },
+    {
+        "text": "En el caso de la dislexia profunda según Coldheart (2000):",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Se conserva la capacidad de leer pseudopalabras."
+            },
+            {
+                "text": "Está conservada la ruta subléxica."
+            },
+            {
+                "text": "La lectura se hace con la capacidad residual del hemisferio derecho.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El óxido nítrico:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Es el responsable de que en la neurona presináptica se incremente la liberación de glutamato, lo que conlleva a una mayor estimulación de la neurona postsináptica.",
+                "correct": true
+            },
+            {
+                "text": "Es liberado a través de vesículas sinápticas como cualquier otro neurotransmisor como consecuencia del aumento en la concentración de Na+."
+            },
+            {
+                "text": "Actúa directamente sobre las membranas de las vesículas sinápticas, fusionándolas con las membranas postsinápticas, para posibilitar una mayor liberación de glutamato."
+            }
+        ]
+    },
+    {
+        "text": "Las células de lugar son:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Neuronas piramidales que exhiben una alta tasa de disparo cuando un animal se encuentra en un lugar determinado.",
+                "correct": true
+            },
+            {
+                "text": "Neuronas que se activan cuando el animal transita por distintas localizaciones del entorno, pero exclusivamente durante el día."
+            },
+            {
+                "text": "Neuronas piramidales exclusivas del subículum y el fórnix que se activan dependiendo de la dirección del animal o del movimiento de la cabeza."
+            }
+        ]
+    },
+    {
+        "text": "En relación al factor neurotrófico derivado del cerebro (BDNF) y a los procesos epigenéticos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La activación de los receptores NMDA conducen a la formación de patrones epigenéticos que posibilitan la transcripción del gen BDNF al estructurarse la cromatina de forma más laxa.",
+                "correct": true
+            },
+            {
+                "text": "Los estímulos ambientales, como el estrés, la nutrición, drogas, etc. no son idóneos para inducir cambios epigenéticos, por lo que no alteran la expresión del gen BDNF."
+            },
+            {
+                "text": "La acetilación de las citosinas localizadas en la secuencia promotora de este gen no es susceptible, en ninguna condición o circunstancia, al control epigenético, por lo que la expresión de los distintos transcritos de BDNF no se ven nunca alterados."
+            }
+        ]
+    },
+    {
+        "text": "La potenciación a largo plazo (PLP) es el resultado, principalmente, de un:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Incremento en la concentración de Ca2+ que conlleva cambios en el sistema de segundos mensajeros intracelulares y en la fosforilación de proteínas en la neurona postsináptica.",
+                "correct": true
+            },
+            {
+                "text": "Mayor número de receptores en la membrana presináptica, que a su vez induce un aumento al alza de la sensibilidad del neurotransmisor."
+            },
+            {
+                "text": "Aumento en el número de receptores de óxido nítrico."
+            }
+        ]
+    }
+]

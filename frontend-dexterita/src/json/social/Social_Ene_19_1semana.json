@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Señale la afirmación que es cierta:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 74-75)",
+        "responses": [
+            {
+                "text": "El objeto de análisis de la cognición social es diferente del objeto de la cognición “no social”.",
+                "correct": true
+            },
+            {
+                "text": "El análisis científico de la cognición social exige que no se simplifique la compleja realidad característica del ser humano, sino que se analicen los procesos en bloque."
+            },
+            {
+                "text": "Es más fácil comprobar la precisión de la cognición sobre personas que sobre objetos."
+            }
+        ]
+    },
+    {
+        "text": "Tal como la entienden los psicólogos sociales, la sociabilidad es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 13)",
+        "responses": [
+            {
+                "text": "Una característica de personalidad que se manifiesta sobre todo en las relaciones interpersonales."
+            },
+            {
+                "text": "Una tendencia innata a relacionarnos con los demás que se va desarrollando en la interacción con otras personas.",
+                "correct": true
+            },
+            {
+                "text": "Una necesidad que se manifiesta sobre todo en los primeros años de vida, cuando el ser humano es más vulnerable y necesita más a los demás."
+            }
+        ]
+    },
+    {
+        "text": "El sesgo “primus inter pares” permite integrar teóricamente la contradicción que parece existir en los resultados relacionados con los sesgos de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 64 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Falso consenso y falsa singularidad.",
+                "correct": true
+            },
+            {
+                "text": "Falso consenso e ignorancia pluralista."
+            },
+            {
+                "text": "Falso consenso y optimismo ilusorio."
+            }
+        ]
+    },
+    {
+        "text": "Si en un anuncio televisivo Antonio Banderas solicita una pequeña ayuda para Unicef, la influencia que ejercería se fundamenta en los principios psicológicos de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 255 y 265)",
+        "responses": [
+            {
+                "text": "Autoridad y coherencia."
+            },
+            {
+                "text": "Simpatía y coherencia.",
+                "correct": true
+            },
+            {
+                "text": "Reciprocidad y simpatía."
+            }
+        ]
+    },
+    {
+        "text": "Los procesos psicosociales individuales se caracterizan:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 8)",
+        "responses": [
+            {
+                "text": "Por ser deliberados y explícitos."
+            },
+            {
+                "text": "Por ser internos, aunque tengan un referente social.",
+                "correct": true
+            },
+            {
+                "text": "Por que en ellos no intervienen otras personas."
+            }
+        ]
+    },
+    {
+        "text": "El supuesto de universalidad",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 64)",
+        "responses": [
+            {
+                "text": "Sugiere que a partir de los resultados obtenidos en un país concreto se pueden hacer inferencias sobre la mente y la conducta humanas en cualquier otra cultura.",
+                "correct": true
+            },
+            {
+                "text": "Enfatiza la influencia de la cultura sobre la conducta y se centra en las diferencias culturales."
+            },
+            {
+                "text": "Sostiene que la capacidad para la cultura es universal, pero los procesos psicológicos básicos no."
+            }
+        ]
+    },
+    {
+        "text": "La Psicología Social:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 3 y 4)",
+        "responses": [
+            {
+                "text": "No explica, sino que describe, cómo son los contextos sociales."
+            },
+            {
+                "text": "Estudia las relaciones entre procesos psicológicos y contexto social.",
+                "correct": true
+            },
+            {
+                "text": "Se fundamenta en la experiencia personal adquirida por los psicólogos en relación con su entorno."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría atributiva de Weiner, las atribuciones que hacemos de nuestros éxitos y fracasos provocan diferentes emociones que afectan a nuestra motivación posterior. Teniendo en cuenta este planteamiento y las dimensiones en las que Weiner clasifica las atribuciones, indique cuál de las siguientes afirmaciones es cierta.",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 152-153)",
+        "responses": [
+            {
+                "text": "La dimensión de estabilidad tiene que ver sobre todo con las expectativas de cara al futuro y con sentimientos de esperanza o desánimo.",
+                "correct": true
+            },
+            {
+                "text": "La dimensión de controlabilidad implica que las emociones serán positivas cuando la atribución es controlable y negativas cuando es incontrolable."
+            },
+            {
+                "text": "Las atribuciones internas, estables y controlables garantizan un aumento de la autoestima y la motivación."
+            }
+        ]
+    },
+    {
+        "text": "La autoestima es:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 183)",
+        "responses": [
+            {
+                "text": "Un autoesquema."
+            },
+            {
+                "text": "Una actitud.",
+                "correct": true
+            },
+            {
+                "text": "Una autoatribución."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es, según la teoría de la autodiscrepancia, un motor fundamental que motiva a una persona a cambiar?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "Una motivación extrínseca de satisfacer a los otros relevantes."
+            },
+            {
+                "text": "Conseguir el bienestar psicológico que aporta superarse a sí mismo."
+            },
+            {
+                "text": "Reducir el malestar psicológico que generan las diferencias entre el yo real y otros yoes que nos sirven como guías.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El autoconocimiento activo es la información sobre uno mismo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 170)",
+        "responses": [
+            {
+                "text": "A la que no le influyen las características de la situación."
+            },
+            {
+                "text": "De la que se tiene consciencia en un momento determinado.",
+                "correct": true
+            },
+            {
+                "text": "Que no surge de forma espontánea, sino cuando se reflexiona sobre el yo."
+            }
+        ]
+    },
+    {
+        "text": "En los estudios de Dunbar en los que se comparó el tamaño relativo del neocórtex cerebral de varias especies, se encontró apoyo para la hipótesis de que el aumento del cerebro se produjo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 42)",
+        "responses": [
+            {
+                "text": "Por la necesidad de explorar grandes territorios."
+            },
+            {
+                "text": "Por la necesidad de resolver problemas técnicos."
+            },
+            {
+                "text": "Por la necesidad de resolver problemas sociales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con el proceso de inferencia, la perspectiva normativa del científico ingenuo:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 85-86)",
+        "responses": [
+            {
+                "text": "Sostiene que la mayoría de las veces priorizamos la eficiencia sobre la exactitud cuando realizamos inferencias."
+            },
+            {
+                "text": "Explica cómo las personas hacen realmente las inferencias en su vida cotidiana."
+            },
+            {
+                "text": "Es un modelo normativo que establece una secuencia de pasos que deben seguirse para realizar una inferencia correcta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El conocimiento que las personas tienen del “yo” se construye:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 167 y 170-171)",
+        "responses": [
+            {
+                "text": "De forma abstracta, sin basarse en episodios concretos."
+            },
+            {
+                "text": "De modo similar a como se desarrollan impresiones sobre los demás.",
+                "correct": true
+            },
+            {
+                "text": "Sin utilizar para ello esquemas."
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de las siguientes situaciones el efecto tercera persona se intensifica?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 100-101 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Cuando las recomendaciones del mensaje no se perciben como personalmente beneficiosas.",
+                "correct": true
+            },
+            {
+                "text": "Cuando el tema no es importante para la persona."
+            },
+            {
+                "text": "Cuando la comparación se hace con personas de nuestro grupo."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de las inferencias correspondientes, será más probable que atribuyamos el insulto de un desconocido a una disposición subyacente del agresor cuando ese insulto va dirigido a nosotros mismos que cuando la víctima es otra persona con la que no tenemos relación. Esta diferencia se explica por:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 136)",
+        "responses": [
+            {
+                "text": "La deseabilidad social de los efectos de la conducta."
+            },
+            {
+                "text": "Los efectos no comunes de la acción."
+            },
+            {
+                "text": "La relevancia hedónica de la acción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si un investigador desea emplear medidas implícitas para evaluar actitudes hacia grupos estigmatizados, ¿cuál de las siguientes opciones tendría que elegir?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 209)",
+        "responses": [
+            {
+                "text": "El diferencial semántico."
+            },
+            {
+                "text": "Escalas de tipo Likert."
+            },
+            {
+                "text": "Medidas basadas en la latencia de respuesta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El motivo que impulsa a las personas a sentirse competentes al tratar con el ambiente social y consigo mismas es el motivo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 45-46)",
+        "responses": [
+            {
+                "text": "Confianza."
+            },
+            {
+                "text": "Pertenencia."
+            },
+            {
+                "text": "Control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los resultados del estudio de López-Sáez y cols. (1997) muestran que el efecto tercera persona se agudiza cuando la comparación de sí mismo se realiza con una persona:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 103, Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Perteneciente a un grupo ajeno.",
+                "correct": true
+            },
+            {
+                "text": "De nuestro grupo."
+            },
+            {
+                "text": "Que es amiga."
+            }
+        ]
+    },
+    {
+        "text": "Si al ver a una persona sentimos miedo simplemente porque la etiquetamos como miembro de un grupo determinado, esta reacción de miedo sería un ejemplo de la influencia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 104)",
+        "responses": [
+            {
+                "text": "Del estado de ánimo sobre la cognición;."
+            },
+            {
+                "text": "De la cognición sobre el estado de ánimo.",
+                "correct": true
+            },
+            {
+                "text": "De la ambivalencia actitudinal."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modelo o teoría de la persuasión centra la explicación de la persuasión en la valoración superficial que los receptores hacen de una serie de claves externas, como, por ejemplo, las características estructurales del mensaje?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 273)",
+        "responses": [
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo del aprendizaje del mensaje."
+            }
+        ]
+    },
+    {
+        "text": "Decimos a una persona (la Persona A) que su nuevo compañero de trabajo es afectuoso, amigable e inteligente, y a otra persona (la Persona B) que el nuevo compañero es frío, desagradable e inteligente. Según el modelo de configuración gestáltica, también llamado de tendencia relacional, el rasgo inteligente:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 122-123)",
+        "responses": [
+            {
+                "text": "Tendrá un significado diferente para ambas personas.",
+                "correct": true
+            },
+            {
+                "text": "Tendrá el mismo significado para ambas personas, aunque la impresión que se formarán del nuevo compañero será diferente por la conjunción con los otros dos rasgos."
+            },
+            {
+                "text": "Será ignorado completamente por ambas personas, que focalizarán su impresión del nuevo compañero en los dos rasgos anteriores."
+            }
+        ]
+    },
+    {
+        "text": "Tener una actitud negativa hacia un grupo social minoritario al que culpamos de alguno de nuestros males es un ejemplo de la función actitudinal:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 212-213)",
+        "responses": [
+            {
+                "text": "De conocimiento."
+            },
+            {
+                "text": "Defensiva del yo.",
+                "correct": true
+            },
+            {
+                "text": "Instrumental."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la teoría de la disonancia cognitiva, ¿en qué situación sería más fácil que una persona alcohólica cambie su actitud hacia el consumo de ese tipo de bebidas?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 230)",
+        "responses": [
+            {
+                "text": "Si se amenaza con despedirla del empleo si no asiste a las reuniones de alcohólicos anónimos."
+            },
+            {
+                "text": "Si se le da una cantidad importante de dinero por asistir a las reuniones de alcohólicos anónimos."
+            },
+            {
+                "text": "Si se consigue que vaya una vez a la reunión de alcohólicos anónimos mediante un pequeño incentivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones referidas a los esquemas sociales es FALSA?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 82)",
+        "responses": [
+            {
+                "text": "La información claramente inconsistente con nuestros esquemas es procesada de forma más rápida y automática que la consistente.",
+                "correct": true
+            },
+            {
+                "text": "Los esquemas se activan de forma automática cuando nos encontramos con un estímulo relacionado con ellos."
+            },
+            {
+                "text": "Tendemos a recordar sobre todo la información que es consistente con nuestros esquemas."
+            }
+        ]
+    },
+    {
+        "text": "La tendencia a creer que tenemos menos posibilidades que la media de ser víctimas de una enfermedad grave como el cáncer se relaciona con:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 60 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "La ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "El optimismo ilusorio."
+            },
+            {
+                "text": "La ignorancia pluralista."
+            }
+        ]
+    },
+    {
+        "text": "La existencia de diferencias entre culturas:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 50 y 64)",
+        "responses": [
+            {
+                "text": "Se conoce como culturocentrismo."
+            },
+            {
+                "text": "Demuestra que en el ser humano no existen procesos psicológicos universales."
+            },
+            {
+                "text": "Se debe a la necesidad de adaptación a medios con diferentes exigencias.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes aspectos es el que, por definición, ha de estar siempre presente en cualquier actitud?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 204-205)",
+        "responses": [
+            {
+                "text": "El emocional hacia el objeto de actitud."
+            },
+            {
+                "text": "El evaluativo (positivo vs. negativo) hacia el objeto de actitud.",
+                "correct": true
+            },
+            {
+                "text": "El conductual hacia el objeto de actitud."
+            }
+        ]
+    },
+    {
+        "text": "Las tácticas de influencia social descritas por Cialdini son un ejemplo del funcionamiento de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(p. 254 y tema 3)",
+        "responses": [
+            {
+                "text": "El procesamiento controlado."
+            },
+            {
+                "text": "La profecía autocumplida."
+            },
+            {
+                "text": "Los heurísticos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La percepción social:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2019",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 118-119)",
+        "responses": [
+            {
+                "text": "Es dinámica y depende de la interacción.",
+                "correct": true
+            },
+            {
+                "text": "Es de carácter reactivo, no activo."
+            },
+            {
+                "text": "Se ve influida por ejemplares concretos, no por esquemas previos."
+            }
+        ]
+    }
+]

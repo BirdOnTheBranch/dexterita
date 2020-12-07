@@ -1,0 +1,723 @@
+[
+    {
+        "text": "Cuando la heredabilidad se calcula a partir de la correlación entre hermanos (completos), este valor incluye:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los efectos del ambiente no compartido."
+            },
+            {
+                "text": "La varianza genética ambiental."
+            },
+            {
+                "text": "La varianza genética en sentido amplio."
+            },
+            {
+                "text": "La varianza genética por dominancia.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los últimos estudios parecen señalar que la influencia del ambiente compartido en el cociente de inteligencia (Cl) es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Igual de importante que la varianza genética aditiva."
+            },
+            {
+                "text": "Igual de importante que la heredabilidad."
+            },
+            {
+                "text": "Nula.",
+                "correct": true
+            },
+            {
+                "text": "Crucial."
+            }
+        ]
+    },
+    {
+        "text": "El Alzheimer temprano (de aparición anterior a los 60 años) está relacionado en algunos casos con una mutación en el gen que codifica la proteína precursora de amiloide (APP). Sabiendo que se trata de herencia autosómica dominante, ¿cuál es la probabilidad de que padezca esta enfermedad de origen temprano una persona cuyo padre no la padeció aunque sí sus abuelos paternos, y cuya madre no manifiesta ningún síntoma con más de 75 años?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0%.",
+                "correct": true
+            },
+            {
+                "text": "25%."
+            },
+            {
+                "text": "50%."
+            },
+            {
+                "text": "100%."
+            }
+        ]
+    },
+    {
+        "text": "La llamada Afasia de Broca consiste esencialmente en una incapacidad de pronunciar correctamente las palabras, a pesar de que los sujetos que la padecen comprenden perfectamente lo que se les dice. Se llama afasia de Broca porque fue Broca quien en 1861 publicó un artículo donde se asociaban lesiones en la parte posterior del lóbulo frontal izquierdo y la alteración del habla de estas personas. en 1863 publicó otro artículo donde daba cuenta de las autopsias de 8 sujetos afásicos cuyos cerebros presentaban daños cerebrales en esa misma área posterior del lóbulo frontal izquierdo. Podemos afirmar que estas investigaciones de Broca:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se sirvieron de una aproximación correlacional.",
+                "correct": true
+            },
+            {
+                "text": "Se sirvieron de intervención conductual."
+            },
+            {
+                "text": "Se sirvieron de intervención somática."
+            },
+            {
+                "text": "Fueron de tipo experimental."
+            }
+        ]
+    },
+    {
+        "text": "¿con cuál de los siguientes sistemas neurales relacionaría directamente nuestra capacidad de pensar?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sistemas sensoriales."
+            },
+            {
+                "text": "Sistemas motores."
+            },
+            {
+                "text": "Sistemas efectores."
+            },
+            {
+                "text": "Sistemas de asociación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se dice que el altruismo reproductivo es una paradoja biológica nos estamos refiriendo a que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se da en humanos."
+            },
+            {
+                "text": "No se da en la naturaleza."
+            },
+            {
+                "text": "Es difícil de explicar en el marco de la biología darwinista, puesto que la aptitud biológica o eficacia biológica darwinista se mide por el número de descendientes directos.",
+                "correct": true
+            },
+            {
+                "text": "Se da sólo en especies poligínicas."
+            }
+        ]
+    },
+    {
+        "text": "El descubrimiento de los mensajeros transcelulares retrógrados apunta a que la transmisión de señales en las sinapsis químicas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No precisa de la existencia de receptores postsinápticos identificables.",
+                "correct": true
+            },
+            {
+                "text": "No suele implicar sistemas de segundos mensajeros."
+            },
+            {
+                "text": "Es siempre unidireccional."
+            },
+            {
+                "text": "Sólo excepcionalmente está mediada por proteínas G."
+            }
+        ]
+    },
+    {
+        "text": "La inactivación de uno de los dos cromosomas X:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Explica la existencia de tejidos en mosaico en las mujeres."
+            },
+            {
+                "text": "No es completa ya que un 15% del cromosoma X inactivado escapa a dicha inactivación."
+            },
+            {
+                "text": "Permite que, a efectos funcionales, la dotación génica de machos y hembras sea la misma."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El glutamato:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se une a receptores muscarínicos."
+            },
+            {
+                "text": "Se libera en más de la mitad de las sinapsis del encéfalo.",
+                "correct": true
+            },
+            {
+                "text": "Pertenece al grupo de las aminas biógenas."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "Cuando hablamos de una conducta innata, estereotipada y propia de la especie nos estamos refiriendo a:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un mecanismo desencadenador innato."
+            },
+            {
+                "text": "Una pauta de acción fija.",
+                "correct": true
+            },
+            {
+                "text": "Un proceso mental."
+            },
+            {
+                "text": "Una conducta aprendida."
+            }
+        ]
+    },
+    {
+        "text": "Uno de los mecanismos que puede dar origen a la especiación simpátrica es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La anagénesis."
+            },
+            {
+                "text": "El aislamiento etológico."
+            },
+            {
+                "text": "La evolución filética."
+            },
+            {
+                "text": "La poliploidía.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto a los autorreceptores sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son receptores a los que se pueden unir los neurotransmisores liberados al espacio sináptico."
+            },
+            {
+                "text": "Están asociados a proteínas G que desencadenan la producción de segundos mensajeros."
+            },
+            {
+                "text": "Desencadenan mecanismos para el control de la síntesis del propio neurotransmisor que los activa."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La ecología del comportamiento tiene como objetivo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Establecer hasta qué punto es cierto que la conducta de los organismos está relacionada con la maximización de su aptitud inclusiva.",
+                "correct": true
+            },
+            {
+                "text": "Demostrar que la teoría de juegos se debe aplica de la misma manera tanto a las conductas económicas humanas como a las interacciones sociales de los animales."
+            },
+            {
+                "text": "Establecer hasta qué punto los animales dotados de cerebro ejecutan adaptaciones."
+            },
+            {
+                "text": "Explicar las bases biológicas de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "La manera más directa para calcular los efectos del ambiente compartido (c ) es estudiando:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La correlación entre individuos emparentados criados por separado."
+            },
+            {
+                "text": "La correlación entre individuos no emparentados criados juntos.",
+                "correct": true
+            },
+            {
+                "text": "La correlación entre gemelos dicigóticos criados juntos."
+            },
+            {
+                "text": "La correlación entre gemelos homocigóticos criados por separado."
+            }
+        ]
+    },
+    {
+        "text": "La impronta (filial o sexual):",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es una prueba de que el aprendizaje se produce de la misma manera en cualquier época de la vida."
+            },
+            {
+                "text": "Es un estímulo desencadenador innato."
+            },
+            {
+                "text": "Es una forma de aprendizaje facilitado.",
+                "correct": true
+            },
+            {
+                "text": "No se da en mamíferos."
+            }
+        ]
+    },
+    {
+        "text": "Al inicio de la fase descendente del potencial de acción:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El gradiente electroquímico impulsa a los iones de Na+ y de K+ hacia el interior celular."
+            },
+            {
+                "text": "Se inactivan los canales de Na+ dependientes de voltaje.",
+                "correct": true
+            },
+            {
+                "text": "La membrana neuronal está en periodo refractario relativo."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "Sobre la regulación de la expresión génica se sabe que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los genes homeobox están implicados en la regulación a largo plazo.",
+                "correct": true
+            },
+            {
+                "text": "La regulación a corto plazo se relaciona con el desarrollo del organismo."
+            },
+            {
+                "text": "La expresión génica es continua y simultánea para todos los genes."
+            },
+            {
+                "text": "La regulación a largo plazo está relacionada con el metabolismo celular."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes células participa en la reparación del tejido nervioso dañado?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los astrocitos."
+            },
+            {
+                "text": "Las células de Schwann."
+            },
+            {
+                "text": "La microglía."
+            },
+            {
+                "text": "Todas las opciones anteriores son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Algunas hormonas, como la testosterona, tienen tanto un efecto organizacional como activacional sobre la conducta. el efecto organizacional podríamos inscribirlo en el contexto de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los aprendizajes biológicamente preparados."
+            },
+            {
+                "text": "La filogenia de la conducta."
+            },
+            {
+                "text": "Las causas lejanas de la conducta."
+            },
+            {
+                "text": "La ontogenia de la conducta.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando en un proceso de especiación, los genes en la nueva especie conservan la misma función que en la especie anterior, hablamos de genes:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que son consecuencia de una radiación adaptativa."
+            },
+            {
+                "text": "Que han sufrido evolución convergente."
+            },
+            {
+                "text": "Parálogos."
+            },
+            {
+                "text": "Ortólogos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la Figura, se representa un esquema de las meninges ¿qué número señala la piamadre?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb18_2semana_1.jpg",
+        "responses": [
+            {
+                "text": "1."
+            },
+            {
+                "text": "2."
+            },
+            {
+                "text": "3.",
+                "correct": true
+            },
+            {
+                "text": "4."
+            }
+        ]
+    },
+    {
+        "text": "En relación con los nervios cocígeos sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pertenecen al sistema nervioso periférico."
+            },
+            {
+                "text": "Pertenecen al sistema nervioso periférico y son nervios espinales.",
+                "correct": true
+            },
+            {
+                "text": "Forman parte de los pares craneales cuyos núcleos de origen se sitúan en el bulbo raquídeo."
+            },
+            {
+                "text": "Son nervios espinales."
+            }
+        ]
+    },
+    {
+        "text": "El entrecruzamiento o sobrecruzamiento que tiene lugar en la meiosis:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se produce en las células del zigoto."
+            },
+            {
+                "text": "Provoca que cada cromosoma que un progenitor pasa a su descendiente sea una combinación de los cromosomas homólogos que recibió de sus padres.",
+                "correct": true
+            },
+            {
+                "text": "No se relaciona con la recombinación génica."
+            },
+            {
+                "text": "Las tres opciones anteriores son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "Los factores de crecimiento nervioso alcanzan el soma neuronal desde el terminal axónico gracias al transporte axónico:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lento retrógrado."
+            },
+            {
+                "text": "Lento anterógrado."
+            },
+            {
+                "text": "Rápido retrógrado.",
+                "correct": true
+            },
+            {
+                "text": "Rápido anterógrado."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos un gen con dos alelos (Al y A2) en una población de 10.000 individuos. Sabiendo que la frecuencia génica de Al es 0,3 y que la población está en equilibrio ¿qué número de individuos presentará el genotipo heterocigoto?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "420."
+            },
+            {
+                "text": "1.500."
+            },
+            {
+                "text": "4.200.",
+                "correct": true
+            },
+            {
+                "text": "4.900."
+            }
+        ]
+    },
+    {
+        "text": "Durante el potencial de reposo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La entrada de iones de K+ al interior celular provoca la salida masiva de los iones de Na+ al exterior a favor de gradiente."
+            },
+            {
+                "text": "La principal corriente iónica a través de la membrana es de aniones orgánicos."
+            },
+            {
+                "text": "La tendencia del K+ a salir al exterior celular impulsado por la fuerza de difusión se equilibra por su tendencia a entrar impulsado por la presión electrostática.",
+                "correct": true
+            },
+            {
+                "text": "No se produce ningún movimiento de iones de Na+ hacia el interior celular."
+            }
+        ]
+    },
+    {
+        "text": "En el contexto del estudio de la genética cuantitativa de la inteligencia, sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La heredabilidad disminuye con la edad."
+            },
+            {
+                "text": "La heredabilidad aumenta con la edad.",
+                "correct": true
+            },
+            {
+                "text": "El valor más alto de heredabilidad se obtiene entre los 3 y 6 primeros meses de vida."
+            },
+            {
+                "text": "La heredabilidad es irrelevante en el estudio de la inteligencia."
+            }
+        ]
+    },
+    {
+        "text": "Los chimpancés tienen un número diploide de cromosomas igual a 48. ¿Cuántos cromosomas habrá respectivamente en un espermatozoide y en una neurona?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "24 y 48.",
+                "correct": true
+            },
+            {
+                "text": "48 y 96."
+            },
+            {
+                "text": "48 y 24."
+            },
+            {
+                "text": "48 en ambas."
+            }
+        ]
+    },
+    {
+        "text": "Los factores epigenéticos:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son siempre factores externos al organismo."
+            },
+            {
+                "text": "Forman parte de las llamadas causas próximas de la conducta.",
+                "correct": true
+            },
+            {
+                "text": "Son el conjunto de genes que se hallan en el ADN de cada individuo."
+            },
+            {
+                "text": "Forman parte de las llamadas causas lejanas de la conducta."
+            }
+        ]
+    },
+    {
+        "text": "En relación con la variabilidad genética en las poblaciones, uno de los pilares de la Teoría de la evolución propuesto por Darwin, sabemos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2018",
+            "modelo": "2"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La variabilidad sólo afecta al ADN codificante."
+            },
+            {
+                "text": "La aparición de un nuevo alelo desencadena necesariamente la eliminación de otro."
+            },
+            {
+                "text": "La recombinación génica es una fuente importante de esta variabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Las mutaciones no generan nuevos alelos."
+            }
+        ]
+    }
+]

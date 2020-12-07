@@ -1,0 +1,682 @@
+[
+    {
+        "text": "Las emociones autoconscientes siempre tienen como antecedente algún tipo de juicio de la persona sobre:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Sus propias acciones.",
+                "correct": true
+            },
+            {
+                "text": "Las acciones de otras personas."
+            }
+        ]
+    },
+    {
+        "text": "En la respuesta de ansiedad, la persistencia tanto de la activación fisiológica como de las ideaciones irracionales, pueden explicarse por:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Proyecciones de la amígdala a los centros hipotalámicos."
+            },
+            {
+                "text": "Influencias recíprocas de la amígdala y las estructuras corticales superiores responsables del procesamiento cognitivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto al procesamiento cognitivo de la ansiedad, la preocupación es un elemento clave en los:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Sesgos en la interpretación.",
+                "correct": true
+            },
+            {
+                "text": "Sesgos en la memoria."
+            }
+        ]
+    },
+    {
+        "text": "Durante el episodio de hilaridad, la aparición de patrones sonoros 'jo-jo' o 'ju-ju' se asocia con una expresión desinhibida de la alegría:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "La hipótesis de la vía rápida defiende:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La dependencia entre los procesos emocionales y cognitivos."
+            },
+            {
+                "text": "La independencia entre los procesos emocionales y cognitivos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Tangney (1999) dado que en la culpa, la vergüenza y el orgullo, la autoevaluación subyacente a dichas emociones no tiene por qué ser explícita ni consciente, sería más apropiado denominarlas:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Emociones autoevaluativas.",
+                "correct": true
+            },
+            {
+                "text": "Emociones sobre emociones."
+            }
+        ]
+    },
+    {
+        "text": "Los fenómenos de fraccionamiento direccional y de especificidad estimular son hechos que cuestionan el concepto de activación como proceso único:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde los planteamientos bifactoriales en el estudio de la emoción, Schachter y Singer (1962) afirman que el arousal fisiológico, los cambios corporales periféricos, son necesarios para que se produzca una emoción, pero no son suficientes:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se da algún tipo de evaluación relativa al propio yo, la clase de emociones que produce se denomina:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Emociones autoconscientes.",
+                "correct": true
+            },
+            {
+                "text": "Emociones yóicas."
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de investigación en emociones de Arne Öhman es destacable que:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Postula que las emociones tendrían orígenes no conscientes o preatencionales.",
+                "correct": true
+            },
+            {
+                "text": "Demuestra el paradigma de feedback fisiológico falso."
+            }
+        ]
+    },
+    {
+        "text": "Un indicador de la activación fisiológica asociada a las emociones de alegría y humor es que durante la risa se produce:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Un aumento de la transpiración mayor que en otros estados emocionales."
+            },
+            {
+                "text": "Una razón de inspiración-espiración más baja que en otros estados emocionales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Algunos autores cuestionan que la sorpresa sea una emoción porque no tiene valencia:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "El afecto negativo facilita la solución creativa de problemas:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "Las emociones son procesos que se activan cada vez que nuestro aparato psíquico detecta:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Algún cambio significativo para nosotros.",
+                "correct": true
+            },
+            {
+                "text": "Algún cambio en el entorno."
+            }
+        ]
+    },
+    {
+        "text": "Lewis y colaboradores (1989) observaron que los primeros signos de embarrassment en los niños (sonreír y al mismo tiempo evitar la mirada, tocarse la cara, etc.) aparecían entre:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Los 6 y los 12 meses."
+            },
+            {
+                "text": "Los 15 y los 24 meses.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La principal función adaptativa de la emoción de asco es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El rechazo.",
+                "correct": true
+            },
+            {
+                "text": "La exploración."
+            }
+        ]
+    },
+    {
+        "text": "Según el estudio realizado por Wallbott y Scherer (1995):",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Mientras que la vergüenza a menudo es provocada por factores externos, la culpa es una experiencia emocional más interna.",
+                "correct": true
+            },
+            {
+                "text": "Mientras que la vergüenza se asocia a la transgresión de normas, la culpa se asocia al fracaso en el logro de metas."
+            }
+        ]
+    },
+    {
+        "text": "Según los resultados obtenidos sobre estudios de procesamiento emocional y realizados con el paradigma de búsqueda visual:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La atención se dirige principalmente hacia los estímulos con valencia afectiva y hace que éstos se procesen más rápidamente que los estímulos con valencia neutra.",
+                "correct": true
+            },
+            {
+                "text": "La atención se dirige principalmente hacia los estímulos novedosos, independientemente de su valencia afectiva."
+            }
+        ]
+    },
+    {
+        "text": "Un objetivo de los estudios transculturales sobre expresión y reconocimiento facial de emociones, es recoger datos de expresión y/o reconocimiento facial de emociones en individuos pertenecientes a diversas etnias:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un rasgo o tendencia emocional se refiere a las formas habituales de responder emocionalmente de una determinada manera:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "En el contexto de las teorías de la activación, ¿qué supone la existencia de una única dimensión de activación general del organismo?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Existen patrones específicos de activación vinculados a cada emoción."
+            },
+            {
+                "text": "El grado de activación estaría relacionado con la disposición del organismo para la acción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la categorización de material:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "El afecto positivo influye en la categorización del material de tono emocional positivo, negativo y neutro."
+            },
+            {
+                "text": "El afecto positivo influye en la categorización del material de tono emocional positivo y neutro, pero no en la del material negativo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El factor que parece determinar la relación entre el rasgo de extraversión y la emoción de felicidad es la:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Estabilidad emocional."
+            },
+            {
+                "text": "Disposición a la interacción social.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los datos obtenidos en la investigación con monos permiten afirmar que el córtex orbito frontal está relacionado con:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La adaptación de la conducta en función del significado emocional de los estímulos.",
+                "correct": true
+            },
+            {
+                "text": "La inhibición de la respuesta a estímulos aversivos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el referente teórico de la línea de investigación que postula la existencia de patrones específicos de respuesta asociados a cada emoción?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La teoría de James-Lange.",
+                "correct": true
+            },
+            {
+                "text": "La teoría emergentista de las emociones."
+            }
+        ]
+    },
+    {
+        "text": "Según Izard (1989) una de las subfunciones de la función social de las emociones es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La de evitar la conducta prosocial."
+            },
+            {
+                "text": "La de controlar la conducta de los demás.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el modelo de chequeos secuenciales para la diferenciación de emociones, ¿de qué componente del procesamiento dependen las emociones complejas, como la culpabilidad o el orgullo?:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Subsistema de monitorización.",
+                "correct": true
+            },
+            {
+                "text": "Subsistema ejecutivo."
+            }
+        ]
+    },
+    {
+        "text": "El trabajo de Strack, Martin y Stepper (1988) sobre feedback facial, donde los sujetos al realizar una tarea de visualización y evaluación de la comicidad de unas viñetas, sostenían un lápiz, bien con los labios o bien con los dientes, concluye que la pose facial determina la intensidad del estado afectivo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Según la clasificación de Gray (1979, 1987) de los estímulos que producen miedo, el miedo a las alturas, estaría dentro de los estímulos procedentes de interacciones sociales:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una variable cognitiva relacionada con el sentimiento de tristeza es:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La extraversión."
+            },
+            {
+                "text": "El autocontrol.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con el afrontamiento, las personas bajas en ansiedad utilizan los recursos de afrontamiento que les proporciona el estrés:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero.",
+                "correct": true
+            },
+            {
+                "text": "Falso."
+            }
+        ]
+    },
+    {
+        "text": "Inhibir las conductas indeseables de otras personas es una función propia de:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "La ira y la hostilidad.",
+                "correct": true
+            },
+            {
+                "text": "Sólo de la hostilidad."
+            }
+        ]
+    },
+    {
+        "text": "Según la corriente psicológica New Look, la percepción no es únicamente el registro del entorno, sino que además refleja las expectativas y motivaciones propias de cada individuo:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las vivencias asociadas a la experiencia óptima o de flujo (Csikszentmihalyi, 1990) son conocidas también como:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Vivencias autotélicas.",
+                "correct": true
+            },
+            {
+                "text": "Vivencias eudaimónicas."
+            }
+        ]
+    },
+    {
+        "text": "El amor apasionado:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Es una combinación de intimidad y pasión."
+            },
+            {
+                "text": "Suele evolucionar a un amor de compañero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El objetivo de los teóricos del appraisal (valoración), es encontrar patrones específicos de activación fisiológica para cada estado emocional:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso.",
+                "correct": true
+            },
+            {
+                "text": "Verdadero."
+            }
+        ]
+    },
+    {
+        "text": "La duración de la emoción de sorpresa viene determinada por el tiempo que tarda en aparecer la emoción posterior:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Falso."
+            },
+            {
+                "text": "Verdadero.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las emociones de sorpresa y miedo, comparadas con otros pares de emociones, son las que comparten menos unidades de acción:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El asco es una de las reacciones emocionales en las que las sensaciones fisiológicas son menos patentes:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Verdadero."
+            },
+            {
+                "text": "Falso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La ley de la habituación formula que los placeres o dificultades continuadas tienden a:",
+        "fecha": {
+            "mes": "Junio",
+            "year": "2018",
+            "modelo": "1"
+        },
+        "responses": [
+            {
+                "text": "Perder fuerza.",
+                "correct": true
+            },
+            {
+                "text": "Ganar fuerza."
+            }
+        ]
+    }
+]

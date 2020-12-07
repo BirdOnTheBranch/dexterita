@@ -1,0 +1,722 @@
+[
+    {
+        "text": "La aptitud inclusiva se mide por:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El número de copias de alelos propios que pasan a la siguiente generación.",
+                "correct": true
+            },
+            {
+                "text": "El número de descendientes directos que pasan a la siguiente generación."
+            },
+            {
+                "text": "El éxito reproductivo."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Suponga que en una población media española de mil habitantes se hace un estudio sobre ciertos rasgos psicológicos y resulta que hay un 10% de genotipos homocigoticos recesivos y un 64 % de heterocigotos ¿cuál será la frecuencia génica del alelo dominante en esa población?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,33."
+            },
+            {
+                "text": "0,35."
+            },
+            {
+                "text": "0,42."
+            },
+            {
+                "text": "0,58.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el encéfalo de los mamíferos, incluido el hombre, hay receptores a los que se une la Hormona Liberadora de la Corticotropina (CRH), un neuropéptido que interviene en la regulación de respuestas endocrinas, fisiológicas y conductuales ante situaciones de estrés. Hay varios alelos que codifican los subtipos de receptores de CRH, pero supongamos que fueran solamente dos (Cl y C2) y que fueran las únicas variantes de un gen, que llamamos C, en la población. Supongamos también que las personas CICI tuvieran una gran susceptibilidad a los efectos adversos del estrés, mientras que los C2C2 fueran de muy escasa susceptibilidad. Considere, además, que la fertilidad de una pareja puede disminuir sensiblemente en situaciones de estrés e imagine que, en una población dada, la eficacia biológica de las parejas con genotipo CICI es de 0,40, mientras que el promedio de descendientes de las parejas con genotipo C2C2, que son los que más descendientes tienen, es de 2,3. ¿Cuál será el promedio de descendientes de las parejas con genotipo CICI?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,08."
+            },
+            {
+                "text": "0,17."
+            },
+            {
+                "text": "0,92.",
+                "correct": true
+            },
+            {
+                "text": "5,75."
+            }
+        ]
+    },
+    {
+        "text": "Se dice que existe ligamiento entre dos genes cuando:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tienen una tasa de recombinación alta."
+            },
+            {
+                "text": "Cuando tienen una tasa de recombinación nula o muy baja.",
+                "correct": true
+            },
+            {
+                "text": "Cuando están en posiciones alejadas en el cromosoma."
+            },
+            {
+                "text": "Cuando hay combinación independiente de los caracteres que determinan."
+            }
+        ]
+    },
+    {
+        "text": "En sentido estricto, ateniéndonos a la definición de cada sistema de apareamiento, La ley de Bateman NO se cumpliría en las especies:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Promiscuas."
+            },
+            {
+                "text": "Poligínicas."
+            },
+            {
+                "text": "Monógamas.",
+                "correct": true
+            },
+            {
+                "text": "Poliginándricas."
+            }
+        ]
+    },
+    {
+        "text": "Mutaciones en el gen que codifica el receptor de leptina:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pueden llevar a obesidad.",
+                "correct": true
+            },
+            {
+                "text": "No se transmiten por un patrón de herencia mendeliano."
+            },
+            {
+                "text": "No tienen relación con el peso corporal."
+            },
+            {
+                "text": "Se dan en los ratones obob."
+            }
+        ]
+    },
+    {
+        "text": "Que el código genético sea redundante o degenerado implica que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cada aminoácido puede estar codificado por más de un codón.",
+                "correct": true
+            },
+            {
+                "text": "Un nucleótido sólo pertenece a un codón y no a varios."
+            },
+            {
+                "text": "Cada aminoácido está codificado únicamente por un triplete."
+            },
+            {
+                "text": "Nunca puede haber tripletes sinónimos."
+            }
+        ]
+    },
+    {
+        "text": "El potencial de acción se inicia con la apertura de los canales dependientes de voltaje de:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cloro."
+            },
+            {
+                "text": "Calcio."
+            },
+            {
+                "text": "Potasio."
+            },
+            {
+                "text": "Sodio.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las neuronas que tienen varias ramificaciones dendríticas:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Están especializadas en captar la información sensorial del entorno y conducirla al SNC."
+            },
+            {
+                "text": "Realizan principalmente funciones motoras."
+            },
+            {
+                "text": "Se denominan multipolares.",
+                "correct": true
+            },
+            {
+                "text": "Son siempre interneuronas."
+            }
+        ]
+    },
+    {
+        "text": "Si la mayoría o totalidad de los miembros de la población despliegan una determinada estrategia de interacción social, diremos que es una estrategia evolutivamente estable si:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No puede ser invadida por ninguna otra estrategia."
+            },
+            {
+                "text": "Cualquier mutante que despliegue una estrategia alternativa tiene menos éxito reproductivo que los individuos no mutantes."
+            },
+            {
+                "text": "Cualquier mutante que despliegue una estrategia alternativa se ve seleccionado en contra."
+            },
+            {
+                "text": "Todas las opciones son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La barrera hematoencefálica:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bloquea cualquier tipo de intercambio de sustancias entre el SNC y la sangre."
+            },
+            {
+                "text": "La forman principalmente las células endoteliales que tapizan los capilares del SNC.",
+                "correct": true
+            },
+            {
+                "text": "Es únicamente permeable al oxígeno y la glucosa."
+            },
+            {
+                "text": "Está especialmente desarrollada en los órganos circunventriculares."
+            }
+        ]
+    },
+    {
+        "text": "Es bien sabido que el color de nuestra piel es un rasgo fenotípico:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Discreto."
+            },
+            {
+                "text": "Mendeliano."
+            },
+            {
+                "text": "Continuo o cuantitativo.",
+                "correct": true
+            },
+            {
+                "text": "Cualitativo."
+            }
+        ]
+    },
+    {
+        "text": "Por el efecto que desencadena en los polluelos de gaviota arenquera, se considera que la punta del pico de la madre representa:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un estímulo desencadenador innato y un estímulo-signo.",
+                "correct": true
+            },
+            {
+                "text": "Una pauta de acción fija."
+            },
+            {
+                "text": "Un estímulo-signo."
+            },
+            {
+                "text": "Un estímulo desencadenador innato."
+            }
+        ]
+    },
+    {
+        "text": "La entrada de calcio en el terminal axónico como consecuencia de la apertura de canales dependientes de voltaje está relacionada directamente con:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La generación de potenciales postsinápticos inhibitorios."
+            },
+            {
+                "text": "La generación de potenciales postsinápticos excitatorios."
+            },
+            {
+                "text": "La producción de receptores postsinápticos."
+            },
+            {
+                "text": "La liberación del neurotransmisor en el terminal axónico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A los factores ambientales que actúan modulando la expresión genética se los denomina?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Críticos."
+            },
+            {
+                "text": "Epigenéticos.",
+                "correct": true
+            },
+            {
+                "text": "Adaptativos."
+            },
+            {
+                "text": "Filogenéticos."
+            }
+        ]
+    },
+    {
+        "text": "Respecto al transporte de sustancias en el interior neuronal sabemos que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se denomina anterógrado cuando va desde el soma a los terminales presinápticos y puede ser rápido o lento."
+            },
+            {
+                "text": "Se denomina anterógrado cuando va desde el soma a los terminales presinápticos y puede ser rápido o lento y se denomina retrógrado cuando va desde los terminales presinápticos al soma y siempre es un flujo rápido.",
+                "correct": true
+            },
+            {
+                "text": "El flujo axónico lento se produce solo desde los terminales axónicos hacia el soma."
+            },
+            {
+                "text": "Se denomina retrógrado cuando va desde los terminales presinápticos al soma y siempre es un flujo rápido."
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que la altura del tallo de una planta está determinada por dos genes, A y B, con diferentes alelos y cuyos valores aditivos son A1=4, A2=2, A3=O, BI=O, B2=2, podemos concluir que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El valor genotípico del gen A en el genotipo A3A3BIB2 es 0."
+            },
+            {
+                "text": "En el genotipo AIA3BIB2, todos los alelos tienen la misma dosis génica."
+            },
+            {
+                "text": "La suma total de los valores genotípicos tendrá un valor máximo de 12."
+            },
+            {
+                "text": "Todas las afirmaciones anteriores son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los afectados por el Síndrome de Turner:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No ven afectadas sus capacidades cognitivas."
+            },
+            {
+                "text": "Tienen tres cromosomas X."
+            },
+            {
+                "text": "Tienen inteligencia verbal normal pero valores por debajo de la media en inteligencia espacial.",
+                "correct": true
+            },
+            {
+                "text": "Presentan monosomía Y."
+            }
+        ]
+    },
+    {
+        "text": "Una diferencia notable entre el período refractario absoluto y el relativo es que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En el refractario absoluto están implicados los canales de sodio, mientras que el relativo está determinado por el potasio.",
+                "correct": true
+            },
+            {
+                "text": "El absoluto se produce en neuronas mielinizadas y el relativo en neuronas no mielinizadas."
+            },
+            {
+                "text": "El absoluto se produce en la fase ascendente del potencial de acción, mientras que el relativo lo hace en la fase descendente y el absoluto se produce en neuronas mielinizadas y el relativo en neuronas no mielinizadas."
+            },
+            {
+                "text": "El absoluto se produce en la fase ascendente del potencial de acción, mientras que el relativo lo hace en la fase descendente."
+            }
+        ]
+    },
+    {
+        "text": "May-Britt Moser (galardonada en 2014 con el Premio Nobel de Medicina o Fisiología por su descubrimiento de las células que constituyen el sistema de posicionamiento del cerebro, el GPS interno, que posibilita la orientación en el espacio) y sus colaboradores demostraron en los años 90 que las ratas que fueron expuestas a ambientes enriquecidos tenían mejores resultados en pruebas de aprendizaje espacial. Cuando tras su muerte, analizaron los árboles dendríticos de neuronas piramidales del hipocampo, comprobaron un incremento en el número de espinas dendríticas respecto a las ratas mantenidas en ambientes no enriquecidos. ¿Qué estrategia de investigación fue utilizada en este estudio?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intervención somática."
+            },
+            {
+                "text": "Aproximación correlacional."
+            },
+            {
+                "text": "Intervención conductual.",
+                "correct": true
+            },
+            {
+                "text": "Contrastación observacional."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un rasgo presenta una alta heredabilidad, por ejemplo un valor de 0.9, podemos decir que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El 90% de la puntuación en el rasgo se explica por diferencias genéticas."
+            },
+            {
+                "text": "En este caso se trata de heredabilidad en sentido estricto."
+            },
+            {
+                "text": "El 90% de las diferencias que muestran los individuos entre sí son atribuibles a factores genéticos.",
+                "correct": true
+            },
+            {
+                "text": "Ese rasgo no se ve afectado por la influencia del ambiente."
+            }
+        ]
+    },
+    {
+        "text": "Posterior y adyacente a la cisura central en los hemisferios cerebrales se localiza el lóbulo:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Occipital."
+            },
+            {
+                "text": "Frontal."
+            },
+            {
+                "text": "Parietal.",
+                "correct": true
+            },
+            {
+                "text": "Temporal."
+            }
+        ]
+    },
+    {
+        "text": "En relación con los tipos de especiación, el aislamiento reproductivo etológico es:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Propio de la evolución paralela."
+            },
+            {
+                "text": "Característico del tipo simpátrico."
+            },
+            {
+                "text": "Un mecanismo precigótico.",
+                "correct": true
+            },
+            {
+                "text": "Un mecanismo postcigótico."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la organización del SNP sabemos que:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En el SN somático las neuronas que originan fibras aferentes al SNC se agrupan formando ganglios próximos al tronco del encéfalo y a la médula espinal.",
+                "correct": true
+            },
+            {
+                "text": "Sus componentes son el SN simpático y el SN somático."
+            },
+            {
+                "text": "Las fibras eferentes del SN somático regulan el ambiente interno del organismo."
+            },
+            {
+                "text": "Las tres anteriores son falsas."
+            }
+        ]
+    },
+    {
+        "text": "Cuál o cuáles de los siguientes componentes no puede/n atravesar la membrana neuronal a pesar de la presencia de gradiente electroquímico:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El potasio."
+            },
+            {
+                "text": "El calcio."
+            },
+            {
+                "text": "El sodio."
+            },
+            {
+                "text": "Los aniones proteicos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Podemos hablar de heredabilidad en sentido estricto si el rasgo se ha estudiado en:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hermanastros (hermanos por parte de un solo progenitor).",
+                "correct": true
+            },
+            {
+                "text": "Gemelos dicigóticos."
+            },
+            {
+                "text": "Hermanos completos (de padre y madre)."
+            },
+            {
+                "text": "Gemelos monocigóticos."
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales postsinápticos:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dan siempre lugar a un potencial de acción."
+            },
+            {
+                "text": "Experimentan procesos de integración temporal y espacial.",
+                "correct": true
+            },
+            {
+                "text": "Son siempre despolarizadores."
+            },
+            {
+                "text": "Siempre se trasmiten a la largo de la membrana neuronal de forma activa."
+            }
+        ]
+    },
+    {
+        "text": "En teoría, teniendo en cuenta el altruismo reproductivo y la aptitud inclusiva ¿con quién es más probable que ejerciese un acto de altruismos reproductivo?",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un sobrino."
+            },
+            {
+                "text": "Un tío."
+            },
+            {
+                "text": "Un medio hermano."
+            },
+            {
+                "text": "Con cualquiera de ellos daría lo mismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de la evolución nos demuestra que, dado un tiempo suficiente:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Casi con toda probabilidad todas las especies actuales que habitan la tierra desaparecerán.",
+                "correct": true
+            },
+            {
+                "text": "Para que pueda darse coevolución es preciso que haya analogías entre los organismos."
+            },
+            {
+                "text": "La utilización de nichos ecológicos similares no es un buen ejemplo de evolución paralela."
+            },
+            {
+                "text": "Para que pueda darse evolución convergente es necesario que haya homología entre organismos."
+            }
+        ]
+    },
+    {
+        "text": "La región del ADN a la que se une la ARN polimerasa se conoce como:",
+        "fecha": {
+            "mes": "Septiembre",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Operador."
+            },
+            {
+                "text": "Promotor.",
+                "correct": true
+            },
+            {
+                "text": "Exón."
+            },
+            {
+                "text": "Segmento de Okazaki."
+            }
+        ]
+    }
+]

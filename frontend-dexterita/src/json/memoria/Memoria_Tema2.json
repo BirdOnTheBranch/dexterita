@@ -1,0 +1,2837 @@
+[
+    {
+        "text": "La tarea de Brown-Peterson consiste en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Recordar trigramas de letras",
+                "correct": true
+            },
+            {
+                "text": "Recordar trigramas de números"
+            },
+            {
+                "text": "Recordar trigramas de letras y números"
+            }
+        ]
+    },
+    {
+        "text": "El efecto de la categoría en la memoria produce que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Mantener palabras de la misma categoría mejora la memoria sistemática"
+            },
+            {
+                "text": "La utilización de categorías empeora la memoria sistemática"
+            },
+            {
+                "text": "La introducción de una nueva categoría de palabras produce la memoria sistemática del recuerdo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto de la categoría se denomina:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Liberación de la inferencia proactiva",
+                "correct": true
+            },
+            {
+                "text": "Liberación de la inferencia activa"
+            },
+            {
+                "text": "Liberación de la inferencia pasiva"
+            }
+        ]
+    },
+    {
+        "text": "Los primeros estudios sobre el modo de codificación en la MCP sugerían que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La memoria a corto plazo era semántica"
+            },
+            {
+                "text": "Transformaba la info proporcionada por los registros semánticos de los nervios sensoriales"
+            },
+            {
+                "text": "Transformaba la info sensorial proporcionada por los registros sensoriales en lenguaje hablado",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Conrad realizó un experimento en dos fases en que presentaba trigramas a los participantes, bien auditivamente o bien visualmente. A que conclusión llegó este autor?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los participantes recordaban de forma visual, no auditiva"
+            },
+            {
+                "text": "Los participantes recordaban de forma auditiva, no visual",
+                "correct": true
+            },
+            {
+                "text": "Los participantes recordaban en la primera fase de forma auditiva y en la segunda visual."
+            }
+        ]
+    },
+    {
+        "text": "El mismo autor realizó un nuevos estudio con sordos congénitos, utilizando la tarea de  Brown-Peterson, y en esta ocasión encontró que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La MCP no tiene codificación visual"
+            },
+            {
+                "text": "La MCP no tiene codificación semántica"
+            },
+            {
+                "text": "La MCP tiene codificación visual.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según los estudios realizados por Conrad y otros autores, ¿a que conclusión llegamos sobre la memoria?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La MCP tiene un componente marcadamente auditivo"
+            },
+            {
+                "text": "El modo de codificación sensorial no diferencia la MCP y la MLP",
+                "correct": true
+            },
+            {
+                "text": "La MCP y la MLP se diferencian por el modo de codificación"
+            }
+        ]
+    },
+    {
+        "text": "El material en la memoria tiene una duración:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Indefinida en la MLP y de unos segundos en la MCP",
+                "correct": true
+            },
+            {
+                "text": "Indefinida en la MLP y de unos minutos en la MCP"
+            },
+            {
+                "text": "De varios años en la MLP y unos minutos en la MCP"
+            }
+        ]
+    },
+    {
+        "text": "Los estudios realizados mediante el paradigma Brown-Peterson nos indican que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La acción de los distractores deja de tener efecto a partir de los 6 segundos"
+            },
+            {
+                "text": "La acción de los distractores mostraba un empeoramiento en el recuerdo de la  memoria a largo plazo."
+            },
+            {
+                "text": "La acción de los distractores empeoraba el rendimiento en la memoria a corto plazo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Quién le dio el nombre de memoria ecoica a la información auditiva que registramos  después de que dicha información haya desaparecido?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sperling (1960)."
+            },
+            {
+                "text": "Barnet (1965)."
+            },
+            {
+                "text": "Neisser (1967).",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Qué nombre recibe lo que muestra la existencia de un almacén acústico precategorial.  Este almacén sensorial puede retener la estimulación auditiva no analizada durante varios segundos después de finalizar la presentación del estímulo.",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Memoria Ecoica"
+            },
+            {
+                "text": "Efecto Sufijo",
+                "correct": true
+            },
+            {
+                "text": "Filtro selectivo"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué investigadores estudiaron la “Memoria Sensorial Táctil” con un experimento en el que utilizaron la tarea de informe total y la tarea de informe parcial mediante sensaciones producidas por los dedos?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bliss, Crane, Crowder y Mortón (1966)"
+            },
+            {
+                "text": "Bliss, Crane, Mansfield y Townsend (1966)",
+                "correct": true
+            },
+            {
+                "text": "Bliss, Crane, Baddeley y Townsend (1966)"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la capacidad de almacenamiento en la MCP?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Entre 5 y 7 elementos independientes"
+            },
+            {
+                "text": "Entre 7 y 9 elementos independientes"
+            },
+            {
+                "text": "Entre 5 y 9 elementos independientes",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el modelo estructural de la memoria y con referencia a la memoria a corto plazo (MCP), señale la opción incorrecta:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La duración de la información en este almacén de memoria a corto plazo (MCP) es también limitada. Varía con la modalidad de presentación de los estímulos, pero duración suele ser del orden de los 5 a los 15 segundos.",
+                "correct": true
+            },
+            {
+                "text": "La memoria a corto plazo (MCP) es un almacén de memoria en la que se conserva una pequeña cantidad de información durante un espacio de tiempo breve."
+            },
+            {
+                "text": "La memoria a corto plazo (MCP) realiza importantes funciones de control sobre el material que llega a este almacén, como la repetición y codificación del material almacenado, la decisión sobre si dicha información se va a transferir a la memoria a largo plazo (MLP), así como elegir las estrategias de control a utilizar."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué se trata el conocido fenómeno del chunking (en inglés) o agrupamiento?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consiste en agrupar los elementos simples que se desean retener en la MCP en unidades con significado formadas por varios de estos elementos independientes. Con esta técnica se puede aumentar la capacidad de la MCP por encima de la capacidad para almacenar elementos simples no relacionados entre sí.",
+                "correct": true
+            },
+            {
+                "text": "Consiste en desagrupar los elementos simples que se desean retener en la MCP en unidades con significado sin estar formadas por varios de estos elementos independientes. Con esta técnica se puede aumentar la capacidad de la MCP por encima de la capacidad para almacenar elementos simples relacionados entre sí."
+            },
+            {
+                "text": "Consiste en agrupar los elementos compuestos que se desean retener en la MLP en unidades con significado formadas por varios de estos elementos. Con esta técnica se puede aumentar la capacidad de la MLP por encima de la capacidad para almacenar elementos relacionados entre sí"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es el Efecto de primacía?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Muestra que los elementos presentados al final de la lista se recuerdan mejor"
+            },
+            {
+                "text": "Indica que los elementos presentados al principio de la serie se recuerdan bastante bien.",
+                "correct": true
+            },
+            {
+                "text": "Gracias al efecto de primacía los elementos presentados se recuerdan igual de bien independientemente si se presentan al principio o al final."
+            }
+        ]
+    },
+    {
+        "text": "¿De quién es el primer modelo de memoria en el que se considera a la memoria como un sistema dual compuesto de por una memoria primaria y una memoria secundaria?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Waugh y Postman"
+            },
+            {
+                "text": "Brown-Peterson"
+            },
+            {
+                "text": "Waugh y Norman",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se ha encontrado que cuando se añade un estímulo auditivo irrelevante al final de una  lista de estímulos presentados auditivamente, empeora masivamente el recuerdo de los  últimos elementos de la serie. A este estímulo se le denomina:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto recencia"
+            },
+            {
+                "text": "Efecto parcial"
+            },
+            {
+                "text": "Efecto sufijo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué nombre recibe la teoría de Crowder y Morton?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto sufijo",
+                "correct": true
+            },
+            {
+                "text": "Efecto recencia"
+            },
+            {
+                "text": "Efecto Parcial"
+            }
+        ]
+    },
+    {
+        "text": "El modelo multialmacén más importante fue propuesto por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atkinson y Shiffrin",
+                "correct": true
+            },
+            {
+                "text": "Sperling"
+            },
+            {
+                "text": "Crowder y Morton"
+            }
+        ]
+    },
+    {
+        "text": "El almacén de memoria a corto plazo (MCP):",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intercepta la información no deseada"
+            },
+            {
+                "text": "Es un almacén de memoria permanente"
+            },
+            {
+                "text": "Tiene capacidad limitada",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las características de la memoria icónica son (SEÑALE LA INCORRECTA):",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Larga duración",
+                "correct": true
+            },
+            {
+                "text": "Gran capacidad"
+            },
+            {
+                "text": "Contenido o naturaleza precategorial"
+            }
+        ]
+    },
+    {
+        "text": "Las memorias sensoriales más estudiadas han sido:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Auditiva y háptica"
+            },
+            {
+                "text": "Visual y auditiva",
+                "correct": true
+            },
+            {
+                "text": "Visual y háptica"
+            }
+        ]
+    },
+    {
+        "text": "La teoría de George Sperling consistente en presentar a un individuo un conjunto de  caracteres y pedirle que informe sólo de un subconjunto de ellos, se denomina:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Teoría del procesamiento de la información"
+            },
+            {
+                "text": "Paradigma de informe parcial",
+                "correct": true
+            },
+            {
+                "text": "Teoría de la amplitud de atención"
+            }
+        ]
+    },
+    {
+        "text": "Cuando se presenta un estímulo irrelevante después de la presentación de una serie de  caracteres auditivos, el rendimiento se ve muy reducido. Esto se denomina:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Latencia del recuerdo"
+            },
+            {
+                "text": "El efecto del prefijo"
+            },
+            {
+                "text": "El efecto del sufijo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La memoria a corto plazo retiene la información durante un tiempo corto, que aproximadamente se estima en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Entre 10 y 20 segundos",
+                "correct": true
+            },
+            {
+                "text": "Entre 2 y 5 segundos"
+            },
+            {
+                "text": "Entre 30 y 60 segundos"
+            }
+        ]
+    },
+    {
+        "text": "La memoria que contiene información sobre nuestras experiencias personales y sobre gran cantidad de datos se denomina:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Semántica"
+            },
+            {
+                "text": "Episódica",
+                "correct": true
+            },
+            {
+                "text": "Procedimental"
+            }
+        ]
+    },
+    {
+        "text": "A nivel neural, la encargada de coordinar los procesos neurales especializados, para que el individuo pueda dirigir su conducta hacia un objetivo marcado, es:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La red de control ejecutivo"
+            },
+            {
+                "text": "La red de la atención anterior"
+            },
+            {
+                "text": "Ambas respuestas anteriores son válidas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale la afirmación CORRECTA sobre la relación entre memoria y atención:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las emociones negativas se recuerdan mejor que las positivas"
+            },
+            {
+                "text": "Los eventos con carga emocional se recuerdan mejor que los que no la tienen",
+                "correct": true
+            },
+            {
+                "text": "Los recuerdos negativos contienen más detalles"
+            }
+        ]
+    },
+    {
+        "text": "El primer modelo estructural del procesamiento de la información fue propuesto por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atkinson y Shiffrin (1968)"
+            },
+            {
+                "text": "Donald Broadbent (1958)",
+                "correct": true
+            },
+            {
+                "text": "Tulving (1958)"
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo estructural de la memoria humana, la información del medio ambiente llega a los registros sensoriales:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En serie"
+            },
+            {
+                "text": "En paralelo",
+                "correct": true
+            },
+            {
+                "text": "En serie antes de llegar al almacén a corto plazo"
+            }
+        ]
+    },
+    {
+        "text": "El filtro selectivo para Broadbent",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Actúa como guardián que está en la puerta e impide el paso a la información no deseada y deja pasar únicamente la información que va a ser procesada"
+            },
+            {
+                "text": "Su misión es interceptar la información no atendida, por tanto, es la atención"
+            },
+            {
+                "text": "Ambas respuestas son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo estructural de memoria que proponen Atkinson y Shiffrin (1968)",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consideran los almacenes de memoria como sistemas activos de procesamiento de la información"
+            },
+            {
+                "text": "Las estructuras de memoria y los procesos de control son fijos"
+            },
+            {
+                "text": "No es el primer modelo estructural sobre el procesamiento de la información en el sistema cognitivo humano",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La información sensorial:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permanece en estos registro sensoriales normalmente durante un segundo"
+            },
+            {
+                "text": "Se registra en un único almacén para su análisis posterior (almacén a corto plazo)"
+            },
+            {
+                "text": "Se supone que cada modalidad dispone de su propio almacén",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "George Sperling (1960)",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Demostró que la capacidad y la duración de la memoria ecoica es limitada"
+            },
+            {
+                "text": "Demostró que la limitación del procesamiento de la información se debía a la limitación de la percepción"
+            },
+            {
+                "text": "Desarrolló un método nuevo para estudiar la persistencia de la información visual en un tipo de memoria",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señala la correcta",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Neisser (1967) denominó a los almacenes de corta duración en los que se registra información visual sensorial memoria icónica y ecoica"
+            },
+            {
+                "text": "Atkinsson y Shiffrin, en su modelo multialmacén supusieron que cada modalidad sensorial tenía su propio almacén"
+            },
+            {
+                "text": "Ambas respuestas son correcta",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El paradigma del informe parcial de Sperling",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Trata de aclarar las causas de la limitación del procesamiento y comprobó que la persona dispone de más información de la que realmente puede informar",
+                "correct": true
+            },
+            {
+                "text": "Demostró que los participantes no eran capaces de retener nueve letras de las doce presentadas"
+            },
+            {
+                "text": "Los resultados del informe total son muy superiores a los del informe parcial"
+            }
+        ]
+    },
+    {
+        "text": "Sperling demostró que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuanto menos se retrasa la presentación de la señal auditiva, el número de letras correctamente informadas es menor"
+            },
+            {
+                "text": "Demostró que la persistencia de la traza visual disminuye mucho después de unos 500 ms y que a partir de un segundo, la ventaja del informe parcial desaparece",
+                "correct": true
+            },
+            {
+                "text": "Ninguna de las anteriores es correcta."
+            }
+        ]
+    },
+    {
+        "text": "Las características de la memoria icónica:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Gran capacidad, corta duración y precategorial"
+            },
+            {
+                "text": "Poca capacidad, corta duración y precategorial"
+            },
+            {
+                "text": "Gran capacidad, corta duración y naturaleza pre categorial aunque estudios posteriores al de Sperling afirman que también es categorial",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo estructural de la memoria que más influyó en la investigación posterior fue",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El modelo multialmacén de Atkinson y Shiffrin",
+                "correct": true
+            },
+            {
+                "text": "El paradigma del informe parcial de Sperling"
+            },
+            {
+                "text": "El modelo estructural del procesamiento de la información de Broadbent"
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo estructural de Atkinson y Shiffrin",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La memoria está formada por tres almacenes o estructuras dependientes con características comunes y procesos activos de control."
+            },
+            {
+                "text": "La memoria está formada por tres almacenes o estructuras independientes con características comunes y procesos pasivos de control."
+            },
+            {
+                "text": "La memoria está formada por tres almacenes o estructuras independientes con características propias y procesos activos de control.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El primer almacén de memoria está formado por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El filtro selectivo"
+            },
+            {
+                "text": "Los registros sensoriales",
+                "correct": true
+            },
+            {
+                "text": "La atención."
+            }
+        ]
+    },
+    {
+        "text": "¿En qué estructura de la memoria decae la información contenida más rápidamente?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En almacén de la memoria a largo plazo"
+            },
+            {
+                "text": "En almacén de la memoria a corto plazo"
+            },
+            {
+                "text": "En los registros sensoriales",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las estrategias de control que se van a utilizar como repetición o codificación de la información contenida en la estructura se realiza en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El filtro selectivo"
+            },
+            {
+                "text": "Almacén de la memoria a corto plazo",
+                "correct": true
+            },
+            {
+                "text": "Almacén de memoria a largo plazo."
+            }
+        ]
+    },
+    {
+        "text": "Los estímulos llegan al primer almacén en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Procesamiento paralelo",
+                "correct": true
+            },
+            {
+                "text": "Procesamiento en serie"
+            },
+            {
+                "text": "Procesamiento en paralelo o en serie dependiendo del estímulo que sea"
+            }
+        ]
+    },
+    {
+        "text": "Las denominaciones de memoria ecoica e icónica se deben a:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atkinson y Shiffrin"
+            },
+            {
+                "text": "Neisser",
+                "correct": true
+            },
+            {
+                "text": "Sperling"
+            }
+        ]
+    },
+    {
+        "text": "La duración de la información que llega a través de las distintas modalidades sensoriales permanecen en el primer almacén durante:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Menos de 1 milisegundo"
+            },
+            {
+                "text": "Menos de 1 segundo",
+                "correct": true
+            },
+            {
+                "text": "Más de 1 segundo"
+            }
+        ]
+    },
+    {
+        "text": "En la tarea de Sperling del paradigma del informe parcial se presentaba con ayuda del taquistoscopio:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tres filas de cuatro letras cada una seguidas de un campo blanco vacío",
+                "correct": true
+            },
+            {
+                "text": "Cuatro filas de tres letras cada una seguidas de un campo blanco vacío"
+            },
+            {
+                "text": "Tres filas de tres letras cada una seguidas de un campo blanco vacío"
+            }
+        ]
+    },
+    {
+        "text": "En la tarea de Sperling se encontró que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que los sujetos tenían mejores resultados en el informe parcial que en el informe total.",
+                "correct": true
+            },
+            {
+                "text": "Que los sujetos tenían mejores resultados en el informe total que en el informe parcial."
+            },
+            {
+                "text": "No se encontraron resultados significativos."
+            }
+        ]
+    },
+    {
+        "text": "Cuando un patrón luminoso llega al sistema de procesamiento de la información, la información se almacena en la memoria icónica durante:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Menos de 1 s"
+            },
+            {
+                "text": "Menos de 500 ms",
+                "correct": true
+            },
+            {
+                "text": "Menos de 100 ms"
+            }
+        ]
+    },
+    {
+        "text": "La ventaja del paradigma del informe parcial sobre el paradigma total desaparece cuando entre los estímulos visuales y la señal auditiva pasados:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "1 s",
+                "correct": true
+            },
+            {
+                "text": "100 ms"
+            },
+            {
+                "text": "500 ms"
+            }
+        ]
+    },
+    {
+        "text": "La memoria icónica, según Sperling, se caracteriza por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Su poca capacidad, su corta duración y su naturaleza precategorial"
+            },
+            {
+                "text": "Su gran capacidad, su larga duración y su naturaleza precategorial"
+            },
+            {
+                "text": "Su gran capacidad, su corta duración y su naturaleza precategorial",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La capacidad del almacén icónico, como se deduce de los resultados experimentales obtenidos en los estudios de Sperling y de Averbach y Coriell, parece que es muy grande y se ha obtenido",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De forma directa"
+            },
+            {
+                "text": "De forma indirecta",
+                "correct": true
+            },
+            {
+                "text": "No hay resultados concluyentes"
+            }
+        ]
+    },
+    {
+        "text": "Los resultados de las investigaciones de Merikle sobre la memoria icónica demostraron  que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuando se trata de señales basadas en rasgos físicos los resultados eran superiores en informe total sobre el parcial."
+            },
+            {
+                "text": "Cuando se trata de señales basadas en información categorial los resultados eran superiores en el informe total sobre el total."
+            },
+            {
+                "text": "Ya se trate de señales basadas en rasgos físicos como de señales basadas en información categorial, son igualmente efectivas, siendo superiores los resultados del informe parcial sobre el total.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué factores manipuló Sternberg en sus experimentos?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualidad"
+            },
+            {
+                "text": "Estímulos visuales"
+            },
+            {
+                "text": "Las dos son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se llama el procesamiento que puede procesar varios elementos a la vez?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Paralelo",
+                "correct": true
+            },
+            {
+                "text": "Serial"
+            },
+            {
+                "text": "Ninguno es correcto"
+            }
+        ]
+    },
+    {
+        "text": "En qué año se publicó el modelos estructural de la memoria",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "1980"
+            },
+            {
+                "text": "1972",
+                "correct": true
+            },
+            {
+                "text": "1900"
+            }
+        ]
+    },
+    {
+        "text": "Quienes afirmaros la siguiente frase: “las palabras procesadas profundamente por su significado se recordaran mejor que las palabras procesadas atendiendo únicamente a sus características físicas”.",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ebbinghaus y Bartlett"
+            },
+            {
+                "text": "Craik y Lockhart"
+            },
+            {
+                "text": "Craik y Tulving",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los niveles de la fase de codificación?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Léxico y semántico",
+                "correct": true
+            },
+            {
+                "text": "Léxico y rima"
+            },
+            {
+                "text": "Rima y semántica"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es la atención selectiva?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Recuperación voluntaria y es consciente posteriormente"
+            },
+            {
+                "text": "Es un papel primordial para la codificación de la información en la MLP"
+            },
+            {
+                "text": "Las dos respuestas son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La atención es necesaria porque puede formarse trazas de memoria duradera en la:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "MLP",
+                "correct": true
+            },
+            {
+                "text": "MCP"
+            },
+            {
+                "text": "Memoria icónica"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué es la red de control ejecutivo?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está formada por una región cerebral"
+            },
+            {
+                "text": "Coordina un numero de procesos neurales especializados para dirigir una conducta",
+                "correct": true
+            },
+            {
+                "text": "Las dos son correctas"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué región cerebral esta más implicada en la relación entre la memoria y la emoción?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Corteza prefrontal"
+            },
+            {
+                "text": "Amígdala",
+                "correct": true
+            },
+            {
+                "text": "Ninguna de ellas"
+            }
+        ]
+    },
+    {
+        "text": "¿En qué tipo de procesamiento se lleva a cabo un procesamiento simultáneo de varios estímulos?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Procesamiento serial"
+            },
+            {
+                "text": "Procesamiento paralelo",
+                "correct": true
+            },
+            {
+                "text": "Procesamiento cuántico"
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo es el tiempo necesario para procesar un elemento de un ensayo a otro?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Menor o igual"
+            },
+            {
+                "text": "Mayor o igual"
+            },
+            {
+                "text": "Aleatorio",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los resultados de los estudios de Sternberg han contribuido a apoyar la idea de que la recuperación de la información contengica en la MCP es serial, mientras que la recuperación a partir de la MLP se realiza en paralelo. Esta diferencia en el modo de recuperación apoyaba la existencia de:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dos almacenes de memoria",
+                "correct": true
+            },
+            {
+                "text": "Tres almacenes de memoria"
+            },
+            {
+                "text": "Cuatro almacenes de memoria"
+            }
+        ]
+    },
+    {
+        "text": "Cuando los contenidos de la memoria pueden ser traídos voluntariamente a la consciencia, estamos ante la: ",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Memoria declarativa",
+                "correct": true
+            },
+            {
+                "text": "Memoria no declarativa"
+            },
+            {
+                "text": "Memoria implícita"
+            }
+        ]
+    },
+    {
+        "text": "Memoria que no está sujeta al concepto de capacidad, repetición y distracción:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Memoria declarativa"
+            },
+            {
+                "text": "Memoria procedimental",
+                "correct": true
+            },
+            {
+                "text": "Memoria declarativa semántica"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo se retiene mejor la información en la memoria?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuando hay un procesamiento de arriba abajo"
+            },
+            {
+                "text": "Cuando se produce una integración cognitiva completa en los canales perceptivos"
+            },
+            {
+                "text": "Cuando se procesa el significado (codificación semántica de la información) de los estímulos durante la codificación",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En experimento de Craik y Tulving, 1975, ¿cuáles fueron las variables independientes que manipularon estos investigadores?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tiempo de respuesta y la proporción de palabras reconocidas correctamente"
+            },
+            {
+                "text": "Los niveles estructural, fonético y semántico",
+                "correct": true
+            },
+            {
+                "text": "El sistema nervioso central"
+            }
+        ]
+    },
+    {
+        "text": "Una de las críticas al modelo de los niveles de procesamiento ha sido:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las grandes diferencias cognitivas entre el grupo de control y el grupo experimental"
+            },
+            {
+                "text": "El mezclar en las pruebas dos formas diferentes de codificación, léxica y semántica"
+            },
+            {
+                "text": "El modelo se ha criticado por tratarse de un modelo circular ya que se dice que se recuerda mejor porque se ha codificado su significado y porque se ha codificado su significado se recuerda mejor. El argumento es circular",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Tulving el problema en el modelo de los niveles de procesamiento reside en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que los niveles de procesamiento se centra en los procesos de codificación pero no en los procesos de recuperación de la información",
+                "correct": true
+            },
+            {
+                "text": "El acceso y recuperación de la MLP es diferente al acceso y recuperación de la MCP"
+            },
+            {
+                "text": "Hay variables ocultas que no se valoran en el modelo de los niveles de procesamiento"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es a nivel neural, la encargada de la coordinación de un número de procesos neurales especializados para que el individuo pueda dirigir su conducta hacia un objetivo previamente marcado? ",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Red neural por defecto"
+            },
+            {
+                "text": "Red del control ejecutivo (o red de la atención anterior)",
+                "correct": true
+            },
+            {
+                "text": "Red neural de procesamiento en paralelo"
+            }
+        ]
+    },
+    {
+        "text": "Sternberg sugirió la existencia de cuatro estadios hipotéticos de procesamiento de la información:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Codificación del estímulo, recuperación a partir de la memoria, decisión y selección de respuesta",
+                "correct": true
+            },
+            {
+                "text": "Codificación del estímulo, recuperación a partir de la memoria, información y selección de la respuesta"
+            },
+            {
+                "text": "Codificación del estímulo, procesamiento, recuperación y emisión de respuesta"
+            }
+        ]
+    },
+    {
+        "text": "El modelo de Sternberg se caracteriza por lo siguiente excepto:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es sencillo"
+            },
+            {
+                "text": "Es aditivo"
+            },
+            {
+                "text": "Es complejo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo de Sterberg ha sido criticado por otros autores por su:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Procesamiento serial",
+                "correct": true
+            },
+            {
+                "text": "Procesamiento en paralelo"
+            },
+            {
+                "text": "Procesamiento múltiple"
+            }
+        ]
+    },
+    {
+        "text": "Procesamiento serial significa:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Procesamiento simultaneo de varios estímulos"
+            },
+            {
+                "text": "Procesamiento sucesivo de varios estímulos",
+                "correct": true
+            },
+            {
+                "text": "Procesamiento sucesivo de tan solo dos estímulos, que se alternan uno tras otro."
+            }
+        ]
+    },
+    {
+        "text": "El tiempo necesario para procesar un elemento:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es menor en el procesamiento simultaneo"
+            },
+            {
+                "text": "Es menos en el procesamiento serial"
+            },
+            {
+                "text": "Es aleatorio",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La recuperación de la información se produce de forma:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En paralelo (MCP) y serial (MLP)"
+            },
+            {
+                "text": "Serial (MCP) y en paralelo (MLP)",
+                "correct": true
+            },
+            {
+                "text": "Serial (MCP) y en paralelo (Memoria implícita)"
+            }
+        ]
+    },
+    {
+        "text": "Craik y Lockhart (1972) criticaron los almacenes de memoria y propusieron centrarse en el estudio de los Niveles de procesamiento. Así:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Palabras codificadas semánticamente (por características físicas) se recordarán mejor."
+            },
+            {
+                "text": "Palabras codificadas semánticamente (por su significado) se recordarán peor."
+            },
+            {
+                "text": "Palabras codificadas semánticamente (por su significado) se recordarán mejor",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo de los Niveles de Procesamiento (Craik y Lockhart) ha recibido críticas por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ser un modelo circular",
+                "correct": true
+            },
+            {
+                "text": "Ser un modelo lineal"
+            },
+            {
+                "text": "Ser un modelo serial"
+            }
+        ]
+    },
+    {
+        "text": "La atención selectiva influye en:. ",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "MCP"
+            },
+            {
+                "text": "MLP",
+                "correct": true
+            },
+            {
+                "text": "Memoria procedimental"
+            }
+        ]
+    },
+    {
+        "text": "Relación entre memoria y emoción (Señale la FALSA):",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los eventos con carga emocional se recuerdan mejor"
+            },
+            {
+                "text": "Las emociones positivas se recuerdan mejor que las negativas"
+            },
+            {
+                "text": "Las emociones negativas se recuerdan mejor que las positivas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Áreas del cerebro relacionadas con la emoción y memoria:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Amígdala y corteza prefrontal",
+                "correct": true
+            },
+            {
+                "text": "Amígdala y ganglios basales"
+            },
+            {
+                "text": "Amígdala y corteza temporo-occipital"
+            }
+        ]
+    },
+    {
+        "text": "La motivación proporciona al organismo la energía necesaria para realizar la acción y además:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dirige el comportamiento hacia respuestas adaptativas"
+            },
+            {
+                "text": "Dirige el comportamiento hacia la consecución de metas",
+                "correct": true
+            },
+            {
+                "text": "Reevalúa las respuestas realizadas"
+            }
+        ]
+    },
+    {
+        "text": "En los ensayos de la capacidad de la memoria a corto plazo:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Con palabras que pertenecían a la misma categoría, la capacidad de la MCP se mantenía"
+            },
+            {
+                "text": "Con palabras que pertenecían a la misma categoría, la capacidad de la MCP  aumentaba"
+            },
+            {
+                "text": "Al cambiar la categoría de palabras, se mejoraba el recuerdo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto de la categoría que se produce en la tarea de Brown-Peterson consiste en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una mejor actuación del grupo experimental en el cuarto ensayo",
+                "correct": true
+            },
+            {
+                "text": "Peores resultados en ambos grupos a medida que se realizan más ensayos."
+            },
+            {
+                "text": "Una mejora no muy significativa del grupo experimental."
+            }
+        ]
+    },
+    {
+        "text": "El efecto de liberación de la interferencia proactiva en el experimento de Wickens",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consiste en la interferencia de la información de los ensayos anteriores sobre los nuevos ensayos."
+            },
+            {
+                "text": "La mejora es mayor cuanto más diferente sea la nueva categoría."
+            },
+            {
+                "text": "Ambas respuestas son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El estudio de Conrad (1964) sobre el modo de codificación de la información en la MCP demostró que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La función de la MCP era la codificación visual de la información recibida."
+            },
+            {
+                "text": "La MCP era un mecanismo independiente de la MLP.",
+                "correct": true
+            },
+            {
+                "text": "La MCP y la MLP eran dependientes la una de la otra."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la duración de la información en la memoria, cuál de las afirmaciones es falsa?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La duración de la MLP parece ser muy larga, pero no indefinida.",
+                "correct": true
+            },
+            {
+                "text": "La duración de la MCP es de unos segundos."
+            },
+            {
+                "text": "La diferencia de la duración de ambas ha favorecido la idea de dos sistemas de memoria independientes"
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría del decaimiento gradual de la huella:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Durante el aprendizaje del material se forma una huella en la memoria que se borra al poco tiempo.",
+                "correct": true
+            },
+            {
+                "text": "Durante el aprendizaje del material se forma una huella en la memoria que se borra pasado un período largo de tiempo."
+            },
+            {
+                "text": "No se puede evitar que esta traza se borre"
+            }
+        ]
+    },
+    {
+        "text": "Muter (1980) diseñó un experimento en el que los participantes no sabía que debía recordar los trigramas de letras. El resultado fue: ",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Similar al obtenido con el procedimiento de Brown y de los Peterson."
+            },
+            {
+                "text": "La tasa de olvido en la MCP es más lenta."
+            },
+            {
+                "text": "La tasa de olvido en la MCP es mucho más rápida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la inferencia retroactiva:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La información recibida anteriormente interfiere en la dada a continuación."
+            },
+            {
+                "text": "Lo aprendido más recientemente interfiere con lo aprendido previamente.",
+                "correct": true
+            },
+            {
+                "text": "Explica el decaimiento de la huella de memoria"
+            }
+        ]
+    },
+    {
+        "text": "Finalmente, el olvido en la memoria inmediata puede ser debido a:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inferencia producida por otros elementos similares almacenados en la memoria.",
+                "correct": true
+            },
+            {
+                "text": "El decaimiento de la huella de memoria descrito en el paradigma de Brown-Peterson"
+            },
+            {
+                "text": "El tiempo de duración del período distractor"
+            }
+        ]
+    },
+    {
+        "text": "Saul Sternberg en su estudio de la recuperación de información a partir de la memoria a corto plazo sugiere que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La recuperación de la información a partir de la MCP era diferente a la de la MLP."
+            },
+            {
+                "text": "El tiempo correspondiente a los ensayos de un conjunto positivo pequeño y a los de uno grande son muy diferentes, a pesar de parecer una tarea muy rápida."
+            },
+            {
+                "text": "Ambas son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la detección de señales pertenece a:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ebbinghaus"
+            },
+            {
+                "text": "Tanner y Swets",
+                "correct": true
+            },
+            {
+                "text": "Shanon"
+            }
+        ]
+    },
+    {
+        "text": "La revolución del procesamiento de la información se produjo:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En torno al siglo XVII"
+            },
+            {
+                "text": "En torno a mediados del siglo XX",
+                "correct": true
+            },
+            {
+                "text": "A principios del siglo XX"
+            }
+        ]
+    },
+    {
+        "text": "El modelo estructural de la memoria fue propuesto por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tanner y Swets"
+            },
+            {
+                "text": "Shanon"
+            },
+            {
+                "text": " Atkinson y Shiffrin",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El modelo estructural de la memoria es un modelo:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Monoalmacén"
+            },
+            {
+                "text": "Multialmacén",
+                "correct": true
+            },
+            {
+                "text": "Ninguna de las anteriores es correcta"
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo estructural, el primer almacén de memoria está formado por:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Registros sensoriales",
+                "correct": true
+            },
+            {
+                "text": "MCP"
+            },
+            {
+                "text": "MLP"
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo estructural, la información del medio ambiente llega a los registros sensoriales en:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Paralelo",
+                "correct": true
+            },
+            {
+                "text": "Lineal"
+            },
+            {
+                "text": "Todas son falsas"
+            }
+        ]
+    },
+    {
+        "text": "Para Broadbent, el filtro selectivo en el modelo estructural del procesamiento de la información es:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La memoria"
+            },
+            {
+                "text": "La repetición"
+            },
+            {
+                "text": "La atención",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la memoria sensorial, los registros sensoriales duran:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Largos periodos de tiempo"
+            },
+            {
+                "text": "Días"
+            },
+            {
+                "text": "Normalmente menos de un segundo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A quién pertenece el paradigma del informe parcial?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atkinson"
+            },
+            {
+                "text": "Neisser"
+            },
+            {
+                "text": "Sperling",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La información contenida en el almacén icónico es de naturaleza:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Categorial"
+            },
+            {
+                "text": "Precategorial",
+                "correct": true
+            },
+            {
+                "text": "Postcategorial"
+            }
+        ]
+    },
+    {
+        "text": "En torno a mitad del s. XX se produjo “la revolución del procesamiento de la información”. Aquellos psicólogos entendían al ser humano como un individuo que… ",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Podía manipular símbolos internamente y esa forma simularla en un ordenador.",
+                "correct": true
+            },
+            {
+                "text": "Podía acceder a la información del ordenador y simularla en su mente."
+            },
+            {
+                "text": "Podía manipular a otro ser humano"
+            }
+        ]
+    },
+    {
+        "text": "La capacidad del ser humano para poner en marcha formas controladas del PI hace que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puedan alcanzar sólo las metas manipuladas para la supervivencia."
+            },
+            {
+                "text": "Puedan alcanzar nuevas metas y objetivos más allá de la simple supervivencia.",
+                "correct": true
+            },
+            {
+                "text": "Mantienen inactivas en su cerebro distintas piezas de información mientras las integra unas con otras y aprenden"
+            }
+        ]
+    },
+    {
+        "text": "Información de hechos ocurrido en el pasado:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Memoria retrospectiva",
+                "correct": true
+            },
+            {
+                "text": "Memoria prospectiva"
+            },
+            {
+                "text": "Memoria de trabajo"
+            }
+        ]
+    },
+    {
+        "text": "Recordar que tenemos que realizar ciertas acciones sin necesidad que nos recuerden que tenemos que hacerlas:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Memoria retrospectiva"
+            },
+            {
+                "text": "Memoria Prospectiva",
+                "correct": true
+            },
+            {
+                "text": "Memoria de trabajo."
+            }
+        ]
+    },
+    {
+        "text": "Para Broadbent, el filtro es:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La visión"
+            },
+            {
+                "text": "La atención",
+                "correct": true
+            },
+            {
+                "text": "Los registros sensoriales."
+            }
+        ]
+    },
+    {
+        "text": "Señale la pareja CORRECTA:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Memoria implícita/percepción"
+            },
+            {
+                "text": "Memoria icónica/táctil "
+            },
+            {
+                "text": "Memoria ecoica/auditiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto al “paradigma de informe parcial”, su autor:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Presentó taquitoscópicamente durante 25 segundos 2 filas de 4 letras cada una, seguidas de un campo blanco vacío."
+            },
+            {
+                "text": "Cuando pidió que informaran de todas las letras que preguntaba, encontró que eran capaces de informar correctamente de 6 a 8 palabras del total de la lista."
+            },
+            {
+                "text": "Con este procedimiento quería averiguar si los participantes habían visto todas las letras presentadas (12) pero las habían olvidado en el corto plazo de tiempo necesario para informar de las letras percibidas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Resultados posteriores parecían indicar que el almacén icónico.",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede registrar otras características como su calor o su forma."
+            },
+            {
+                "text": "Puede registrar otras características como su forma o su olor."
+            },
+            {
+                "text": "Puede registrar otras características como su sonido o su forma",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Sperling, cuando se pide a las personas que informen de todos los elementos presentados en una exposición taquitoscópica… ",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La actuación es buena y tienen tiempo de explorar y reconocer todos los elementos antes de borrarse de la traza visual."
+            },
+            {
+                "text": "Los elementos pueden ser mantenidos mediante la repetición porque se trata de un proceso rápido."
+            },
+            {
+                "text": "Puede explicarse la mala actuación en condiciones de informe total.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En actuación del Informe Parcial Vs Informe Total, ¿qué fue mejor?:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En el informe parcial aunque no fueran estadísticamente significativos.",
+                "correct": true
+            },
+            {
+                "text": "La conclusión de Sperling fue que las señales basadas en categorías eran efectivas e influían en los resultados."
+            },
+            {
+                "text": "La actuación en el informe total fue superior, aunque ligeramente a la del informe parcial"
+            }
+        ]
+    },
+    {
+        "text": "En experimentos con la MCP se comprobó que la capacidad de esta:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aumentaba cuando todos los elementos a recordar pertenecían a la misma categoría"
+            },
+            {
+                "text": "Disminuía cuando los elementos eran de categorías diferentes"
+            },
+            {
+                "text": "Disminuía al aumentar el número de ensayos con palabras de la misma categoría, pero si se cambiaba la categoría la capacidad de la MCP mejoraba",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la tarea de Brown-Peterson podemos observar en el cuarto ensayo el llamado:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Efecto de categoría, el cuarto ensayo en el grupo experimental mejora",
+                "correct": true
+            },
+            {
+                "text": "Efecto de categoría, no hay diferencias de grupo en ningún ensayo"
+            },
+            {
+                "text": "Efecto sufijo, el último ensayo no se recuerda bien por ser de distinta categoría"
+            }
+        ]
+    },
+    {
+        "text": "Conrad al concluir su trabajo sobre el modo de codificación en la MCP concluyó que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La MCP era un mecanismo dependiente de la MLP"
+            },
+            {
+                "text": "La MCP transformaba cualquier registro sensorial en lenguaje hablado"
+            },
+            {
+                "text": "La MCP era un mecanismo independiente consistente en la codificación verbal (acústica) de la información recibida desde los almacenes sensoriales",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La unanimidad o diversidad de código hace referencia a:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el modo de codificación no diferencia la MCP de la MLP",
+                "correct": true
+            },
+            {
+                "text": "Que la MCP codifica de manera semántica y la MLP de manera visual"
+            },
+            {
+                "text": "Que la MLP es la única que codifica realmente"
+            }
+        ]
+    },
+    {
+        "text": "¿En qué consiste la teoría de decaimiento gradual dela huella perteneciente al paradigma de Brown-Peterson?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Durante el aprendizaje del material se forma una huella en la memoria que es imposible que se borra con el paso del tiempo"
+            },
+            {
+                "text": "Mediante la repetición se evita que la traza de memoria se borre"
+            },
+            {
+                "text": "Ambas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "A que se hace referencia cuando se afirma que el aprendizaje previo inhibe el aprendizaje nuevo:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A la interferencia proactiva",
+                "correct": true
+            },
+            {
+                "text": "A la interferencia retroactiva"
+            },
+            {
+                "text": "A la interferencia intermedia"
+            }
+        ]
+    },
+    {
+        "text": "Stemberg sugería que la recuperación de la MCP:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Era igual a la recuperación de la MLP"
+            },
+            {
+                "text": "Era igual o diferente de la MLP dependiendo de la situación"
+            },
+            {
+                "text": "Era diferente de la MLP",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En el experimento de Stemberg de la recuperación de información a partir de la MCP se concluye que:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El tiempo correspondiente a las respuestas positivas y negativas es semejante"
+            },
+            {
+                "text": "El tiempo de búsqueda aumenta 38 ms aprox. por cada elemento que se añade al conjunto positivo"
+            },
+            {
+                "text": "Ambas son ciertas, además los TR son una función lineal del tamaño del conjunto",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "EL olvido en la MCP por decaimiento de la huella de Browm-Peterson:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se mantiene porque los elementos de la MCP nunca se olvidan"
+            },
+            {
+                "text": "No se mantiene, el olvido de la memoria inmediata se produce por interferencia de  otros elementos de la MLP",
+                "correct": true
+            },
+            {
+                "text": "Es una teoría que se mantiene en la actualidad"
+            }
+        ]
+    },
+    {
+        "text": "En el experimento de Stenberg no hace falta seguir inspeccionando el conjunto positivo retenido en la memoria:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una vez que veamos que todos son iguales"
+            },
+            {
+                "text": "Cuando se ha encontrado el número buscado",
+                "correct": true
+            },
+            {
+                "text": "Cuando aparezcan números pares"
+            }
+        ]
+    },
+    {
+        "text": "La duración de la información en el almacén ecoico parece:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Más corta que en el almacén icónico"
+            },
+            {
+                "text": "Más larga que en el icónico",
+                "correct": true
+            },
+            {
+                "text": "La duración es igual en los dos almacenes"
+            }
+        ]
+    },
+    {
+        "text": "El efecto sufijo:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un fenómeno totalmente auditivo",
+                "correct": true
+            },
+            {
+                "text": "Es un fenómeno totalmente visual"
+            },
+            {
+                "text": "Es un fenómeno totalmente visual y táctil"
+            }
+        ]
+    },
+    {
+        "text": "Cuando surge el efecto sufijo, hablamos de una máscara que interfiere:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La presentación de los últimos elementos de la serie (números o palabras) retenidos en  la memoria icónica"
+            },
+            {
+                "text": "La presentación de los primeros elementos de la serie retenidos en la memoria ecoica"
+            },
+            {
+                "text": "Todas son falsas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto sufijo desaparece:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuando la serie de elementos y el sufijo son leídos por la misma voz"
+            },
+            {
+                "text": "Cuando voces diferentes leen la serie de elementos y sufijo"
+            },
+            {
+                "text": "Cuando el sufijo es un tono, de naturaleza diferente a los estímulos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Marque la opción incorrecta en relación a la memoria a corto plazo MCP:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La capacidad de almacenamiento suele estar entre los 5 y los 9 elementos independientes"
+            },
+            {
+                "text": "Su duración suele ser del orden de los 5 a los 15 segundos",
+                "correct": true
+            },
+            {
+                "text": "La media de los elementos independientes almacenados (números o letras) suele ser 7"
+            }
+        ]
+    },
+    {
+        "text": "Prueba utilizada habitualmente para evaluar la amplitud de la MCP:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Prueba de amplitud de dígitos",
+                "correct": true
+            },
+            {
+                "text": "Escala de memoria de Wechsles III"
+            },
+            {
+                "text": "WAIS"
+            }
+        ]
+    },
+    {
+        "text": "Primer modelo en el que se considera la memoria como un sistema dual compuesto por una memoria primaria y una memoria secundaria:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Modelo de memoria de Johnson-Laird (1988)"
+            },
+            {
+                "text": "Modelo de memoria de Vaugh y Norman (1965)",
+                "correct": true
+            },
+            {
+                "text": "Modelo dual de Sperling (1963)"
+            }
+        ]
+    },
+    {
+        "text": "El tiempo de demora entre la presentación de una lista, de números o letras, y su recuperación posterior:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Influye en el efecto de recencia (MCP)",
+                "correct": true
+            },
+            {
+                "text": "Influye en el efecto de primacia (MLP)"
+            },
+            {
+                "text": "No influye en el efecto de recencia (MCP)"
+            }
+        ]
+    },
+    {
+        "text": "En la presentación de una lista de números o letras, indistintamente de la demora presentada (las palabras debían ser recordadas 0, 15 o 30 segundos despues de la  presentación), aparece siempre:",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El efecto de recencia"
+            },
+            {
+                "text": "El efecto de primacia",
+                "correct": true
+            },
+            {
+                "text": "El efecto sufijo"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuando se aprecia un importante efecto de recencia en un experimento de recuerdo libre (letras o números)?",
+        "fecha": {
+            "mes": "tema2",
+            "year": "2020",
+            "modelo": "2020"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En condiciones de recuerdo inmediato (demora 0 segundos)",
+                "correct": true
+            },
+            {
+                "text": "En condiciones con demora de 15 segundos"
+            },
+            {
+                "text": "En condiciones con demora 30 segundos"
+            }
+        ]
+    }
+]

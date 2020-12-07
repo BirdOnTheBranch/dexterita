@@ -1,0 +1,632 @@
+[
+    {
+        "text": "Los hombres, comparados con las mujeres, cuando hacen atribuciones relacionadas con tareas estereotipadamente masculinas, tienden a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 40 Cuaderno)",
+        "responses": [
+            {
+                "text": "Cometer más sesgos autoprotectores.",
+                "correct": true
+            },
+            {
+                "text": "Cometer menos sesgos autoensalzadores."
+            },
+            {
+                "text": "Dar más explicaciones internas y estables de sus fracasos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones NO está relacionada con la siguiente frase: “cuando una persona se compromete con una postura, será más proclive a aceptar peticiones para realizar conductas coherentes con esa postura”?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 260-261)",
+        "responses": [
+            {
+                "text": "El principio psicológico de coherencia."
+            },
+            {
+                "text": "La táctica del portazo en la cara.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la disonancia cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "Somos proclives a atribuirnos mayor responsabilidad que al resto de personas en los éxitos que obtienen aquellos grupos con los que colaboramos. Esta tendencia se denomina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 154)",
+        "responses": [
+            {
+                "text": "Esencialismo."
+            },
+            {
+                "text": "Sesgo egocéntrico.",
+                "correct": true
+            },
+            {
+                "text": "Relevancia hedónica."
+            }
+        ]
+    },
+    {
+        "text": "El término “yo espejo”, acuñado por Cooley (1902), ilustra la idea de que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 182-183)",
+        "responses": [
+            {
+                "text": "El yo es un reflejo de lo que cada persona aprende sobre cómo le ven los demás.",
+                "correct": true
+            },
+            {
+                "text": "Evaluamos a los demás utilizando nuestro yo como criterio para hacer juicios."
+            },
+            {
+                "text": "Proyectamos nuestras características personales al propio grupo."
+            }
+        ]
+    },
+    {
+        "text": "Se acercan las elecciones y el ciudadano P está indeciso. Para salir de dudas, decide asistir a los mítines de los dos candidatos que se presentan. En el primero queda cautivado por el carisma del aspirante, por lo bien que habla y por la credibilidad que inspira. Además, observa que todos los asistentes le aplauden con entusiasmo. Convencido ya de qué opción va a votar, decide no asistir al mitin del otro candidato. ¿Teniendo en cuenta esta descripción, cuál de los siguientes modelos de persuasión explica mejor el cambio de actitud de P?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 273-274)",
+        "responses": [
+            {
+                "text": "El modelo de la ruta central."
+            },
+            {
+                "text": "El modelo heurístico.",
+                "correct": true
+            },
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            }
+        ]
+    },
+    {
+        "text": "De acuerdo con la investigación de Asch (1946) sobre la formación de impresiones, el que un rasgo sea central o periférico depende:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 122-123)",
+        "responses": [
+            {
+                "text": "Del significado del rasgo en sí."
+            },
+            {
+                "text": "De la longitud de la lista de rasgos presentada."
+            },
+            {
+                "text": "Del resto de rasgos estímulo con los que aparece asociado.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la autopercepción, ¿cuál de los siguientes factores hace más probable que una conducta afecte a nuestro autoconcepto?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 181)",
+        "responses": [
+            {
+                "text": "Que la no realización de la conducta sea desincentivada con algún castigo."
+            },
+            {
+                "text": "Que la conducta sea incentivada mediante algún premio."
+            },
+            {
+                "text": "Que la conducta obedezca a una motivación intrínseca.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo es más probable que lleve a error el empleo del heurístico de anclaje y ajuste para hacer inferencias?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 90-91)",
+        "responses": [
+            {
+                "text": "Cuando utilizamos un ancla y nos basamos en ella sin hacer ajustes.",
+                "correct": true
+            },
+            {
+                "text": "Cuando lo utilizamos para hacer juicios en situaciones ambiguas."
+            },
+            {
+                "text": "Cuando tomamos como referencia un punto de partida y después hacemos ajustes a partir de información adicional."
+            }
+        ]
+    },
+    {
+        "text": "Afirmar que la forma en la que percibimos la realidad social está altamente influida por nuestras metas y estados afectivos es propia del enfoque que considera al ser humano como un:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 76-77)",
+        "responses": [
+            {
+                "text": "“científico ingenuo”."
+            },
+            {
+                "text": "“estratega motivado”.",
+                "correct": true
+            },
+            {
+                "text": "“tacaño cognitivo”."
+            }
+        ]
+    },
+    {
+        "text": "En comparación con otras especies animales, el ser humano:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 51-52)",
+        "responses": [
+            {
+                "text": "Es el único con capacidad para crear cultura."
+            },
+            {
+                "text": "Es el único con capacidad para conformarse a las normas culturales."
+            },
+            {
+                "text": "Innova sin retroceso en mayor medida y con mucha más rapidez.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que muchas personas disfruten en un concierto multitudinario y sin embargo tengan una desagradable sensación de hacinamiento en un vagón de metro igualmente abarrotado es un ejemplo de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 7)",
+        "responses": [
+            {
+                "text": "El impacto de la densidad de población sobre los individuos."
+            },
+            {
+                "text": "Ambivalencia actitudinal."
+            },
+            {
+                "text": "Los efectos de la realidad construida.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes características es más frecuente en las personas que pertenecen a culturas individualistas, comparadas con las de culturas colectivistas?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Valoran más la equidad y el contacto con personas y grupos es más extenso",
+                "correct": true
+            },
+            {
+                "text": "Su conducta hacia los miembros del endogrupo es muy diferente de la que muestran hacia miembros del exogrupo."
+            },
+            {
+                "text": "Valoran más la obediencia y el cumplir las normas sociales."
+            }
+        ]
+    },
+    {
+        "text": "La Psicología Social se ocupa, fundamentalmente:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 3 y 4)",
+        "responses": [
+            {
+                "text": "De la capacidad humana de adaptación."
+            },
+            {
+                "text": "De cómo se relacionan los procesos psicológicos con el contexto social.",
+                "correct": true
+            },
+            {
+                "text": "De procesos no relacionados con el contexto inmediato, sino societal y/o grupal."
+            }
+        ]
+    },
+    {
+        "text": "En el ámbito de la influencia de los medios de comunicación, el llamado “efecto tercera persona”:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 284)",
+        "responses": [
+            {
+                "text": "Se relaciona con el sesgo de ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Pone de manifiesto que el empleo de tácticas de influencia y persuasión es siempre negativo desde un punto de vista ético."
+            },
+            {
+                "text": "Se refiere a la elevada consciencia que poseen algunos receptores de lo accesibles que son a los intentos de manipulación de los demás."
+            }
+        ]
+    },
+    {
+        "text": "Schmitt, Branscombe y Postmes (2003) estudiaron las consecuencias que tenían para la autoestima y el bienestar psicológico las atribuciones que realizaban las participantes cuando recibían una mala evaluación en un proceso de selección. Los resultados de este estudio mostraron que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46 Cuaderno)",
+        "responses": [
+            {
+                "text": "La percepción de que existe discriminación generalizada sirve como amortiguador y protege el bienestar psicológico de las personas frente a las malas evaluaciones."
+            },
+            {
+                "text": "Quienes atribuían una mala evaluación al prejuicio general de los evaluadores presentaban una autoestima más alta que quienes atribuían la mala evaluación a causas ajenas al prejuicio."
+            },
+            {
+                "text": "Si una mala evaluación se atribuye al prejuicio de un evaluador concreto, esa creencia no afecta a la autoestima.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La indefensión aprendida se produce cuando una persona tiene repetidas experiencias negativas de las que no puede escapar haga lo que haga. Como resultado, adopta una actitud pasiva que lleva a la inacción, incluso cuando sí existe la posibilidad de cambiar la situación. ¿Cuál de los cinco motivos sociales universales propuestos por Fiske (2002) se ve siempre afectado cuando se adquiere indefensión aprendida?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 45-46)",
+        "responses": [
+            {
+                "text": "El motivo de pertenencia."
+            },
+            {
+                "text": "El motivo de control.",
+                "correct": true
+            },
+            {
+                "text": "El motivo de confianza."
+            }
+        ]
+    },
+    {
+        "text": "El contenido de los autoesquemas se caracteriza por:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 167)",
+        "responses": [
+            {
+                "text": "La posibilidad de ser aplicable a un determinado contexto y no a otros.",
+                "correct": true
+            },
+            {
+                "text": "Incluir creencias relacionadas exclusivamente con rasgos de personalidad."
+            },
+            {
+                "text": "Ser menos preciso que el de los esquemas sobre otras personas."
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo de Richman y Leary, ¿en cuál de las siguientes situaciones es más probable que los sentimientos heridos, incitados por la amenaza al motivo de pertenencia, provoquen reacciones antisociales y/o de evitación?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 18-19)",
+        "responses": [
+            {
+                "text": "Cuanto más haya invertido la persona rechazada en la relación causante de esos sentimientos."
+            },
+            {
+                "text": "Cuando la relación con la fuente del rechazo se considere muy valiosa."
+            },
+            {
+                "text": "Cuando la persona cree que el rechazo que ha sufrido lleva a una ruptura definitiva del vínculo con la fuente del rechazo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando una persona recibe un mensaje persuasivo, lo interpreta basándose en claves externas y también en procesos deliberativos no muy costosos, y finalmente cambia su actitud, ¿qué modelo de persuasión explica mejor ese cambio?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 275)",
+        "responses": [
+            {
+                "text": "El modelo heurístico."
+            },
+            {
+                "text": "La teoría de la respuesta cognitiva."
+            },
+            {
+                "text": "El modelo de probabilidad de elaboración.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes opciones es FALSA en relación con la teoría de la autodiscrepancia de Higgins?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 173-174)",
+        "responses": [
+            {
+                "text": "El malestar psicológico que se origina en los individuos cuando sus creencias sobre sí mismos no son coherentes es un aspecto central de la teoría."
+            },
+            {
+                "text": "Esta teoría contempla que las personas tenemos tres tipos de autoesquemas en los que acumulamos conocimiento de nosotros mismos."
+            },
+            {
+                "text": "Esta teoría descarta que la presencia imaginada de los otros pueda tener un papel relevante en la representación mental que la persona tiene de sí misma.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La pareja de Juan ha sacado la máxima puntuación la primera vez que se presenta a una oposición, muy por encima de la nota de los otros 800 candidatos. Juan cree que ese éxito de su pareja se debe a su inteligencia y esfuerzo, ya que siempre ha tenido las mejores calificaciones de su clase en todas las asignaturas. Según el modelo de covariación de Kelley, la inferencia de Juan se basa en información sobre la existencia de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 138-139)",
+        "responses": [
+            {
+                "text": "Alto consenso y alta distintividad."
+            },
+            {
+                "text": "Bajo consenso y alta distintividad."
+            },
+            {
+                "text": "Bajo consenso y baja distintividad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una actitud implica siempre:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 204-205)",
+        "responses": [
+            {
+                "text": "Una expresión de cierto grado de evaluación positiva o negativa.",
+                "correct": true
+            },
+            {
+                "text": "Cierta ambivalencia."
+            },
+            {
+                "text": "La existencia de creencias favorables o desfavorables sobre el objeto actitudinal."
+            }
+        ]
+    },
+    {
+        "text": "La disonancia que sigue a la elección de una alternativa frente a otra alternativa se puede reducir mediante el procedimiento de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 228-229)",
+        "responses": [
+            {
+                "text": "Cambiar el atractivo de ambas alternativas.",
+                "correct": true
+            },
+            {
+                "text": "Considerar que el resultado final al que lleva cualquiera de las dos alternativas es distinto."
+            },
+            {
+                "text": "Dar mucha importancia a la decisión tomada."
+            }
+        ]
+    },
+    {
+        "text": "Los estudios de Gerbner sobre la influencia de la televisión mostraron que las diferencias ideológicas entre conservadores, moderados y liberales disminuían en los:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 108-110 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Televidentes medios."
+            },
+            {
+                "text": "Televidentes duros.",
+                "correct": true
+            },
+            {
+                "text": "Televidentes ligeros."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio sobre el fenómeno de percepción de los medios de comunicación como hostiles hacia la posición ideológica personal (Vallone et al., 1985), los autores:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 104-106 del Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Estudiaron los efectos de la agenda setting a corto plazo."
+            },
+            {
+                "text": "Comprobaron que el sesgo era mayor en las personas con más conocimiento y más implicación emocional.",
+                "correct": true
+            },
+            {
+                "text": "Llegaron a la conclusión de que no intervenía ningún sesgo perceptivo que afectara al recuerdo."
+            }
+        ]
+    },
+    {
+        "text": "Cuando pienso que un BMW es más seguro que otros coches basándome en los comentarios de sus propietarios, estoy recurriendo a información almacenada en forma de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 84 y 85)",
+        "responses": [
+            {
+                "text": "Esquemas."
+            },
+            {
+                "text": "Inferencia."
+            },
+            {
+                "text": "Ejemplares.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La probabilidad de que se produzca una inferencia correspondiente aumenta a medida que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "La normatividad de la conducta del actor disminuye y las consecuencias de esa conducta son menos deseables para la gente en general.",
+                "correct": true
+            },
+            {
+                "text": "La normatividad de la conducta del actor aumenta y las consecuencias de esa conducta son menos deseables para la gente en general."
+            },
+            {
+                "text": "La normatividad de la conducta del actor disminuye y las consecuencias de esa conducta son más deseables para la gente en general."
+            }
+        ]
+    },
+    {
+        "text": "El siguiente comentario “Los trabajadores inmigrantes deben tener los mismos derechos que los autóctonos”, formulado por una persona en un grupo que rechaza a los inmigrantes, cumpliría una función actitudinal:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 213)",
+        "responses": [
+            {
+                "text": "De ajuste social."
+            },
+            {
+                "text": "De expresión de valores.",
+                "correct": true
+            },
+            {
+                "text": "Instrumental."
+            }
+        ]
+    },
+    {
+        "text": "Según el enfoque del Modelo Hipodérmico, los medios de comunicación:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(p. 96 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Pueden producir efectos inmediatos y masivos en una población.",
+                "correct": true
+            },
+            {
+                "text": "Apenas tienen efecto sobre la población."
+            },
+            {
+                "text": "Producen efectos sobre la población a través de mecanismos sutiles que tienen influencia solamente a largo plazo."
+            }
+        ]
+    },
+    {
+        "text": "Según la investigación sobre diferencias en atribución en función de la pertenencia grupal, ¿qué ocurre cuando la situación de interacción es ambigua e implica un resultado negativo para un miembro del grupo discriminado?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "(pp. 46-47 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Las personas del grupo discriminado hacen atribuciones basadas en prejuicios implícitos."
+            },
+            {
+                "text": "Cuando la situación es ambigua no hay diferencias entre los miembros de diferentes grupos en cuanto al tipo de atribución que hacen."
+            },
+            {
+                "text": "Las personas pertenecientes al grupo discriminador dan explicaciones basadas en estereotipos.",
+                "correct": true
+            }
+        ]
+    }
+]

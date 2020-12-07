@@ -1,0 +1,1220 @@
+[
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>En esta investigación se:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Selecciona aleatoriamente los grupos",
+                "correct": true
+            },
+            {
+                "text": "Pasa varias veces el mismo cuestionario a los sujetos"
+            },
+            {
+                "text": "Tiene en cuenta las puntuaciones en el pretest para formar los grupos"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>En este estudio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se ha utilizado un diseño cuasiexperimental pretest-postest con grupo de control no equivalente",
+                "correct": true
+            },
+            {
+                "text": "La asignación de los sujetos a los grupos ha sido aleatoria"
+            },
+            {
+                "text": "Las dos muestras utilizadas pertenecen a poblaciones diferentes"
+            }
+        ]
+    },
+    {
+        "text": "Un diseño pre-experimental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Debe tener medida pretest y postest para ser válido"
+            },
+            {
+                "text": "Puede carecer de medida pretest o de grupo de control",
+                "correct": true
+            },
+            {
+                "text": "Es un experimento piloto"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El nuevo marco docente dibujado por la convergencia hacia el Espacio Europeo de Educación Superior (EEES) supone una reformulación de las metodologías docentes. En este nuevo escenario, el estudiante pasa a ocupar el centro del proceso de aprendizaje, y surge la necesidad de replantearse algunos de los aspectos fundamentales de la enseñanza, tales como los métodos de evaluación. Partiendo de este nuevo panorama, el equipo docente de la asignatura de Psicometría de tercer curso de Licenciatura en Psicología, decide probar la eficacia del modelo de evaluación continua sobre el rendimiento de los alumnos en su asignatura, antes de adaptarse al nuevo EEES. Para ello, durante el curso se aplica dicho modelo (proponiendo actividades intermedias que se evalúan e informando a los alumnos de sus resultados) y al finalizar el curso realiza un examen a todos los alumnos de la asignatura. Las notas obtenidas por estos alumnos se comparan con las que obtuvieron el año anterior los alumnos de Psicometría, que siguieron el modelo de evaluación tradicional (centrado en la etapa final del aprendizaje). Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua, obtuvieron notas medias superiores a los alumnos que siguieron el modelo tradicional. El equipo docente concluyó que aquellos estudiantes que participan en la evaluación continua tienen mayores garantías de superar la asignatura que el resto, porque han asimilado de forma gradual los contenidos más importantes de la materia y porque han desarrollado también de manera progresivo las competencias de la asignatura.<br><br>Es un diseño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De tratamiento invertido"
+            },
+            {
+                "text": "Pretest-postest con grupo de control no equivalente"
+            },
+            {
+                "text": "De cohortes simple",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>Si en un diseño de grupo de control no equivalente con pretest y postest en más de un intervalo temporal, se observa cambio entre la medida O1 y O2 en el grupo de control, podríamos sospechar que es debido al efecto de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Del tratamiento"
+            },
+            {
+                "text": "De selección x maduración",
+                "correct": true
+            },
+            {
+                "text": "Del pretest"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>A partir de un cambio de gobierno, los responsables electos del Ayuntamiento intentan superar la criticada lentitud en los trámites administrativos de su competencia. Entre las diversas medidas propuestas (música ambiental, mejora de los locales, aumento de salarios, …) deciden aplicar de forma experimental la implantación de horario laboral libre para el personal administrativo, en lugar del rígido sistema de 8 a 3 generalizado. Antes de anunciar el nuevo sistema de horario los encargados de la investigació0n registran discretamente el número de expedientes resueltos en una semana, evaluación que volverán a realizar después de un mes de funcionamiento con horario libre. Tras esta semana de evaluación se anuncia al personal la necesidad de volver al horario antiguo, y transcurrido un mes en esta situación se vuelve a evaluar al personal. Inmediatamente después se vuelve a implantar el horario libre durante otro mes, tras el cual se realiza una última evaluación. El análisis de los datos del proceso investigado ayudará a decidir si se mantiene este nuevo sistema o se vuelve al antiguo.<br><br>La variable dependiente es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los periodos de horario libre"
+            },
+            {
+                "text": "El número de expedientes resueltos",
+                "correct": true
+            },
+            {
+                "text": "La actitud del personal"
+            }
+        ]
+    },
+    {
+        "text": "El diseño cuasiexperimental de discontinuidad en la regresión:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es uno de los diseños cuasiexperimentales que permite establecer, con mayor garantía, hipótesis causales",
+                "correct": true
+            },
+            {
+                "text": "Es un diseño pretest postest sin grupo de control"
+            },
+            {
+                "text": "Tiene una baja validez interna"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3’5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>La variable dependiente adecuada sería:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El número de alumnos que hayan obtenido una puntuación inferior a 3’5"
+            },
+            {
+                "text": "El método utilizado por el nuevo profesor de matemáticas"
+            },
+            {
+                "text": "La nota obtenida por los alumnos repetidores en matemáticas al terminar el curso",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>Un problema de este tipo de diseño podría ser que los grupos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tuvieran el mismo rendimiento al final del curso"
+            },
+            {
+                "text": "Fueran equivalentes"
+            },
+            {
+                "text": "Difieran en alguna variable distinta a la manipulada por el investigador",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>Los resultados obtenidos en la investigación indican:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El efecto positivo de la desensibilización sistemática en el rendimiento",
+                "correct": true
+            },
+            {
+                "text": "Que no existen diferencias entre los grupos"
+            },
+            {
+                "text": "Que es posible poder generalizar los resultados a todos los jugadores de baloncesto del mundo"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>El diseño O1 X O2:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Tiene la misma validez que un diseño pre-post con grupo de control"
+            },
+            {
+                "text": "A pesar de que no tiene validez interna es útil como aproximación al fenómeno de estudio",
+                "correct": true
+            },
+            {
+                "text": "Es un diseño postest con grupo de control no equivalente"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3’5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>En la gráfica en la que se representarán los datos obtenidos después de realizada la investigación encontraremos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una interacción entre las variables"
+            },
+            {
+                "text": "La/s recta/s de regresión",
+                "correct": true
+            },
+            {
+                "text": "Una línea base"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>La/s variable/s independiente/s de este diseño es/son :",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El rendimiento deportivo "
+            },
+            {
+                "text": "La aplicación de la técnica de desensibilización sistemática",
+                "correct": true
+            },
+            {
+                "text": "Las conductas tácticas propias del baloncesto que se registran"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>¿Existe grupo control?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se especifica en la investigación"
+            },
+            {
+                "text": "Si, el grupo de la tarde",
+                "correct": true
+            },
+            {
+                "text": "No"
+            }
+        ]
+    },
+    {
+        "text": "Los diseños cuasiexperimentales sin grupo de control:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Plantean problemas de validez interna",
+                "correct": true
+            },
+            {
+                "text": "Controlan amenazas a la validez externa"
+            },
+            {
+                "text": "Tienen mayor validez interna que los que tienen grupo de control"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>La variable dependiente es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La agresividad de los adolescentes",
+                "correct": true
+            },
+            {
+                "text": "La puntuación en el cuestionario"
+            },
+            {
+                "text": "Las dos alternativas son correctas"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El nuevo marco docente dibujado por la convergencia hacia el Espacio Europeo de Educación Superior (EEES) supone una reformulación de las metodologías docentes. En este nuevo escenario, el estudiante pasa a ocupar el centro del proceso de aprendizaje, y surge la necesidad de replantearse algunos de los aspectos fundamentales de la enseñanza, tales como los métodos de evaluación. Partiendo de este nuevo panorama, el equipo docente de la asignatura de Psicometría de tercer curso de Licenciatura en Psicología, decide probar la eficacia del modelo de evaluación continua sobre el rendimiento de los alumnos en su asignatura, antes de adaptarse al nuevo EEES. Para ello, durante el curso se aplica dicho modelo (proponiendo actividades intermedias que se evalúan e informando a los alumnos de sus resultados) y al finalizar el curso realiza un examen a todos los alumnos de la asignatura. Las notas obtenidas por estos alumnos se comparan con las que obtuvieron el año anterior los alumnos de Psicometría, que siguieron el modelo de evaluación tradicional (centrado en la etapa final del aprendizaje). Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua, obtuvieron notas medias superiores a los alumnos que siguieron el modelo tradicional. El equipo docente concluyó que aquellos estudiantes que participan en la evaluación continua tienen mayores garantías de superar la asignatura que el resto, porque han asimilado de forma gradual los contenidos más importantes de la materia y porque han desarrollado también de manera progresivo las competencias de la asignatura.<br><br>Podemos considerar que es un diseño cuasi experimental porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La variable independiente es cualitativa"
+            },
+            {
+                "text": "La variable independiente no se puede manipular"
+            },
+            {
+                "text": "Los grupos no han sido creados por aleatorización",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>Si existiera una correlación alta entre el pretest y el postest, los sujetos que han obtenido puntuaciones altas en el pretest también las tendrán en el postest independientemente de que hayan visto la película se podría dar una amenaza a la validez:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ecológica"
+            },
+            {
+                "text": "De conclusiones estadísticas"
+            },
+            {
+                "text": "Interna",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3’5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>El tipo de diseño de esta investigación es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Observacional"
+            },
+            {
+                "text": "Ex post facto"
+            },
+            {
+                "text": "Cuasi experimental",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>El género de los sujetos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede ser una amenaza a la validez interna",
+                "correct": true
+            },
+            {
+                "text": "Se ha controlado mediante la selección aleatoria de las aulas"
+            },
+            {
+                "text": "No influye en los resultados del experimento"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>A partir de un cambio de gobierno, los responsables electos del Ayuntamiento intentan superar la criticada lentitud en los trámites administrativos de su competencia. Entre las diversas medidas propuestas (música ambiental, mejora de los locales, aumento de salarios, …) deciden aplicar de forma experimental la implantación de horario laboral libre para el personal administrativo, en lugar del rígido sistema de 8 a 3 generalizado. Antes de anunciar el nuevo sistema de horario los encargados de la investigació0n registran discretamente el número de expedientes resueltos en una semana, evaluación que volverán a realizar después de un mes de funcionamiento con horario libre. Tras esta semana de evaluación se anuncia al personal la necesidad de volver al horario antiguo, y transcurrido un mes en esta situación se vuelve a evaluar al personal. Inmediatamente después se vuelve a implantar el horario libre durante otro mes, tras el cual se realiza una última evaluación. El análisis de los datos del proceso investigado ayudará a decidir si se mantiene este nuevo sistema o se vuelve al antiguo.<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La agilidad administrativa"
+            },
+            {
+                "text": "Las diversas medidas propuestas"
+            },
+            {
+                "text": "Horario laboral libre",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>Una de las amenazas a la validez interna que se controla con el grupo de control en este diseño es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección"
+            },
+            {
+                "text": "La regresión estadística"
+            },
+            {
+                "text": "La historia",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>A partir de un cambio de gobierno, los responsables electos del Ayuntamiento intentan superar la criticada lentitud en los trámites administrativos de su competencia. Entre las diversas medidas propuestas (música ambiental, mejora de los locales, aumento de salarios, …) deciden aplicar de forma experimental la implantación de horario laboral libre para el personal administrativo, en lugar del rígido sistema de 8 a 3 generalizado. Antes de anunciar el nuevo sistema de horario los encargados de la investigació0n registran discretamente el número de expedientes resueltos en una semana, evaluación que volverán a realizar después de un mes de funcionamiento con horario libre. Tras esta semana de evaluación se anuncia al personal la necesidad de volver al horario antiguo, y transcurrido un mes en esta situación se vuelve a evaluar al personal. Inmediatamente después se vuelve a implantar el horario libre durante otro mes, tras el cual se realiza una última evaluación. El análisis de los datos del proceso investigado ayudará a decidir si se mantiene este nuevo sistema o se vuelve al antiguo.<br><br>Podremos considerar correcto el diseño si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No aparecen diferencias significativas"
+            },
+            {
+                "text": "Resulta eficaz el nuevo horario"
+            },
+            {
+                "text": "Ninguno de estos dos criterios son determinantes de su validez",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La característica principal de los diseños cuasiexperimentales de serie temporal interrumpida sería:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La repetición en el tiempo de las observaciones antes y después del tratamiento",
+                "correct": true
+            },
+            {
+                "text": "Utilizar un solo grupo de sujetos e interrumpidamente registrar la conducta durante todo el tratamiento"
+            },
+            {
+                "text": "Utilizar una muestra muy grande y registrar la conducta varias veces, pero sólo una vez en cada sujeto"
+            }
+        ]
+    },
+    {
+        "text": "Los diseños cuasiexperimentales tienen como característica diferencial:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los grupos no equivalentes",
+                "correct": true
+            },
+            {
+                "text": "La asignación aleatoria de los sujetos a los grupos"
+            },
+            {
+                "text": "El ser intrasujeto"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El nuevo marco docente dibujado por la convergencia hacia el Espacio Europeo de Educación Superior (EEES) supone una reformulación de las metodologías docentes. En este nuevo escenario, el estudiante pasa a ocupar el centro del proceso de aprendizaje, y surge la necesidad de replantearse algunos de los aspectos fundamentales de la enseñanza, tales como los métodos de evaluación. Partiendo de este nuevo panorama, el equipo docente de la asignatura de Psicometría de tercer curso de Licenciatura en Psicología, decide probar la eficacia del modelo de evaluación continua sobre el rendimiento de los alumnos en su asignatura, antes de adaptarse al nuevo EEES. Para ello, durante el curso se aplica dicho modelo (proponiendo actividades intermedias que se evalúan e informando a los alumnos de sus resultados) y al finalizar el curso realiza un examen a todos los alumnos de la asignatura. Las notas obtenidas por estos alumnos se comparan con las que obtuvieron el año anterior los alumnos de Psicometría, que siguieron el modelo de evaluación tradicional (centrado en la etapa final del aprendizaje). Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua, obtuvieron notas medias superiores a los alumnos que siguieron el modelo tradicional. El equipo docente concluyó que aquellos estudiantes que participan en la evaluación continua tienen mayores garantías de superar la asignatura que el resto, porque han asimilado de forma gradual los contenidos más importantes de la materia y porque han desarrollado también de manera progresivo las competencias de la asignatura.<br><br>La variable independiente es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El rendimiento, que se operativiza mediante la nota obtenida en el examen"
+            },
+            {
+                "text": "Estar matriculados en la asignatura de Psicometría"
+            },
+            {
+                "text": "Tipo de modelo evaluativo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3’5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>¿Existe grupo de control en este diseño?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Depende del tipo de variable independiente utilizada"
+            },
+            {
+                "text": "No"
+            },
+            {
+                "text": "Si",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>La validez interna mejoraría si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aumentamos el número de exámenes en el grupo de la mañana"
+            },
+            {
+                "text": "Utilizamos un diseño con medidas pre y post",
+                "correct": true
+            },
+            {
+                "text": "Los dos grupos realizan el mismo número de exámenes"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>El diseño se puede clasificar como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuasi experimental de series temporales interrumpidas con grupo de control no equivalente",
+                "correct": true
+            },
+            {
+                "text": "Ex post facto prospectivo"
+            },
+            {
+                "text": "Cuasi experimental pretest postest con grupo de control no equivalente"
+            }
+        ]
+    },
+    {
+        "text": "En los diseños cuasi experimentales la notación X&#772, indica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Retirada de tratamiento",
+                "correct": true
+            },
+            {
+                "text": "Introducción del tratamiento"
+            },
+            {
+                "text": "Tratamiento invertido"
+            }
+        ]
+    },
+    {
+        "text": "La principal amenaza a la validez interna en un diseño simple de series temporales interrumpidas es la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Historia",
+                "correct": true
+            },
+            {
+                "text": "Selección"
+            },
+            {
+                "text": "Interacción entre selección y regresión estadística"
+            }
+        ]
+    },
+    {
+        "text": "Un diseño con grupo de control equivalente es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Preexperimental"
+            },
+            {
+                "text": "Cuasiexperimental"
+            },
+            {
+                "text": "Experimental",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una de las ventajas del diseño cuasi experimental de cohortes sería que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los sujetos se asignan a las cohortes en función de sus puntuaciones"
+            },
+            {
+                "text": "Permite descartar la amenaza a la validez interna de la selección"
+            },
+            {
+                "text": "Los grupos son más equivalentes que en la mayoría de los diseños cuasiexperimentales",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En cuál de los siguientes diseños cuasi experimentales se conoce la regla de asignación (p.e., las puntuaciones obtenidas en un examen) que forma el grupo control y el experimental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Diseño de tratamiento invertido"
+            },
+            {
+                "text": "Diseño de discontinuidad en la regresión",
+                "correct": true
+            },
+            {
+                "text": "Diseños de medidas pretest-postest con grupo de control no equivalente"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El nuevo marco docente dibujado por la convergencia hacia el Espacio Europeo de Educación Superior (EEES) supone una reformulación de las metodologías docentes. En este nuevo escenario, el estudiante pasa a ocupar el centro del proceso de aprendizaje, y surge la necesidad de replantearse algunos de los aspectos fundamentales de la enseñanza, tales como los métodos de evaluación. Partiendo de este nuevo panorama, el equipo docente de la asignatura de Psicometría de tercer curso de Licenciatura en Psicología, decide probar la eficacia del modelo de evaluación continua sobre el rendimiento de los alumnos en su asignatura, antes de adaptarse al nuevo EEES. Para ello, durante el curso se aplica dicho modelo (proponiendo actividades intermedias que se evalúan e informando a los alumnos de sus resultados) y al finalizar el curso realiza un examen a todos los alumnos de la asignatura. Las notas obtenidas por estos alumnos se comparan con las que obtuvieron el año anterior los alumnos de Psicometría, que siguieron el modelo de evaluación tradicional (centrado en la etapa final del aprendizaje). Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua, obtuvieron notas medias superiores a los alumnos que siguieron el modelo tradicional. El equipo docente concluyó que aquellos estudiantes que participan en la evaluación continua tienen mayores garantías de superar la asignatura que el resto, porque han asimilado de forma gradual los contenidos más importantes de la materia y porque han desarrollado también de manera progresivo las competencias de la asignatura.<br><br>El grupo de control:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está formado por los alumnos que siguieron el modelo evaluativo tradicional",
+                "correct": true
+            },
+            {
+                "text": "Está formado por los alumnos que no siguen ningún modelo evaluativo"
+            },
+            {
+                "text": "No existe, porque en ambos grupos se da tratamiento"
+            }
+        ]
+    },
+    {
+        "text": "La característica principal del diseño cuasiexperimental de tratamiento repetido es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se toman varias observaciones del tratamiento a lo largo del tiempo"
+            },
+            {
+                "text": "Que el investigador introduce, retira y vuelve a introducir el tratamiento",
+                "correct": true
+            },
+            {
+                "text": "Se caracteriza porque se toman dos medidas: una antes y otra después de la retirada del tratamiento"
+            }
+        ]
+    },
+    {
+        "text": "El diseño de retirada del tratamiento con pretest y postest:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Esta formado por una secuencia experimental y otra de control"
+            },
+            {
+                "text": "Se caracteriza porque se toman dos medidas: una antes y otra después de la retirada del tratamiento",
+                "correct": true
+            },
+            {
+                "text": " tiene la ventaja de necesitar tamañosmuestrales muy pequeños"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>La/s variable/s independiente/s de esta investigación es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La edad de los sujetos"
+            },
+            {
+                "text": "El número de ítems"
+            },
+            {
+                "text": "La proyección de la película",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En un diseño cuasiexperimental, el investigador se encuentra especialmente limitado para:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Minimizar la varianza error"
+            },
+            {
+                "text": "Controlar la varianza sistemática secundaria",
+                "correct": true
+            },
+            {
+                "text": "Maximizar la varianza sistemática primaria"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3’5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>La hipótesis de partida para realizar esta investigación es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si se aplica un nuevo método para la enseñanza de las matemáticas los alumnos repetidores obtendrán mejores notas"
+            },
+            {
+                "text": "Si se aplica un nuevo método para la enseñanza de las matemáticas todos los alumnos obtendrán mejores notas",
+                "correct": true
+            },
+            {
+                "text": "La asignación al azar de los alumnos repetidores a los grupos establecidos es lo que produce un mayor rendimiento de todos los alumnos en matemáticas"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>A partir de un cambio de gobierno, los responsables electos del Ayuntamiento intentan superar la criticada lentitud en los trámites administrativos de su competencia. Entre las diversas medidas propuestas (música ambiental, mejora de los locales, aumento de salarios, …) deciden aplicar de forma experimental la implantación de horario laboral libre para el personal administrativo, en lugar del rígido sistema de 8 a 3 generalizado. Antes de anunciar el nuevo sistema de horario los encargados de la investigació0n registran discretamente el número de expedientes resueltos en una semana, evaluación que volverán a realizar después de un mes de funcionamiento con horario libre. Tras esta semana de evaluación se anuncia al personal la necesidad de volver al horario antiguo, y transcurrido un mes en esta situación se vuelve a evaluar al personal. Inmediatamente después se vuelve a implantar el horario libre durante otro mes, tras el cual se realiza una última evaluación. El análisis de los datos del proceso investigado ayudará a decidir si se mantiene este nuevo sistema o se vuelve al antiguo.<br><br>En este diseño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los mismos sujetos sometidos al tratamiento actúan como controles",
+                "correct": true
+            },
+            {
+                "text": "No hay forma de control alguna"
+            },
+            {
+                "text": "Hay un grupo independiente de control no equivalente"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El nuevo marco docente dibujado por la convergencia hacia el Espacio Europeo de Educación Superior (EEES) supone una reformulación de las metodologías docentes. En este nuevo escenario, el estudiante pasa a ocupar el centro del proceso de aprendizaje, y surge la necesidad de replantearse algunos de los aspectos fundamentales de la enseñanza, tales como los métodos de evaluación. Partiendo de este nuevo panorama, el equipo docente de la asignatura de Psicometría de tercer curso de Licenciatura en Psicología, decide probar la eficacia del modelo de evaluación continua sobre el rendimiento de los alumnos en su asignatura, antes de adaptarse al nuevo EEES. Para ello, durante el curso se aplica dicho modelo (proponiendo actividades intermedias que se evalúan e informando a los alumnos de sus resultados) y al finalizar el curso realiza un examen a todos los alumnos de la asignatura. Las notas obtenidas por estos alumnos se comparan con las que obtuvieron el año anterior los alumnos de Psicometría, que siguieron el modelo de evaluación tradicional (centrado en la etapa final del aprendizaje). Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua, obtuvieron notas medias superiores a los alumnos que siguieron el modelo tradicional. El equipo docente concluyó que aquellos estudiantes que participan en la evaluación continua tienen mayores garantías de superar la asignatura que el resto, porque han asimilado de forma gradual los contenidos más importantes de la materia y porque han desarrollado también de manera progresivo las competencias de la asignatura.<br><br>Se pueden considerar grupos no equivalentes porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No han obtenido la misma nota en la asignatura de Psicometría"
+            },
+            {
+                "text": "No han sido formados mediante la asignación aleatoria de los sujetos",
+                "correct": true
+            },
+            {
+                "text": "No se ha tomado una medida pretratamiento para comprobarlo"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>Dentro de los diseños cuasiexperimentales nos podemos encontrar con un diseño que conste de un grupo de control:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Equivalente yb varias medidas pretest y una postest"
+            },
+            {
+                "text": "Equivalente y una medida postest"
+            },
+            {
+                "text": "No equivalente y medidas pre y postest",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>El tratamiento:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consta de dos valores: mañana y tarde"
+            },
+            {
+                "text": "Es el tipo de evaluación",
+                "correct": true
+            },
+            {
+                "text": "Se asigna aleatoriamente a los grupos"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El nuevo marco docente dibujado por la convergencia hacia el Espacio Europeo de Educación Superior (EEES) supone una reformulación de las metodologías docentes. En este nuevo escenario, el estudiante pasa a ocupar el centro del proceso de aprendizaje, y surge la necesidad de replantearse algunos de los aspectos fundamentales de la enseñanza, tales como los métodos de evaluación. Partiendo de este nuevo panorama, el equipo docente de la asignatura de Psicometría de tercer curso de Licenciatura en Psicología, decide probar la eficacia del modelo de evaluación continua sobre el rendimiento de los alumnos en su asignatura, antes de adaptarse al nuevo EEES. Para ello, durante el curso se aplica dicho modelo (proponiendo actividades intermedias que se evalúan e informando a los alumnos de sus resultados) y al finalizar el curso realiza un examen a todos los alumnos de la asignatura. Las notas obtenidas por estos alumnos se comparan con las que obtuvieron el año anterior los alumnos de Psicometría, que siguieron el modelo de evaluación tradicional (centrado en la etapa final del aprendizaje). Los resultados encontrados fueron que los alumnos que siguieron el modelo de evaluación continua, obtuvieron notas medias superiores a los alumnos que siguieron el modelo tradicional. El equipo docente concluyó que aquellos estudiantes que participan en la evaluación continua tienen mayores garantías de superar la asignatura que el resto, porque han asimilado de forma gradual los contenidos más importantes de la materia y porque han desarrollado también de manera progresivo las competencias de la asignatura.<br><br>Si se quiere generalizar a la población de estudiantes universitarios, el hecho de que los sujetos sean estudiantes de la Facultad de Psicología, puede afectar a la validez:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Interna"
+            },
+            {
+                "text": "Externa",
+                "correct": true
+            },
+            {
+                "text": "De constructo"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>La/s variable/s dependiente/s en este diseños es/son:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las cuatro semanas de registro antes de introducir el tratamiento"
+            },
+            {
+                "text": "Las medidas de rendimiento deportivo en cada grupo",
+                "correct": true
+            },
+            {
+                "text": "Las tres semanas de aplicación de la técnica, dos veces por semana"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3,5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>El punto de corte, (3,5), utilizado en este diseño sirve:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Como variable independiente"
+            },
+            {
+                "text": "Como medida postest"
+            },
+            {
+                "text": "Para la asignación de los sujetos a los grupos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>A partir de un cambio de gobierno, los responsables electos del Ayuntamiento intentan superar la criticada lentitud en los trámites administrativos de su competencia. Entre las diversas medidas propuestas (música ambiental, mejora de los locales, aumento de salarios, …) deciden aplicar de forma experimental la implantación de horario laboral libre para el personal administrativo, en lugar del rígido sistema de 8 a 3 generalizado. Antes de anunciar el nuevo sistema de horario los encargados de la investigació0n registran discretamente el número de expedientes resueltos en una semana, evaluación que volverán a realizar después de un mes de funcionamiento con horario libre. Tras esta semana de evaluación se anuncia al personal la necesidad de volver al horario antiguo, y transcurrido un mes en esta situación se vuelve a evaluar al personal. Inmediatamente después se vuelve a implantar el horario libre durante otro mes, tras el cual se realiza una última evaluación. El análisis de los datos del proceso investigado ayudará a decidir si se mantiene este nuevo sistema o se vuelve al antiguo.<br><br>Es un diseño de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Retirada de tratamiento con pretest y postest"
+            },
+            {
+                "text": "Tratamiento repetido",
+                "correct": true
+            },
+            {
+                "text": "Tratamiento invertido"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>Es un diseño:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental de tratamiento repetido"
+            },
+            {
+                "text": "Cuasiexperimental de series temporales"
+            },
+            {
+                "text": "Preexperimental sólo postest con grupo no equivalente",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>La amenaza a la validez interna más importante en un diseño solo de postest con grupos no equivalentes es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La selección diferencial",
+                "correct": true
+            },
+            {
+                "text": "La instrumentación"
+            },
+            {
+                "text": "Las variaciones cíclicas"
+            }
+        ]
+    },
+    {
+        "text": "En un diseño cuasiexperimental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La variable dependiente siempre antecede a la independiente"
+            },
+            {
+                "text": "Se asignan los sujetos a los grupos de forma aleatoria"
+            },
+            {
+                "text": "La variable independiente debe anteceder a la dependiente",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>El efecto del tratamiento se infiere de los resultados de los sujetos en los:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Exámenes finales",
+                "correct": true
+            },
+            {
+                "text": "En todos los exámenes"
+            },
+            {
+                "text": "Diferentes exámenes a lo largo del curso"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>En un instituto de Bachillerato están preocupados por la cantidad de alumnos que suspenden las matemáticas. La normativa del centro reparte los alumnos repetidores al azar entre los distintos grupos. El director del instituto consulta con el psicólogo del centro para cambiar dicha normativa y emprender nuevas acciones. Durante el curso 2003/04, van a contratar un profesor especial para los alumnos repetidores cuyo sistema de enseñanza se basa en el ordenador y que atenderá al grupo compuesto únicamente por todos los alumnos que en el presente curso obtengan una nota inferior a 3’5. Los alumnos que aún habiendo suspendido obtengan una nota superior a ésta, seguirán por el método tradicional. El director quiere realizar con los datos obtenidos un cambio en la estrategia de enseñanza del instituto y por ello quiere realizar un diseño de investigación adecuado a su problema.<br><br>Al utilizar un punto de corte para la asignación de los sujetos a los grupos el diseño se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cohortes con tratamiento dividido"
+            },
+            {
+                "text": "Intercambio de tratamiento"
+            },
+            {
+                "text": "Discontinuidad en la regresión",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>Un profesor universitario de matemáticas preocupado por la calidad de la docencia, quiere comprobar empíricamente si las calificaciones académicas de los estudiantes pueden variar en función del tipo de evaluación de la asignatura que se utilice a lo largo del curso. Como imparte docencia en un grupo de mañana y en otro de tarde decide que realizará evaluación continua en el grupo de mañana (exámenes periódicos cada cuatro semanas aproximadamente sin previo aviso a los alumnos, más el examen final de Junio), y evaluación tradicional en el grupo de tarde (dos exámenes parciales, más el examen final de Junio). Al comparar las notas en los dos grupos en los exámenes finales de Junio, encuentra que los alumnos de la mañana han obtenido notas significativamente mejores que los alumnos del grupo de tarde, por lo que concluye que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional.<br><br>¿Se puede concluir realmente que la evaluación continua lleva a mejores resultados académicos que el método de evaluación tradicional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si, solo en los alumnos que mejoran"
+            },
+            {
+                "text": "Si, ya que la causa del mejor rendimiento es la evaluación continua"
+            },
+            {
+                "text": "No, ya que en este tipo de diseño es difícil inferir relaciones causales",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>Al realizar en este diseño registros sucesivos de la conducta:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los grupos son equivalentes"
+            },
+            {
+                "text": "Podemos obtener una línea base y estudiar la tendencia",
+                "correct": true
+            },
+            {
+                "text": "No son necesarias las medidas pretest"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>A partir de un cambio de gobierno, los responsables electos del Ayuntamiento intentan superar la criticada lentitud en los trámites administrativos de su competencia. Entre las diversas medidas propuestas (música ambiental, mejora de los locales, aumento de salarios, …) deciden aplicar de forma experimental la implantación de horario laboral libre para el personal administrativo, en lugar del rígido sistema de 8 a 3 generalizado. Antes de anunciar el nuevo sistema de horario los encargados de la investigació0n registran discretamente el número de expedientes resueltos en una semana, evaluación que volverán a realizar después de un mes de funcionamiento con horario libre. Tras esta semana de evaluación se anuncia al personal la necesidad de volver al horario antiguo, y transcurrido un mes en esta situación se vuelve a evaluar al personal. Inmediatamente después se vuelve a implantar el horario libre durante otro mes, tras el cual se realiza una última evaluación. El análisis de los datos del proceso investigado ayudará a decidir si se mantiene este nuevo sistema o se vuelve al antiguo.<br><br>Entre las amenazas a la validez interna propias de este tipo de diseños podemos destacar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La maduración cíclica",
+                "correct": true
+            },
+            {
+                "text": "Las dos alternativas anteriores son correctas"
+            },
+            {
+                "text": "La historia"
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>La Universidad de Carabobo (Buenos Aires), realizó una investigación con sus jugadores de baloncesto masculino con el fin de comprobar si una técnica de intervención psicológica para el control de la ansiedad en la competición, como la desensibilización sistemática mejoraba el rendimiento de los jugadores. En el estudio participaron dos equipos de 8 jugadores universitarios, entre 17 y 25 años. Para evaluar el rendimiento deportivo se diseñó un instrumento en el que tres personas registraban para cada sujeto número de: balones recuperados, balones perdidos, ataque sistemático y tiros libres convertidos. El procedimiento consistió en registros sucesivos del rendimiento deportivo en los dos grupos en situación de juego durante cuatro semanas. A continuación el psicólogo deportivo aplicó el tratamiento en uno de los grupos. La terapia se aplicaba de forma individual, durante 12 minutos a cada sujeto. Después de finalizar el periodo de terapia dos veces por semana durante tres semanas, se volvieron a realizar registros sucesivos del rendimiento en ambos grupos. Los resultados mostraron que en el grupo donde se aplicó la técnica de desensibilización sistemática se obtuvieron medidas del rendimiento mejor que en el grupo donde no se realizó.<br><br>Para comprobar la equivalencia de los grupos es necesario comparar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las puntuaciones del pretest del grupo de control con las del postest del experimental"
+            },
+            {
+                "text": "Las puntuaciones del pretest del grupo control con las del postest del mismo"
+            },
+            {
+                "text": "Las puntuaciones del pretest del grupo control con las del pretest del experimental",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "DISEÑO<br>El equipo de psicólogos de un instituto quiere comprobar el efecto que produce la visión de una película violenta sobre la agresividad de los adolescentes. Para ello seleccionaron dos aulas mixtas de 20 alumnos cada una con edades comprendidas entre 17 y 20 años de 2º de Bachillerato y se les pasó a ambas un cuestionario de agresividad de 40 ítems. Posteriormente a los alumnos de una de las aulas se les proyectó una película violenta de una duración de 30 minutos, mientras que a los alumnos de la otra se les dio tiempo libre mientras que duraba la proyección de la película. Pasado ese tiempo se les aplicó a ambos grupos un cuestionario de agresividad de 40 ítems que correlacionaba muy alto con el anterior. Los resultados mostraron una puntuación más alta en los alumnos que habían asistido a la proyección de la película.<br><br>Señale la formulación del problema más adecuada:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "6",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "¿influye la visión de cualquier película en la conducta de los adolescentes?"
+            },
+            {
+                "text": "Los adolescentes de 17 a 20 años son bastante agresivos"
+            },
+            {
+                "text": "¿influye la visión de una película violenta en la agresividad de los adolescentes?",
+                "correct": true
+            }
+        ]
+    }
+]

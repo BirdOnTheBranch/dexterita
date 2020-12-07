@@ -1,0 +1,502 @@
+[
+    {
+        "text": "La cirugía estereotáxica se utiliza:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Únicamente en humanos."
+            },
+            {
+                "text": "Únicamente en animales."
+            },
+            {
+                "text": "Tanto en humanos como en animales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La fase N3 aparece a lo largo de una noche durmiendo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Con más frecuencia al principio.",
+                "correct": true
+            },
+            {
+                "text": "Con más frecuencia al final."
+            },
+            {
+                "text": "Distribuida uniformemente."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué sucede con la deuda de sueño si se duermen más horas de las necesarias?",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Si existe deuda de dueño, se elimina.",
+                "correct": true
+            },
+            {
+                "text": "Si no existe deuda de sueño, las horas extra durmiendo sirven para prevenir deuda de sueño en el futuro."
+            },
+            {
+                "text": "Las alternativas A y B son correctas."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del circuito neural del ciclo sueño-vigilia, el núcleo dorsomedial del hipotálamo (DMH) envía conexiones excitatorias:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "A las neuronas orexinérgicas del hipotálamo lateral (OX-HL).",
+                "correct": true
+            },
+            {
+                "text": "Al núcleo ventrolateral del área preóptica (VLPO)."
+            },
+            {
+                "text": "Al núcleo supraquiasmático (NSQ)."
+            }
+        ]
+    },
+    {
+        "text": "Los trastornos del sueño relacionados con la respiración se denominan:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Parasomnias."
+            },
+            {
+                "text": "Apneas del sueño.",
+                "correct": true
+            },
+            {
+                "text": "Hipoxemias."
+            }
+        ]
+    },
+    {
+        "text": "Un gen responsable de la determinación testicular en humanos es el:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "SRY.",
+                "correct": true
+            },
+            {
+                "text": "XY."
+            },
+            {
+                "text": "Y."
+            }
+        ]
+    },
+    {
+        "text": "La eyaculación es un reflejo controlado a nivel:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Del prosencéfalo."
+            },
+            {
+                "text": "Del mesencéfalo."
+            },
+            {
+                "text": "Medular.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La identidad de género es:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El convencimiento de ser hombre o mujer.",
+                "correct": true
+            },
+            {
+                "text": "La congruencia entre los órganos reproductores y los cromosomas correspondientes al macho o a la hembra."
+            },
+            {
+                "text": "La transición social de varón a mujer o de mujer a varón."
+            }
+        ]
+    },
+    {
+        "text": "Los padres (los progenitores macho) juegan un papel importante en el cuidado de las crías y su supervivencia:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "En la mayoría de las especies de mamíferos."
+            },
+            {
+                "text": "En una minoría de las especies de mamíferos.",
+                "correct": true
+            },
+            {
+                "text": "Aproximadamente en la mitad de las especies de mamíferos."
+            }
+        ]
+    },
+    {
+        "text": "Al equilibrio dinámico mediante el cual el medio interno se mantiene dentro de los límites adecuados para que el organismo pueda realizar sus funciones de forma óptima se denomina:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Metabolismo energético."
+            },
+            {
+                "text": "Homeostasis.",
+                "correct": true
+            },
+            {
+                "text": "Tasa metabólica."
+            }
+        ]
+    },
+    {
+        "text": "La grelina envía la señal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "De inicio de la ingesta al tronco del encéfalo a través del nervio vago.",
+                "correct": true
+            },
+            {
+                "text": "De cese de la ingesta desde el tejido adiposo al hipotálamo lateral."
+            },
+            {
+                "text": "De cese de la ingesta desde el páncreas al núcleo ventromedial del hipotálamo."
+            }
+        ]
+    },
+    {
+        "text": "Se ha comprobado que los altos niveles de leptina provocan en el núcleo arqueado (arcuato, en la versión del libro de 2016) la activación de las neuronas POMC/CART:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Pero no producen efecto sobre las neuronas NPY/PRAG."
+            },
+            {
+                "text": "Y también la inhibición de las neuronas NPY/PRAG.",
+                "correct": true
+            },
+            {
+                "text": "Y también activan las neuronas NPY/PRAG."
+            }
+        ]
+    },
+    {
+        "text": "La anorexia nerviosa:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Se ha relacionado con alteraciones en los genes que codifican alguno de los receptores de serotonina.",
+                "correct": true
+            },
+            {
+                "text": "No tiene base genética, pues el trastorno aparece con menor frecuencia en familiares de las personas que la padecen."
+            },
+            {
+                "text": "Produce un porcentaje de suicidios menor que el de la población en general."
+            }
+        ]
+    },
+    {
+        "text": "El denominado síndrome de Klüver y Buey (1939) observado por estos autores en monos a los que se les habían extirpado los lóbulos temporales anteriores se caracterizaba por:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Una ingestión indiscriminada, un aumento de la actividad sexual, una tendencia a explorar y una ausencia de miedo.",
+                "correct": true
+            },
+            {
+                "text": "Una disminución del apetito y de la actividad motora."
+            },
+            {
+                "text": "Un aumento de la agresividad sin afectar a otros comportamientos."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la activación cognitiva propuesta por Schachter y Singer (1962) la emoción se produce por una activación fisiológica:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Inespecífica y por la valoración cognitiva de la situación en la que se produce esta activación.",
+                "correct": true
+            },
+            {
+                "text": "Específica y por la valoración cognitiva de la situación en la que se produce esta activación."
+            },
+            {
+                "text": "Específica sin que en ella influya la valoración cognitiva de la situación en la que se produce esta activación."
+            }
+        ]
+    },
+    {
+        "text": "Las principales estructuras prefrontales implicadas en el procesamiento emocional son:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La corteza prefrontal ventromedial (CPFvm), la corteza prefrontal dorsolateral (CPFdl) y la corteza cingulada anterior (CCA)",
+                "correct": true
+            },
+            {
+                "text": "Únicamente la corteza prefrontal ventromedial (CPFvm) y la corteza prefrontal dorsolateral (CPFdl)."
+            },
+            {
+                "text": "Únicamente la corteza prefrontal ventromedial (CPFvm) y la corteza cingulada anterior (CC"
+            }
+        ]
+    },
+    {
+        "text": "Según la hipótesis de la retroalimentación facial interpersonal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "En los contextos interpersonales cara a cara, el tono hedónico facial que un sujeto muestra imitando a otro puede influir en el afecto que el primero pueda sentir hacia aquel que imita.",
+                "correct": true
+            },
+            {
+                "text": "En los contextos interpersonales cara a cara, el tono hedónico facial que un sujeto muestra imitando a otro nunca puede llegar a influir en el afecto que el primero pueda sentir hacia aquel que imita."
+            },
+            {
+                "text": "La percepción del tono hedónico facial no influye sobre el sujeto que lo percibe."
+            }
+        ]
+    },
+    {
+        "text": "En relación a los genes del lenguaje:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Solo están presentes en el ser humano."
+            },
+            {
+                "text": "Están involucrados también en el correcto desarrollo del sistema nervioso.",
+                "correct": true
+            },
+            {
+                "text": "Se expresan de manera tardía en el desarrollo."
+            }
+        ]
+    },
+    {
+        "text": "Según los estudios realizados con neuroimagen en el estudio de las asimetrías morfológicas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El hemisferio derecho es más grande que el izquierdo en los recién nacidos debido a la existencia de la asimetría frontooccipital."
+            },
+            {
+                "text": "El hemisferio izquierdo es más grande que el derecho en los recién nacidos y durante las primeras semanas de vida.",
+                "correct": true
+            },
+            {
+                "text": "No existe ningún tipo de asimetría morfológica en el cerebro de los recién nacidos, ni durante el primer año de vida."
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de Lichtheim (1885) la afasia transcortical motora se produce debido al daño en:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El centro de pensamiento que imposibilita la comunicación."
+            },
+            {
+                "text": "El centro auditivo que produce la imposibilidad de la comprensión de las palabras."
+            },
+            {
+                "text": "Las vías de sustancia blanca que conectan el centro del pensamiento con el área de Broca.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los estudios sobre la lectura se han identificado tareas que pueden considerarse como predictores de la habilidad lectora por ejemplo",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Las tareas de denominación rápida de imágenes y de memoria a corto plazo verbal.",
+                "correct": true
+            },
+            {
+                "text": "La tarea de identificación de la conciencia fonológica aumentada, mediante la estimulación del área de Broca."
+            },
+            {
+                "text": "La tarea de emparejamiento de imágenes presentadas a un solo hemisferio."
+            }
+        ]
+    },
+    {
+        "text": "Durante la inducción de la potenciación a largo plazo (PLP):",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "El glutamato liberado se une a los receptores glutamaérgicos de tipo AMPA y de tipo NMDA, pero sólo fluye el Na+ a través del receptor tipo NMDA."
+            },
+            {
+                "text": "La despolarización de la neurona postsináptica desaloja al Mg2+ del receptor glutamaérgico tipo AMPA."
+            },
+            {
+                "text": "El incremento de Ca2+ en la espina dendrítica conduce a la potenciación a largo plazo (PLP).",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El óxido nítrico:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "Es sintetizado en respuesta al incremento de calcio intracelular en la neurona postsináptica.",
+                "correct": true
+            },
+            {
+                "text": "Actúa preferentemente sobre la neurona postsináptica acelerando la liberación de glutámico."
+            },
+            {
+                "text": "Al estar involucrado en la potenciación a largo plazo (PLP) al igual que el glutámico, es un agonista de este tipo de neurotransmisor."
+            }
+        ]
+    },
+    {
+        "text": "Si evaluamos la actividad de la corteza prefrontal (ventromedial) y la del hipocampo en humanos, mediante resonancia magnética nuclear, durante el proceso de recuperación de recuerdos de distinta antigüedad observamos que:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La corteza prefrontal no interviene en la recuperación de ningún tipo de recuerdo."
+            },
+            {
+                "text": "En la recuperación de los recuerdos más antiguos no interviene el hipocampo, y que cuanto más antiguos son los recuerdos, mayor actividad prefrontal se observa.",
+                "correct": true
+            },
+            {
+                "text": "El papel del hipocampo en la recuperación de la información tiene lugar cuando ésta es muy antigua y la corteza prefrontal no tiene acceso a ella."
+            }
+        ]
+    },
+    {
+        "text": "Durante el desarrollo embrionario se reproduce el patrón de “marcas” epigenéticas (epigenoma) aportado por los progenitores. Sin embargo, existen factores capaces de influir en este patrón epigenético a lo largo de la vida, entre los que destaca:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2019",
+            "modelo": "2"
+        },
+        "responses": [
+            {
+                "text": "La dieta."
+            },
+            {
+                "text": "La edad."
+            },
+            {
+                "text": "Las alternativas A y B son correctas.",
+                "correct": true
+            }
+        ]
+    }
+]

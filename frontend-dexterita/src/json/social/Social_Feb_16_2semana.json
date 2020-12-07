@@ -1,0 +1,632 @@
+[
+    {
+        "text": "La disonancia se caracteriza por ser un proceso:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 227)",
+        "responses": [
+            {
+                "text": "Conductual."
+            },
+            {
+                "text": "Motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Cognitivo."
+            }
+        ]
+    },
+    {
+        "text": "La conducta no verbal:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 120-121)",
+        "responses": [
+            {
+                "text": "Es expresión fidedigna de los sentimientos de los demás, porque es imposible regularla de manera intencionada."
+            },
+            {
+                "text": "Es tan básica y universal que apenas se ve influida por la cultura."
+            },
+            {
+                "text": "Nos permite inferir las emociones y las intenciones de los demás de manera relativamente automática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Existen diversas estrategias para validar la propia identidad personal y social. ¿Cuál de las siguientes opciones NO tiene ese objetivo?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 192-194)",
+        "responses": [
+            {
+                "text": "Buscar la interacción con personas que confirmen nuestro autoconcepto."
+            },
+            {
+                "text": "Aumentar el número de facetas del autoconcepto.",
+                "correct": true
+            },
+            {
+                "text": "Expresar públicamente las propias actitudes y valores."
+            }
+        ]
+    },
+    {
+        "text": "La teoría de la respuesta cognitiva explica el proceso de cambio de actitudes poniendo el énfasis en:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 272-273)",
+        "responses": [
+            {
+                "text": "El empleo de heurísticos por parte del receptor."
+            },
+            {
+                "text": "El recuerdo del mensaje persuasivo por parte del receptor."
+            },
+            {
+                "text": "El número de automensajes generados por el receptor del mensaje persuasivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de covariación de Kelley, ¿cuál es la atribución más probable cuando se da alto consenso, alta consistencia y alta distintividad?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 138-142)",
+        "responses": [
+            {
+                "text": "A la situación."
+            },
+            {
+                "text": "A la persona."
+            },
+            {
+                "text": "Al estímulo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según el modelo de probabilidad de elaboración, ¿en cuál de las siguientes circunstancias será probable que la persona elabore el mensaje persuasivo que recibe?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 276)",
+        "responses": [
+            {
+                "text": "Cuando lo que dice el mensaje es inconsistente con sus actitudes.",
+                "correct": true
+            },
+            {
+                "text": "Cuando no tiene conocimientos sobre el tema."
+            },
+            {
+                "text": "Cuando se guía por claves externas al contenido del mensaje."
+            }
+        ]
+    },
+    {
+        "text": "Los esquemas de roles:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 80-81)",
+        "responses": [
+            {
+                "text": "Se activan más fácilmente en las culturas colectivistas que en las individualistas.",
+                "correct": true
+            },
+            {
+                "text": "Recogen información sobre secuencias de conductas en situaciones concretas."
+            },
+            {
+                "text": "Recogen información sobre ejemplos particulares de líderes, profesores, amas de casa, etc..."
+            }
+        ]
+    },
+    {
+        "text": "Según la teoría de la disonancia cognitiva:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 227-228)",
+        "responses": [
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de reducir el malestar psicológico.",
+                "correct": true
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de tener control sobre nuestras conductas."
+            },
+            {
+                "text": "El cambio de actitudes viene motivado por la necesidad de ser lógicos."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es, según la teoría de la autodiscrepancia, un motor fundamental que motiva a una persona a cambiar?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 174)",
+        "responses": [
+            {
+                "text": "Reducir el malestar psicológico que generan las diferencias entre el yo real y otros yoes que nos sirven como guías.",
+                "correct": true
+            },
+            {
+                "text": "Una motivación extrínseca de satisfacer a los otros relevantes."
+            },
+            {
+                "text": "Conseguir el bienestar psicológico que aporta superarse a sí mismo."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de los modelos de combinación lineal sobre la formación de impresiones, la asignación diferencial de peso a los rasgos de una persona:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 124-125)",
+        "responses": [
+            {
+                "text": "Es una idea introducida por el modelo de la media ponderada que supone que no todos los rasgos tienen la misma importancia en todos los contextos.",
+                "correct": true
+            },
+            {
+                "text": "Es una aportación del modelo suma que propone que determinados rasgos, por su importancia, influyen en el significado de los demás rasgos y organizan la imagen completa que nos formamos de la otra persona."
+            },
+            {
+                "text": "Fue propuesta por el modelo promedio y es una idea similar a los rasgos centrales del enfoque de Asch."
+            }
+        ]
+    },
+    {
+        "text": "La existencia de diferencias entre culturas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 50 y 64)",
+        "responses": [
+            {
+                "text": "Se debe a la necesidad de adaptación a medios con diferentes exigencias.",
+                "correct": true
+            },
+            {
+                "text": "Demuestra que en el ser humano no existen procesos psicológicos universales."
+            },
+            {
+                "text": "Se conoce como culturocentrismo."
+            }
+        ]
+    },
+    {
+        "text": "La Psicología Social:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 3 y 4)",
+        "responses": [
+            {
+                "text": "No explica, sino que describe, cómo son los contextos sociales."
+            },
+            {
+                "text": "Estudia las relaciones entre procesos psicológicos y contexto social.",
+                "correct": true
+            },
+            {
+                "text": "Se fundamenta en la experiencia personal adquirida por los psicólogos en relación con su entorno."
+            }
+        ]
+    },
+    {
+        "text": "La explicación de los propios éxitos por causas internas y estables y de los propios fracasos por causas externas e inestables es característica de las personas pertenecientes a culturas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 54-57)",
+        "responses": [
+            {
+                "text": "Individualistas.",
+                "correct": true
+            },
+            {
+                "text": "De alta evitación de la incertidumbre."
+            },
+            {
+                "text": "Colectivistas."
+            }
+        ]
+    },
+    {
+        "text": "Cuando nuestro pensamiento es consciente, intencionado y controlado se trata de un proceso cognitivo:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 96-97)",
+        "responses": [
+            {
+                "text": "Subliminal."
+            },
+            {
+                "text": "Basado en heurísticos."
+            },
+            {
+                "text": "Deliberativo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando las actitudes sirven para obtener refuerzos o evitar castigos, cumplen una función:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 212)",
+        "responses": [
+            {
+                "text": "Expresiva de valores."
+            },
+            {
+                "text": "Instrumental.",
+                "correct": true
+            },
+            {
+                "text": "Defensiva del yo."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de Ubillos y cols. (2003), la mayoría de la muestra atribuyó más probabilidad de mantener relaciones sexuales de riesgo al joven medio de su entorno que a sí mismos. Este resultado es un ejemplo de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 65-66 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Efecto tercera persona invertido."
+            },
+            {
+                "text": "Ilusión de invulnerabilidad.",
+                "correct": true
+            },
+            {
+                "text": "Falso consenso."
+            }
+        ]
+    },
+    {
+        "text": "Ross y sus colaboradores comprobaron en un experimento que el 75.6% de los participantes que autorizaban que sus declaraciones aparecieran en el vídeo de un anuncio sobre un supermercado creían que sus compañeros también lo autorizarían. Entre los que se negaron a autorizar la proyección de sus declaraciones, el porcentaje de los que manifestaron esa creencia fue significativamente menor. Este resultado refleja un sesgo de:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 62-63 Cuaderno de Investigación)",
+        "responses": [
+            {
+                "text": "Ignorancia pluralista."
+            },
+            {
+                "text": "Falsa singularidad."
+            },
+            {
+                "text": "Falso consenso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Ana entrena al tenis seis horas a la semana. Cuando juzga la conducta de Juan, que sólo entrena tres, piensa que éste se dedica poco al tenis. Por el contrario, Pedro, que entrena una hora semanal, piensa que la dedicación de Juan a ese deporte es bastante alta. En la diferencia de juicios entre Ana y Pedro se percibe la influencia:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 91)",
+        "responses": [
+            {
+                "text": "Del heurístico de anclaje.",
+                "correct": true
+            },
+            {
+                "text": "De la ignorancia pluralizada."
+            },
+            {
+                "text": "Del “efecto Pigmalión”."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones es FALSA:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 74-75)",
+        "responses": [
+            {
+                "text": "El proceso de percepción de personas no es activo, sino reflejo.",
+                "correct": true
+            },
+            {
+                "text": "La “cognición caliente” tiene en cuenta la influencia de los factores emocionales en los procesos cognitivos."
+            },
+            {
+                "text": "La cognición social aplica los métodos y teorías de la Psicología Cognitiva a la Psicología Social."
+            }
+        ]
+    },
+    {
+        "text": "El conocimiento que las personas tienen del “yo” se construye:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 167-170-171)",
+        "responses": [
+            {
+                "text": "De forma abstracta, sin basarse en episodios concretos."
+            },
+            {
+                "text": "De modo similar a como se desarrollan impresiones sobre los demás.",
+                "correct": true
+            },
+            {
+                "text": "Sin utilizar para ello esquemas."
+            }
+        ]
+    },
+    {
+        "text": "El delegado de alumnos de una universidad hace una petición muy sencilla a sus compañeros: firmar una solicitud dirigida al rector para que ponga un servicio de préstamo de bicicletas a disposición de los alumnos. Tres días después, los representantes de alumnos convocan a los firmantes a una manifestación portando pancartas dirigidas al rector con esa petición: “Implantación de un sistema de préstamo de bicicletas YA”. ¿Qué táctica de influencia se está empleando?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 256-257)",
+        "responses": [
+            {
+                "text": "Pie en la puerta.",
+                "correct": true
+            },
+            {
+                "text": "Bola baja."
+            },
+            {
+                "text": "Esto no es todo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes afirmaciones es una premisa del modelo de probabilidad de elaboración?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 274-275)",
+        "responses": [
+            {
+                "text": "La persuasión vía ruta periférica se produce sin demasiado esfuerzo cognitivo.",
+                "correct": true
+            },
+            {
+                "text": "La persuasión vía ruta central se produce si la persona tiene baja capacidad y/o baja motivación."
+            },
+            {
+                "text": "Para que se dé persuasión se tiene que utilizar la ruta central."
+            }
+        ]
+    },
+    {
+        "text": "La territorialidad en los seres humanos se caracteriza por:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 60)",
+        "responses": [
+            {
+                "text": "Ser de naturaleza física y simbólica.",
+                "correct": true
+            },
+            {
+                "text": "No verse afectada por la cultura."
+            },
+            {
+                "text": "Tratar de proteger el espacio personal que rodea a la persona."
+            }
+        ]
+    },
+    {
+        "text": "En el marco de la teoría de la categorización del yo, ¿cómo denominamos el proceso por el cual la gente deja de considerarse y de considerar a otros como personas únicas, para verse y verles como miembros de un grupo?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 177-178)",
+        "responses": [
+            {
+                "text": "Descategorización."
+            },
+            {
+                "text": "Despersonalización.",
+                "correct": true
+            },
+            {
+                "text": "Yo interdependiente."
+            }
+        ]
+    },
+    {
+        "text": "Según el Modelo de Richman y Leary, ¿en cuál de las siguientes situaciones es más probable que los sentimientos heridos, incitados por la amenaza al motivo de pertenencia, provoquen reacciones prosociales?:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 18-19)",
+        "responses": [
+            {
+                "text": "Cuando la relación con la fuente del rechazo se considere poco valiosa."
+            },
+            {
+                "text": "Cuando la persona considere que el rechazo que ha sufrido lleva a una ruptura definitiva del vínculo con la fuente del rechazo."
+            },
+            {
+                "text": "Cuanto más haya invertido la persona rechazada en la relación causante de esos sentimientos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una conclusión que se puede extraer de los estudios sobre resistencia a la influencia ilegítima, de Sagarin y colaboradores (2002), es que para entrenar la resistencia a la persuasión es necesario hacer conscientes a las personas:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 160 Cuaderno)",
+        "responses": [
+            {
+                "text": "De que ellas también son vulnerables a ese tipo de influencia.",
+                "correct": true
+            },
+            {
+                "text": "De que otras personas son vulnerables a esa influencia."
+            },
+            {
+                "text": "De que ese tipo de influencia no les ha producido efecto tercera persona."
+            }
+        ]
+    },
+    {
+        "text": "Según la Teoría de las inferencias correspondientes, para que un efecto sirva como base para realizar una inferencia correspondiente debemos inferir que el actor:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 135-138)",
+        "responses": [
+            {
+                "text": "Atribuye su propia conducta a causas internas."
+            },
+            {
+                "text": "No era consciente de las posibles consecuencias de su acción."
+            },
+            {
+                "text": "Ha actuado libre e intencionadamente.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando en el supermercado me ofrecen a degustar un producto concreto para aumentar su venta, además del elemento informativo sobre las características del producto que están publicitando, esta acción tiene el efecto de activar el principio:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 259-260)",
+        "responses": [
+            {
+                "text": "De la coherencia."
+            },
+            {
+                "text": "De la validación social."
+            },
+            {
+                "text": "De la reciprocidad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El “sesgo de invulnerabilidad”, aplicado a la influencia de los medios de comunicación, se asocia al:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(pp. 158 Cuaderno y 246 Manual)",
+        "responses": [
+            {
+                "text": "Efecto espectador."
+            },
+            {
+                "text": "Efecto tercera persona.",
+                "correct": true
+            },
+            {
+                "text": "Efecto de mera exposición."
+            }
+        ]
+    },
+    {
+        "text": "Indique cuál de las siguientes afirmaciones referentes a las actitudes es correcta:",
+        "fecha": {
+            "mes": "Febrero",
+            "year": "2016",
+            "modelo": "2"
+        },
+        "feedback": "(p. 206)",
+        "responses": [
+            {
+                "text": "La valencia de los diferentes componentes de una actitud hacia un objeto puede ser distinta.",
+                "correct": true
+            },
+            {
+                "text": "Las medidas explícitas de las actitudes se suelen utilizar para medir el componente cognitivo, mientras que el componente afectivo hay que medirlo con procedimientos implícitos."
+            },
+            {
+                "text": "Para que la valoración de un objeto cualquiera se considere una actitud en Psicología Social debe constar de tres componentes: cognitivo, afectivo y conductual."
+            }
+        ]
+    }
+]

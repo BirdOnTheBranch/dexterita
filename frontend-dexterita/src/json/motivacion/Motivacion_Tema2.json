@@ -1,0 +1,1913 @@
+[
+    {
+        "text": "La motivación es un proceso adaptativo porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un proceso fisiológico."
+            },
+            {
+                "text": "Tiene una función fundamental en la vida de todos los organismos.",
+                "correct": true
+            },
+            {
+                "text": "Es un proceso evolutivo."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se investiga qué neurotransmisores intervienen en los cambios que se producen en los estados motivacionales, ¿a qué nivel de análisis en el estudio de la motivación nos estamos refiriendo? A nivel:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Psicológico."
+            },
+            {
+                "text": "Individual."
+            },
+            {
+                "text": "Fisiológico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Entre todos los procesos psicológicos existentes, la motivación guarda una relación muy estrecha con el proceso de la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Atención."
+            },
+            {
+                "text": "Percepción."
+            },
+            {
+                "text": "Emoción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuándo debemos emplear el término 'estado motivacional'? Cuando hacemos referencia a la motivación como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un proceso estable y permanente."
+            },
+            {
+                "text": "Un proceso dinámico transitorio.",
+                "correct": true
+            },
+            {
+                "text": "Una predisposición respecto a las tendencias de acción."
+            }
+        ]
+    },
+    {
+        "text": "Cuando la motivación es descrita como un proceso dinámico transitorio, se denomina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Comportamiento motivado."
+            },
+            {
+                "text": "Estado motivacional.",
+                "correct": true
+            },
+            {
+                "text": "Rasgo motivacional."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué principal ventaja proporcionan los estudios en laboratorio?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permiten un mayor control sobre los factores extraños.",
+                "correct": true
+            },
+            {
+                "text": "Sus resultados se pueden generalizar fácilmente a otros entornos similares."
+            },
+            {
+                "text": "Se dan en entornos naturales sin mucho control experimental."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué proceso adaptativo tiene como función prepararnos para adaptarnos al medio ambiente, con la finalidad de conseguir la supervivencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La respuesta."
+            },
+            {
+                "text": "La motivación.",
+                "correct": true
+            },
+            {
+                "text": "La conducta."
+            }
+        ]
+    },
+    {
+        "text": "En el experimento clásico de Olds y Milner en el que se estimulaban eléctricamente con electrodos diversas partes del cerebro de una rata, se demostró que las ratas estimuladas eléctricamente estaban:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Más alteradas emocionalmente que las del grupo de control."
+            },
+            {
+                "text": "Más motivadas y se esforzaban mucho más que las no estimuladas eléctricamente.",
+                "correct": true
+            },
+            {
+                "text": "Menos motivadas que las no estimuladas eléctricamente."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál fue la postura de los conductistas con respecto a la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aceptaron el concepto de instinto para favorecer el estudio del aprendizaje."
+            },
+            {
+                "text": "Inspiró el surgimiento de la motivación por incentivos.",
+                "correct": true
+            },
+            {
+                "text": "Defendió el análisis de la conciencia para estudiar la motivación."
+            }
+        ]
+    },
+    {
+        "text": "El considerar que la motivación debe entenderse como un flujo permanente de la conducta que puede ser encauzado de muchas y distintas maneras, nos permite indicar que es un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pasivo y externo."
+            },
+            {
+                "text": "Activo y externo."
+            },
+            {
+                "text": "Dinámico e interno.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando la motivación es descrita como una predisposición respecto a las tendencias de acción, es llamada:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estado motivacional."
+            },
+            {
+                "text": "Conducta motivada."
+            },
+            {
+                "text": "Rasgo motivacional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué filósofo griego dio mucha importancia a la razón dejando de lado al mundo de los sentidos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aristóteles."
+            },
+            {
+                "text": "Platón.",
+                "correct": true
+            },
+            {
+                "text": "Sócrates."
+            }
+        ]
+    },
+    {
+        "text": "La idea de que la conducta humana es fruto de un alma libre, racional y resultado de los procesos automáticos e irracionales del cuerpo, es considerada dentro del:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Constructivismo."
+            },
+            {
+                "text": "Dualismo cartesiano.",
+                "correct": true
+            },
+            {
+                "text": "Humanismo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significa que un procedimiento explícito u operacional tiene validez?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que dicho procedimiento mide lo que se supone que debe medir.",
+                "correct": true
+            },
+            {
+                "text": "Que los resultados de este procedimiento son correctos."
+            },
+            {
+                "text": "Que dicho procedimiento es el adecuado para investigar."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del paradigma experimental, la manipulación, por parte del experimentador, de las horas de privación de la comida en las ratas experimentales es considerada como una variable:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Independiente.",
+                "correct": true
+            },
+            {
+                "text": "Extraña."
+            },
+            {
+                "text": "Dependiente."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de estudios sobre la motivación se efectúan en entornos naturales y sin mucho control experimental? Los estudios de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Investigación de campo.",
+                "correct": true
+            },
+            {
+                "text": "Laboratorio."
+            },
+            {
+                "text": "Investigación funcional."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de tendencias fueron las predominantes en gran parte del siglo pasado, debido principalmente a los investigadores interesados en conocer los factores de aprendizaje en la conducta motivada? Las tendencias:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Adquiridas.",
+                "correct": true
+            },
+            {
+                "text": "Mecanicistas."
+            },
+            {
+                "text": "Innatistas."
+            }
+        ]
+    },
+    {
+        "text": "¿Por qué la motivación es un proceso dinámico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porque nos mueve a realizar unas conductas y a no hacer otras.",
+                "correct": true
+            },
+            {
+                "text": "Porque no es un proceso interno."
+            },
+            {
+                "text": "Porque se basa en el concepto psicodinámico de pulsión."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué inconveniente presenta el paradigma correlacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sus resultados son poco naturales."
+            },
+            {
+                "text": "La falta de representatividad de la población objeto de estudio."
+            },
+            {
+                "text": "No se pueden identificar causas y efectos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los cuatro posibles niveles de análisis en el estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nomotético, ideográfico, cognitivo y mecanicista."
+            },
+            {
+                "text": "Fisiológico, individual, social y filosófico.",
+                "correct": true
+            },
+            {
+                "text": "Experimental, correlacional, filosófico y cualitativo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se denominan las motivaciones centrales que, desde el nacimiento, están funcionalmente relacionadas con la subsistencia del individuo y de la especie?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Motivos aprendidos."
+            },
+            {
+                "text": "Impulsos motivacionales."
+            },
+            {
+                "text": "Motivos primarios.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de modelo han adoptado la mayoría de los psicólogos interesados en el estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El modelo E-E."
+            },
+            {
+                "text": "El modelo E-O-R.",
+                "correct": true
+            },
+            {
+                "text": "El modelo E-R."
+            }
+        ]
+    },
+    {
+        "text": "¿De qué se encarga principalmente el paradigma correlacional?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De manipular las variables experimentales."
+            },
+            {
+                "text": "De enfatizar el estudio de una manera más intensa y con mayor carga interpretativa."
+            },
+            {
+                "text": "De buscar las relaciones existentes entre variables.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo llamamos a las representaciones cognitivas de un acontecimiento futuro que actúan funcionalmente en un momento dado, con independencia de si la previsión de los resultados ocurre en realidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pensamientos."
+            },
+            {
+                "text": "Argumentos."
+            },
+            {
+                "text": "Objetivos o metas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La mayoría de los psicólogos interesados en el estudio de la motivación han optado por un modelo E-O-R, ¿qué significan esas siglas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Energía que Origina una Reacción."
+            },
+            {
+                "text": "Estímulo-Organismo-Respuesta.",
+                "correct": true
+            },
+            {
+                "text": "Excitación-Organismo-Relajación."
+            }
+        ]
+    },
+    {
+        "text": "En psicología se han clasificado los sucesos observables en dos grandes categorías, que son los:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Procesos externos e internos."
+            },
+            {
+                "text": "Procesos conscientes e inconscientes."
+            },
+            {
+                "text": "Estímulos y las respuestas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué paradigma de investigación en el estudio de la motivación, más que manipular variables se busca encontrar las relaciones existentes entre ellas? En el paradigma:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Correlacional.",
+                "correct": true
+            },
+            {
+                "text": "Experimental."
+            },
+            {
+                "text": "Cualitativo."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es la técnica que más se ha utilizado para estudiar la motivación a nivel fisiológico?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La estimulación cerebral de los animales con medios químicos."
+            },
+            {
+                "text": "La estimulación eléctrica en el cerebro de animales.",
+                "correct": true
+            },
+            {
+                "text": "La manipulación quirúrgica del cerebro."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teorías han considerado que la motivación era aquello que incrementaba o mantenía una respuesta a un estímulo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las teorías cognitivas."
+            },
+            {
+                "text": "Las antiguas teorías conductistas.",
+                "correct": true
+            },
+            {
+                "text": "Las teorías ambientalistas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de enfoque supone que los cambios de ciertos factores activan e impulsan al organismo a realizar una determinada conducta, de manera automática sin que el organismo tenga ningún tipo de conciencia o intención? El enfoque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cognitivo."
+            },
+            {
+                "text": "Ideográfico."
+            },
+            {
+                "text": "Mecanicista.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿A qué ley corresponde el siguiente enunciado?: 'cada sensación depende de la clase de receptor y del tipo de fibra nerviosa que se excita y no de la energía física que inicia la excitación':",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las áreas de proyección corticales."
+            },
+            {
+                "text": "La igualdad de la energía estimular."
+            },
+            {
+                "text": "La energía específica de los nervios sensoriales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué tipo de estudios sobre la motivación sus resultados se pueden generalizar fácilmente a otros entornos similares? En los estudios:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Introspectivos."
+            },
+            {
+                "text": "De laboratorio."
+            },
+            {
+                "text": "De investigación de campo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se investiga cómo y porqué las estructuras cerebrales desencadenan la motivación, ¿a qué nivel de análisis nos estamos refiriendo? Al nivel:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Fisiológico.",
+                "correct": true
+            },
+            {
+                "text": "Individual."
+            },
+            {
+                "text": "Experimental."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de enfoque predomina en las investigaciones sobre el estudio de la motivación en la actualidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El ideográfico."
+            },
+            {
+                "text": "El nomotético.",
+                "correct": true
+            },
+            {
+                "text": "El mecanicista."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué filósofo griego fue el primero en emplear y promover el diálogo como mejor medio para motivar a sus discípulos a alcanzar el conocimiento y la verdad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sócrates.",
+                "correct": true
+            },
+            {
+                "text": "Aristóteles."
+            },
+            {
+                "text": "Platón."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué modo de la motivación actúa cuando se realiza una actividad por el propio valor que proporciona esa actividad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La motivación extrínseca."
+            },
+            {
+                "text": "La motivación intrínseca.",
+                "correct": true
+            },
+            {
+                "text": "La motivación circunstancial."
+            }
+        ]
+    },
+    {
+        "text": "A la consecuencia o resultado del proceso motivacional lo llamamos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Motivación."
+            },
+            {
+                "text": "Motivos."
+            },
+            {
+                "text": "Conducta motivada.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los empiristas ingleses realizaron dos importantes aportaciones a la motivación, una fue el interés por el estudio subjetivo de la experiencia sensorial ¿cuál fue la otra?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El pensamiento asociacionista de las ideas.",
+                "correct": true
+            },
+            {
+                "text": "La idea de que el alma es libre y que existe en todos los seres."
+            },
+            {
+                "text": "La distinción entre conducta animal y humana."
+            }
+        ]
+    },
+    {
+        "text": "A las motivaciones centrales que, después de un proceso de aprendizaje, están relacionadas con el crecimiento general de los sujetos, las llamamos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Motivaciones extrínsecas."
+            },
+            {
+                "text": "Conductas aprendidas."
+            },
+            {
+                "text": "Motivos secundarios.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Desde tiempos antiguos, el concepto de reflejo proviene de una idea:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Determinista."
+            },
+            {
+                "text": "Asociacionista."
+            },
+            {
+                "text": "Animista.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué paradigma de investigación en el estudio de la motivación, el investigador es el que manipula una o más variables y determina de esta manera los efectos que esto pueda tener en otras variables? En el paradigma:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Correlacional."
+            },
+            {
+                "text": "Experimental.",
+                "correct": true
+            },
+            {
+                "text": "Cualitativo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué término utilizó William James para referirse a la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Impulso."
+            },
+            {
+                "text": "Instinto."
+            },
+            {
+                "text": "Voluntad.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué importante controversia provocó en la psicología posterior la idea aristotélica de que la mente es una 'tábula rasa' en el momento de nacer?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Conductismo vs cognitivismo."
+            },
+            {
+                "text": "Herencia vs experiencia.",
+                "correct": true
+            },
+            {
+                "text": "Instinto vs voluntad."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque, en el estudio de la motivación, pretende establecer leyes abstractas, generales o universales que permiten explicar la motivación de una manera general para todos los seres vivos? El enfoque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nomotético.",
+                "correct": true
+            },
+            {
+                "text": "Ideográfico."
+            },
+            {
+                "text": "Cognitivo."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué filósofo griego dijo que la mente es una 'tábula rasa' en el momento de nacer, donde se van grabando en una tabla en blanco todos los conocimientos que proporciona la experiencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aristóteles.",
+                "correct": true
+            },
+            {
+                "text": "Sócrates."
+            },
+            {
+                "text": "Platón."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué concepto de Guba (1983) consiste en establecer una relación ideal entre las interpretaciones del investigador y sus fuentes de información?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Credibilidad.",
+                "correct": true
+            },
+            {
+                "text": "Validez."
+            },
+            {
+                "text": "Fiabilidad."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de estudios sobre la motivación permiten un mayor control sobre los factores extraños que pueden contaminar las respuestas de los sujetos experimentales? Los estudios:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Psicoanalíticos."
+            },
+            {
+                "text": "De laboratorio.",
+                "correct": true
+            },
+            {
+                "text": "Introspectivos."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué nombre utilizó la corriente funcionalista para referirse al concepto de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Volunta."
+            },
+            {
+                "text": "Pulsión."
+            },
+            {
+                "text": "Impulso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué significa que un procedimiento explícito u operacional tiene fiabilidad?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que mide lo que se supone que debe medir."
+            },
+            {
+                "text": "Que los resultados son conectos."
+            },
+            {
+                "text": "Que se puede replicar o repetir.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué ventaja presenta investigar con el paradigma experimental?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Puede clarificar las relaciones causa-efecto.",
+                "correct": true
+            },
+            {
+                "text": "Clarifica las relaciones entre las variables."
+            },
+            {
+                "text": "Enfatiza el estudio de una manera más intensa, más descriptiva y con mayor carga interpretativa."
+            }
+        ]
+    },
+    {
+        "text": "La finalidad de la psicología de la motivación debe ser explicar cómo y por qué se inicia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Un proceso adaptativo."
+            },
+            {
+                "text": "Una conducta o acción determinada.",
+                "correct": true
+            },
+            {
+                "text": "Un proceso psicológico básico."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué investigadores demostraron la distinción entre nervios sensoriales y motores?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bell y Magendie.",
+                "correct": true
+            },
+            {
+                "text": "James y Müller."
+            },
+            {
+                "text": "Sechenov y Pavlov."
+            }
+        ]
+    },
+    {
+        "text": "El que las ideas complejas no son más que la asociación de otras más simple, pertenece a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Kant."
+            },
+            {
+                "text": "Descartes."
+            },
+            {
+                "text": "Locke.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los motivos primarios se caracterizan:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Por ser comunes a todas las especies.",
+                "correct": true
+            },
+            {
+                "text": "Porque sus aspectos culturales son los que determinan la base orgánica."
+            },
+            {
+                "text": "Por ser específicos de cada cultura."
+            }
+        ]
+    },
+    {
+        "text": "En un estudio comparativo sobre los paradigmas de investigación más utilizados en el ámbito de la motivación, Pintrich y Schunk encontraron que los más importantes eran los:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Fisiológico, individual y social."
+            },
+            {
+                "text": "Conductista, cognitivo y biológico."
+            },
+            {
+                "text": "Experimental, correlacional y cualitativo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los filósofos ingleses del siglo XVII realizaron dos importantes aportaciones: el estudio de la subjetividad en la experiencia sensorial y el desarrollo del:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Positivismo."
+            },
+            {
+                "text": "Pensamiento asociacionista.",
+                "correct": true
+            },
+            {
+                "text": "Constructivismo."
+            }
+        ]
+    },
+    {
+        "text": "Las teorías que basan el estudio de la motivación en los motivos externos, ponen de relieve las fuentes externas creadas por:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los elementos ambientales."
+            },
+            {
+                "text": "Las metas.",
+                "correct": true
+            },
+            {
+                "text": "Las necesidades."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué filósofo griego puso especial interés en el mundo de los sentidos, lo que le llevó a defender que el conocimiento provenía de nuestra experiencia?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Platón."
+            },
+            {
+                "text": "Sócrates."
+            },
+            {
+                "text": "Aristóteles.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La motivación es un proceso adaptativo cuya única finalidad es conseguir:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los objetivos planteados."
+            },
+            {
+                "text": "La supervivencia.",
+                "correct": true
+            },
+            {
+                "text": "La conducta manifiesta."
+            }
+        ]
+    },
+    {
+        "text": "Dentro del nivel de análisis fisiológico en el estudio de la motivación, el experimento clásico de Olds y Milner (1954) consiguió demostrar que muchas conductas motivadas en ratas pueden ser modificadas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Manipulando quirúrgicamente, extirpando el hipotálamo del cerebro."
+            },
+            {
+                "text": "Estimulando eléctricamente ciertas zonas del cerebro.",
+                "correct": true
+            },
+            {
+                "text": "Estimulando con medios químicos el cerebro."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuáles son los tres principales paradigmas de investigación en el estudio de la motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental, correlacional y cualitativo.",
+                "correct": true
+            },
+            {
+                "text": "De laboratorio, de campo y observacional."
+            },
+            {
+                "text": "Fisiológico, individual y social."
+            }
+        ]
+    },
+    {
+        "text": "¿Cómo se llaman las técnicas que permiten identificar, en directo, los correlatos neuroanatómicos de los procesos cognitivos y motivacionales visualizando determinadas zonas del cerebro?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Electroencefalográficas."
+            },
+            {
+                "text": "De neuroimagen funcional.",
+                "correct": true
+            },
+            {
+                "text": "Electromiográficas."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué concepto utilizó Woodworth como una forma de un proceso mecánico, con el propósito de enfatizar la importancia de la energía acumulada en el organismo para impulsar la conducta?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Voluntad."
+            },
+            {
+                "text": "Incentivo."
+            },
+            {
+                "text": "Impulso.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tipo de enfoque, en el estudio de la motivación, señala que la forma de interpretar la información influye en los estados motivacionales, y que los organismos son conscientes de lo que les ocurre? El enfoque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nomotético."
+            },
+            {
+                "text": "Mecanicista."
+            },
+            {
+                "text": "Cognitivo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué nivel de análisis en el estudio de la motivación se mueven las teorías de los psicólogos humanistas? En el nivel:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Individual."
+            },
+            {
+                "text": "Filosófico.",
+                "correct": true
+            },
+            {
+                "text": "Social."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfatiza el paradigma cualitativo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Encontrar las relaciones existentes entre las distintas variables."
+            },
+            {
+                "text": "El estudio de una manera más intensa, más descriptiva y con mayor carga interpretativa",
+                "correct": true
+            },
+            {
+                "text": "La manipulación de una o más variables y determinar los efectos que pueda tener en otras variables."
+            }
+        ]
+    },
+    {
+        "text": "¿Es la motivación un proceso adaptativo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Depende del tipo de conducta que se tenga en cuenta."
+            },
+            {
+                "text": "No, ya que es un proceso evolutivo."
+            },
+            {
+                "text": "Sí, porque tiene una función fundamental en la vida de todos los organismos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué paradigma de investigación en el estudio de la motivación es también conocido como método interpretativo? El paradigma:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Correlacional."
+            },
+            {
+                "text": "Cualitativo.",
+                "correct": true
+            },
+            {
+                "text": "Experimental."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué técnicas permiten el registro de la actividad eléctrica de grupos específicos de neuronas en el cerebro o, incluso, el registro de neuronas individuales en zonas determinadas del cerebro?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las técnicas de tomografia por emisión de positrones."
+            },
+            {
+                "text": "Las técnicas de neuroimagen funcional."
+            },
+            {
+                "text": "Los registros electroencefalográficos.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué situaciones de investigación se produce un mayor control experimental sobre los factores extraños? En los estudios:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualitativos."
+            },
+            {
+                "text": "De laboratorio.",
+                "correct": true
+            },
+            {
+                "text": "De campo."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la motivación, el enfoque mecanicista supone que los cambios de ciertos factores activan e impulsan al organismo a realizar una determinada conducta de manera:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consciente."
+            },
+            {
+                "text": "Intencionada."
+            },
+            {
+                "text": "Automática.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué idea filosófica del siglo XVII defendía que los organismos eran máquinas automáticas, comparables a las máquinas físicas, con tendencias a la acción producidas por poderosas fuerzas internas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El mecanicismo.",
+                "correct": true
+            },
+            {
+                "text": "El funcionalismo."
+            },
+            {
+                "text": "El materialismo."
+            }
+        ]
+    },
+    {
+        "text": "En el estudio de la motivación, el enfoque cognitivo señala que los organismos son conscientes de lo que les ocurre, por lo que defienden que los procesos motivacionales tienen un origen en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El sentimiento."
+            },
+            {
+                "text": "La conciencia."
+            },
+            {
+                "text": "El pensamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué enfoque, en el estudio de la motivación, tiene como objetivo entender la conducta motivada examinando en qué se distinguen los individuos de una especie entre sí? El enfoque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cognitivo."
+            },
+            {
+                "text": "Nomotético."
+            },
+            {
+                "text": "Ideográfico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "A las motivaciones centrales que desde que nacemos están funcionalmente relacionadas con la subsistencia del individuo y de la especie, las llamamos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Motivos primarios.",
+                "correct": true
+            },
+            {
+                "text": "Conductas instintivas."
+            },
+            {
+                "text": "Motivaciones intrínsecas."
+            }
+        ]
+    },
+    {
+        "text": "La idea de Aristóteles sobre que 'el alma es libre y que existe en todos los seres vivos', se considera dentro del:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Humanismo."
+            },
+            {
+                "text": "Determinismo."
+            },
+            {
+                "text": "Animismo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué corriente filosófica defendió que sólo a través del análisis de lo particular a lo general se podrían establecer leyes generales y universales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Positivismo.",
+                "correct": true
+            },
+            {
+                "text": "Asociacionismo."
+            },
+            {
+                "text": "Constructivismo."
+            }
+        ]
+    },
+    {
+        "text": "Los planteamientos teóricos que basan el estudio de la motivación en los motivos internos, parten de la idea de que los estados motivacionales pueden conceptuarse como:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Necesidades internas que tiene el individuo, dentro del organismo.",
+                "correct": true
+            },
+            {
+                "text": "Metas futuras que se plantea el individuo."
+            },
+            {
+                "text": "Causas medioambientales que se producen en el organismo."
+            }
+        ]
+    },
+    {
+        "text": "Dentro de la dimensión nomotética-ideográfica ¿qué enfoque pretende establecer leyes universales que permitan explicar la motivación de una manera general para todos los seres?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El enfoque nomotético.",
+                "correct": true
+            },
+            {
+                "text": "El enfoque ideográfico."
+            },
+            {
+                "text": "El enfoque universal."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué región del cerebro se relaciona directamente con los cambios en varios estados motivacionales?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El cerebelo."
+            },
+            {
+                "text": "El hipocampo."
+            },
+            {
+                "text": "El hipotálamo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué tres categorías psicológicas estableció Kant en el siglo XVIII?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Instinto, aprendizaje y pensamiento."
+            },
+            {
+                "text": "Sensación, atención y percepción."
+            },
+            {
+                "text": "Conocimiento, sentimiento y conación.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los cuatro principales niveles de análisis en el estudio de la motivación son los niveles fisiológico, individual, social y:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimental."
+            },
+            {
+                "text": "Mental."
+            },
+            {
+                "text": "Filosófico.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Dentro del estudio de la motivación a nivel fisiológico, ¿cuáles son las técnicas de neurociencia más utilizadas en los últimos tiempos?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los registros electroencefalográficos."
+            },
+            {
+                "text": "Las técnicas de registros electromiográficas."
+            },
+            {
+                "text": "Las técnicas de neuroimagen funcional.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Según Fdez-Abascal (2003), ¿cuáles son los diferentes momentos que explican el comportamiento observable de una persona?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Estímulos y respuestas."
+            },
+            {
+                "text": "Conducta activa y retroalimentación del rendimiento."
+            },
+            {
+                "text": "Inicio, mantenimiento, dirección, intensidad y finalización de un comportamiento.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El enfoque cognitivo en el estudio de la motivación señala que la forma de interpretar la información influye en los estados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De aprendizaje."
+            },
+            {
+                "text": "Sensoriales."
+            },
+            {
+                "text": "Motivacionales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿En qué paradigma de investigación se enfatiza el estudio de la motivación de una manera más intensa, más descriptiva y con mayor carga interpretativa? En el paradigma:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cualitativo.",
+                "correct": true
+            },
+            {
+                "text": "Correlacional."
+            },
+            {
+                "text": "Experimental."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué término introdujo el norteamericano McDougall para referirse a los procesos de motivación?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Instinto.",
+                "correct": true
+            },
+            {
+                "text": "Voluntad."
+            },
+            {
+                "text": "Impulso."
+            }
+        ]
+    },
+    {
+        "text": "¿Es la motivación un proceso directamente observable?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No, porque es un constructo hipotético no observable.",
+                "correct": true
+            },
+            {
+                "text": "Sólo cuando hace referencia a sucesos estimulares y consecuentes de la conducta."
+            },
+            {
+                "text": "Sí, porque es un proceso psicológico igual que los demás."
+            }
+        ]
+    },
+    {
+        "text": "Cuando se investiga cómo se procesa la información relevante para la motivación en grupo de células especificas del cerebro, ¿a qué nivel de análisis nos estamos refiriendo? Al nivel:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Individual."
+            },
+            {
+                "text": "Fisiológico.",
+                "correct": true
+            },
+            {
+                "text": "Orgánico."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué teorías defienden que los factores que más influyen en la motivación son los pensamientos de los individuos, sus creencias y sus emociones?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las actuales teorías cognitivas.",
+                "correct": true
+            },
+            {
+                "text": "Las teorías conductistas."
+            },
+            {
+                "text": "Las teorías ambientalistas."
+            }
+        ]
+    },
+    {
+        "text": "La motivación se puede medir de tres formas: creando un estímulo o una situación estimular, midiendo el tipo de respuestas que realiza un individuo y a través de la medición:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "2",
+            "modelo": "2019"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "De la expectativa lograda."
+            },
+            {
+                "text": "Del objetivo conseguido."
+            },
+            {
+                "text": "Estímulo-respuesta.",
+                "correct": true
+            }
+        ]
+    }
+]

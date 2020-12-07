@@ -1,0 +1,602 @@
+[
+  {
+    "text": "¿Para qué son absolutamente necesarias las respuestas sexuales humanas?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Para la vida biológica de un organismo."
+      },
+      {
+        "text": "Para la supervivencia de la especie.",
+        "correct": true
+      },
+      {
+        "text": "Para la supervivencia individual de cada ser vivo."
+      }
+    ]
+  },
+  {
+    "text": "¿Se puede condicionar cualquier respuesta de escape?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "No, porque en la situación de escape el organismo se encuentra motivado para no actuar."
+      },
+      {
+        "text": "No, puesto que los organismos muestran conductas defensivas propias de la especie.",
+        "correct": true
+      },
+      {
+        "text": "Si, puesto que en esas situaciones los organismos pueden emitir cualquier respuesta operante."
+      }
+    ]
+  },
+  {
+    "text": "Práctica: Los profesores de primaria de un colegio se plantearon cómo motivar a sus alumnos para dar solución al problema de la tardanza en la realización de los ejercicios de clase. Todos los discípulos disponían de 30 minutos para hacer las tareas escolares y bastantes de ellos no los acababan en ese periodo.<br><br>Pensaron premiar a los escolares con minutos adicionales de recreo si concluían la tarea en un tiempo establecido. La prueba la llevaron a cabo durante un mes con los tres grupos de sexto de primaria: a los alumnos del grupo 60 A les ofrecieron cinco minutos de recreo adicionales si finalizaban sus deberes correctamente en 25 minutos; al grupo de 60 B les indicaron que dispondrían de 10 minutos adicionales si los acababan en 20 minutos; y al grupo 60 C lo mantuvieron como grupo de control, de tal forma que a los 30 minutos salían al recreo. La prueba fue un éxito...<br><br>Si se logró motivar a los escolares, ¿qué grupo acabaría antes los deberes?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "6ºa."
+      },
+      {
+        "text": "6ºc."
+      },
+      {
+        "text": "6ºb.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Atendiendo a la clasificación de los productos publicitarios en función de sus propiedades psicológicas, ¿cómo se denominan aquellos que implican liderazgo y son parte integrante de lo que representan?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Productos que revelan madurez."
+      },
+      {
+        "text": "Productos de estatus."
+      },
+      {
+        "text": "Productos de prestigio.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Práctica: Los profesores de primaria de un colegio se plantearon cómo motivar a sus alumnos para dar solución al problema de la tardanza en la realización de los ejercicios de clase. Todos los discípulos disponían de 30 minutos para hacer las tareas escolares y bastantes de ellos no los acababan en ese periodo.<br><br>Pensaron premiar a los escolares con minutos adicionales de recreo si concluían la tarea en un tiempo establecido. La prueba la llevaron a cabo durante un mes con los tres grupos de sexto de primaria: a los alumnos del grupo 60 A les ofrecieron cinco minutos de recreo adicionales si finalizaban sus deberes correctamente en 25 minutos; al grupo de 60 B les indicaron que dispondrían de 10 minutos adicionales si los acababan en 20 minutos; y al grupo 60 C lo mantuvieron como grupo de control, de tal forma que a los 30 minutos salían al recreo. La prueba fue un éxito...<br><br>Conforme a la pregunta anterior, ¿cómo se denomina el efecto de contraste que están empleando los profesores con sus alumnos?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Efecto de contraste positivo."
+      },
+      {
+        "text": "Efecto de contraste negativo.",
+        "correct": true
+      },
+      {
+        "text": "Efecto de contraste alternativo."
+      }
+    ]
+  },
+  {
+    "text": "En relación al estado motivacional, ¿qué se ha comprobado con la técnica de la devaluación del reforzador?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Que influye a través del conocimiento de las propiedades de incentivo que tiene la recompensa para el sujeto.",
+        "correct": true
+      },
+      {
+        "text": "Que la variación en la magnitud del premio, no determina la ejecución del sujeto."
+      },
+      {
+        "text": "Que influye directamente en la ejecución de la respuesta."
+      }
+    ]
+  },
+  {
+    "text": "En qué estudios sobre la motivación sus resultados se pueden generalizar fácilmente a otros entornos similares? En los estudios....:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "De investigación de campo.",
+        "correct": true
+      },
+      {
+        "text": "Introspectivos."
+      },
+      {
+        "text": "De laboratorio."
+      }
+    ]
+  },
+  {
+    "text": "Según los procesos motivacionales defendidos por la teoría social cognitiva, ¿con qué se relaciona el autoincentivo?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Con la mediación que ejerce en la memoria del sujeto para su representación en imágenes o palabras y facilitar, así, su posterior recuperación."
+      },
+      {
+        "text": "Con las expectativas que desarrolla el sujeto sobre las posibilidades de reforzamiento asociadas a la realización de la conducta previamente observada.",
+        "correct": true
+      },
+      {
+        "text": "Con la localización y mantenimiento de un foco atencional para la repetición y modificación de la conducta imitativa."
+      }
+    ]
+  },
+  {
+    "text": "El concepto de poder tuvo dos aproximaciones distintas, la primera como miedo a perder el poder y/o a sufrir el poder de otros, y la segunda como...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Miedo a sí mismo por ejercer el poder."
+      },
+      {
+        "text": "Atracción hacia el poder en sí mismo.",
+        "correct": true
+      },
+      {
+        "text": "Miedo a hacer sufrir a los demás."
+      }
+    ]
+  },
+  {
+    "text": "Dentro de la pirámide de Maslow, ¿qué necesidades son también conocidas como 'necesidades del ego'?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Necesidades de estima.",
+        "correct": true
+      },
+      {
+        "text": "Necesidades de autorrealización."
+      },
+      {
+        "text": "Necesidades personales."
+      }
+    ]
+  },
+  {
+    "text": "En base al motivo de hambre, ¿qué hormona se ha señalado como responsable de que aparezca la sensación de hambre cuando está próxima la hora del desayuno, el almuerzo o la cena? La hormona:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Grelina.",
+        "correct": true
+      },
+      {
+        "text": "Insulina."
+      },
+      {
+        "text": "Leptina."
+      }
+    ]
+  },
+  {
+    "text": "Centrándonos exclusivamente en los aspectos esenciales del proceso motivacional, ¿en qué términos fue considerada la motivación durante el predomino del conductismo?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Como un aspecto direccional."
+      },
+      {
+        "text": "Como una forma selectiva en que la energía es gastada y/o experimentada."
+      },
+      {
+        "text": "Como una función energizante.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "¿Qué modelo han optado por utilizar la mayoría de los psicólogos interesados en el estudio de la motivación? El modelo...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "E-r."
+      },
+      {
+        "text": "E-o-r.",
+        "correct": true
+      },
+      {
+        "text": "E-e."
+      }
+    ]
+  },
+  {
+    "text": "Según Chóliz, ¿qué tipo de líder es el encargado de que las actividades del grupo y de sus miembros se realicen adecuadamente?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "El líder psicológico."
+      },
+      {
+        "text": "El líder de tarea.",
+        "correct": true
+      },
+      {
+        "text": "El líder socioemocional."
+      }
+    ]
+  },
+  {
+    "text": "¿En qué tipo de motivación se basa la entrevista motivacional?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Extrínseca."
+      },
+      {
+        "text": "La provocada por la disonancia cognitiva."
+      },
+      {
+        "text": "Intrínseca.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "¿A qué alude una de las críticas realizadas a los autoinformes como técnica de medida utilizada en la investigación motivacional básica? A que los autoinformes...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Implican un procedimiento excesivamente rápido de medir la motivación de las personas."
+      },
+      {
+        "text": "Ocasionan resultados que presentan una gran variabilidad estadística."
+      },
+      {
+        "text": "No tienen total validez como indicadores de los estados internos.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Práctica: Los profesores de primaria de un colegio se plantearon cómo motivar a sus alumnos para dar solución al problema de la tardanza en la realización de los ejercicios de clase. Todos los discípulos disponían de 30 minutos para hacer las tareas escolares y bastantes de ellos no los acababan en ese periodo.<br><br>Pensaron premiar a los escolares con minutos adicionales de recreo si concluían la tarea en un tiempo establecido. La prueba la llevaron a cabo durante un mes con los tres grupos de sexto de primaria: a los alumnos del grupo 60 A les ofrecieron cinco minutos de recreo adicionales si finalizaban sus deberes correctamente en 25 minutos; al grupo de 60 B les indicaron que dispondrían de 10 minutos adicionales si los acababan en 20 minutos; y al grupo 60 C lo mantuvieron como grupo de control, de tal forma que a los 30 minutos salían al recreo. La prueba fue un éxito...<br><br>Una vez transcurrido el mes y eliminados los premios, ¿qué grupo descendería más drásticamente su rendimiento?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "6ºa."
+      },
+      {
+        "text": "6ºb.",
+        "correct": true
+      },
+      {
+        "text": "6ºc."
+      }
+    ]
+  },
+  {
+    "text": "Centrándonos en las relaciones motivación y actividad física y deporte, ¿qué se utilizó metodológicamente como medida motivacional en las investigaciones efectuadas en Norteamérica?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Los autoinformes."
+      },
+      {
+        "text": "Las medidas cardiovasculares."
+      },
+      {
+        "text": "El tr.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "En conclusión, ¿qué han señalado los experimentos sobre sueño y recuerdo?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Que se recuerdan mejor las imágenes cuando se ha dormido y, en especial, las que desencadenan emociones.",
+        "correct": true
+      },
+      {
+        "text": "Que lo verdaderamente importante es el estado emocional de la persona antes de acostarse."
+      },
+      {
+        "text": "Que el descanso no parece mejorar significativamente el recuerdo de imágenes, sean neutras o emocionales."
+      }
+    ]
+  },
+  {
+    "text": "¿Cuál de los siguientes resultados implica la existencia de una alta motivación en la realización de una tarea siempre que estén controladas las distintas condiciones?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Obtener tr pequeños en su realización.",
+        "correct": true
+      },
+      {
+        "text": "Lograr tr ajustados a la curva normal."
+      },
+      {
+        "text": "Conseguir tr variables y amplios en su finalización."
+      }
+    ]
+  },
+  {
+    "text": "Una conducta que se premia en todos los ensayos se adquiere antes que aquella otra en la que se dispensa el premio en algunas ocasiones, sin embargo el nivel motivacional de la conducta premiada continuamente...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Provoca que se siga contestando cuando ya no se recibe el premio."
+      },
+      {
+        "text": "Suscita un incremento desmesurado de la respuesta durante un periodo de tiempo muy prolongado."
+      },
+      {
+        "text": "Desciende rápidamente cuando deja de administrarse el premio y se extingue más deprisa.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "¿Cómo afecta la motivación al aprendizaje?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Es la responsable de lo que se aprende y se ejecuta.",
+        "correct": true
+      },
+      {
+        "text": "Son dos procesos independientes dado que la motivación solo afecta a la atención."
+      },
+      {
+        "text": "Es el aprendizaje el que determina lo que se ejecuta y nos motiva."
+      }
+    ]
+  },
+  {
+    "text": "¿Cuáles son los constructos motivacionales a los que recurre Lewin para explicar la conducta?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Deprivación, focalización, dirección e intensidad."
+      },
+      {
+        "text": "Atención, intención y fuerza."
+      },
+      {
+        "text": "Tensión, necesidad, valencia y fuerza.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Dentro del método hipotético-deductivo, ¿qué método considera que solo se puede llegar al conocimiento a través de la experiencia, observando la realidad para acumular datos, ordenarlos y establecer a partir de ellos conclusiones generales? El método...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Racional."
+      },
+      {
+        "text": "Deductivo."
+      },
+      {
+        "text": "Inductivo.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "¿Cuál ha sido el principal intento para dar explicación a todo el espectro de la conducta motivada? La teoría de la....:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Autoeficacia."
+      },
+      {
+        "text": "Autodeterminación.",
+        "correct": true
+      },
+      {
+        "text": "Sobrejustificación."
+      }
+    ]
+  },
+  {
+    "text": "¿En qué condicionamiento la respuesta es independiente de la conducta del sujeto?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "En el condicionamiento clásico.",
+        "correct": true
+      },
+      {
+        "text": "En el condicionamiento operante."
+      },
+      {
+        "text": "En el condicionamiento de evitación."
+      }
+    ]
+  },
+  {
+    "text": "¿Cuándo empieza a actuar la dirección en el proceso motivacional, según Palmero? En el mismo instante en el que se...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Inicia el proceso motivacional."
+      },
+      {
+        "text": "Presenta el estímulo."
+      },
+      {
+        "text": "Producen los procesos de evaluación y valoración.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Los estudios sobre motivación, mecanismos de aprendizaje y conducta adictiva, han puesto de manifiesto que los procesos que permiten sobre todo explicar la adquisición y mantenimiento de dicha conducta son los procesos...:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "De aprendizaje.",
+        "correct": true
+      },
+      {
+        "text": "Atencionales."
+      },
+      {
+        "text": "De retención."
+      }
+    ]
+  },
+  {
+    "text": "Práctica: Los profesores de primaria de un colegio se plantearon cómo motivar a sus alumnos para dar solución al problema de la tardanza en la realización de los ejercicios de clase. Todos los discípulos disponían de 30 minutos para hacer las tareas escolares y bastantes de ellos no los acababan en ese periodo.<br><br>Pensaron premiar a los escolares con minutos adicionales de recreo si concluían la tarea en un tiempo establecido. La prueba la llevaron a cabo durante un mes con los tres grupos de sexto de primaria: a los alumnos del grupo 60 A les ofrecieron cinco minutos de recreo adicionales si finalizaban sus deberes correctamente en 25 minutos; al grupo de 60 B les indicaron que dispondrían de 10 minutos adicionales si los acababan en 20 minutos; y al grupo 60 C lo mantuvieron como grupo de control, de tal forma que a los 30 minutos salían al recreo. La prueba fue un éxito...<br><br>Si pasado el mes de prueba los profesores ofrecieran a los niños de 6ºA y 6ºB cinco minutos de recreo por la finalización de su tarea, ¿cómo se comportarían?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Descendería la motivación del grupo 6ºc."
+      },
+      {
+        "text": "Los alumnos de 6ºa harían más rápido sus deberes."
+      },
+      {
+        "text": "La motivación del grupo 6ºb descendería.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Desde el marco de la integración de la autodeterminación, ¿cuál es uno de los factores que determina que una conducta motivada extrínsecamente se vaya convirtiendo en autodeterminada?:",
+    "fecha": {
+      "mes": "Enero",
+      "year": "2020",
+      "modelo": "1"
+    },
+    "responses": [
+      {
+        "text": "Los apoyos sociales.",
+        "correct": true
+      },
+      {
+        "text": "La disonancia cognitiva."
+      },
+      {
+        "text": "Los contextos controladores."
+      }
+    ]
+  }
+]

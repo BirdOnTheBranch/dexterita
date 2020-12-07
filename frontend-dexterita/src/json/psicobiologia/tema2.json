@@ -1,0 +1,842 @@
+[
+  {
+    "text": "Los postulados de la ley de segregación de Mendel:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "no se cumplen cuando existe dominancia" },
+      { "text": "se cumplen debido a que , al formarse los gametos, en la meiosis II se separan las cromáticas hermanas que no han sufrido alteraciones previas" },
+      { "text": "no se cumplen cuando existe ligamiento" },
+      { "text": "se explica citológicamente por la separación de cromosomas homólogos que ocurre en la anafres I de la meiosis", "correct": true }
+    ]
+  },
+  {
+    "text": "El sobrecruzamiento es un fenómeno que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "produce recombinación génica entre aleros de cromosomas homólogos", "correct": true },
+      { "text": "produce ligamientos entre genes" },
+      { "text": "impide la combinación independiente de los caracteres establecida por la tercera ley de Mendel" },
+      { "text": "tiene una baja incidencia sobre la variabilidad genética" }
+    ]
+  },
+  {
+    "text": "Los genes son:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "cualquier fragmento de ADN" },
+      { "text": "secuencias de ADN y ARN" },
+      { "text": "segmentos de ADN en los que sólo se codifica la secuencia y orden en el que se ensamblan los aminoácidos de los polipéptidos " },
+      { "text": "segmentos de ADN en los que está codificada la secuencia y orden en el que se ensamblan los aminoácidos de los polipéptidos y los nucleótidos de los ácidos ribonucleicos ", "correct": true }
+    ]
+  },
+  {
+    "text": "El ARN da lugar a una proteína solamente cuando se han:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "hecho la transcripción y traducción por la transcriptasa inversa" },
+      { "text": "eliminado los expones del transcrito primario" },
+      { "text": "suprimido los intrones del ARNm y éste es traducido", "correct": true },
+      { "text": "separado los expones e intrones del ARNm maduro" }
+    ]
+  },
+  {
+    "text": "Decimos que el código genético es redundante porque:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "utiliza secuencias repetidas de bases nitrogenadas" },
+      { "text": "hay varios codones que codifican el mismo aminoácido", "correct": true },
+      { "text": "es el mismo en todos los seres vivos" },
+      { "text": "cada nucleotido pertenece a varios tripletes" }
+    ]
+  },
+  {
+    "text": "Los aminoácidos necesarios para la síntesis de proteínas son transportados por:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "ARN polimerasa" },
+      { "text": "ARN mensajero" },
+      { "text": "ARN ribosómico" },
+      { "text": "ARN de transferencia", "correct": true }
+    ]
+  },
+  {
+    "text": "Las mutaciones que afectan a un sólo gen se denominan:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "cromosómicas " },
+      { "text": "genómicas" },
+      { "text": "génicas", "correct": true },
+      { "text": "deleciones" }
+    ]
+  },
+  {
+    "text": "Los nucleosomas son :",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "orgánulos celulares del núcleo" },
+      { "text": "los cromosomas" },
+      { "text": "unidades superiores de organización de proteínas histónicas" },
+      { "text": "unidades formadas por el ADN enrollados sobre histonas", "correct": true }
+    ]
+  },
+  {
+    "text": "Según el modelo del operón , cuando en el medio hay abundante lactosa:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "al acoplarse el inductor al operador se inicia la transcripción de los genes lac" },
+      { "text": "el represor se une al operador y detiene la transcripción de los genes" },
+      { "text": "se inicia la transcripción de los genes lac al acoplarse el inductor al represor ", "correct": true },
+      { "text": "la unión del inductor al operador induce la transcripción de los genes lac " }
+    ]
+  },
+  {
+    "text": "La inactivación de uno de los cromosomas sexuales en las células somáticas de las hembras de los mamíferos tiene como consecuencia que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "éstas presentan mosaicismo para todos los caracteres que dependen del cromosoma X" },
+      { "text": "en el caso de heterocigosis , unas células presentan fenotipo dominante y otras recesivo , por lo que son mosaicos funcionales", "correct": true },
+      { "text": "la dotación genética de sus gametos es la mitad que la de los varones " },
+      { "text": "todas las respuestas son correctas" }
+    ]
+  },
+  {
+    "text": "A la forma del carácter que se manifiesta (fenotipo) en el experimento de Méndel, en el que cruza plantas de tallo largo, con plantas de tallo corto y el resultado es 100% plantas de tallo largo, consideró calificarlo como…",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "fenotipo" },
+      { "text": "genotipo" },
+      { "text": "dominate ", "correct": true },
+      { "text": "recesivo" }
+    ]
+  },
+  {
+    "text": "A la forma del carácter que no se manifiesta (fenotipo) en el experimento de Méndel, en el que cruza plantas de tallo largo, con plantas de tallo corto y el resultado es 100% plantas de tallo largo, consideró calificarlo como… ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "fenotipo" },
+      { "text": "genotipo" },
+      { "text": "dominante" },
+      { "text": "recesivo", "correct": true }
+    ]
+  },
+  {
+    "text": "En el experimento de Méndel del que dedujo la Ley de la Segregación, ¿Qué proporción presentaba el fenotipo dominante y cual el recesivo? ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "¼ y ¾ respectivamente (1:3)" },
+      { "text": "2/4 y 2/4 respectivamente (2:2)" },
+      { "text": "¾ y ¼ respectivamente (3:1)", "correct": true },
+      { "text": "Todas las respuestas son falsas" }
+    ]
+  },
+  {
+    "text": "Para Méndel los resultados obtenidos, en el experimento del color de las flores, indicaban que cada carácter (color de la flor, aspecto de la semilla, etcétera), era debido a un elemento o factor hereditario que corresponde al término moderno de...",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "gen", "correct": true },
+      { "text": "fenotipo" },
+      { "text": "alelo dominate" },
+      { "text": "alelo recesivo" }
+    ]
+  },
+  {
+    "text": "¿A quién se denomina alelomorfos o, simplemente alelos? ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "A aquellos fenotipos que presentan más de una variante" },
+      { "text": "A aquellos genes que presentan más de una variante", "correct": true },
+      { "text": "A los procariotas que presentan más de una variante" },
+      { "text": "A los eucariotas que presentan más de una variante" }
+    ]
+  },
+  {
+    "text": "La constitución genética en relación a un carácter, o a todos los caracteres, se denomina…",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "genotipo", "correct": true },
+      { "text": "fenotipo" },
+      { "text": "alelo dominate " },
+      { "text": "alelo recesivo" }
+    ]
+  },
+  {
+    "text": "A la manifestación externa del genotipo, se denomina…",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "genotipo" },
+      { "text": "fenotipo", "correct": true },
+      { "text": "alelo dominate" },
+      { "text": "alelo recesivo" }
+    ]
+  },
+  {
+    "text": "¿Cómo se denomina a los genotipos si sus dos alelos son iguales? ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Homocigótico", "correct": true },
+      { "text": "Heterocigótico" },
+      { "text": "Alelo dominate " },
+      { "text": "Alelo recesivo" }
+    ]
+  },
+  {
+    "text": "Uno de los siguientes síndromes NO está causado por un defecto monogénico:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "el síndrome del X frágil" },
+      { "text": "el síndrome de Turner", "correct": true },
+      { "text": "la fenilcetonuria" },
+      { "text": "la obesidad debida a mutaciones en el gen que codifica la leptina " }
+    ]
+  },
+  {
+    "text": "En relación con los rasgos poligénicos sabemos que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "son rasgos continuos" },
+      { "text": "se heredan siguiendo las leyes de la genética mendeliana" },
+      { "text": "son rasgos cuantitativos" },
+      { "text": "las tres opciones son correctas", "correct": true }
+    ]
+  },
+  {
+    "text": "En relación con la inactivación del cromosoma X, sabemos que :",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "da lugar al fenómeno denominado mosaicismo que sólo se presenta en individuos macho" },
+      { "text": "permite garantizar que, a efectos funcionales, la dotación génica en machos y hembras sea la misma", "correct": true },
+      { "text": "se debe a la activación del gen SRY" },
+      { "text": "existen tantos corpúsculos de Barr como cromosomas X presentes en el genotipo" }
+    ]
+  },
+  {
+    "text": "El ARN de interferencia es un:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "factor de transcripción " },
+      { "text": "inductor" },
+      { "text": "correpresor ", "correct": true },
+      { "text": "micro ARN " }
+    ]
+  },
+  {
+    "text": "El fenómeno responsable de que un gameto quede con dos copias del mismo cromosoma, mientras que otro no contiene ninguna copia del mismo, recibe el nombre de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "traslación robertsoniana " },
+      { "text": "deleción" },
+      { "text": "impresión genómica" },
+      { "text": "no disyunción meiotica ", "correct": true }
+    ]
+  },
+  {
+    "text": "A la región de ADN denominada promotor en el modelo del operón se une :",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "la ARN polimerasa", "correct": true },
+      { "text": "el represor" },
+      { "text": "la proteina reguladora" },
+      { "text": "el inductor" }
+    ]
+  },
+  {
+    "text": "A los alelos que contribuyen junto con otros al fenotipo de un determinado rasgo se les denomina:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "poligénicos" },
+      { "text": "continuos" },
+      { "text": "selectivos" },
+      { "text": "aditivos", "correct": true }
+    ]
+  },
+  {
+    "text": "¿ En cuál de los siguientes síndromes está implicado el fenómeno de impresión genómica?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "síndrome de Down" },
+      { "text": "síndrome de Turner" },
+      { "text": "síndrome de Prader-Willi", "correct": true },
+      { "text": "síndrome de Klinefelter" }
+    ]
+  },
+  {
+    "text": "El ARN de interferencia se caracteriza por:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "tener entre sus componentes un ácido ribonucleico con estructura bicatenaria", "correct": true },
+      { "text": "tener unidos aminoácidos reconocidos por un mismo codón" },
+      { "text": "ser monocatenario" },
+      { "text": "inferir con la expresión génica del operador" }
+    ]
+  },
+  {
+    "text": "Las variantes recesivas enmascaradas en la F1 heterocigota, resultante del cruce entre dos líneas puras (homocigotas, por tanto), reaparecen en la segunda generación filial en una proporción 3:1, debido a que los miembros de la pareja de alelos del heterocigoto se separan sin experimentar alteración alguna durante la formación de los gametos. ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Ley de la combinación independiente" },
+      { "text": "Ley de la duplicación" },
+      { "text": "Ley de la segregación", "correct": true },
+      { "text": "Ley de Rescorla-Wagner" }
+    ]
+  },
+  {
+    "text": "Este consiste en cruzar individuos cuyo genotipo queremos probar, con individuos homocigotos recesivos. Como estos últimos sólo producen gametos con el alelo recesivo, el fenotipo de la descendencia dependerá únicamente del genotipo del otro progenitor.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": " Recta de regresión" },
+      { "text": "Cruzamiento típico" },
+      { "text": " Variabilidad fenotípica" },
+      { "text": "Cruzamiento prueba", "correct": true }
+    ]
+  },
+  {
+    "text": "Fenotípicamente hablando, los homocigotos dominantes y los heterocigotos…",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Se distinguen con facilidad" },
+      { "text": "Son indistinguibles", "correct": true },
+      { "text": "Llevan siempre un par de cada progenitor" },
+      { "text": "Sus alelos son siempre dominantes" }
+    ]
+  },
+  {
+    "text": "Es el nombre que recibe el proceso por el que se reparten equitativamente y al azar los genes entre los gametos, de forma que cada gameto recibe una sola copia de cada gen.",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Melosis" },
+      { "text": "Mielosis" },
+      { "text": "Meiosis", "correct": true },
+      { "text": " Equivalencia génica" }
+    ]
+  },
+  {
+    "text": "Los factores de Méndel, los genes, tienen un sustrato biológico,………………….., el vehículo en el que viaja la información de célula a célula y de generación en generación. ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Los cromosomas", "correct": true },
+      { "text": "Los ribosomas" },
+      { "text": "La histona" },
+      { "text": " La cromatina" }
+    ]
+  },
+  {
+    "text": "Decimos que las células somáticas normales, que portan dos copias de cada cromosoma (y por ende, de cada gen), se denominan... ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Histónicas" },
+      { "text": "Haploides" },
+      { "text": "Cromáticas" },
+      { "text": "Diplóides", "correct": true }
+    ]
+  },
+  {
+    "text": "¿Cuál es el número normal de cromosomas de las células humanas? ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "2n=46", "correct": true },
+      { "text": "n=46" },
+      { "text": "2n=23" },
+      { "text": "n=23" }
+    ]
+  },
+  {
+    "text": "¿Cuál es el número normal de los óvulos humanos? ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "2n=46" },
+      { "text": " n=46" },
+      { "text": "2n=23" },
+      { "text": "n=23", "correct": true }
+    ]
+  },
+  {
+    "text": "Cada una de las dos moléculas de ADN idénticas (hermanas) resultantes de la duplicación de la molécula de ADN original que constituía el cromosoma en la fase previa al inicio de la división celular, se denomina...",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "Histónidas" },
+      { "text": " Haploides" },
+      { "text": "Cromátidas", "correct": true },
+      { "text": "Diplóides" }
+    ]
+  },
+  {
+    "text": "En el modelo del operón lac, ¿qué elemento no está formado por ADN?:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "el inductor", "correct": true },
+      { "text": "el gen regulador" },
+      { "text": "el operador " },
+      { "text": "el promotor" }
+    ]
+  },
+  {
+    "text": "Las mutaciones génicas:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "siempre se transmiten a la siguiente generación" },
+      { "text": "se producen por errores en la replicación del ADN", "correct": true },
+      { "text": "se producen para conseguir la adaptación de los organismos al medio ambiente" },
+      { "text": "producen importantes cambios en las frecuencias alélicas " }
+    ]
+  },
+  {
+    "text": "¿De cuál de los siguientes procesos moleculares se dice que es semiconservativo?",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "la traducción " },
+      { "text": "la replicación", "correct": true },
+      { "text": "la meiosis" },
+      { "text": "la transcripción " }
+    ]
+  },
+  {
+    "text": "¿Qué proporción de adenina tendrá una molécula de ADN en la que hay un 20% de citosina?:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "30%", "correct": true },
+      { "text": "40%" },
+      { "text": "60%" },
+      { "text": "20%" }
+    ]
+  },
+  {
+    "text": "En relación con el codón, se sabe que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "todos los codones codifican aminoácidos " },
+      { "text": "entre los nucleótidos que pueden constituirlo se encuentra el uracilo ", "correct": true },
+      { "text": "es complementario al anticódon del ARNm " },
+      { "text": "es un triplete de nucleótidos del ADN que codifica un aminoácido" }
+    ]
+  },
+  {
+    "text": "La expresión de los alelos del sistema sanguíneo AB0 (para conocer lo necesario sobre el sistema AB0, ver en wikipedia 'Grupo sanguíneo') es un claro ejemplo de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "herencia poligénica" },
+      { "text": "pleiotropismo" },
+      { "text": "dominancia intermedia" },
+      { "text": "codominancia", "correct": true }
+    ]
+  },
+  {
+    "text": "En el supuesto de que algunos casos de narcolepsia en humanos fueran debidos a herencia recesiva, como parece que ocurre en perros, ¿qué probabilidad tiene un descendiente de una pareja donde el padre ha sido diagnosticado de ese trastorno y la madre es portadora, de padecerlo también?:50%",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "50%", "correct": true },
+      { "text": "100%" },
+      { "text": "25%" },
+      { "text": "0%" }
+    ]
+  },
+  {
+    "text": "La explicación del fenómeno de ligamiento genético se halla en que los genes involucrados:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "pertenecen a cromosomas diferentes" },
+      { "text": "se inactivan simultáneamente " },
+      { "text": "están muy próximos en el mismo cromosoma ", "correct": true },
+      { "text": "están muy separados dentro del mismo cromosoma " }
+    ]
+  },
+  {
+    "text": "La secuencia de ADN que se traduce finalmente a proteína recibe el nombre de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "exón", "correct": true },
+      { "text": "intrón" },
+      { "text": "código genético" },
+      { "text": "transcrito primario" }
+    ]
+  },
+  {
+    "text": "En el contexto de las leyes de Mendel, cuando un descendiente de la generación F1 presenta el fenotipo de ambos progenitores, caso del tipo sanguíneo AB, nos hallamos ante un caso de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "epistasia" },
+      { "text": "recesividad encubierta" },
+      { "text": "dominancia intermedia" },
+      { "text": "codominancia", "correct": true }
+    ]
+  },
+  {
+    "text": "El entrecruzamiento:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "se da entre cromosomas no homólogos" },
+      { "text": "se produce durante la meiosis II" },
+      { "text": "es un mecanismo de regulación de la expresión génica " },
+      { "text": "se produce durante la meiosis I ", "correct": true }
+    ]
+  },
+  {
+    "text": "El hecho de que en las ratas albinas el alelo que determina la falta de pigmentación en el pelo, cause a la vez una mayor emocionalidad, representa un caso de:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "herencia poligénica" },
+      { "text": "codominancia" },
+      { "text": "epistasia" },
+      { "text": "pleiotropismo", "correct": true }
+    ]
+  },
+  {
+    "text": "Los nucleosomas son:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "el nivel superior de empaquetamiento del ADN" },
+      { "text": "los cromosomas que observamos en el núcleo celular durante la metafase" },
+      { "text": "las estructuras que resultan de la unión de segmentos de ADN y determinadas histonas ", "correct": true },
+      { "text": "la cromatina" }
+    ]
+  },
+  {
+    "text": "Respecto a la expresión de los genes contenidos en el ADN, se sabe que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "todos los genes se expresan en las células de una forma continuada durante toda la vida del individuo " },
+      { "text": "la condensación y la metilación son mecanismos que impiden su transcripción a ARNm", "correct": true },
+      { "text": "los genes sólo se expresan durante el desarrollo embrionario y dejan de expresarse en su totalidad en la etapa adulta" },
+      { "text": "la inactivación génica a largo plazo está relacionada con el metabolismo celular " }
+    ]
+  },
+  {
+    "text": "El gen APOE existe en humanos en 3 variantes alélicas, APOE2, APOE3 y APOE4, cada una de las cuales codifica una proteína ligeramente diferente; el hecho de que los heterocigóticos APOE3/APOE4 sinteticen ambas proteínas permite afirmar que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "el alelo APOE4 es dominante" },
+      { "text": "se trata de alelos codominantes", "correct": true },
+      { "text": "son alelos ligados al sexo, puesto que su locus se halla en el cromosoma 19" },
+      { "text": "el alelo APOE4 es recesivo" }
+    ]
+  },
+  {
+    "text": "Sabiendo que la melanocortina (MSH) es un supresor de la ingesta podemos predecir que:",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "los homocigóticos portadores de dicha mutación probablemente sean más obesos que los heterocigóticos" },
+      { "text": "los heterocigóticos portadores de una mutación del gen receptor de MSH (MC4R) que impide su actividad padecerán obesidad" },
+      { "text": "tanto los heterocigóticos como los homocigóticos para la mutación del gen del receptor de MSH (MC4R) que impide la su actividad serán obesos, pero los homocigóticos más que los heterocigóticos", "correct": true },
+      { "text": "los homocigóticos para el alelo normal no se diferenciarán significativamente de los heterocigóticos" }
+    ]
+  },
+  {
+    "text": "El hecho de que ratones knockout para el receptor de serotonina 5-HT1B se comporten agresivamente frente a los intrusos, al menos en comparación con ratones normales",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "es paralelo a la observación de que los sujetos humanos con baja actividad serotoninérgica tienden a ser violentos, al menos en comparación con sujetos normales" },
+      { "text": "lo dicho en las otras tres opciones es cierto", "correct": true },
+      { "text": "puede servir como modelo animal de la conducta humana" },
+      { "text": "avala la hipótesis de que ciertas conductas agresivas humanas pueden estar relacionadas con la actividad serotoninérgica" }
+    ]
+  },
+  {
+    "text": "El hecho de que los sujetos portadores de una o dos copias del alelo S del transportador de serotonina sean más susceptibles de verse afectados negativamente en su conducta adulta por situaciones traumáticas durante el desarrollo es un indicio de que",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "la conducta está determinada por los genes en un 100 %" },
+      { "text": "el efecto de los genes sólo se manifiesta cuando hay homocigosis" },
+      { "text": "la interacción entre genes y ambiente a veces es muy importante", "correct": true },
+      { "text": "el ambiente sólo es determinante si se dan las condiciones genéticas apropiadas en los sujetos" }
+    ]
+  },
+  {
+    "text": "El hecho de que los sujetos humanos heterocigóticos portadores de un alelo inactivo para la producción de leptina presenten mayor grado de obesidad que los sujetos normales pero menos que los homocigóticos para el alelos inactivo, está sugiriendo que nos hallamos ante",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "un rasgo poligénico" },
+      { "text": "un fenotipo totalmente ambiental" },
+      { "text": "un fenotipo no influido por los genes" },
+      { "text": "un gen aditivo", "correct": true }
+    ]
+  },
+  {
+    "text": "La expresión del gen XIST está implicada en: ",
+    "fecha": {
+      "mes": "",
+      "year": "",
+      "modelo": ""
+    },
+    "feedback": "",
+    "responses": [
+      { "text": "las repeticiones del triplete CGG" },
+      { "text": "el síndrome del X frágil" },
+      { "text": "la articulación del lenguaje" },
+      { "text": "la inactivación del cromosoma X", "correct": true }
+    ]
+  }
+]

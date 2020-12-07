@@ -1,0 +1,723 @@
+[
+    {
+        "text": "Tras realizar un estudio sobre un determinado rasgo con gemelos monocigóticos y otro con gemelos dicigóticos, en los que se obtuvo una correlación de 0.6 y 0.3, respectivamente, podemos concluir que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El valor de la heredabilidad es 0.6.",
+                "correct": true
+            },
+            {
+                "text": "El efecto del ambiente compartido es 0.3."
+            },
+            {
+                "text": "No podemos calcular la heredabilidad con estos datos."
+            },
+            {
+                "text": "La heredabilidad de ese rasgo es 0.9."
+            }
+        ]
+    },
+    {
+        "text": "El potencial de reposo de las neuronas se mantiene gracias a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La acción de la bomba de sodio/potasio.",
+                "correct": true
+            },
+            {
+                "text": "La impermeabilidad de la membrana neuronal."
+            },
+            {
+                "text": "La inactivación de los canales de sodio dependientes de voltaje."
+            },
+            {
+                "text": "El cierre de los canales de potasio."
+            }
+        ]
+    },
+    {
+        "text": "Por conducta instintiva se entiende:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los patrones de conducta típicos de especie."
+            },
+            {
+                "text": "Las pautas de acción fija."
+            },
+            {
+                "text": "El despliegue coordinado de reflejos ordenados secuencialmente provocados por estímulos biológicamente significativos."
+            },
+            {
+                "text": "Todas as opciones anteriores son correctas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con las meninges sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son varias membranas firmemente adheridas entre sí para dar mayor protección al SNC."
+            },
+            {
+                "text": "Entre la piamadre y la aracnoides circula líquido cefalorraquídeo que proporciona un sistema de amortiguación contra posibles traumatismos.",
+                "correct": true
+            },
+            {
+                "text": "Entre la duramadre y la aracnoides circulan las principales venas y arterias cerebrales superficiales."
+            },
+            {
+                "text": "La piamadre está adherida a la superficie interna del cráneo."
+            }
+        ]
+    },
+    {
+        "text": "Considerada desde el punto de vista de la eficacia biológica, la selección sexual:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un caso especial de la selección disruptiva en lo relativo al tamaño corporal."
+            },
+            {
+                "text": "Es un caso especial de la selección natural.",
+                "correct": true
+            },
+            {
+                "text": "Favorece el apareamiento entre los fenotipos más frecuentes."
+            },
+            {
+                "text": "Es un tipo distinto de la selección natural."
+            }
+        ]
+    },
+    {
+        "text": "Las características fenotípicas del síndrome del X frágil se deben a una mutación que consiste en un aumento espectacular del número de repeticiones del triplete CGG y que provoca:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que el gen SRY se hipermetile."
+            },
+            {
+                "text": "Que el gen FMR-1 se hipermetile y que por tanto se impida su expresión.",
+                "correct": true
+            },
+            {
+                "text": "Que el gen FMR-1 se hipermetile y aumente su función."
+            },
+            {
+                "text": "Que el gen FMR-1 se hipometile."
+            }
+        ]
+    },
+    {
+        "text": "Suponga que un cierto trastorno alimentario solamente influyera un gen con dos alelos, Al V A2, y que el genotipo A2A2 fuera el que llevaran las personas sin ese trastorno. Si en una población dada, el promedio de descendientes de parejas en las que uno de Sus miembros fuera de genotipo AIAI es de 0,7 y el promedio de los descendientes de las parejas que más hijos tienen, que es la del genotipo A2A2, es de 2,5 ¿Cuál será el valor del coeficiente de selección en el caso de las parejas AIAI?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "0,28."
+            },
+            {
+                "text": "0,371."
+            },
+            {
+                "text": "0,43."
+            },
+            {
+                "text": "0,72.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La heredabilidad en sentido estricto de un rasgo se atribuye específicamente a:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La varianza ambiental."
+            },
+            {
+                "text": "La varianza debida a la epistasia."
+            },
+            {
+                "text": "La variabilidad debida al efecto por dominancia."
+            },
+            {
+                "text": "La varianza genética aditiva.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El período refractario absoluto en el proceso del potencial de acción neuronal es una consecuencia de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inactivación de los canales de sodio dependiente de voltaje.",
+                "correct": true
+            },
+            {
+                "text": "La activación de los canales de sodio dependientes de voltaje."
+            },
+            {
+                "text": "La apertura de los canales de potasio dependientes de voltaje."
+            },
+            {
+                "text": "El cierre de los canales de sodio dependientes de voltaje."
+            }
+        ]
+    },
+    {
+        "text": "Una diferencia importante en lo que se refiere a la conducción del potencial de acción a lo largo del axón entre las neuronas mielinizadas y las no mielinizadas estriba en que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En las mielinizadas no hay ningún punto en el que la trasmisión del impulso nervioso sea pasiva."
+            },
+            {
+                "text": "En las no mielinizadas se gasta menos energía."
+            },
+            {
+                "text": "En las mielinizadas la conducción es saltatoria.",
+                "correct": true
+            },
+            {
+                "text": "En las no mielinizadas hay puntos en los que la trasmisión del impulso eléctrico es pasiva."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes componentes neuronales está correctamente asociado a su función en las siguientes opciones?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cono axónico-conducción de señales al cuerpo neuronal."
+            },
+            {
+                "text": "Espinas dendríticas-recepción de las señales que llegan a la neurona.",
+                "correct": true
+            },
+            {
+                "text": "Microtúbulos-transporte de sustancias entre el interior y el exterior celular."
+            },
+            {
+                "text": "Botón terminal-integración de la información que llega a la neurona."
+            }
+        ]
+    },
+    {
+        "text": "¿Qué células gliales intervienen en la reparación del tejido nervioso tras una lesión?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las células de Schwann."
+            },
+            {
+                "text": "Los astrocitos."
+            },
+            {
+                "text": "La microglía."
+            },
+            {
+                "text": "Los tres tipos indicados en las opciones anteriores.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La Ley o regla de Hamilton establece:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que los machos pueden tener muchos más descendientes directos que las hembras."
+            },
+            {
+                "text": "La relación matemática existente entre el coste del altruismo y el beneficio reproductivo del receptor.",
+                "correct": true
+            },
+            {
+                "text": "Una relación inversamente proporcional entre el grado de parentesco y el grado de altruismo."
+            },
+            {
+                "text": "Todas las opciones son correctas."
+            }
+        ]
+    },
+    {
+        "text": "La psicobiología:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ignora las aportaciones realizadas desde la Neurociencia."
+            },
+            {
+                "text": "Sigue el paradigma E-O-R.",
+                "correct": true
+            },
+            {
+                "text": "Estudia la conducta pero no se interesa por los procesos mentales."
+            },
+            {
+                "text": "Aparece como disciplina en el siglo XVIII."
+            }
+        ]
+    },
+    {
+        "text": "Supongamos una población en la que existen dos tipos de individuos en función de la estrategia de interacción social que despliegan: los halcones y las palomas. Si V=2(el beneficio de ganar una contienda) y C=20 (el coste que sufre un halcón cuando pierde una contienda). En el contexto del Juego del Conflicto con halcones y palomas ¿qué porcentaje de halcones cabe predecir que habrá en esa población?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "10%.",
+                "correct": true
+            },
+            {
+                "text": "20%."
+            },
+            {
+                "text": "50%."
+            },
+            {
+                "text": "100%."
+            }
+        ]
+    },
+    {
+        "text": "El MDMA (3,4-metilenodioximetanfetamina) es una droga de diseño, conocida como éxtasis, muy consumida en las últimas décadas. El MDMA es una molécula que provoca la liberación masiva del neurotransmisor serotonina al espacio sináptico. Una de las primeras investigaciones sobre los efectos conductuales de esta droga en modelos animales fue realizada por Gold y Koob en 1988. En dicho trabajo, ratas de laboratorio fueron tratadas con una dosis de 10 mg/kg de MDMA y se evaluó su actividad locomotora mediante el empleo de cajas de actividad. Se observó que esta dosis provocaba una notable hiperactividad en los animales experimentales. ¿Qué estrategia de investigación fue utilizada en este estudio?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Intervención somática.",
+                "correct": true
+            },
+            {
+                "text": "Aproximación correlacional."
+            },
+            {
+                "text": "Contrastación observacional."
+            },
+            {
+                "text": "Intervención conductual."
+            }
+        ]
+    },
+    {
+        "text": "La narcolepsia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Únicamente se da en seres humanos."
+            },
+            {
+                "text": "Nunca implica a los receptores de hipocretina."
+            },
+            {
+                "text": "Parece estar causada por mutaciones en el receptor de hipocretina en algunos casos.",
+                "correct": true
+            },
+            {
+                "text": "No tiene asociación alguna con el sueño REM."
+            }
+        ]
+    },
+    {
+        "text": "El término interacción interloci hace referencia:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A la varianza genética aditiva."
+            },
+            {
+                "text": "Al fenómeno de ligamiento."
+            },
+            {
+                "text": "A aquellas situaciones en que se presenta epistasia.",
+                "correct": true
+            },
+            {
+                "text": "Al fenómeno de dominancia."
+            }
+        ]
+    },
+    {
+        "text": "Los movimientos de los iones a través de la membrana neuronal durante el potencial de reposo dependen de:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todas son ciertas.",
+                "correct": true
+            },
+            {
+                "text": "El gradiente eléctrico."
+            },
+            {
+                "text": "La permeabilidad neuronal."
+            },
+            {
+                "text": "El gradiente de concentración."
+            }
+        ]
+    },
+    {
+        "text": "Una manera de terminar la trasmisión sináptica consiste en:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Producir un nuevo potencial de acción."
+            },
+            {
+                "text": "Degradar el neurotrasmisor mediante inactivación por acción enzimática."
+            },
+            {
+                "text": "Extraer el neurotasmisor del espacio sináptico mediante recaptación."
+            },
+            {
+                "text": "Lo dicho en A y B es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Un hecho clave de la primera mitad del siglo XX para la consolidación definitiva de la Teoría de la Evolución por Selección Natural fue:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La demostración de la existencia de polimorfismos de nucleótido simple."
+            },
+            {
+                "text": "El postulado de que la variabilidad en las proteínas se mantiene por azar."
+            },
+            {
+                "text": "El apoyo social que, pese a los críticos, consiguió."
+            },
+            {
+                "text": "El redescubrimiento de las leyes de Mendel.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la Figura aparecen representados diferentes componentes del SNC, ¿qué opción indica correctamente el tipo de sección/corte que se muestra, el eje del encéfalo anterior indicado con las letras A y B, y las estructuras señaladas con los números?:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_feb17_1semana_1.jpg",
+        "responses": [
+            {
+                "text": "Mediosagital. dorsal-ventral. 1: lóbulo parietal. 2: subtálamo. 3: epitálamo."
+            },
+            {
+                "text": "Mediosagital. rostro-caudal. 1: lóbulo prefrontal. 2: hipotálamo. 3: mesencéfalo.",
+                "correct": true
+            },
+            {
+                "text": "Parasagital. medial-lateral. 1: lóbulo límbico. 2: tálamo. 3: epitálamo."
+            },
+            {
+                "text": "Horizontal. rostro-caudal. 1: lóbulo frontal. 2: epitálamo. 3: mesencéfalo."
+            }
+        ]
+    },
+    {
+        "text": "Los genes estructurales:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No se transcriben a ARN."
+            },
+            {
+                "text": "No son codificantes."
+            },
+            {
+                "text": "Están en los intrones."
+            },
+            {
+                "text": "Codifican proteínas.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con las estrategias conductuales encaminadas a adoptar la decisión óptima, es falso que los principios de la teoría de la optimización:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Traten de explicar aquellas estrategias en las que la decisión óptima depende de lo que hagan otros individuos.",
+                "correct": true
+            },
+            {
+                "text": "Midan la utilidad 0 beneficio perseguido en términos de rendimiento."
+            },
+            {
+                "text": "Se apliquen a aquellas estrategias cuyo resultado dependen únicamente de la decisión individual."
+            },
+            {
+                "text": "Consideren que la estrategia óptima es la que maximiza la utilidad."
+            }
+        ]
+    },
+    {
+        "text": "Es bien cierto que los rasgos poligénicos:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Presentan una variación continua en la población.",
+                "correct": true
+            },
+            {
+                "text": "Son discretos."
+            },
+            {
+                "text": "Están determinados exclusivamente por varios genes con un único alelo cada uno."
+            },
+            {
+                "text": "Se transmiten a la descendencia siguiendo leyes diferentes a las contempladas en la transmisión de los rasgos monogénicos."
+            }
+        ]
+    },
+    {
+        "text": "Al hablar de vías (conjunto de axones/fibras) del SNC se denomina aferentes a las que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cruzan la línea media."
+            },
+            {
+                "text": "Llegan a una estructura determinada.",
+                "correct": true
+            },
+            {
+                "text": "Envía una estructura hacia otras diferentes."
+            },
+            {
+                "text": "Comunican estructuras del mismo lado."
+            }
+        ]
+    },
+    {
+        "text": "La unión por el centrómero de los brazos largos de dos cromosomas acrocéntricos con pérdida de los brazos cortos se conoce como:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Inversión."
+            },
+            {
+                "text": "Translocación robertsoniana.",
+                "correct": true
+            },
+            {
+                "text": "Inserción."
+            },
+            {
+                "text": "Deleción."
+            }
+        ]
+    },
+    {
+        "text": "Se hace un estudio en una población de 80.000 habitantes sobre un cierto rasgo psicológico que está regulado por un solo gen con dos alelos y se comprueba que, estando dicha población en equilibrio, la frecuencia alélica del alelo recesivo es de 0,2. ¿Cuántos habitantes llevarán el alelo dominante?",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "3.200."
+            },
+            {
+                "text": "51.200."
+            },
+            {
+                "text": "54.400."
+            },
+            {
+                "text": "76.800.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación con la impronta sexual sabemos que:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se produce en respuesta a estímulos en movimiento."
+            },
+            {
+                "text": "Se establece en el momento en que va a ejercer su efecto."
+            },
+            {
+                "text": "Se produce en el momento en el que se alcanza la madurez sexual."
+            },
+            {
+                "text": "Generalmente, el individuo que actúa como estímulo para esta impronta no es el objeto de la respuesta sexual.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En relación a los polimorfismos en el transportador de serotonina:",
+        "fecha": {
+            "mes": "Enero",
+            "year": "2017",
+            "modelo": "1"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los individuos portadores del alelo s muestran una hipoactivación de la amígdala."
+            },
+            {
+                "text": "Los portadores del alelo s (corto) se ven más afectados por las experiencias traumáticas durante el desarrollo que los homocigotos para el alelo I (largo).",
+                "correct": true
+            },
+            {
+                "text": "Los individuos portadores del alelo I muestran una hiperactivación de la amígdala."
+            },
+            {
+                "text": "Ningún polimorfismo conocido en el transportador parece tener impacto alguno en la regulación emocional."
+            }
+        ]
+    }
+]

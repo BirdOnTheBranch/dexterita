@@ -1,0 +1,4305 @@
+[
+    {
+        "text": "La nicotina del tabaco, la escopolamina, el curare y la bungarotoxina tienen en común que actúan en las sinapsis de acetilcolina. Sabiendo lo que sabemos de este tipo de sinapsis podemos asegurar que sus efectos: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ tienen que ser muy parecidos, por no decir iguales "
+            },
+            {
+                "text": "B/ pueden ser diferentes si algunas de estas sustancias son agonistas y otras antagonistas "
+            },
+            {
+                "text": "C/  pueden ser diferentes si su acción se ejerce sobre diferentes tipos de receptores de la acetilcolina "
+            },
+            {
+                "text": "D/ lo dicho en B y C es cierto.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sabemos que la acetilcolina (ACh):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se une a un único tipo de receptores"
+            },
+            {
+                "text": "Es una catecolamina"
+            },
+            {
+                "text": "Normalmente es un neurotransmisor inhibidor"
+            },
+            {
+                "text": "Se sintetiza en los núcleos septales y los núcleos básales de Meynert",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La integración de las señales recogidas por una neurona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el resultado que se produce cuando se genera un potencial de reposo"
+            },
+            {
+                "text": "Genera actividad en los receptores metabotrópicos"
+            },
+            {
+                "text": "Siempre da lugar a un potencial de acción"
+            },
+            {
+                "text": "Tiene lugar en el cono axónico",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El potencial de acción tiene dos fases fundamentales, que son la despolarización y la repolarización ¿Cómo es posible que no se contrarreste el efecto del ion que entra con el ion que sale?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porque los canales de sodio se activan antes que los de potasio",
+                "correct": true
+            },
+            {
+                "text": "Por la sencilla razón de que el sodio inicia el proceso y el calcio lo finaliza"
+            },
+            {
+                "text": "Por la mayor conductancia inicial de la membrana neuronal a los iones de potasio en la fase ascendente"
+            },
+            {
+                "text": "Porque el sodio sale antes que el potasio"
+            }
+        ]
+    },
+    {
+        "text": "El tabaco produce su adicción debido a la actividad de la nicotina que, como su propio nombre indica, actúa sobre receptores nicotínicos. Según esto se puede afirmar que afecta directamente a sinapsis cuyo neurotrasmisor es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La serotonina"
+            },
+            {
+                "text": "La acetilcolina",
+                "correct": true
+            },
+            {
+                "text": "Cualquiera de ellas"
+            },
+            {
+                "text": "La dopamina"
+            }
+        ]
+    },
+    {
+        "text": "Los receptores gustativos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ son receptores de tipo neuronal"
+            },
+            {
+                "text": "B/ tienen receptores de membrana proteínicos que provocan la activación de segundos mensajeros"
+            },
+            {
+                "text": "C/ responden a la estimulación con despolarizaciones graduadas tras la apertura o cierre de canales de Na K+ o Ca2+"
+            },
+            {
+                "text": "D/ B y C son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El mecanismo por el que se asegura el mantenimiento de la desigual distribución de cargas entre el interior y el exterior de la neurona, fundamental para que se produzca el potencial de membrana en reposo",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No requiere gasto de energía"
+            },
+            {
+                "text": "Requiere gasto de energía",
+                "correct": true
+            },
+            {
+                "text": "No usa ATP"
+            },
+            {
+                "text": "Es un proceso pasivo"
+            }
+        ]
+    },
+    {
+        "text": "El Sistema Ascendente de Activación que interviene en la excitabilidad del encéfalo se origina en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los núcleos de las columnas dorsales."
+            },
+            {
+                "text": "Los núcleos sensoriales de los nervios craneales."
+            },
+            {
+                "text": "La sustancia gris periacueductal."
+            },
+            {
+                "text": "La formación reticular y los núcleos relacionados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las aminas biógenas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se unen exclusivamente a receptores que son ionotrópicos"
+            },
+            {
+                "text": "Entre otras funciones intervienen en la regulación de estados afectivos",
+                "correct": true
+            },
+            {
+                "text": "Se denominan también neuropéptidos moduladores"
+            },
+            {
+                "text": "Son la acetilcolina y la dopamina"
+            }
+        ]
+    },
+    {
+        "text": "El estudio de los mecanismos que regulan la apertura o cierre de los canales iónicos es de gran importancia en el conocimiento de la comunicación neural. Cuando se emplea sustancias como la tetrodotoxina se consigue bloquear los canales de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Potasio"
+            },
+            {
+                "text": "Cloro"
+            },
+            {
+                "text": "Calcio"
+            },
+            {
+                "text": "Sodio",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Si comparamos los tipos de sinapsis que aparecen en la figura (A y B) que difieren tanto en su funcionamiento como en su morfología, podemos decir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_01.jpg",
+        "responses": [
+            {
+                "text": "Las de la parte A tienen una hendidura sináptico de mayor tamaño que las de B."
+            },
+            {
+                "text": "Las de la parte A son las más abundantes en nuestra especie."
+            },
+            {
+                "text": "Las de la parte B son más rápidas."
+            },
+            {
+                "text": "Las de la parte A no son modificables por los estímulos que reciben.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué hormona actuando como neuromodulador parece ser la principal implicada en que los machos establezcan apego y vínculos de pareja?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Oxitocina"
+            },
+            {
+                "text": "Progesterona"
+            },
+            {
+                "text": "Vasopresina",
+                "correct": true
+            },
+            {
+                "text": "Testosterona"
+            }
+        ]
+    },
+    {
+        "text": "Respecto a las principales vías eferentes del hipotálamo, se sabe que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las que se dirigen al tronco del encéfalo y a la médula espinal controlan al sistema nervioso autónomo",
+                "correct": true
+            },
+            {
+                "text": "Las que se proyectan al hipocampo controlan el sistema endocrino"
+            },
+            {
+                "text": "Entre ellas se encuentran las que van directamente a la corteza cerebral"
+            },
+            {
+                "text": "No existen proyecciones a la formación reticular."
+            }
+        ]
+    },
+    {
+        "text": "Sabiendo que el GABA es un neurotransmisor inhibidor, podemos deducir que las sustancias agonistas del receptor GABA – A:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Aumentarán la liberación de calcio en el termina axónico"
+            },
+            {
+                "text": "Tendrán un efecto hiperpolarizador a nivel postsináptico",
+                "correct": true
+            },
+            {
+                "text": "Inhibirán la entrada de calcio en el terminal axónico"
+            },
+            {
+                "text": "Tendrán un efecto despolarizador a nivel postsináptico"
+            }
+        ]
+    },
+    {
+        "text": "Los barbitúricos, al igual que las benzodiacepinas, aumentan la hiperpolarización postsináptica medida por el neurotransmisor GABA, por lo que pueden considerarse:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Antagonistas"
+            },
+            {
+                "text": "Agonistas",
+                "correct": true
+            },
+            {
+                "text": "Sustancias metabotrópicas"
+            },
+            {
+                "text": "Neurotransmisores"
+            }
+        ]
+    },
+    {
+        "text": "En el inicio del potencial de acción, el sodio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sale a favor de gradiente electroquímico"
+            },
+            {
+                "text": "Hiperpolariza la neurona"
+            },
+            {
+                "text": "Entra a favor de gradiente electroquímico",
+                "correct": true
+            },
+            {
+                "text": "No realiza ninguna función, ni para la despolarización ni posteriormente para la repolarización"
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales decrecientes están directamente relacionados con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El potencial de membrana en reposo"
+            },
+            {
+                "text": "Los aniones proteicos"
+            },
+            {
+                "text": "La conducción saltatoria",
+                "correct": true
+            },
+            {
+                "text": "Las bombas iónicas"
+            }
+        ]
+    },
+    {
+        "text": "En la Figura se representa el número de iones Na+ y K+ que son trasladados a uno y otro lado de la membrana neuronal por las bombas electrogénicas para la restauración del potencial de reposo. Suponga que cada intervención de una bomba de sodio-potasio implica el gasto de una molécula de ATP y que hay un incremento de 54.000.000 de iones de Na+ en el interior celular y de 36.000.000 de iones K+ en el exterior. ¡Cuántas moléculas de ATP se gastarán en este caso para restaurar el potencial de reposo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_02.jpg",
+        "responses": [
+            {
+                "text": "16.000.000."
+            },
+            {
+                "text": "18.000.000.",
+                "correct": true
+            },
+            {
+                "text": "240.000."
+            },
+            {
+                "text": "180.000."
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes procesos NO está implicado en la inactivación del neurotransmisor una vez liberado?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La recaptación"
+            },
+            {
+                "text": "La degradación enzimática"
+            },
+            {
+                "text": "La unión con el receptor",
+                "correct": true
+            },
+            {
+                "text": "La unión del neurotransmisor con su proteína transportadora"
+            }
+        ]
+    },
+    {
+        "text": "Si se eliminarán las diferentes concentraciones de iones entre ambos lados de la membrana, la neurona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No generaría señales eléctricas",
+                "correct": true
+            },
+            {
+                "text": "Precisaría de una magnitud de despolarización de al menos 35mV para producir un impulso nervioso"
+            },
+            {
+                "text": "Se despolarizaría con facilidad, pero no produciría potenciales de acción"
+            },
+            {
+                "text": "Respondería solo a la presión electrostática"
+            }
+        ]
+    },
+    {
+        "text": "¿Cúal o cuales de los siguientes componentes no puede/n atravesar la membrana neuronal a pesar de la presencia de gradiente electroquímico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El calcio "
+            },
+            {
+                "text": "El potasio "
+            },
+            {
+                "text": "Los aniones proteicos",
+                "correct": true
+            },
+            {
+                "text": "El sodio "
+            }
+        ]
+    },
+    {
+        "text": "Una diferencia notable entre el período refractario absoluto y el relativo es que: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A) en el refractario absoluto están implicados los canales de sodio, mientras que el relativo está determinado por el potasio ",
+                "correct": true
+            },
+            {
+                "text": "B) el absoluto se produce en la fase ascendente del potencial de acción, mientras que el relativo lo hace en la fase descendente "
+            },
+            {
+                "text": "C) el absoluto se produce en neuronas mielinizadas y el relativo en neuronas no minimizadas "
+            },
+            {
+                "text": "D) lo dicho en B y C es cierto "
+            }
+        ]
+    },
+    {
+        "text": "El mantenimiento de la polarización de la membrana neuronal en estado de reposo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consume ATP",
+                "correct": true
+            },
+            {
+                "text": "Se logra exclusivamente mediante el transporte iónico a favor de gradiente"
+            },
+            {
+                "text": "Requiere la apertura de canales de sodio dependientes de voltaje"
+            },
+            {
+                "text": "No requiere consumo de energía"
+            }
+        ]
+    },
+    {
+        "text": "La muscarina y la nicotina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Inhiben la acción de la acetilcolinesterasa"
+            },
+            {
+                "text": "Son sustancias agonistas de los receptores de la acetilcolina",
+                "correct": true
+            },
+            {
+                "text": "Impiden el almacenamiento de las catecolaminas"
+            },
+            {
+                "text": "Son sustancias psicoactivas que afectan la liberación de acetilcolina"
+            }
+        ]
+    },
+    {
+        "text": "En una misma neurona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Solo puede existir un único tipo de neurotransmisor"
+            },
+            {
+                "text": "Pueden coexistir varios neurotransmisores y/o neuropéptidos",
+                "correct": true
+            },
+            {
+                "text": "Solo puede existir un único tipo de neuropéptido"
+            },
+            {
+                "text": "Todas son falsas"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál fue el primer neurotransmisor identificado y caracterizado?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La noradrenalina"
+            },
+            {
+                "text": "La dopamina"
+            },
+            {
+                "text": "La serotonina"
+            },
+            {
+                "text": "La acetilcolina",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El efecto esencial del potencial de acción al llegar al terminal axónico es la liberación del neurotransmisor, pero el mecanismo concreto a nivel de dicho terminal axónico implica:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El cierre de los canales de sodio dependientes del voltaje"
+            },
+            {
+                "text": "La apertura de los canales de calcio dependientes de voltaje",
+                "correct": true
+            },
+            {
+                "text": "La apertura de los canales de potasio dependientes del voltaje"
+            },
+            {
+                "text": "La apertura de los canales de sodio dependientes del voltaje"
+            }
+        ]
+    },
+    {
+        "text": "¿De qué ion, de los que están en las proximidades de la parte interna y externa de la membrana neuronal, se puede decir que se encuentra en equilibrio a pesar de la diferencia de potencial entre ambos lados propia del potencial de reposo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El Sodio"
+            },
+            {
+                "text": "El Potasio",
+                "correct": true
+            },
+            {
+                "text": "Todas son ciertas"
+            },
+            {
+                "text": "El Cloro"
+            }
+        ]
+    },
+    {
+        "text": "La inhibición lateral es un fenómeno que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se produce entre neuronas con campos receptivos próximos"
+            },
+            {
+                "text": "Explica fisiológicamente las diferencias entre la intensidad percibida y la intensidad real de la estimulación"
+            },
+            {
+                "text": "Amplifica los cambios de intensidad en la estimulación sensorial"
+            },
+            {
+                "text": "Cumple lo indicado en las tres opciones anteriores",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La bicuculina bloquea el receptor GABA-A impidiendo que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se hiperpolarice la membrana postsináptica",
+                "correct": true
+            },
+            {
+                "text": "Entre calcio en el terminal presináptico"
+            },
+            {
+                "text": "Se despolarice la membrana postsináptica"
+            },
+            {
+                "text": "La neurona presináptica libere el neurotrasmisor"
+            }
+        ]
+    },
+    {
+        "text": "El adenosín – monofosfato cíclico (AMPc):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No es un segundo mensajero"
+            },
+            {
+                "text": "Puede actuar a nivel del núcleo celular",
+                "correct": true
+            },
+            {
+                "text": "Solo actúa a nivel del núcleo celular"
+            },
+            {
+                "text": "No altera la síntesis de proteínas"
+            }
+        ]
+    },
+    {
+        "text": "En el campo de la neurofisiología celular ¿con que fenómeno relacionaría más directamente un potencial eléctrico de -70mv?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Con el disparo del potencial de acción"
+            },
+            {
+                "text": "Con la conducción saltatoria"
+            },
+            {
+                "text": "Con los potenciales decrecientes"
+            },
+            {
+                "text": "Con el potencial de membrana en reposo",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál es el sistema de control de la secreción hormonal más habitualmente utilizado por nuestro organismo?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La retroalimentación negativa",
+                "correct": true
+            },
+            {
+                "text": "El periodo refractario"
+            },
+            {
+                "text": "La retroalimentación positiva"
+            },
+            {
+                "text": "La inhibición lateral"
+            }
+        ]
+    },
+    {
+        "text": "En la fase descendente del potencial de acción se produce entre otras cosas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lo dicho en Ambas es cierto"
+            },
+            {
+                "text": "El cierre de canales de calcio"
+            },
+            {
+                "text": "El cierre de los canales de sodio",
+                "correct": true
+            },
+            {
+                "text": "Un aumento de la despolarización próxima a los 100 V"
+            }
+        ]
+    },
+    {
+        "text": "Es sabido que hay una notable diferencia de potencial entre el interior y el exterior de las neuronas, diferencia de potencial que es esencial para la función específica de estas células, en la recuperación de dicho potencial (potencial de reposo) tras el potencial de acción interviene/n de modo fundamental:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La acción de la bomba de Sodio/Potasio",
+                "correct": true
+            },
+            {
+                "text": "Lo dicho en las tres opciones anteriores es falso"
+            },
+            {
+                "text": "La repulsión que se da entre los iones con la misma carga eléctrica"
+            },
+            {
+                "text": "Las meras fuerzas de difusión"
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales graduados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Nunca llegan al cono axónico"
+            },
+            {
+                "text": "Se propagan de manera pasiva",
+                "correct": true
+            },
+            {
+                "text": "Se propagan de manera activa"
+            },
+            {
+                "text": "Siempre tienen la misma magnitud"
+            }
+        ]
+    },
+    {
+        "text": "Cuando en una neurona en estado de reposo se generan tres potenciales postsinápticos de -28mV, -10mV y +18mV que alcanzan simultáneamente el cono axónico, produciéndose el consiguiente cambio en el potencial membrana, el ion que distribuirá sus cargas de un modo distinto a ambos lados de la membrana sería el:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Anión piruvato"
+            },
+            {
+                "text": "Calcio"
+            },
+            {
+                "text": "Potasio",
+                "correct": true
+            },
+            {
+                "text": "Sodio"
+            }
+        ]
+    },
+    {
+        "text": "La conducción saltatoria del potencial de acción en los axones mielinizados tiene unas características especiales porque entre nódulo y nódulo de Ranvier, la despolarización:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Presenta características similares a las de los potenciales postsinápticos"
+            },
+            {
+                "text": "Se propaga de forma pasiva"
+            },
+            {
+                "text": "Va decreciendo con la distancia"
+            },
+            {
+                "text": "Todas son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Durante el potencial de acción se observa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En primer lugar un incremento rápido de la conductancia para el potasio seguido de un incremento algo más lento y menos elevado de la conductancia para el sodio"
+            },
+            {
+                "text": "En primer lugar un incremento rápido de la conductancia para el sodio seguido de un incremento algo más lento y menos elevado de la conductancia para el potasio",
+                "correct": true
+            },
+            {
+                "text": "Un incremento rápido y sostenido en el tiempo de la conductancia al calcio seguido de un incremento más acusado en la conductancia al cloro"
+            },
+            {
+                "text": "Decrementos acusados en la conductancia para el sodio"
+            }
+        ]
+    },
+    {
+        "text": "Gases nobles como el óxido nítrico y el monóxido de carbono:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son usados por las neuronas para comunicarse entre sí"
+            },
+            {
+                "text": "Son considerados mensajeros transcelulares"
+            },
+            {
+                "text": "Se producen principalmente en las neuronas"
+            },
+            {
+                "text": "Todas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿Qué iones es prácticamente imposible que salgan de la neurona a pesar de la acción de fuerzas electroquímicas?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El ion Sodio"
+            },
+            {
+                "text": "El ion Potasio"
+            },
+            {
+                "text": "Los cationes"
+            },
+            {
+                "text": "Los aniones proteicos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El período refractario absoluto en el proceso del potencial de acción neuronal es una consecuencia de: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La apertura de los canales de potasio dependientes de voltaje"
+            },
+            {
+                "text": "El cierre de los canales de sodio dependientes de voltaje"
+            },
+            {
+                "text": "La activación de los canales de sodio dependientes de voltaje"
+            },
+            {
+                "text": "La inactivación de los canales de sodio dependiente de voltaje ",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando se dice que un neurotrasmisor es recaptado, estamos afirmando que desde el espacio sináptico:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ha abierto o cerrado algún canal de la membrana postsináptica."
+            },
+            {
+                "text": "Ha producido un potencial postsináptico inhibitorio"
+            },
+            {
+                "text": "Ha entrado en contacto con la membrana presináptica",
+                "correct": true
+            },
+            {
+                "text": "Ha entrado en contacto con la membrana postsináptica"
+            }
+        ]
+    },
+    {
+        "text": "De los neurotrasmisores se puede afirmar que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Actúan sobre los canales dependientes de voltaje del axón"
+            },
+            {
+                "text": "Nunca afectan a la neurona presináptica puesto que en ella no hay receptores"
+            },
+            {
+                "text": "Pueden ocasionar potenciales postsinápticos de tipo inhibitorio o de tipo excitatorio dependiendo del receptor",
+                "correct": true
+            },
+            {
+                "text": "Sólo tienen un tipo de receptor en el SN"
+            }
+        ]
+    },
+    {
+        "text": "La organización anatomofuncional del diencéfalo es similar a la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Del mesencéfalo"
+            },
+            {
+                "text": "De la médula espinal"
+            },
+            {
+                "text": "Del bulbo raquídeo"
+            },
+            {
+                "text": "De las tres regiones señaladas en las opciones anteriores",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los neuropéptidos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Son cadenas de aminoácidos",
+                "correct": true
+            },
+            {
+                "text": "B/ Son exclusivos de los tejidos periféricos"
+            },
+            {
+                "text": "C/ Trabajan siempre como neurotransmisores"
+            },
+            {
+                "text": "D/ A y B son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "La integración neural consiste en un proceso de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sumación de algunos potenciales no locales"
+            },
+            {
+                "text": "Sustracción de todos los potenciales excitadores presinápticos que llegan al terminal"
+            },
+            {
+                "text": "Sumación de todos los potenciales locales que alcanzan el cono axónico",
+                "correct": true
+            },
+            {
+                "text": "Sumación de todos los potenciales inhibitorios que llegan a las dendritas"
+            }
+        ]
+    },
+    {
+        "text": "Los núcleos del rafe:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se consideran parte del Sistema Ascendente de Activación por su estrecha relación con la formación reticular.",
+                "correct": true
+            },
+            {
+                "text": "Se localizan en la zona periférica del puente"
+            },
+            {
+                "text": "Originan fundamentalmente vías descendentes implicadas en el control motor somático."
+            },
+            {
+                "text": "Son dos, superior e inferior"
+            }
+        ]
+    },
+    {
+        "text": "Una manera de terminar la trasmisión sináptica consiste en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Degradar el neurotrasmisor mediante inactivación por acción enzimática (a)"
+            },
+            {
+                "text": "Extraer el neurotrasmisor del espacio sináptico mediante recaptación (b)"
+            },
+            {
+                "text": "Producir un nuevo potencial de acción (c)"
+            },
+            {
+                "text": "Lo dicho en A y B es cierto",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los neuropéptidos realizan las funciones de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Control de dolor y respuesta del organismo ante situaciones de estrés"
+            },
+            {
+                "text": "Regulación de la temperatura, del sueño, de la ingesta de comida y bebida, de la conducta sexual y del sistema inmune"
+            },
+            {
+                "text": "Procesos como el aprendizaje y la memoria"
+            },
+            {
+                "text": "Todas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Una neurona, cuyo axón se encuentra en el período refractario relativo, recibe dos estímulos eléctricos a la altura del cono axónico de -15 mV y +53 mV. En estas condiciones, dicha neurona: = -90-15+53 = -52 Apartir de -55 mV se produce el impulso ( PA):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No disparará un potencial de acción."
+            },
+            {
+                "text": "No llegará a su potencial umbral."
+            },
+            {
+                "text": "Emitirá un impulso nervioso.",
+                "correct": true
+            },
+            {
+                "text": "Se hiperpolarizará la membrana axonal."
+            }
+        ]
+    },
+    {
+        "text": "La glicina es: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Segundo mensajero "
+            },
+            {
+                "text": "Neurotransmisor inhibidor ",
+                "correct": true
+            },
+            {
+                "text": "Mensajero transcelular "
+            },
+            {
+                "text": "Neurotransmisor excitador "
+            }
+        ]
+    },
+    {
+        "text": "Los receptores de membrana que intervienen en la producción de potenciales graduados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ se encuentran sólo en el axón y son dependientes de voltaje"
+            },
+            {
+                "text": "B/ son proteínas"
+            },
+            {
+                "text": "C/ pueden ser ionotrópicos o metabotrópicos"
+            },
+            {
+                "text": "D/ lo dicho en B y C es cierto",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En los axones mielínicos, los potenciales locales están implicados en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El consumo de energía en forma de ATP"
+            },
+            {
+                "text": "Una reducción de la velocidad de conducción del impulso nervioso"
+            },
+            {
+                "text": "La actividad de las bombas de socio – potasio"
+            },
+            {
+                "text": "La conducción saltatoria",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "¿De cuál de los siguientes iones depende el periodo refractario relativo?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Del potasio",
+                "correct": true
+            },
+            {
+                "text": "Del cloro"
+            },
+            {
+                "text": "De los aniones proteicos"
+            },
+            {
+                "text": "Del sodio"
+            }
+        ]
+    },
+    {
+        "text": "Sobre el potencial de reposo de la neurona se puede decir que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No requiere energía para su mantenimiento"
+            },
+            {
+                "text": "Presenta un valor mínimo de -40 mV"
+            },
+            {
+                "text": "Se mantiene gracias a la acción de algún tipo de bomba iónica",
+                "correct": true
+            },
+            {
+                "text": "Sólo se da en la neurona presináptica"
+            }
+        ]
+    },
+    {
+        "text": "Durante la fase ascendente del potencial de acción:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Solo se abren canales de K+"
+            },
+            {
+                "text": "No se abren canales de K+ dependientes de voltaje"
+            },
+            {
+                "text": "Nunca se abren canales de Na+"
+            },
+            {
+                "text": "Se abren canales de K+ dependientes de voltaje",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La conducción saltatoria sólo es posible si fluye una pequeña corriente despolarizante de iones: :",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Na+ por el exterior del axón."
+            },
+            {
+                "text": "Na+ por el interior del axón.",
+                "correct": true
+            },
+            {
+                "text": "K+ por el interior del axón."
+            },
+            {
+                "text": "K+ por el exterior del axón."
+            }
+        ]
+    },
+    {
+        "text": "Algunos organismos han desarrollado, como mecanismo de defensa o para captura presas, toxinas que afectan específicamente a los canales iónicos. Así, la alfa-toxina del escorpión Leires quinquestriauts hace más lenta la inactivación de los canales de Na+ dependientes de voltaje. ¿Qué consecuencia tendrá?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se producirá una hiperpolarización "
+            },
+            {
+                "text": "Se prolongará mucho la duración del periodo refractario absoluto  "
+            },
+            {
+                "text": "Se prolongará durante mucho tiempo la fase ascendente del potencial de acción ",
+                "correct": true
+            },
+            {
+                "text": "No se producirá el potencial de acción"
+            }
+        ]
+    },
+    {
+        "text": "El inicio de la comunicación sináptica en las sinapsis químicas hay que atribuirlo a la entrada en el terminal axónico de uno de los siguientes iones:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Calcio",
+                "correct": true
+            },
+            {
+                "text": "Sodio"
+            },
+            {
+                "text": "Potasio"
+            },
+            {
+                "text": "Cloro"
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales postsinápticos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son los cambios del potencial de membrana que se producen como consecuencia de la integración neural"
+            },
+            {
+                "text": "Son potenciales locales que disminuyen gradualmente de amplitud",
+                "correct": true
+            },
+            {
+                "text": "Siempre tienen la amplitud suficiente para generar un potencial de acción"
+            },
+            {
+                "text": "Se generan en el cono axónico"
+            }
+        ]
+    },
+    {
+        "text": "Una parte sustancial de los alimentos que ingerimos cada día se transforman finalmente en ATP. De la cantidad total generada de esta molécula energética en el organismo, es en el encéfalo donde se consume una proporción superior a dos tercios, la cual se emplea en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inactivación de los neurotransmisores en el espacio sináptico."
+            },
+            {
+                "text": "La activación de receptores metabotrópicos."
+            },
+            {
+                "text": "La actividad de las bombas electrogénicas.",
+                "correct": true
+            },
+            {
+                "text": "Introducir el ion calcio en el terminal postsináptico."
+            }
+        ]
+    },
+    {
+        "text": "La fase de hiperpolarización de la membrana neuronal se debe a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La permeabilidad de la membrana a los aniones proteicos"
+            },
+            {
+                "text": "La captación de los iones K+ por los astrocitos"
+            },
+            {
+                "text": "La permeabilidad de la membrana a los iones Ca2+"
+            },
+            {
+                "text": "La permeabilidad de la membrana a los iones de K+",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El neurotransmisor acetilcolina es liberado desde:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las neuronas postganglionares del SN parasimpático"
+            },
+            {
+                "text": "Las motoneuronas."
+            },
+            {
+                "text": "Las neuronas preganglionares del SN autónomo"
+            },
+            {
+                "text": "Todas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El mantenimiento del potencial de reposo de las neuronas es un proceso:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En el que interviene la bomba de sodio/potasio",
+                "correct": true
+            },
+            {
+                "text": "Que se logra gracias a la difusión pasiva del potasio hacia el interior"
+            },
+            {
+                "text": "Que se logra gracias a la difusión pasiva del sodio hacia el exterior"
+            },
+            {
+                "text": "Pasivo"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de las siguientes sustancias químicas NO es un segundo mensajero?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Na+",
+                "correct": true
+            },
+            {
+                "text": "AMPc"
+            },
+            {
+                "text": "GMPc"
+            },
+            {
+                "text": "Ca2+"
+            }
+        ]
+    },
+    {
+        "text": "En relación con la integración neural sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es un proceso de sumación de los potenciales excitatorios e inhibitorios que llegan al cono axónico",
+                "correct": true
+            },
+            {
+                "text": "Puede llevarse a cabo en las dendritas"
+            },
+            {
+                "text": "Cada potencial postsináptico excitatorio produce el disparo de un potencial de acción"
+            },
+            {
+                "text": "Es un proceso de sumación de potenciales de acción"
+            }
+        ]
+    },
+    {
+        "text": "La integración neural es el proceso que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Siempre dispara la liberación del neurotransmisor en el terminal presináptico."
+            },
+            {
+                "text": "Consiste en la sumación espacio-temporal de los potenciales locales que llegan al cono axónico.",
+                "correct": true
+            },
+            {
+                "text": "Resulta de la sumación de los diferentes potenciales de acción que se producen en el terminal de la neurona."
+            },
+            {
+                "text": "Provoca la hiperpolarización necesaria para que el potencial de membrana del cono alcance el umbral de excitación."
+            }
+        ]
+    },
+    {
+        "text": "La velocidad de conducción del potencial de acción es mayor:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cuanto menor es el diámetro del axón"
+            },
+            {
+                "text": "Siempre en las dendritas que en el axón"
+            },
+            {
+                "text": "En los axones mielinizados ",
+                "correct": true
+            },
+            {
+                "text": "Todas las opciones son falsas"
+            }
+        ]
+    },
+    {
+        "text": "La aconitina es un veneno que se encuentra en la planta conocida como acónito, dado que su acción principal es impedir la inactivación de los canales de sodio dependientes de voltaje, cabe esperar que su efecto sobre el potencial de acción sea:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Impedir su aparición"
+            },
+            {
+                "text": "Bloquear su avance a lo largo del axón"
+            },
+            {
+                "text": "Prolongar su duración",
+                "correct": true
+            },
+            {
+                "text": "Reducir la liberación de neurotransmisor"
+            }
+        ]
+    },
+    {
+        "text": "Una diferencia importante en lo que se refiere a la conducción del potencial de acción a lo largo del axón entre las neuronas mielinizadas y las no mielinizadas estriba en que: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En las no mielinizadas hay puntos en los que la trasmisión del impulso eléctrico es pasiva"
+            },
+            {
+                "text": "En las mielinizadas la conducción es saltatoria",
+                "correct": true
+            },
+            {
+                "text": "En las mielinizadas no hay ningún punto en el que la trasmisión del impulso nervioso sea pasiva"
+            },
+            {
+                "text": "En las no mielinizadas se gasta menos energía"
+            }
+        ]
+    },
+    {
+        "text": "La despolarización se produce cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ El potencial de membrana se hace menos negativo"
+            },
+            {
+                "text": "B/ El potencial de membrana se hace más negativo"
+            },
+            {
+                "text": "C/ Los neurotransmisores que las producen son excitadores"
+            },
+            {
+                "text": "D/ A y C son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Durante la fase ascendente de un potencial de acción, la conductancia para el Na+ es como mínimo 20 veces superior a la del K+. En lo que hace referencia a la comparación con el CI-, la conductancia para este ion:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es similar a la del K+."
+            },
+            {
+                "text": "Es inferior a la del K+."
+            },
+            {
+                "text": "No afecta al potencial de acción.",
+                "correct": true
+            },
+            {
+                "text": "Es superior a la del K+."
+            }
+        ]
+    },
+    {
+        "text": "En los axones mielinizados, el potencial de acción:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La magnitud de la despolarización que se produce en el segmento mielinizado no disminuye con la distancia"
+            },
+            {
+                "text": "Se propaga más lentamente que en los amielínicos"
+            },
+            {
+                "text": "Se propaga de forma activa en los segmentos mielínicos"
+            },
+            {
+                "text": "No se regenera punto por punto de la membrana axonal ",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El tronco del encéfalo:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lleva a cabo funciones motoras aunque únicamente de las estructuras situadas en la cabeza."
+            },
+            {
+                "text": "Recibe información somática y visceral a través de los nervios craneales y de las vías ascendentes de la médula espinal.",
+                "correct": true
+            },
+            {
+                "text": "Está constituido por el diencéfalo, el mesencéfalo y el puente."
+            },
+            {
+                "text": "Envía información hacia los hemisferios cerebrales pero no al cerebelo."
+            }
+        ]
+    },
+    {
+        "text": "En el proceso de transducción auditiva, el primer efecto del proceso mecánico que ocasiona la onda sonora en las células ciliadas es provocar:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La entrada de Na+"
+            },
+            {
+                "text": "La salida de Ca2+"
+            },
+            {
+                "text": "El bloqueo de los canales de K+"
+            },
+            {
+                "text": "La entrada de K+",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Por lo que se ha podido demostrar estudiando el axón gigante del calamar, el potencial de reposo de las neuronas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es de entre -25 y -50 mV"
+            },
+            {
+                "text": "Se debe a que se mantiene una diferencia de potencial entre el exterior y el interior con más cargas negativas en el interior",
+                "correct": true
+            },
+            {
+                "text": "Se debe a que hay más cargas positivas en el interior que en el exterior"
+            },
+            {
+                "text": "Se encuentra entre los -60 y los -70 V"
+            }
+        ]
+    },
+    {
+        "text": "Se ha descubierto que la ataxia episódica, enfermedad que da lugar a movimientos musculares involuntarios, se debe a una mutación en uno de los genes que codifican los canales de K+ dependientes de voltaje. Como consecuencia de esta mutación se produce una disminución de la corriente de K+ hacia el exterior celular, lo que afecta fundamentalmente a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La función de la bomba de sodio-potasio."
+            },
+            {
+                "text": "La fase de despolarización o ascendente del potencial de acción."
+            },
+            {
+                "text": "La fase de repolarización o fase descendente del potencial de acción.",
+                "correct": true
+            },
+            {
+                "text": "La acción de los neurotransmisores."
+            }
+        ]
+    },
+    {
+        "text": "La recaptación es un proceso que ocurre en las sinapsis, su efecto inmediato es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Degradar el neurotrasmisor"
+            },
+            {
+                "text": "Impedir que el neurotransmisor pueda seguir actuando sobre el receptor postsináptico",
+                "correct": true
+            },
+            {
+                "text": "Permitir la producción de potenciales postsinápticos inhibitorios"
+            },
+            {
+                "text": "Todas son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "En las neuronas, la llamada bomba de sodio/potasio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es la responsable del disparo del potencial de acción"
+            },
+            {
+                "text": "Es la responsable de la hiperpolarización al final de potencial de acción"
+            },
+            {
+                "text": "No requiere aporte de energía"
+            },
+            {
+                "text": "Es una bomba electrogénica",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En estado de reposo, a través de la membrana neuronal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No hay ninguna corriente iónica."
+            },
+            {
+                "text": "No hay corriente iónica del Cl-."
+            },
+            {
+                "text": "Sólo está la corriente del K+."
+            },
+            {
+                "text": "La principal corriente iónica es la del K+.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los receptores metabotrópicos se forman:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al unirse un neurotransmisor con canales acoplados"
+            },
+            {
+                "text": "Al unirse un neurotransmisor con receptores asociados a proteínas G",
+                "correct": true
+            },
+            {
+                "text": "Todas son ciertas"
+            },
+            {
+                "text": "Directamente e indirectamente"
+            }
+        ]
+    },
+    {
+        "text": "Los receptores sensoriales de adaptación rápida:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son muy abundantes entre los receptores del sistema vestibular, los receptores auditivos y los nociceptores"
+            },
+            {
+                "text": "Responden de forma continua mientras está presente el estímulo"
+            },
+            {
+                "text": "Se denominan receptores tónicos"
+            },
+            {
+                "text": "Informan de los cambios que se producen en la estimulación",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La inhibición lateral NO está relacionada con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La codificación de la intensidad"
+            },
+            {
+                "text": "La interacción entre campos receptivos"
+            },
+            {
+                "text": "La ley de las energías nerviosas específicas",
+                "correct": true
+            },
+            {
+                "text": "Los campos receptivos"
+            }
+        ]
+    },
+    {
+        "text": "La hiperpolarización se produce cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ El potencial de membrana se hace menos negativos"
+            },
+            {
+                "text": "B/ Los neurotransmisores que las producen son inhibidores"
+            },
+            {
+                "text": "C/ El potencial de membrana se hace más negativo"
+            },
+            {
+                "text": "D/ B y C son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los movimientos de los iones a través de la membrana neuronal durante el potencial de reposo dependen de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A) la permeabilidad neuronal"
+            },
+            {
+                "text": "B) el gradiente eléctrico"
+            },
+            {
+                "text": "C) el gradiente de concentración"
+            },
+            {
+                "text": "D) lo dicho en A, B y C es correcto",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Gracias a la sinapsis, las neuronas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se activan"
+            },
+            {
+                "text": "Experimentan modulaciones de su actividad"
+            },
+            {
+                "text": "Se inhiben"
+            },
+            {
+                "text": "Todas las respuestas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Cuando decimos que el efecto de la tetrodotoxina, un veneno presente en las visceras del pez globo, tan apreciado por los gurmets japoneses, es el bloqueo de los canales de sodio dependientes de voltaje, estamos asegurando que tal efecto tiene lugar en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las dendritas"
+            },
+            {
+                "text": "El axón",
+                "correct": true
+            },
+            {
+                "text": "La sinapsis"
+            },
+            {
+                "text": "La membrana postsináptica"
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales postsinápticos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Experimentan procesos de integración temporal y espacial ",
+                "correct": true
+            },
+            {
+                "text": "Siempre se transmiten a lo largo de la membrana neuronal de forma activa "
+            },
+            {
+                "text": "Dan siempre lugar a un potencial de acción "
+            },
+            {
+                "text": "Son siempre despolarizadores "
+            }
+        ]
+    },
+    {
+        "text": "Tanto la inhibición como la facilitación presinápticas se deben a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sinapsis axodendríticas"
+            },
+            {
+                "text": "La inactivación de canales dependientes de voltaje"
+            },
+            {
+                "text": "Sinapsis axoaxónicas",
+                "correct": true
+            },
+            {
+                "text": "Sinapsis axo somáticas"
+            }
+        ]
+    },
+    {
+        "text": "Son propias de la corteza cerebral las células:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Bipolares."
+            },
+            {
+                "text": "Estrelladas"
+            },
+            {
+                "text": "Piramidales",
+                "correct": true
+            },
+            {
+                "text": "De Purkinje."
+            }
+        ]
+    },
+    {
+        "text": "Una vez producido el potencial de acción, los canales de sodio: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Solo se abren al final de la fase ascendente "
+            },
+            {
+                "text": "Se inactivan al principio de la fase descendente ",
+                "correct": true
+            },
+            {
+                "text": "Permanecen abiertos durante la mayor parte de la fase descendente "
+            },
+            {
+                "text": "Se cierra una vez finalizado el periodo refractario relativo "
+            }
+        ]
+    },
+    {
+        "text": "Los iones responsables de los potenciales de membrana:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Difunden libremente a través de la membrana neuronal"
+            },
+            {
+                "text": "En muchos casos pasan de un lado a otro de la membrana a través de canales iónicos",
+                "correct": true
+            },
+            {
+                "text": "Se distribuyen homogéneamente tanto fuera como dentro de la neurona"
+            },
+            {
+                "text": "Son proteínas y fosfolípidos"
+            }
+        ]
+    },
+    {
+        "text": "El potencial generador:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es la despolarización de la membrana que se produce en las neuronas sensoriales de primero, segundo y tercer orden"
+            },
+            {
+                "text": "Consiste en la despolarización graduada de la membrana que se produce en todos los receptores sensoriales"
+            },
+            {
+                "text": "Es un cambio en el potencial de la membrana que se produce en los receptores sensoriales de tipo neuronal",
+                "correct": true
+            },
+            {
+                "text": "Lo dicho en ambas es cierto"
+            }
+        ]
+    },
+    {
+        "text": "¿Qué términos completan la siguiente explicación?: Entre los primeros fármacos utilizados para tratar la depresión se encuentran los antidepresivos tricíclicos. Estos fármacos impiden la ___________ del neurotrasmisor por el terminal presináptico, lo que potencia el efecto de las aminas, dado que éstas pueden activar ..... durante más tiempo. Los antidepresivos tricíclicos afectan a las neuronas que liberan _________  , como la imipramina, y las que liberan __________ como la fluoxetina. (Prozac)  ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Liberación, su recaptación, glicina, serotonina"
+            },
+            {
+                "text": "Recaptación, sus receptores, noradrenalina, serotonina",
+                "correct": true
+            },
+            {
+                "text": "Recaptación, su liberación, GABA, acetilcolina"
+            },
+            {
+                "text": "Síntesis, su liberación, acetilcolina, noradrenalina"
+            }
+        ]
+    },
+    {
+        "text": "Suponga que en la fase ascendente del potencial de acción se determinan cuatro valores sucesivos en el tiempo del potencial de membrana y de magnitudes -50mV, -20mV, -10mV y +30mV. El valor que con más seguridad abriría los canales de K+ sería el de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "-10mV"
+            },
+            {
+                "text": "-50mV"
+            },
+            {
+                "text": "-20Mv"
+            },
+            {
+                "text": "+30mV",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la acción de los neurotransmisores sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Ambas son falsas"
+            },
+            {
+                "text": "Son siempre excitadores si se unen a receptores ionotrópicos"
+            },
+            {
+                "text": "Un mismo neurotransmisor puede producir PEPs o PIPs dependiendo del tipo de canales que se abren por la activación de sus receptores",
+                "correct": true
+            },
+            {
+                "text": "Son siempre inhibidores si se unen a receptores metabotrópicos"
+            }
+        ]
+    },
+    {
+        "text": "Antidepresivos como el de nombre comercial Prozac actúan principalmente bloqueando la recaptación de serotonina. Ello tiene como consecuencia:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una menor activación de sus receptores presinápticos."
+            },
+            {
+                "text": "Un aumento de la liberación de serotonina."
+            },
+            {
+                "text": "Una mayor activación de los receptores postsinápticos serotoninérgicos.",
+                "correct": true
+            },
+            {
+                "text": "Un aumento de la degradación de este neurotransmisor."
+            }
+        ]
+    },
+    {
+        "text": "Con respecto al tiempo de acción de una sustancia neuroactiva:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los neuromoduladores producen efectos menos rápidos y menos duraderos"
+            },
+            {
+                "text": "Los neurotransmisores producen efectos más rápidos y más duraderos"
+            },
+            {
+                "text": "Los neuromoduladores producen efectos más rápidos y menos duraderos"
+            },
+            {
+                "text": "Los neurotransmisores producen efectos más rápidos y menos duraderos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Es un neurotransmisor inhibidor:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El aspartato."
+            },
+            {
+                "text": "El glutamato."
+            },
+            {
+                "text": "El GABA.",
+                "correct": true
+            },
+            {
+                "text": "El calcio."
+            }
+        ]
+    },
+    {
+        "text": "El potencial de placa terminal se produce en:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las neuronas motoras"
+            },
+            {
+                "text": "Las fibras musculares",
+                "correct": true
+            },
+            {
+                "text": "Las neuronas postsinápticas"
+            },
+            {
+                "text": "Las células ciliadas del aparato vestibular"
+            }
+        ]
+    },
+    {
+        "text": "Si tuviera oportunidad de observar al microscopio electrónico una sinapsis, seguramente se fijaría en una zonas más oscuras, con mucho marcaje, ¿Qué nombre reciben las estructuras que confieren este marcaje tan denso?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Vesículas sinápticas",
+                "correct": true
+            },
+            {
+                "text": "Receptores presinápticos"
+            },
+            {
+                "text": "Receptores postsinápticos"
+            },
+            {
+                "text": "Proteínas transportadoras"
+            }
+        ]
+    },
+    {
+        "text": "En relación con la transmisión de la información nociceptiva sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La estimulación del tracto espinotalámico reduce o elimina el dolor"
+            },
+            {
+                "text": "Todas son ciertas "
+            },
+            {
+                "text": "Las terminaciones nerviosas libres, al activar interneuronas inhibitorias, abren el circuito de control del dolor del asta dorsal de la médula espinal"
+            },
+            {
+                "text": "Desde el núcleo reticular paragigantocelular y el núcleo magno del rafe se envían axones al asta dorsal de la médula espinal para modular la transmisión del dolor",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La bomba de Na+/K+ de los organismos superiores es especialmente importante en el establecimiento de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La permeabilidad de la membrana a los iones K+."
+            },
+            {
+                "text": "Un potencial de acción."
+            },
+            {
+                "text": "La corriente eléctrica a ambos lados de la membrana de los iones K+."
+            },
+            {
+                "text": "El potencial de reposo después de un potencial de acción.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El periodo refractario es el causante de que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No exista retardo en la transmisión nerviosa "
+            },
+            {
+                "text": "El impulso nervioso no pierda intensidad a lo largo de su recorrido por el axón"
+            },
+            {
+                "text": "Los canales de K+ se abran 1 milisegundo después de que lo hayan hecho los de Na+"
+            },
+            {
+                "text": "El impulso nervioso se propague en un solo sentido",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El hecho de que el potencial de acción se desplace desde el cono axónico hacia el terminal axónico y no al revés (desplazamiento anterógrado y no retrógrado), cabe atribuirlo a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La acción de la bomba de sodio/potasio"
+            },
+            {
+                "text": "La inactivación de los canales de sodio",
+                "correct": true
+            },
+            {
+                "text": "La activación de los canales de sodio"
+            },
+            {
+                "text": "La secuencia de apertura de canales dependientes de voltaje que se inicia con los de sodio y sigue con la de potasio"
+            }
+        ]
+    },
+    {
+        "text": "En la fase ascendente del potencial de acción:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La membrana está hiperpolarizada"
+            },
+            {
+                "text": "Se abren canales de Na+ y de K+ dependientes de voltaje",
+                "correct": true
+            },
+            {
+                "text": "El Na+ es repelido por el gradiente electroquímico hacia el exterior celular"
+            },
+            {
+                "text": "La membrana se despolariza por la entrada masiva de K+ al interior celular"
+            }
+        ]
+    },
+    {
+        "text": "Señala la respuesta falsa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una molécula de un neuromodulador que se une a receptores ligados a canales iónicos abre un solo canal",
+                "correct": true
+            },
+            {
+                "text": "Los neuromoduladores son neurotransmisores que activan proteínas G"
+            },
+            {
+                "text": "Los neuromoduladores son neurotransmisores que abren o cerrar canales iónicos indirectamente"
+            },
+            {
+                "text": "Los neuromoduladores son neurotransmisores que actúan sobre neuronas postsinápticas mediante receptores metabotrópicos"
+            }
+        ]
+    },
+    {
+        "text": "Hasta la primera mitad del siglo XX la idea que prevalecía era que la comunicación entre células nerviosas estaba basada:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En señales eléctricas y químicas "
+            },
+            {
+                "text": "Únicamente en señales eléctricas ",
+                "correct": true
+            },
+            {
+                "text": "Fundamentalmente en señales eléctricas "
+            },
+            {
+                "text": "Únicamente en señales químicas "
+            }
+        ]
+    },
+    {
+        "text": "El principio de Dale:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Dice que cada neurona libera un solo tipo de neurotransmisor",
+                "correct": true
+            },
+            {
+                "text": "Dice que en cada neurona pueden coexistir varios neuropéptidos y neurotransmisores"
+            },
+            {
+                "text": "Ambas son ciertas"
+            },
+            {
+                "text": "Ambas son falsas"
+            }
+        ]
+    },
+    {
+        "text": "'Burundanga' es el nombre vulgar que en los ambientes criminales se da a la escopolamina, un antagonista muscarínico que en los años 50 se trató de utilizar también como 'droga de la verdad' por parte de las agencias de inteligencia de algunos países. ¿Dónde actúa esta droga?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "En las sinapsis de cannabinoides"
+            },
+            {
+                "text": "En los receptores nicotínicos"
+            },
+            {
+                "text": "En las sinapsis de opioides"
+            },
+            {
+                "text": "En las sinapsis de acetilcolina",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto al potencial de acción sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sólo se origina si en el cono axónico se supera el umbral de excitación con una despolarización mínima de +55 mV"
+            },
+            {
+                "text": "Consiste en una breve inversión del potencial de membrana hasta alcanzar los -55 mV"
+            },
+            {
+                "text": "La conductancia para el Na+ alcanza su valor máximo al final de la fase de repolarización"
+            },
+            {
+                "text": "La inactivación de los canales de Na+ dependientes de voltaje impide que se genere un nuevo potencial de acción",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las intensidades más altas de los estímulos se codifican por el mecanismo de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Fraccionamiento según el rango o código poblacional",
+                "correct": true
+            },
+            {
+                "text": "Inhibición lateral"
+            },
+            {
+                "text": "Líneas marcadas"
+            },
+            {
+                "text": "Adaptación sensorial"
+            }
+        ]
+    },
+    {
+        "text": "En la Figura se representa:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_04.jpg",
+        "responses": [
+            {
+                "text": "El mecanismo que interviene en la transducción visual cuando el fotorreceptor está en presencia de luz"
+            },
+            {
+                "text": "Los procesos que provocan la despolarización de la membrana de los terminales axónicos de los mecanorreceptores",
+                "correct": true
+            },
+            {
+                "text": "Los cambios de conductancia iónica que ocurren durante la transducción del estímulo nociceptivo mediada por quimiorreceptores"
+            },
+            {
+                "text": "El proceso por el que se abren los canales iónicos de los receptores gustativos"
+            }
+        ]
+    },
+    {
+        "text": "En estado de reposo la membrana neuronal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ mantiene mayor concentración de K<sup>+</sup> y A<sup>-</sup> en el interior celular que en el exterior",
+                "correct": true
+            },
+            {
+                "text": "B/ es más permeable al Na<sup>+</sup> que al CI<sup>-</sup>"
+            },
+            {
+                "text": "C/ es menos permeable al K<sup>+</sup> que al Na<sup>+</sup>"
+            },
+            {
+                "text": "B y C son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "Las catecolaminas y la serotonina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todas las respuestas son falsas"
+            },
+            {
+                "text": "Son hormonas presentes en el sistema neuroendocrino"
+            },
+            {
+                "text": "Son aminas biógenas",
+                "correct": true
+            },
+            {
+                "text": "La mayoría de estos receptores son ionotrópicos"
+            }
+        ]
+    },
+    {
+        "text": "Los cambios en el potencial de membrana producida por la unión de los neurotransmisores a sus receptores provoca:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Apertura de los canales iónicos"
+            },
+            {
+                "text": "Generación de potenciales excitadores postsinápticos"
+            },
+            {
+                "text": "Generación de potenciales inhibidores postsinápticos"
+            },
+            {
+                "text": "Generación de los potenciales postsinápticos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El potencial de acción se propaga:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Regenerando activamente las corrientes despolarizantes de K+ que fluyen por el interior de la membrana"
+            },
+            {
+                "text": "Disminuyendo de magnitud a lo largo de su recorrido"
+            },
+            {
+                "text": "Dejando temporalmente refractaria la zona de la membrana por la que ha pasado",
+                "correct": true
+            },
+            {
+                "text": "En cualquier dirección desde su punto de origen"
+            }
+        ]
+    },
+    {
+        "text": "¿De cuál de los siguientes neurotrasmisores se puede asegurar que siempre es inhibidor?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El GABA",
+                "correct": true
+            },
+            {
+                "text": "La acetilcolina"
+            },
+            {
+                "text": "El glutamato"
+            },
+            {
+                "text": "La noradrenalina"
+            }
+        ]
+    },
+    {
+        "text": "El potencial de acción neuronal se inicia con:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La salida de sodio"
+            },
+            {
+                "text": "La entrada de sodio",
+                "correct": true
+            },
+            {
+                "text": "La salida de potasio"
+            },
+            {
+                "text": "La entrada de potasio"
+            }
+        ]
+    },
+    {
+        "text": "La fuerza que contrarresta la salida de los iones de K+ al exterior celular cuando la membrana neuronal está en estado de reposo es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La fuerza de difusión"
+            },
+            {
+                "text": "La que provoca el mantenimiento de la misma concentración de K+ en el interior que en el exterior celular"
+            },
+            {
+                "text": "La presión electrostática",
+                "correct": true
+            },
+            {
+                "text": "Todas son ciertas "
+            }
+        ]
+    },
+    {
+        "text": "Al observar la Figura podemos decir que: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_05.jpg",
+        "responses": [
+            {
+                "text": "En B el n°l identifica la corriente de Na+ que entra en el terminal de la fibra nerviosa aferente al ser estimulada (presión)",
+                "correct": true
+            },
+            {
+                "text": "En B se ilustra que la energía mecánica aplicada al receptor activa una corriente iónica que dispara necesariamente un potencial de acción en el terminal axónico"
+            },
+            {
+                "text": "En A se ilustra la estructura de un mecanorreceptor sensorial especializado no nervioso"
+            },
+            {
+                "text": "En B se ilustra cómo la presión aplicada provoca un aumento de la permeabilidad al K+ identificada con el n°l"
+            }
+        ]
+    },
+    {
+        "text": "La toxina del veneno de la viuda negra (a-latrotoxina) promueve la descarga masiva de vesículas sinápticas de las neuronas colinérgicas, según esto, su acción inmediata:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Consiste en el bloqueo de los receptores muscarínicos"
+            },
+            {
+                "text": "Tiene lugar a nivel presináptico",
+                "correct": true
+            },
+            {
+                "text": "Es inhibitoria"
+            },
+            {
+                "text": "Es antagonista"
+            }
+        ]
+    },
+    {
+        "text": "¿Cuál de los siguientes acontecimientos ocurren en la fase de repolarización (descendente) de la membrana durante el impulso nervioso?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cierre de los canales de K+"
+            },
+            {
+                "text": "Inició de la apertura de canales de Na+"
+            },
+            {
+                "text": "Salida de K+ a favor de gradiente",
+                "correct": true
+            },
+            {
+                "text": "Entrada masiva de Na+ a favor de gradiente"
+            }
+        ]
+    },
+    {
+        "text": "Si al introducir un microelectrodo en la membrana neuronal se registrase en el osciloscopio un potencial de membrana de 0 mV indicaría que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ la neurona está en estado de reposo"
+            },
+            {
+                "text": "C/ hay una compensación de cargas eléctricas entre el interior y el exterior celular"
+            },
+            {
+                "text": "B/ no hay diferencia de potencial a través de la membrana"
+            },
+            {
+                "text": "D/ B y C son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En la figura (A y B) los números situados en el eje de las ordenadas indican los registros de los potenciales de membrana de dos axones diferentes cuando se aplica en zonas sucesivas de la membrana neuronal un estímulo. Indique a qué tipo de axón corresponden los diferentes registros:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_06.jpg",
+        "responses": [
+            {
+                "text": "3 y 4 de B tanto en axones amielínicos como mielínicos."
+            },
+            {
+                "text": "2 y 4 de B en axones amielínicos."
+            },
+            {
+                "text": "1 y 3 de A y B en axones tanto amielínicos como mielínicos.",
+                "correct": true
+            },
+            {
+                "text": "1, 2 y 3 de A y B en los axones amielínicos."
+            }
+        ]
+    },
+    {
+        "text": "Respecto a la acción de los neurotransmisores sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Algunos son inactivados por enzimas específicas en el espacio sináptico",
+                "correct": true
+            },
+            {
+                "text": "Provocan PIPs si desencadenan la apertura de canales de Na+ o Ca2+"
+            },
+            {
+                "text": "Se unen a los receptores dependientes de voltaje de la membrana postsináptica"
+            },
+            {
+                "text": "Todas las anteriores son falsas"
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales postsinápticos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se regeneran a través de las bombas iónicas"
+            },
+            {
+                "text": "Pierden intensidad a lo largo del tiempo y el espacio",
+                "correct": true
+            },
+            {
+                "text": "Se transmiten de nódulo de Ranvier a nódulo de Ranvier"
+            },
+            {
+                "text": "Tienen una intensidad constante a lo largo de su recorrido"
+            }
+        ]
+    },
+    {
+        "text": "El mecanismo de inhibición recíproca se refiere al hecho de que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Si un grupo de músculos son excitados, sus antagonistas son inhibidos",
+                "correct": true
+            },
+            {
+                "text": "Se producen varios potenciales postsinápticos inhibitorios al mismo tiempo"
+            },
+            {
+                "text": "Se perciben mejor los cambios de intensidad entre dos estímulos cuanto mayor es el contraste entre ellos"
+            },
+            {
+                "text": "Un terminal axónico puede ejercer un efecto inhibitorio sobre un segundo terminal axónico"
+            }
+        ]
+    },
+    {
+        "text": "El bloqueo farmacológico de la bomba de sodio/potasio, por ejemplo con ouabaína, provoca a la larga: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Salida de aniones proteicos al exterior de la neurona"
+            },
+            {
+                "text": "Inactivación de los canales de sodio dependientes de voltaje"
+            },
+            {
+                "text": "Supresión del potencial de reposo",
+                "correct": true
+            },
+            {
+                "text": "Hiperpolarización"
+            }
+        ]
+    },
+    {
+        "text": "¿En qué lugar de una neurona del tipo de la que aparece en la Figura, que está en estado de reposo, aplicaría simultáneamente tres estímulos que produzcan cambios en el potencial de membrana de +8 mV, +12mV y -5 mV si quiere asegurarse de que NO desencadenen un potencial de acción?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_07.jpg",
+        "responses": [
+            {
+                "text": "Los dos primeros en la posición señalada con el número 3 y el tercero en la posición 1 ó 2."
+            },
+            {
+                "text": "Los dos primeros en la posición 1 ó 2 y el tercero en la posición 3.",
+                "correct": true
+            },
+            {
+                "text": "Todos en la proximidad de la posición 3."
+            },
+            {
+                "text": "Todos en la posición 4."
+            }
+        ]
+    },
+    {
+        "text": "Es su función como mensajero neuronal, el óxido nítrico (NO):",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pertenece al grupo de los opioides endógenos "
+            },
+            {
+                "text": "Solo se une a receptores de membrana específicos asociados a proteínas "
+            },
+            {
+                "text": "Es transportado por el fluido extracelular actuando únicamente en neuronas lejanas "
+            },
+            {
+                "text": "Atraviesa las membranas neuronales ",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El que un potencial de acción se propague 'a saltos' (conducción saltatoria) obedece a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ que el axón está cubierto de mielina",
+                "correct": true
+            },
+            {
+                "text": "B/ la naturaleza química de la señal eléctrica"
+            },
+            {
+                "text": "C/ la inactivación de los canales de sodio dependientes de voltaje"
+            },
+            {
+                "text": "D/ B y C son ciertas."
+            }
+        ]
+    },
+    {
+        "text": "En estado de reposo la neurona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "C/ es impermeable a los A'"
+            },
+            {
+                "text": "D/ B y C son ciertas",
+                "correct": true
+            },
+            {
+                "text": "A/ mantiene mayor concentración de Na+ y aniones orgánicos (A') en el exterior que en el interior"
+            },
+            {
+                "text": "B/ es más permeable al K+ que al Na+"
+            }
+        ]
+    },
+    {
+        "text": "La principal corriente iónica que, a través de la membrana neural, existe durante el potencial de reposo se debe al ión:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Sodio "
+            },
+            {
+                "text": "Cloro "
+            },
+            {
+                "text": "Potasio ",
+                "correct": true
+            },
+            {
+                "text": "Calcio "
+            }
+        ]
+    },
+    {
+        "text": "El veneno de la piel de las ranas colombianas del género Phyllobates es el que se usa para envenenar las puntas de las flechas que usan los aborígenes para cazar, su efecto es mantener abiertos los canales de sodio dependientes de voltaje de los axones neuronales, por lo que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es probable que bloquee su inactivación",
+                "correct": true
+            },
+            {
+                "text": "Hace que sea imposible que se logre el valor umbral de despolarización en el cono axónico"
+            },
+            {
+                "text": "Seguramente bloquea su activación"
+            },
+            {
+                "text": "Acelera la recuperación del potencial de reposo"
+            }
+        ]
+    },
+    {
+        "text": "Un potencial postsináptico excitatorio se producirá cuando el neurotrasmisor se una al receptor postsináptico haciendo que: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se abran los canales que permiten la salida de iones potasio del interior celular"
+            },
+            {
+                "text": "Se abran directa o indirectamente canales que permiten la entrada de iones negativos en la neurona postsináptica"
+            },
+            {
+                "text": "La neurona postsináptica se hiperpolarice"
+            },
+            {
+                "text": "Directa o indirectamente se abran canales que permiten la entrada de iones positivos en la neurona postsináptica",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En una neurona en estado de reposo, tres potenciales postsinápticos de +28mV, -10mV y +3mV,  que alcanzan simultáneamente el cono axónico, pueden cambiar o no el potencial de membrana. Si lo cambiaron y suponiendo que fuera necesaria la utilización de una sola bomba de sodio potasio para redistribuir a ambos lados de la membrana 900 iones de sodio y 600 de potasio a fin de restaurar el potencial de reposo ¿cuántas veces actuaría esa bomba?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "1500"
+            },
+            {
+                "text": "300 ",
+                "correct": true
+            },
+            {
+                "text": "450 "
+            },
+            {
+                "text": "Ninguna vez, dado que no cambiará el estado de reposo de la membrana "
+            }
+        ]
+    },
+    {
+        "text": "La tubocurarina es un antagonista de los receptores nicotínicos de la acetilcolina, esto significa que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Impide la degradación de la acetilcolina en las sinapsis donde hay receptores nicotínicos"
+            },
+            {
+                "text": "Provoca una contracción intensa y prolongada de los músculos, ya que estos receptores son los responsables de la contracción muscular"
+            },
+            {
+                "text": "Provoca la apertura de los canales iónicos nicotínicos"
+            },
+            {
+                "text": "Impide la apertura de los canales iónicos asociados a los receptores nicotínicos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El primer efecto de la llegada de un potencial de acción al terminal presináptico es la:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Hiperpolarización de la membrana del terminal"
+            },
+            {
+                "text": "Apertura de los canales de Ca2+ dependientes de voltaje en el terminal",
+                "correct": true
+            },
+            {
+                "text": "Aparición de un PEP en el propio terminal"
+            },
+            {
+                "text": "Fusión de las vesículas sinápticas con la membrana del terminal"
+            }
+        ]
+    },
+    {
+        "text": "En la parte izquierda de la figura se presentan las sinapsis A,B y C, que se establecen sobre una neurona . En la parte derecha de esta figura se observan dos gráficas con el registro de los cambios en el potencial de membrana en el cono axónico de la neurona a lo largo del tiempo. En estas gráficas, las letras y flechas en el eje de abscisas indican las sinapsis que han sido activads en cada momento. Teniendo en cuenta esta información, la sumación temporal estaría representada por el número:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "imagen": "img/psicobiologia/psicobiologia_tema7_08.jpg",
+        "responses": [
+            {
+                "text": "No se representa la sumación temporal en la figura"
+            },
+            {
+                "text": "3"
+            },
+            {
+                "text": "2"
+            },
+            {
+                "text": "1",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El axón gigante que existe en la mayoría de los invertebrados:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es mielínico."
+            },
+            {
+                "text": "Conduce muy lentamente el impulso nervioso."
+            },
+            {
+                "text": "Es amielínico.",
+                "correct": true
+            },
+            {
+                "text": "Lo dicho en A y C es cierto."
+            }
+        ]
+    },
+    {
+        "text": "En la fase ascendente del potencial de acción se produce, entre otras cosas:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Una despolarización todo o nada"
+            },
+            {
+                "text": "Una apertura de los canales de sodio dependientes de voltaje"
+            },
+            {
+                "text": "Una apertura de los canales de potasio dependientes de voltaje"
+            },
+            {
+                "text": "Todas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sobre el potencial de acción puede afirmarse que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lo dicho en Ambas es cierto"
+            },
+            {
+                "text": "No se inicia en el cono axónico"
+            },
+            {
+                "text": "Es una rápida y amplia inversión del potencial de reposo",
+                "correct": true
+            },
+            {
+                "text": "Es el efecto resultante de la hiperpolarización de la neurona"
+            }
+        ]
+    },
+    {
+        "text": "El potencial de acción:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "No sigue la ley del todo o nada"
+            },
+            {
+                "text": "Es un proceso pasivo en el que no están involucrados ni el sodio ni el potasio"
+            },
+            {
+                "text": "Se inicia cuando en el cono axónico se ha alcanzado un cierto nivel de despolarización",
+                "correct": true
+            },
+            {
+                "text": "Es el resultado de la acción de la bomba de sodio/potasio"
+            }
+        ]
+    },
+    {
+        "text": "La inactivación de los canales de Na+ en la zona de la membrana por la que ha pasado un potencial de acción (estado refractario) explica el hecho de que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El potencial de acción se propague en un solo sentido, siempre hacia adelante",
+                "correct": true
+            },
+            {
+                "text": "Se produzca un periodo de despolarización por la entrada de K+"
+            },
+            {
+                "text": "La bomba de sodio-potasio deje de actuar tras el potencial de acción"
+            },
+            {
+                "text": "Todas las opciones anteriores son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "Su familia está muy contenta con que usted sea estudiante de Psicología. En una conversación, usted desliza el término “decusación de una vía nerviosa” hablando de una patología. Todos abren los ojos con asombro. Usted les explica que se refiere a:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La inhibición de la información en esa vía."
+            },
+            {
+                "text": "La destrucción de una vía nerviosa."
+            },
+            {
+                "text": "La disminución de la transmisión nerviosa a lo largo de esa vía."
+            },
+            {
+                "text": "El cruce de la vía nerviosa al otro lado de una línea media imaginaria que divide al SN en dos partes iguales.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La transformación de la energía estimular en actividad eléctrica por parte de los receptores sensoriales recibe el nombre de:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Valor umbral"
+            },
+            {
+                "text": "Sensación"
+            },
+            {
+                "text": "Transcripción"
+            },
+            {
+                "text": "Transducción",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los receptores ionotrópicos se forman:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Directamente e indirectamente"
+            },
+            {
+                "text": "Al unirse un neurotransmisor con receptores asociados a proteínas G"
+            },
+            {
+                "text": "Al unirse un neurotransmisor con canales acoplados",
+                "correct": true
+            },
+            {
+                "text": "Todas son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "La apertura de canales iónicos puede producirse:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al unirse un neurotransmisor con canales acoplados"
+            },
+            {
+                "text": "Al unirse un neurotransmisor con receptores asociados a proteínas G"
+            },
+            {
+                "text": "Directamente o indirectamente"
+            },
+            {
+                "text": "Todas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Se considera que una sustancia psicoactiva es agonista en sentido estricto de un neurotransmisor cuando:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Impide la recaptación del neurotransmisor."
+            },
+            {
+                "text": "Afecta a las mismas sinapsis.",
+                "correct": true
+            },
+            {
+                "text": "Coexiste con el neurotransmisor en los mismos terminales."
+            },
+            {
+                "text": "Ocupa el receptor específico del neurotransmisor imitando su acción."
+            }
+        ]
+    },
+    {
+        "text": "La producción de un nuevo impulso nervioso, una vez generado un potencial de acción, sólo es posible si:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Los canales de K+ aún no están cerrados."
+            },
+            {
+                "text": "Los canales de Na+ están inactivados."
+            },
+            {
+                "text": "Los canales de K+ se han repolarizado."
+            },
+            {
+                "text": "Los canales de Na+ están cerrados.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Sabemos que durante durante el período de despolarización de la neurona en el potencial de acción se abren canales iónicos dependientes de voltaje, ¿a qué ion corresponde el canal dependiente de voltaje que se abre en segundo lugar?:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cloro"
+            },
+            {
+                "text": "Sodio"
+            },
+            {
+                "text": "Calcio"
+            },
+            {
+                "text": "Potasio",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La entrada de calcio en el terminal axónico como consecuencia de la apertura de canales dependientes de voltaje está relacionada directamente con: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "La liberación del neurotransmisor en el terminal axónico ",
+                "correct": true
+            },
+            {
+                "text": "La generación de potenciales postsinápticos excitatorios "
+            },
+            {
+                "text": "La generación de potenciales postsinápticos inhibitorios "
+            },
+            {
+                "text": "La producción de receptores postsinápticos "
+            }
+        ]
+    },
+    {
+        "text": "Una característica anatomofuncional del tronco del encéfalo es que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Las vías descendentes que llegan a la médula espinal intervienen en la modulación sensorial pero no en el control motor."
+            },
+            {
+                "text": "Las conexiones que se establecen entre las neuronas de los núcleos sensoriales y motores desencadenan respuestas reflejas.",
+                "correct": true
+            },
+            {
+                "text": "La sustancia blanca se ubica en el centro rodeada de la sustancia gris."
+            },
+            {
+                "text": "A través de los nervios espinales realiza el control motor de la cabeza."
+            }
+        ]
+    },
+    {
+        "text": "La mayoría de los contactos sináptico en el SN de los mamíferos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son de naturaleza química y, en mayor medida, de naturaleza eléctrica "
+            },
+            {
+                "text": "Son de naturaleza química y, en menor medida, de naturaleza eléctrica ",
+                "correct": true
+            },
+            {
+                "text": "Son de naturaleza química"
+            },
+            {
+                "text": "Son de naturaleza eléctrica "
+            }
+        ]
+    },
+    {
+        "text": "El potencial de acción se inicia con la apertura de los canales dependientes de voltaje de: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Cloro"
+            },
+            {
+                "text": "Calcio "
+            },
+            {
+                "text": "Sodio",
+                "correct": true
+            },
+            {
+                "text": "Potasio "
+            }
+        ]
+    },
+    {
+        "text": "Los barbitúricos provocan la apertura irreversible de los canales de Cloro (Cl~), sabiendo que estos canales son abiertos de modo natural por el GABA, podemos asegurar que los barbitúricos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son antagonistas"
+            },
+            {
+                "text": "Actúan a nivel presináptico"
+            },
+            {
+                "text": "Son agonistas",
+                "correct": true
+            },
+            {
+                "text": "Son excitatorios"
+            }
+        ]
+    },
+    {
+        "text": "El mecanismo de fraccionamiento según el rango se caracteriza porque:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Es el que utilizan las neuronas sensoriales cuando la intensidad de la estimulación es baja"
+            },
+            {
+                "text": "Se denomina también ley de las líneas marcadas"
+            },
+            {
+                "text": "No utiliza la frecuencia de impulsos nerviosos para codificar la intensidad de la estimulación"
+            },
+            {
+                "text": "Diferentes intensidades de estimulación se codifican por neuronas sensoriales con diferentes umbrales de respuesta",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "En las sinapsis químicas, los neurotransmisores:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pueden alterar el potencial de membrana de la neurona postsináptica al acoplarse a receptores metabotrópicos que desencadenan la activación de segundos mensajero.",
+                "correct": true
+            },
+            {
+                "text": "Provocan un potencial postsináptico excitador o inhibidor, dependiendo de su estructura química."
+            },
+            {
+                "text": "Actúan a través de uniones hendidas."
+            },
+            {
+                "text": "Provocan la apertura directa de canales iónicos al unirse a autorreceptores postsinápticos específicos."
+            }
+        ]
+    },
+    {
+        "text": "Los aminoácidos transmisores:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Son los principales neurotransmisores inhibidores del sistema nervioso"
+            },
+            {
+                "text": "Participan en la mayoría de las sinapsis del SN a través de receptores ionotrópicos",
+                "correct": true
+            },
+            {
+                "text": "Uno de esos aminoácidos inhibidores es el aspartato"
+            },
+            {
+                "text": "Uno de esos aminoácidos inhibidores es el glutamato"
+            }
+        ]
+    },
+    {
+        "text": "La bomba de sodio/potasio de la membrana neuronal:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A)transporta iones contra gradiente con gasto de ATP"
+            },
+            {
+                "text": "B) transporta tres iones Na+al medio extracelular y dos iones K+ hacia el interior neuronal"
+            },
+            {
+                "text": "C) genera una diferencia de potencial a través de la membrana"
+            },
+            {
+                "text": "Lo dicho en A y B es cierto",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Los potenciales graduados postsinápticos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Pueden deberse a la apertura de canales dependientes de neurotrasmisor"
+            },
+            {
+                "text": "Pueden deberse a la respuesta de receptores ionotrópicos o metabotrópicos"
+            },
+            {
+                "text": "Pueden ser excitatorios o inhibitorios"
+            },
+            {
+                "text": "Todas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Respecto al potencial de acción sabemos que:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Se origina siempre que en el cono axónico se supera el umbral de excitación con la llegada de una despolarización inicial superior a lOmV"
+            },
+            {
+                "text": "El potencial de membrana se invierte hasta alcanzar los -55Mv"
+            },
+            {
+                "text": "En cualquier fase la conductancia para el K+ es menor que la que existe en estado de reposo"
+            },
+            {
+                "text": "La conductancia para el Na+ alcanza su valor máximo 1 milisegundo después del inicio de la fase de despolarización de la membrana",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La función principal de la hormona somatotropina es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Regular la conducta maternal"
+            },
+            {
+                "text": "Estimular el crecimiento corporal",
+                "correct": true
+            },
+            {
+                "text": "Mantener una concentración adecuada de iones en sangre"
+            },
+            {
+                "text": "La producción de orina"
+            }
+        ]
+    },
+    {
+        "text": "La zona intermedia longitudinal del cerebelo envía eferencias directamente:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Al núcleo vestibular lateral."
+            },
+            {
+                "text": "A la médula espinal."
+            },
+            {
+                "text": "Al tálamo."
+            },
+            {
+                "text": "Al tronco del encéfalo.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Señale una de las causas por las que el potencial de acción se propaga en un solo sentido, siempre hacia delante:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Porque la zona por la que acaba de pasar un impulso nervioso queda en periodo refractario.",
+                "correct": true
+            },
+            {
+                "text": "Por la existencia de la vaina de mielina."
+            },
+            {
+                "text": "Porque disminuye el umbral para que se genere un potencial de acción."
+            },
+            {
+                "text": "Por la inactivación de los canales de calcio en la zona de la membrana por la que ha pasado un potencial de acción."
+            }
+        ]
+    },
+    {
+        "text": "Un potencial postsináptico excitador:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Lleva por si solo a que se desencadene siempre un potencial de acción"
+            },
+            {
+                "text": "Facilita la generación de un potencial de acción",
+                "correct": true
+            },
+            {
+                "text": "Dificulta la generación de un potencial de acción"
+            },
+            {
+                "text": "Se mantiene constante hasta alcanzar el cono axónico"
+            }
+        ]
+    },
+    {
+        "text": "En la fase descendente del potencial de acción:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El K+ es impulsado por el gradiente electroquímico hacia el interior celular"
+            },
+            {
+                "text": "Todas las anteriores son ciertas ."
+            },
+            {
+                "text": "Se inicia la apertura de los canales de K+ dependientes de voltaje"
+            },
+            {
+                "text": "La conductancia para el K+ provoca la hiperpolarización de la membrana",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "Las preparaciones de laboratorio con el nervio óptico de la salamandra han contribuido al avance en el conocimiento de las propiedades de las células gliales. Este tipo de células también se despolariza ante la llegada de ciertos estímulos visuales. Suponga que la respuesta de estas células es similar a la de la neurona y que cuando están en potencial de reposo su valor es de -85mV. En estas condiciones, si les llegan varios impulsos post sinápticos como los descritos en las opciones siguientes, ¿cuál de ellos la despolarizará?",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "-10mV; +5mv; -5mV"
+            },
+            {
+                "text": "-20mV; +5mV; +15mV"
+            },
+            {
+                "text": "+5mV; -10mV; +20mV"
+            },
+            {
+                "text": "+20mV; -5mV; +20mV",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La función de la ramificación central de la neurona asociada a los corpúsculos de Pacini es:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Producir potenciales generadores"
+            },
+            {
+                "text": "Producir potenciales de receptor"
+            },
+            {
+                "text": "Recibir aferencias desde el sistema nervioso central"
+            },
+            {
+                "text": "Transmitir potenciales de acción",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La acetilcolina:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está presente en el sistema nervioso central y en el periférico"
+            },
+            {
+                "text": "Se comporta como neurotransmisor excitador o inhibidor"
+            },
+            {
+                "text": "Se une a receptores colinérgicos que pueden ser de dos tipos: muscarínicos y nicotínicos"
+            },
+            {
+                "text": "Todas las respuestas son ciertas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El cono axónico es al zona de la neurona:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Que tiene la mayor concentración de canales de Na+ dependiente de voltaje"
+            },
+            {
+                "text": "En la que se produce la integración de los potenciales sinápticos "
+            },
+            {
+                "text": "Donde se generan los potenciales de acción "
+            },
+            {
+                "text": "Las otras tres opciones son correctas",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "El sistema cannabinoide endógeno:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Está formado por receptores específicos y ligandos que se unen a estos receptores",
+                "correct": true
+            },
+            {
+                "text": "Los tres tipos de receptores para cannabinoides están situados en el SNC"
+            },
+            {
+                "text": "Hay tres tipos de receptores para cannabinoides"
+            },
+            {
+                "text": "Todas son ciertas"
+            }
+        ]
+    },
+    {
+        "text": "Los péptidos opioides endógenos:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todas son falsas"
+            },
+            {
+                "text": "Se ha descubierto que sus propiedades son simplemente analgésicas"
+            },
+            {
+                "text": "Se pueden unir a cualquier receptor del sistema nervioso central"
+            },
+            {
+                "text": "Existen receptores opioides acoplados a proteínas G que se unen a ligandos endógenos",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La despolarización de la membrana del terminal presináptico de una sinapsis química desencadena:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "El cierre de los canales presinápticos de K+"
+            },
+            {
+                "text": "Los otros tres efectos expuestos son verdaderos"
+            },
+            {
+                "text": "Siempre la despolarización inmediata de la membrana postsináptica"
+            },
+            {
+                "text": "La apertura de los canales presinápticos de Ca2+ dependientes de voltaje y la liberación del neurotransmisor",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "text": "La propiedad de generar señales eléctricas en sus membranas para comunicarse entre sí: ",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Todas son ciertas "
+            },
+            {
+                "text": "Es exclusiva de las neuronas ",
+                "correct": true
+            },
+            {
+                "text": "La tienen las células epiteliales "
+            },
+            {
+                "text": "La tienen las células musculares "
+            }
+        ]
+    },
+    {
+        "text": "Cuando se produce el potencial de acción, los canales del ion potasio:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "Permanecen abiertos durante toda la fase descendente",
+                "correct": true
+            },
+            {
+                "text": "Permanecen cerrados durante toda la fase ascendente"
+            },
+            {
+                "text": "Se abren al inicio de la fase ascendente"
+            },
+            {
+                "text": "Se cierran al principio e la fase descendente "
+            }
+        ]
+    },
+    {
+        "text": "Un mismo neurotransmisor:",
+        "fecha": {
+            "mes": "Tema",
+            "year": "7",
+            "modelo": "7"
+        },
+        "feedback": "",
+        "responses": [
+            {
+                "text": "A/ Sólo puede actuar como tal si se une a receptores con canales iónicos asociados"
+            },
+            {
+                "text": "B/ Puede actuar como neuromodulador si se une a receptores ligados a proteínas G"
+            },
+            {
+                "text": "C/ Siempre actuará como neurotransmisor"
+            },
+            {
+                "text": "D/ A y B son ciertas",
+                "correct": true
+            }
+        ]
+    }
+]
