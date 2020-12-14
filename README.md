@@ -1,5 +1,11 @@
 # Aplicación examenes UNED
 
+# To run frontend:
+
+```
+cd frontend-dexterita 
+```
+
 ## Project setup
 ```
 npm install
